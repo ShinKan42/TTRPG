@@ -5,3 +5,6 @@ docs/.vuepress/.temp
 
 .DS_Store
 *.log
+
+.vercel
+.env*.local
