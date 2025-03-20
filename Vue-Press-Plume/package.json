@@ -26,9 +26,13 @@
     "vuepress-theme-plume": "1.0.0-rc.136"
   },
   "dependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
     "@iconify/json": "^2.2.318",
     "@vercel/analytics": "^1.5.0",
     "@vercel/speed-insights": "^1.2.0",
+    "@vue/cli": "^5.0.8",
+    "@vuepress/cli": "2.0.0-rc.20",
     "mermaid": "^11.5.0"
   }
 }
