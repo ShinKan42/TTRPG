@@ -6,7 +6,7 @@ import { interpolateToCurve } from './utils.js';
  */
 export declare const internalHelpers: {
     common: {
-        getRows: (s?: string | undefined) => string[];
+        getRows: (s?: string) => string[];
         sanitizeText: (text: string, config: import("./config.type.js").MermaidConfig) => string;
         sanitizeTextOrArray: (a: string | string[] | string[][], config: import("./config.type.js").MermaidConfig) => string | string[];
         hasBreaks: (text: string) => boolean;
@@ -14,7 +14,7 @@ export declare const internalHelpers: {
         lineBreakRegex: RegExp;
         removeScript: (txt: string) => string;
         getUrl: (useAbsolute: boolean) => string;
-        evaluate: (val?: string | boolean | undefined) => boolean;
+        evaluate: (val?: string | boolean) => boolean;
         getMax: (...values: number[]) => number;
         getMin: (...values: number[]) => number;
     };
@@ -28,7 +28,7 @@ export declare const internalHelpers: {
     insertMarkers: (elem: any, markerArray: any, type: any, id: any) => void;
     insertNode: typeof insertNode;
     interpolateToCurve: typeof interpolateToCurve;
-    labelHelper: <T extends SVGGraphicsElement>(parent: import("./types.js").D3Selection<T>, node: import("./rendering-util/types.js").Node, _classes?: string | undefined) => Promise<{
+    labelHelper: <T extends SVGGraphicsElement>(parent: import("./types.js").D3Selection<T>, node: import("./rendering-util/types.js").Node, _classes?: string) => Promise<{
         shapeSvg: import("d3-selection").Selection<SVGGElement, unknown, Element | null, unknown>;
         bbox: any;
         halfPadding: number;

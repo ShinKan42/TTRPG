@@ -151,7 +151,7 @@ export declare const drawSimpleText: (elem: SVGElement, textData: {
     text: string;
     x: number;
     y: number;
-    anchor: 'start' | 'middle' | 'end';
+    anchor: "start" | "middle" | "end";
     fontFamily: string;
     fontSize: string | number;
     fontWeight: string | number;
@@ -240,15 +240,15 @@ export declare const parseFontSize: (fontSize: string | number | undefined) => [
 export declare function cleanAndMerge<T>(defaultData: T, data?: Partial<T>): T;
 declare const _default: {
     assignWithDepth: (dst: any, src: any, { depth, clobber }?: {
-        depth?: number | undefined;
-        clobber?: boolean | undefined;
+        depth?: number;
+        clobber?: boolean;
     }) => any;
     wrapLabel: (label: string, maxWidth: number, config: WrapLabelConfig) => string;
     calculateTextHeight: typeof calculateTextHeight;
     calculateTextWidth: typeof calculateTextWidth;
     calculateTextDimensions: (text: string, config: TextDimensionConfig) => TextDimensions;
     cleanAndMerge: typeof cleanAndMerge;
-    detectInit: (text: string, config?: MermaidConfig | undefined) => MermaidConfig | undefined;
+    detectInit: (text: string, config?: MermaidConfig) => MermaidConfig | undefined;
     detectDirective: (text: string, type?: string | RegExp | null) => Directive | Directive[];
     isSubstringInArray: (str: string, arr: string[]) => number;
     interpolateToCurve: typeof interpolateToCurve;
@@ -266,8 +266,8 @@ declare const _default: {
     }) => string;
     runFunc: (functionName: string, ...params: unknown[]) => void;
     entityDecode: (html: string) => string;
-    insertTitle: (parent: any, cssClass: string, titleTopMargin: number, title?: string | undefined) => void;
-    parseFontSize: (fontSize: string | number | undefined) => [(number | undefined)?, (string | undefined)?];
+    insertTitle: (parent: D3Element, cssClass: string, titleTopMargin: number, title?: string) => void;
+    parseFontSize: (fontSize: string | number | undefined) => [number?, string?];
     InitIDGenerator: typeof InitIDGenerator;
 };
 export default _default;
@@ -287,7 +287,7 @@ export declare const getEdgeId: (from: string, to: string, { counter, prefix, su
     counter?: number;
     prefix?: string;
     suffix?: string;
-}) => string;
+}, id?: string) => string;
 /**
  * D3's `selection.attr` method doesn't officially support `undefined`.
  *

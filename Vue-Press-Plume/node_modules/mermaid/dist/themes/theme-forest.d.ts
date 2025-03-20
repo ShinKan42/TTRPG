@@ -86,6 +86,8 @@ declare class Theme {
     cScale10: any;
     cScale11: any;
     scaleLabelColor: any;
+    rowOdd: any;
+    rowEven: any;
     transitionColor: any;
     transitionLabelColor: any;
     stateLabelColor: any;

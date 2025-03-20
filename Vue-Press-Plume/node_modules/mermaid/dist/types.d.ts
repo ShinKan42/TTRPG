@@ -12,6 +12,10 @@ export interface NodeMetaData {
     assigned?: string;
     ticket?: string;
 }
+export interface EdgeMetaData {
+    animation?: 'fast' | 'slow';
+    animate?: boolean;
+}
 import type { MermaidConfig } from './config.type.js';
 export interface Point {
     x: number;

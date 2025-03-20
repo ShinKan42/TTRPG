@@ -95,7 +95,7 @@ export declare const calculateMathMLDimensions: (text: string, config: MermaidCo
  */
 export declare const renderKatex: (text: string, config: MermaidConfig) => Promise<string>;
 declare const _default: {
-    getRows: (s?: string | undefined) => string[];
+    getRows: (s?: string) => string[];
     sanitizeText: (text: string, config: MermaidConfig) => string;
     sanitizeTextOrArray: (a: string | string[] | string[][], config: MermaidConfig) => string | string[];
     hasBreaks: (text: string) => boolean;
@@ -103,7 +103,7 @@ declare const _default: {
     lineBreakRegex: RegExp;
     removeScript: (txt: string) => string;
     getUrl: (useAbsolute: boolean) => string;
-    evaluate: (val?: string | boolean | undefined) => boolean;
+    evaluate: (val?: string | boolean) => boolean;
     getMax: (...values: number[]) => number;
     getMin: (...values: number[]) => number;
 };

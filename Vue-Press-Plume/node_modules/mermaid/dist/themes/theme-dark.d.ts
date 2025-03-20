@@ -72,6 +72,8 @@ declare class Theme {
     archEdgeWidth: string;
     archGroupBorderColor: any;
     archGroupBorderWidth: string;
+    rowOdd: any;
+    rowEven: any;
     labelColor: string;
     errorBkgColor: string;
     errorTextColor: string;

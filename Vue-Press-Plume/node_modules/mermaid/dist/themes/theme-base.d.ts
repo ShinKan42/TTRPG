@@ -69,6 +69,8 @@ declare class Theme {
     taskTextClickableColor: any;
     personBorder: any;
     personBkg: any;
+    rowOdd: any;
+    rowEven: any;
     transitionColor: any;
     transitionLabelColor: any;
     stateLabelColor: any;
