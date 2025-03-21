@@ -10,4 +10,5 @@ const message = ref("Hello World!");
 	<div class="my-custom-content">
 		{{ message }}
 	</div>
+	<CommentService>
 </template>

@@ -16,6 +16,16 @@ export default defineUserConfig({
 
 		hostname: "http://ttrpg.shinkan42.art/",
 
+		// 默认 不启用，仅当 plugins.git 为 true 时生效
+		// 此配置在 plume.config.ts 中无效
+		changelog: true,
+
+		// 默认启用，仅当 plugins.git 为 true 时生效
+		// 此配置在 plume.config.ts 中无效
+		contributors: {
+			mode: "block",
+		},
+
 		encrypt: {
 			rules: {
 				"/pl_ref/": "Natural20",
@@ -50,6 +60,9 @@ export default defineUserConfig({
 			shiki: {
 				languages: ["html", "css", "typescript", "javascript"],
 			},
+
+			// 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
+			git: process.env.NODE_ENV === "production",
 
 			/**
 			 * markdown enhance
@@ -110,6 +123,21 @@ export default defineUserConfig({
 			//   reactionsEnabled: true,
 			//   inputPosition: 'top',
 			// },
+
+			comment: {
+				provider: "Waline", // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+				comment: true,
+				serverURL: "https://comment.shinkan42.art/",
+				dark: "auto",
+				commentSorting: "latest",
+				reaction: "true",
+				//   repo: '',
+				//   repoId: '',
+				//   categoryId: '',
+				//   mapping: 'pathname',
+				//   reactionsEnabled: true,
+				//   inputPosition: 'top',
+			},
 		},
 	}),
 });
