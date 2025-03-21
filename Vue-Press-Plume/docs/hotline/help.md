@@ -60,6 +60,30 @@ icon: "ep:guide"
 
 ```mermaid
 
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'fontFamily': 'verdana',
+      'primaryColor': 'rgba(5, 1, 5, 1)',
+      'primaryTextColor': 'rgba(65, 255, 0, 0.86)',
+      'primaryBorderColor': 'rgba(255, 255, 51, 1)',
+      'lineColor': 'rgba(255, 255, 255, 1)',
+      'secondaryColor': 'rgba(5, 1, 5, 1)',
+      'secondaryBorderColor': 'rgba(255, 255, 51, 1)',
+      'secondaryTextColor':'rgba(65, 255, 0, 0.86)',
+      'tertiaryColor': 'rgba(5, 1, 5, 1)',
+      'tertiaryBorderColor': 'rgba(255, 255, 51, 1)',
+      'tertiaryTextColor':'rgba(65, 255, 0, 0.86)',
+      'noteBkgColor': 'rgba(5, 1, 5, 1)',
+      'noteTextColor': 'rgba(65, 255, 0, 0.86)',
+      'noteBorderColor': 'rgba(255, 255, 51, 1)',
+      'textColor': 'rgba(65, 255, 0, 0.86)',
+      'mainBkg': 'rgba(5, 1, 5, 1)'
+    }
+  }
+}%%
+
 flowchart TD
     A[DND 新手] --> B(新手指南)
     B --> |新手参考：新手常用| C{资料信息}
