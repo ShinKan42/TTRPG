@@ -20,7 +20,7 @@ export default defineThemeConfig({
 	profile: {
 		avatar: "/images/SS-Seal-Filled-Resized.png",
 		name: "神官 ー 信観",
-		description: "跑团热线跑团Log",
+		description: "跑团Log",
 		circle: true,
 		// location: '',
 		// organization: '',

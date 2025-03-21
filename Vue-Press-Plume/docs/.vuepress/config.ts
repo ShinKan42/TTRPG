@@ -18,6 +18,7 @@ export default defineUserConfig({
 
 		encrypt: {
 			rules: {
+				"/pl_ref/": "Natural20",
 				"/gm_ref/": "Natural20",
 			},
 		},
@@ -26,11 +27,11 @@ export default defineUserConfig({
 			"/": {
 				encryptButtonText: "密码：Natural20",
 				encryptPlaceholder: "Natural20",
-				encryptPageText: "备团资料供 GM 使用，存在剧透信息，请确认访问",
+				encryptPageText: "该类页面存在剧透信息，请确认访问",
 			},
 		},
 
-		article: "logs",
+		article: "log",
 
 		autoFrontmatter: {
 			permalink: false,
