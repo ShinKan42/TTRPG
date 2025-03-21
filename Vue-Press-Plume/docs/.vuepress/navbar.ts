@@ -14,8 +14,8 @@ export const navbar = defineNavbarConfig([
 					},
 					{
 						text: "常用骰法",
-						link: "/dnd/guide/quick_rolls",
-						activeMatch: "^/dnd/guide/quick_rolls",
+						link: "/dnd/guide/quick_roll",
+						activeMatch: "^/dnd/guide/quick_roll",
 					},
 					{
 						text: "扮演规则",
@@ -34,28 +34,28 @@ export const navbar = defineNavbarConfig([
 				items: [
 					{
 						text: "职业",
-						link: "/dnd/data/classes/",
-						activeMatch: "^/dnd/data/classes/",
+						link: "/dnd/data/class/",
+						activeMatch: "^/dnd/data/class/",
 					},
 					{
 						text: "法术",
-						link: "/dnd/data/spells/",
-						activeMatch: "^/dnd/data/spells/",
+						link: "/dnd/data/spell/",
+						activeMatch: "^/dnd/data/spell/",
 					},
 					{
 						text: "种族",
-						link: "/dnd/data/races/",
-						activeMatch: "^/dnd/data/races/",
+						link: "/dnd/data/race/",
+						activeMatch: "^/dnd/data/race/",
 					},
 					{
 						text: "背景",
-						link: "/dnd/data/origins/",
-						activeMatch: "^/dnd/data/origins/",
+						link: "/dnd/data/origin/",
+						activeMatch: "^/dnd/data/origin/",
 					},
 					{
 						text: "装备",
-						link: "/dnd/data/feats/",
-						activeMatch: "^/dnd/data/equipments/",
+						link: "/dnd/data/feat/",
+						activeMatch: "^/dnd/data/equipment/",
 					},
 				],
 			},
@@ -64,13 +64,13 @@ export const navbar = defineNavbarConfig([
 				items: [
 					{
 						text: "ACG角色",
-						link: "/dnd/ref/acg_characters/",
-						activeMatch: "^/dnd/ref/acg_characters/",
+						link: "/dnd/ref/acg_character/",
+						activeMatch: "^/dnd/ref/acg_character/",
 					},
 					{
 						text: "参考链接",
-						link: "/dnd/ref/links",
-						activeMatch: "^/dnd/ref/links",
+						link: "/dnd/ref/link",
+						activeMatch: "^/dnd/ref/link",
 					},
 					{
 						text: "神官村规",
@@ -109,14 +109,8 @@ export const navbar = defineNavbarConfig([
 			{
 				text: "总览列表",
 				icon: "solar:pin-list-bold",
-				link: "/modules/index",
-				activeMatch: "^/modules/index",
-			},
-			{
-				text: "游玩资料",
-				icon: "game-icons:target-poster",
-				link: "/modules/booklet/index",
-				activeMatch: "^/modules/booklet/",
+				link: "/module/index",
+				activeMatch: "^/module/index",
 			},
 			{
 				text: "长度分类",
@@ -125,20 +119,20 @@ export const navbar = defineNavbarConfig([
 					{
 						text: "短团",
 						icon: "icon-park-solid:one-key",
-						link: "/modules/scale/short/index",
-						activeMatch: "^/modules/scale/short/",
+						link: "/module/scale/short/index",
+						activeMatch: "^/module/scale/short/",
 					},
 					{
 						text: "中团",
 						icon: "icon-park-solid:three-key",
-						link: "/modules/scale/medium/index",
-						activeMatch: "^/modules/scale/medium/",
+						link: "/module/scale/medium/index",
+						activeMatch: "^/module/scale/medium/",
 					},
 					{
 						text: "长团",
 						icon: "icon-park-solid:five-key",
-						link: "/modules/scale/long/index",
-						activeMatch: "^/modules/scale/long/",
+						link: "/module/scale/long/index",
+						activeMatch: "^/module/scale/long/",
 					},
 				],
 			},
@@ -149,20 +143,20 @@ export const navbar = defineNavbarConfig([
 					{
 						text: "DND",
 						icon: "simple-icons:dungeonsanddragons",
-						link: "/modules/rules/dnd/index",
-						activeMatch: "^/modules/rules/dnd",
+						link: "/module/rules/dnd/index",
+						activeMatch: "^/module/rule/dnd",
 					},
 					{
 						text: "赛博朋克",
 						icon: "arcticons:cyberpunk-red-companion",
-						link: "/modules/rules/cyberpunk/index",
-						activeMatch: "^/modules/rules/cyberpunk/",
+						link: "/module/rules/cyberpunk/index",
+						activeMatch: "^/modules/rule/cyberpunk/",
 					},
 					{
 						text: "降世神通",
 						icon: "akar-icons:air",
-						link: "/modules/rules/avatar/index",
-						activeMatch: "^/modules/rules/avatar/",
+						link: "/module/rules/avatar/index",
+						activeMatch: "^/module/rule/avatar/",
 					},
 				],
 			},
@@ -172,7 +166,42 @@ export const navbar = defineNavbarConfig([
 	{ text: "Log", link: "/logs/", activeMatch: "^/logs/" },
 
 	{
-		text: "备团资料",
+		text: "玩家手册",
+		items: [
+			{
+				text: "总览列表",
+				icon: "solar:pin-list-bold",
+				link: "/pl_ref/index",
+				activeMatch: "^/pl_ref/index",
+			},
+			{
+				text: "规则分类",
+				icon: "game-icons:rule-book",
+				items: [
+					{
+						text: "DND",
+						icon: "simple-icons:dungeonsanddragons",
+						link: "/pl_ref/rule/dnd/index",
+						activeMatch: "^/pl_ref/rule/dnd",
+					},
+					{
+						text: "赛博朋克",
+						icon: "arcticons:cyberpunk-red-companion",
+						link: "/pl_ref/rule/cyberpunk/index",
+						activeMatch: "^/pl_ref/rule/cyberpunk/",
+					},
+					{
+						text: "降世神通",
+						icon: "akar-icons:air",
+						link: "/pl_ref/rule/avatar/index",
+						activeMatch: "^/pl_ref/rule/avatar/",
+					},
+				],
+			},
+		],
+	},
+	{
+		text: "主持资料",
 		items: [
 			{
 				text: "总览列表",
@@ -187,14 +216,14 @@ export const navbar = defineNavbarConfig([
 					{
 						text: "DND",
 						icon: "simple-icons:dungeonsanddragons",
-						link: "/gm_refs/rules/dnd/index",
-						activeMatch: "^/gm_refs/rules/dnd",
+						link: "/gm_ref/rules/dnd/index",
+						activeMatch: "^/gm_ref/rules/dnd",
 					},
 					{
 						text: "赛博朋克",
 						icon: "arcticons:cyberpunk-red-companion",
-						link: "/gm_refs/rules/cyberpunk/index",
-						activeMatch: "^/gm_refs/rules/cyberpunk/",
+						link: "/gm_ref/rules/cyberpunk/index",
+						activeMatch: "^/gm_ref/rules/cyberpunk/",
 					},
 					{
 						text: "降世神通",

@@ -1,12 +1,12 @@
 import { defineNoteConfig } from "vuepress-theme-plume";
 
-export const GM_Ref = defineNoteConfig({
-	link: "/gm_ref/",
-	dir: "gm_ref",
+export const PL_Ref = defineNoteConfig({
+	link: "/pl_ref/",
+	dir: "pl_ref",
 	sidebar: [
 		{
-			text: "主持资料",
-			icon: "material-symbols:lock-outline",
+			text: "玩家手册",
+			icon: "fluent:style-guide-24-regular",
 			collapsed: false,
 			items: [
 				"index",
