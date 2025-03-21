@@ -1,4 +1,5 @@
 import { defineClientConfig } from "vuepress/client";
+
 // import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
 // import CustomComponent from './theme/components/Custom.vue'
 

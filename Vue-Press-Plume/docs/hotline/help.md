@@ -65,21 +65,20 @@ icon: "ep:guide"
     'theme': 'base',
     'themeVariables': {
       'fontFamily': 'verdana',
-      'primaryColor': 'rgba(5, 1, 5, 1)',
-      'primaryTextColor': 'rgba(65, 255, 0, 0.86)',
-      'primaryBorderColor': 'rgba(255, 255, 51, 1)',
-      'lineColor': 'rgba(255, 255, 255, 1)',
-      'secondaryColor': 'rgba(5, 1, 5, 1)',
-      'secondaryBorderColor': 'rgba(255, 255, 51, 1)',
-      'secondaryTextColor':'rgba(65, 255, 0, 0.86)',
-      'tertiaryColor': 'rgba(5, 1, 5, 1)',
-      'tertiaryBorderColor': 'rgba(255, 255, 51, 1)',
-      'tertiaryTextColor':'rgba(65, 255, 0, 0.86)',
-      'noteBkgColor': 'rgba(5, 1, 5, 1)',
-      'noteTextColor': 'rgba(65, 255, 0, 0.86)',
-      'noteBorderColor': 'rgba(255, 255, 51, 1)',
-      'textColor': 'rgba(65, 255, 0, 0.86)',
-      'mainBkg': 'rgba(5, 1, 5, 1)'
+      'mainBkg': 'rgba(255, 230, 240, 0.2)',
+      'textColor': 'rgba(255, 230, 240, 1)',
+      'primaryColor': 'rgba(160, 128, 200, 1)',
+      'primaryTextColor': 'rgba(160, 128, 200, 1)',
+      'primaryBorderColor': 'rgba(132, 76, 138, 1)',
+      'lineColor': 'rgba(255, 0, 0, 1)',
+      'secondaryColor': 'rgba(160, 160, 160, 0)',
+      'secondaryBorderColor': 'rgba(240, 40, 60, 1)',
+      'secondaryTextColor':'rgba(240, 40, 60, 1)',
+      'tertiaryColor': 'rgba(20, 14, 26, 1)',
+      'tertiaryBorderColor': 'rgba(132, 76, 138, 1)',
+      'noteBkgColor': 'rgba(255, 230, 240, 0.2)',
+      'noteTextColor': 'rgba(160, 128, 200, 1)',
+      'noteBorderColor': 'rgba(255, 77, 109, 1)'
     }
   }
 }%%
@@ -136,21 +135,20 @@ flowchart TD
     'theme': 'base',
     'themeVariables': {
       'fontFamily': 'verdana',
-      'primaryColor': 'rgba(5, 1, 5, 1)',
-      'primaryTextColor': 'rgba(65, 255, 0, 0.86)',
-      'primaryBorderColor': 'rgba(255, 255, 51, 1)',
-      'lineColor': 'rgba(255, 255, 255, 1)',
-      'secondaryColor': 'rgba(5, 1, 5, 1)',
-      'secondaryBorderColor': 'rgba(255, 255, 51, 1)',
-      'secondaryTextColor':'rgba(65, 255, 0, 0.86)',
-      'tertiaryColor': 'rgba(5, 1, 5, 1)',
-      'tertiaryBorderColor': 'rgba(255, 255, 51, 1)',
-      'tertiaryTextColor':'rgba(65, 255, 0, 0.86)',
-      'noteBkgColor': 'rgba(5, 1, 5, 1)',
-      'noteTextColor': 'rgba(65, 255, 0, 0.86)',
-      'noteBorderColor': 'rgba(255, 255, 51, 1)',
-      'textColor': 'rgba(65, 255, 0, 0.86)',
-      'mainBkg': 'rgba(5, 1, 5, 1)'
+      'mainBkg': 'rgba(255, 230, 240, 0.2)',
+      'textColor': 'rgba(255, 230, 240, 1)',
+      'primaryColor': 'rgba(160, 128, 200, 1)',
+      'primaryTextColor': 'rgba(160, 128, 200, 1)',
+      'primaryBorderColor': 'rgba(132, 76, 138, 1)',
+      'lineColor': 'rgba(255, 0, 0, 1)',
+      'secondaryColor': 'rgba(160, 160, 160, 0)',
+      'secondaryBorderColor': 'rgba(240, 40, 60, 1)',
+      'secondaryTextColor':'rgba(240, 40, 60, 1)',
+      'tertiaryColor': 'rgba(20, 14, 26, 1)',
+      'tertiaryBorderColor': 'rgba(132, 76, 138, 1)',
+      'noteBkgColor': 'rgba(255, 230, 240, 0.2)',
+      'noteTextColor': 'rgba(160, 128, 200, 1)',
+      'noteBorderColor': 'rgba(255, 77, 109, 1)'
     }
   }
 }%%

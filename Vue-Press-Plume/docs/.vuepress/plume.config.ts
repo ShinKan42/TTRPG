@@ -9,7 +9,7 @@ import { NotesConfig } from "./index/index";
 export default defineThemeConfig({
 	logo: "/images/SS-Seal-Filled-Resized.png",
 	// your git repo url
-	docsRepo: "",
+	docsRepo: "https://github.com/ShinKan42/TTRPG.git",
 	docsDir: "docs",
 
 	appearance: true,
