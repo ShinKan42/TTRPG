@@ -5,6 +5,8 @@ import { defineClientConfig } from "vuepress/client";
 // import './theme/styles/custom.css'
 // import './custom.css'
 
+import "./custom.css";
+
 export default defineClientConfig({
 	enhance({ app }) {
 		// app.component('RepoCard', RepoCard)
