@@ -27,12 +27,12 @@ export default defineThemeConfig({
 	},
 
 	blog: {
-		link: "/logs/",
-		include: ["logs/**/*.md"],
+		link: "/log/",
+		include: ["log/**/*.md"],
 		exclude: [".vuepress/", "node_modules/"],
-		tagsLink: "/logs/tags/",
-		archivesLink: "/logs/archives/",
-		categoriesLink: "/logs/categories/",
+		tagsLink: "/log/tags/",
+		archivesLink: "/log/archives/",
+		categoriesLink: "/log/categories/",
 	},
 
 	social: [],
