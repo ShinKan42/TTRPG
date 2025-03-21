@@ -24,6 +24,7 @@ export default defineUserConfig({
 		// 此配置在 plume.config.ts 中无效
 		contributors: {
 			mode: "block",
+			avatarPattern: "'https://github.com/:username.png'",
 		},
 
 		encrypt: {
