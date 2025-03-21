@@ -1,7 +1,7 @@
 import { defineNoteConfig } from "vuepress-theme-plume";
 
 export const HotLine = defineNoteConfig({
-	link: "/guides/hotline/",
+	link: "/hotline/",
 	dir: "hotline",
 	sidebar: [
 		{

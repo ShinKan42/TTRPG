@@ -14,21 +14,21 @@ export default defineUserConfig({
 		// 添加您的部署域名
 		// hostname: 'https://your_site_url',
 
+		hostname: "http://ttrpg.shinkan42.art/",
+
 		encrypt: {
-    		rules: {
-        '/modules/': 'Natural20',
-      	}
-		}
+			rules: {
+				"/gm_ref/": "Natural20",
+			},
+		},
 
 		locales: {
-     	 '/': {
-        encryptButtonText: '密码：Natural20',
-        encryptPlaceholder: 'Natural20',
-        encryptPageText: '模组资料供 GM 使用，存在剧透信息，请确认访问',
-     	 }
-    	}
-
-		hostname: "http://ttrpg.shinkan42.art/",
+			"/": {
+				encryptButtonText: "密码：Natural20",
+				encryptPlaceholder: "Natural20",
+				encryptPageText: "备团资料供 GM 使用，存在剧透信息，请确认访问",
+			},
+		},
 
 		article: "logs",
 
