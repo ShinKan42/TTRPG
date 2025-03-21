@@ -163,7 +163,7 @@ export const navbar = defineNavbarConfig([
 		],
 	},
 
-	{ text: "Log", link: "/logs/", activeMatch: "^/logs/" },
+	{ text: "Log", link: "/log/", activeMatch: "^/log/" },
 
 	{
 		text: "玩家手册",
