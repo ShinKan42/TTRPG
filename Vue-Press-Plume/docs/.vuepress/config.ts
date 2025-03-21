@@ -16,6 +16,20 @@ export default defineUserConfig({
 
 		hostname: "http://ttrpg.shinkan42.art/",
 
+		encrypt: {
+			rules: {
+				"/gm_ref/": "Natural20",
+			},
+		},
+
+		locales: {
+			"/": {
+				encryptButtonText: "密码：Natural20",
+				encryptPlaceholder: "Natural20",
+				encryptPageText: "备团资料供 GM 使用，存在剧透信息，请确认访问",
+			},
+		},
+
 		article: "logs",
 
 		autoFrontmatter: {
