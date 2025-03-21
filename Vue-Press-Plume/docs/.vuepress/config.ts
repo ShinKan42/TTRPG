@@ -20,13 +20,13 @@ export default defineUserConfig({
       	}
 		}
 
-		    locales: {
-      '/': {
+		locales: {
+     	 '/': {
         encryptButtonText: '密码：Natural20',
         encryptPlaceholder: 'Natural20',
         encryptPageText: '模组资料供 GM 使用，存在剧透信息，请确认访问',
-      }
-    }
+     	 }
+    	}
 
 		hostname: "http://ttrpg.shinkan42.art/",
 
