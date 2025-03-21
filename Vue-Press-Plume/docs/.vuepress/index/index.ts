@@ -1,18 +1,9 @@
-import { defineNotesConfig } from 'vuepress-theme-plume'
-import { DND } from './dnd'
-import { Cyberpunk } from './cyberpunk'
-import { Avatar } from './avatar'
-import { Modules } from './modules'
-import { HotLine } from './HotLine'
+import { defineNotesConfig } from "vuepress-theme-plume";
+import { Gm_Ref } from "./gm_ref";
+import { Guide } from "./guide";
 
 export const NotesConfig = defineNotesConfig({
-  dir: 'guides',
-  link: '/guides/',
-  notes: [
-    DND,
-    Cyberpunk,
-    Avatar,
-    Modules,
-    HotLine
-  ],
-})
+	dir: "",
+	link: "",
+	notes: [Guide, Gm_Ref],
+});
