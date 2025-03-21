@@ -2,10 +2,10 @@
 	"name": "ShinKan42_TTRPG",
 	"type": "module",
 	"version": "0.1.2",
-	"description": "",
+	"description": "ShinKan42_TTRPG",
 	"packageManager": "pnpm@9.12.3",
 	"author": "ShinKan42 <ShinKan@foxmail.com>",
-	"license": "AGPL 3.0",
+	"license": "AGPL-3.0-only",
 	"engines": {
 		"node": "^18.20.0 || >=20.0.0"
 	},
