@@ -1,7 +1,7 @@
 import { defineNoteConfig } from "vuepress-theme-plume";
 
 export const Modules = defineNoteConfig({
-	link: "/guides/modules/",
+	link: "/modules/",
 	dir: "modules",
 	sidebar: [
 		{
