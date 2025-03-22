@@ -104,37 +104,13 @@ export const navbar = defineNavbarConfig([
 		],
 	},
 	{
-		text: "模组浏览",
+		text: "模组一览",
 		items: [
 			{
 				text: "总览列表",
 				icon: "solar:pin-list-bold",
 				link: "/module/index",
 				activeMatch: "^/module/index",
-			},
-			{
-				text: "长度分类",
-				icon: "mdi:clock",
-				items: [
-					{
-						text: "短团",
-						icon: "icon-park-solid:one-key",
-						link: "/module/scale/short/index",
-						activeMatch: "^/module/scale/short/",
-					},
-					{
-						text: "中团",
-						icon: "icon-park-solid:three-key",
-						link: "/module/scale/medium/index",
-						activeMatch: "^/module/scale/medium/",
-					},
-					{
-						text: "长团",
-						icon: "icon-park-solid:five-key",
-						link: "/module/scale/long/index",
-						activeMatch: "^/module/scale/long/",
-					},
-				],
 			},
 			{
 				text: "规则分类",
@@ -160,10 +136,34 @@ export const navbar = defineNavbarConfig([
 					},
 				],
 			},
+			{
+				text: "长度分类",
+				icon: "mdi:clock",
+				items: [
+					{
+						text: "短团",
+						icon: "icon-park-solid:one-key",
+						link: "/module/scale/short/index",
+						activeMatch: "^/module/scale/short/",
+					},
+					{
+						text: "中团",
+						icon: "icon-park-solid:three-key",
+						link: "/module/scale/medium/index",
+						activeMatch: "^/module/scale/medium/",
+					},
+					{
+						text: "长团",
+						icon: "icon-park-solid:five-key",
+						link: "/module/scale/long/index",
+						activeMatch: "^/module/scale/long/",
+					},
+				],
+			},
 		],
 	},
 
-	{ text: "Log", link: "/log/", activeMatch: "^/log/" },
+	{ text: "团记", link: "/log/", activeMatch: "^/log/" },
 
 	{
 		text: "玩家手册",
