@@ -18,7 +18,13 @@ export default defineUserConfig({
 
 		// 默认 不启用，仅当 plugins.git 为 true 时生效
 		// 此配置在 plume.config.ts 中无效
-		changelog: true,
+		changelog: {
+			maxCount: 10,
+			repoUrl: "https://github.com/ShinKan42/TTRPG",
+			commitUrlPattern: ":repo/commit/:hash",
+			issueUrlPattern: ":repo/issues/:issue",
+			tagUrlPattern: ":repo/releases/tag/:tag",
+		},
 
 		// 默认启用，仅当 plugins.git 为 true 时生效
 		// 此配置在 plume.config.ts 中无效
@@ -48,7 +54,7 @@ export default defineUserConfig({
 			},
 
 			// 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
-			git: process.env.NODE_ENV === "production",
+			git: true,
 
 			/**
 			 * markdown enhance
