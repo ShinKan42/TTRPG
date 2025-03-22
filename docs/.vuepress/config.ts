@@ -25,21 +25,12 @@ export default defineUserConfig({
 		contributors: {
 			mode: "block",
 			avatarPattern: "https://github.com/:username.png",
-		},
-
-		encrypt: {
-			rules: {
-				"/pl_ref/": "Natural20",
-				"/gm_ref/": "Natural20",
-			},
-		},
-
-		locales: {
-			"/": {
-				encryptButtonText: "密码：Natural20",
-				encryptPlaceholder: "Natural20",
-				encryptPageText: "该类页面存在剧透信息，请确认访问",
-			},
+			info: [
+				{
+					username: ":username", // github username
+					url: "https://github.com/github.com/:username",
+				},
+			],
 		},
 
 		article: "log",
@@ -63,7 +54,7 @@ export default defineUserConfig({
 			},
 
 			// 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
-			git: process.env.NODE_ENV === "production",
+			git: process.env.NODE_ENV === "true",
 
 			/**
 			 * markdown enhance
