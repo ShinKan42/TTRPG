@@ -3,7 +3,7 @@ import { defineUserConfig } from "vuepress";
 import { plumeTheme } from "vuepress-theme-plume";
 
 export default defineUserConfig({
-	base: "/TTRPG/",
+	base: "/",
 	lang: "zh-CN",
 	title: "HOT # 跑团热线 # LINE",
 	description: "TTRPG HOT LINE",
