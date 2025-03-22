@@ -60,29 +60,6 @@ icon: "ep:guide"
 
 ```mermaid
 
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'fontFamily': 'verdana',
-      'mainBkg': 'rgba(255, 230, 240, 0.2)',
-      'textColor': 'rgba(255, 230, 240, 1)',
-      'primaryColor': 'rgba(160, 128, 200, 1)',
-      'primaryTextColor': 'rgba(160, 128, 200, 1)',
-      'primaryBorderColor': 'rgba(132, 76, 138, 1)',
-      'lineColor': 'rgba(255, 0, 0, 1)',
-      'secondaryColor': 'rgba(160, 160, 160, 0)',
-      'secondaryBorderColor': 'rgba(240, 40, 60, 1)',
-      'secondaryTextColor':'rgba(240, 40, 60, 1)',
-      'tertiaryColor': 'rgba(20, 14, 26, 1)',
-      'tertiaryBorderColor': 'rgba(132, 76, 138, 1)',
-      'noteBkgColor': 'rgba(255, 230, 240, 0.2)',
-      'noteTextColor': 'rgba(160, 128, 200, 1)',
-      'noteBorderColor': 'rgba(255, 77, 109, 1)'
-    }
-  }
-}%%
-
 flowchart TD
     A[DND 新手] --> B(新手指南)
     B --> |新手参考：新手常用| C{资料信息}
@@ -129,29 +106,6 @@ flowchart TD
 - 模组`规则要素`（规则、游玩相关的，如特殊机制、敌人预期等）
 
 ```mermaid
-
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'fontFamily': 'verdana',
-      'mainBkg': 'rgba(255, 230, 240, 0.2)',
-      'textColor': 'rgba(255, 230, 240, 1)',
-      'primaryColor': 'rgba(160, 128, 200, 1)',
-      'primaryTextColor': 'rgba(160, 128, 200, 1)',
-      'primaryBorderColor': 'rgba(132, 76, 138, 1)',
-      'lineColor': 'rgba(255, 0, 0, 1)',
-      'secondaryColor': 'rgba(160, 160, 160, 0)',
-      'secondaryBorderColor': 'rgba(240, 40, 60, 1)',
-      'secondaryTextColor':'rgba(240, 40, 60, 1)',
-      'tertiaryColor': 'rgba(20, 14, 26, 1)',
-      'tertiaryBorderColor': 'rgba(132, 76, 138, 1)',
-      'noteBkgColor': 'rgba(255, 230, 240, 0.2)',
-      'noteTextColor': 'rgba(160, 128, 200, 1)',
-      'noteBorderColor': 'rgba(255, 77, 109, 1)'
-    }
-  }
-}%%
 
 flowchart TD
     A1[模组区] --> B1[按长度分类] --> C1{短} & C2{中} & C3{长} -->D1(模组列表)
