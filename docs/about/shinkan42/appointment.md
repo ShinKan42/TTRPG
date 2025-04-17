@@ -1,12 +1,14 @@
 ---
 title: 约团方式
 createTime: 2024/11/03 06:27:51
-icon: 'streamline:group-meeting-call-solid'
+icon: "streamline:group-meeting-call-solid"
 ---
 
 ## 线下团
 
 服务商：`跑团热线`（海珠同福西）/`本源`（天河石牌桥）
+
+::: center
 
 主要联系方式：`微信`
 
@@ -14,13 +16,15 @@ icon: 'streamline:group-meeting-call-solid'
 
 `本源` 微信号：`paotuanx`
 
+:::
+
 其中，除`海珠/天河`位置区别
 
 `跑团热线`因为自家店面，有更多的物料支持`村规`与`弹性方案`，推荐使用此途径
 
 `本源`则提供了`更多的其他主持与规则`
 
------
+---
 
 ### 1.微信咨询/约团
 
@@ -30,7 +34,7 @@ icon: 'streamline:group-meeting-call-solid'
 
 告知`人数、时间`，预约开团。
 
------
+---
 
 ### 2.确定开团细节
 
@@ -42,7 +46,7 @@ icon: 'streamline:group-meeting-call-solid'
 
 可提前想象`设计角色`，`无需拘束`，主持解决`数据与规则`，玩家解决`创意与选择`。
 
------
+---
 
 ### 3.到点开团
 
@@ -50,7 +54,7 @@ icon: 'streamline:group-meeting-call-solid'
 
 结团后`群内收款`。
 
------
+---
 
 ## 线上团
 

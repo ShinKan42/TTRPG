@@ -1,8 +1,8 @@
 import { defineNoteConfig } from "vuepress-theme-plume";
 
 export const DND = defineNoteConfig({
-	link: "/dnd/",
-	dir: "dnd",
+	link: "/rule/dnd/",
+	dir: "rule/dnd",
 	sidebar: [
 		{
 			text: "新手指南",
@@ -10,6 +10,7 @@ export const DND = defineNoteConfig({
 			prefix: "guide",
 			collapsed: false,
 			items: [
+				"preparation",
 				"character_creation",
 				"quick_roll",
 				"roleplay",

@@ -35,8 +35,15 @@ export default defineThemeConfig({
 		categoriesLink: "/log/categories/",
 	},
 
-	social: [],
-	navbarSocialInclude: [],
+	social: [
+		{ icon: "discord", link: "https://discord.gg/XjMpb3vnWc" },
+		{
+			icon: "qq",
+			link: "https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=nx_4229SqWdXI7OlkLyYZ650CRSNR_ZL&authKey=xstDI%2B4b%2FEhRFeqcR6y9eBd0A3rMdxqLd0hyw37R%2FMiFdxfHX1fhQBg6r9iuHcNC&noverify=0&group_code=547345976",
+		},
+		{ icon: "bilibili", link: "https://space.bilibili.com/5524867" },
+	],
+	navbarSocialInclude: ["bilibili", "qq", "discord"],
 
 	notes: NotesConfig,
 	navbar: navbar,

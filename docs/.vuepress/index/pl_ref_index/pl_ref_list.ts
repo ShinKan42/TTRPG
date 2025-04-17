@@ -1,8 +1,8 @@
 import { defineNoteConfig } from "vuepress-theme-plume";
 
-export const PL_Ref = defineNoteConfig({
-	link: "/pl_ref/",
-	dir: "pl_ref",
+export const PL_Ref_List = defineNoteConfig({
+	link: "/module/pl_ref/",
+	dir: "module/pl_ref",
 	sidebar: [
 		{
 			text: "玩家手册",

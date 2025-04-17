@@ -3,10 +3,10 @@ import { defineUserConfig } from "vuepress";
 import { plumeTheme } from "vuepress-theme-plume";
 
 export default defineUserConfig({
-	base: "/",
-	lang: "zh-CN",
-	title: "HOT # 跑团热线 # LINE",
-	description: "TTRPG HOT LINE",
+	base: '/',
+	lang: 'zh-CN',
+	title: 'HOT # 跑团热线 # LINE',
+	description: 'TTRPG HOT LINE',
 
 	bundler: viteBundler(),
 
@@ -14,26 +14,26 @@ export default defineUserConfig({
 		// 添加您的部署域名
 		// hostname: 'https://your_site_url',
 
-		hostname: "http://ttrpg.shinkan42.art/",
+		hostname: 'http://ttrpg.shinkan42.art/',
 
 		// 默认 不启用，仅当 plugins.git 为 true 时生效
 		// 此配置在 plume.config.ts 中无效
 		changelog: {
 			maxCount: 10,
-			repoUrl: "https://github.com/ShinKan42/TTRPG",
-			commitUrlPattern: ":repo/commit/:hash",
-			issueUrlPattern: ":repo/issues/:issue",
-			tagUrlPattern: ":repo/releases/tag/:tag",
+			repoUrl: 'https://github.com/ShinKan42/TTRPG',
+			commitUrlPattern: ':repo/commit/:hash',
+			issueUrlPattern: ':repo/issues/:issue',
+			tagUrlPattern: ':repo/releases/tag/:tag',
 		},
 
 		// 默认启用，仅当 plugins.git 为 true 时生效
 		// 此配置在 plume.config.ts 中无效
 		contributors: {
-			mode: "block",
-			avatarPattern: "https://github.com/:username.png",
+			mode: 'block',
+			avatarPattern: 'https://github.com/:username.png',
 		},
 
-		article: "log",
+		article: 'log',
 
 		autoFrontmatter: {
 			permalink: false,
@@ -50,7 +50,7 @@ export default defineUserConfig({
 			// },
 
 			shiki: {
-				languages: ["html", "css", "typescript", "javascript"],
+				languages: ['html', 'css', 'typescript', 'javascript'],
 			},
 
 			// 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
@@ -99,6 +99,7 @@ export default defineUserConfig({
 				icons: true,
 				imageSize: true,
 				fileTree: true,
+				abbr: true,
 			},
 
 			/**
@@ -117,12 +118,12 @@ export default defineUserConfig({
 			// },
 
 			comment: {
-				provider: "Waline", // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+				provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
 				comment: true,
-				serverURL: "https://comment.shinkan42.art/",
-				dark: "auto",
-				commentSorting: "latest",
-				reaction: "true",
+				serverURL: 'https://comment.shinkan42.art/',
+				dark: 'auto',
+				commentSorting: 'latest',
+				reaction: 'true',
 				//   repo: '',
 				//   repoId: '',
 				//   categoryId: '',

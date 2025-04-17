@@ -1,8 +1,8 @@
 import { defineNoteConfig } from "vuepress-theme-plume";
 
 export const Modules = defineNoteConfig({
-	link: "/module/",
-	dir: "module",
+	link: "/module/menu/",
+	dir: "module/menu",
 	sidebar: [
 		{
 			text: "模组浏览",
@@ -20,7 +20,7 @@ export const Modules = defineNoteConfig({
 				{
 					text: "规则分类",
 					icon: "mdi:clock",
-					prefix: "rules",
+					prefix: "rule",
 					collapsed: false,
 					items: ["dnd/index", "cyberpunk/index", "avatar/index"],
 				},

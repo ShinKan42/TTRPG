@@ -1,29 +1,51 @@
 ---
 title: 联系方式 & 关于
 createTime: 2024/11/03 05:30:36
-icon: 'material-symbols:mail-outline'
+icon: "material-symbols:mail-outline"
+---
+
+::: center
+
+## 快速跳转
+
+[关于神官-ー-信観](#关于神官-ー-信観)
+
+[关于跑团热线](#关于跑团热线)
+
+[关于本源](#关于本源)
+
+[关于网站](#关于网站)
+
+:::
+
 ---
 
 ## 关于神官 ー 信観
 
+> ::: center
 > I am who I am.
+> :::
 
 ### 注意事项
+
 请注意以下联系方式的各种应用条件，勿过度互相打扰。
 
+---
 
 <LinkCard title="/// PLACEHOLDER ///" href="https://qm.qq.com/q/foVPamHWfK">
 
 ### QQ
 
-- QQ号：`763636202`
+- QQ 号：`763636202`
 - QQ ID：`ShinKan42`
 
-QQ是我日常、国内社交使用的软件。
+QQ 是我日常、国内社交使用的软件。
 
 欢迎以`私人、交友、讨论`的名义、以此途径添加。
 
 </LinkCard>
+
+---
 
 <Card title="/// PLACEHOLDER ///">
 
@@ -37,6 +59,8 @@ QQ是我日常、国内社交使用的软件。
 
 </Card>
 
+---
+
 <LinkCard title="/// PLACEHOLDER ///" href="https://discord.gg/tbgra5cAtH">
 
 ### Discord
@@ -47,12 +71,17 @@ Discord 是我`日常、国外社交`使用的软件，`兼顾工作`。
 
 </LinkCard>
 
+---
+
 ## 关于跑团热线
 
 `跑团热线`是我目前对跑团所有项目的总称，包括但不限于：
+
 - 跑团辅助文档网站（此网站）
 - 线下跑团运作地点
 - 线上跑团社群（QQ 与 微信群）
+
+---
 
 ## 关于本源
 
@@ -68,6 +97,8 @@ Discord 是我`日常、国外社交`使用的软件，`兼顾工作`。
 
 - 微信号：`paotuanx`
 
+---
+
 ## 关于网站
 
 本网站是基于 [Vue-Press](https://ecosystem.vuejs.press/zh/) 技术建立的；
@@ -75,4 +106,3 @@ Discord 是我`日常、国外社交`使用的软件，`兼顾工作`。
 主题由 [Plume](https://theme-plume.vuejs.press/) 提供；
 
 感谢技术支持。
-
