@@ -1,11 +1,11 @@
 import { defineNoteConfig } from "vuepress-theme-plume";
 
-export const PL_Ref_Index = defineNoteConfig({
-	link: "/module/pl_ref_index/",
-	dir: "module/pl_ref_index",
+export const Lite = defineNoteConfig({
+	link: "/rule/lite/",
+	dir: "rule/lite",
 	sidebar: [
 		{
-			text: "玩家手册",
+			text: "轻量规则",
 			icon: "fluent:style-guide-24-regular",
 			collapsed: false,
 			items: [

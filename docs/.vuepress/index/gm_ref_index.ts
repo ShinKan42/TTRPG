@@ -1,8 +1,8 @@
 import { defineNoteConfig } from "vuepress-theme-plume";
 
 export const GM_Ref_Index = defineNoteConfig({
-	link: "/gm_ref_index/",
-	dir: "gm_ref_index",
+	link: "/module/gm_ref_index/",
+	dir: "module/gm_ref_index",
 	sidebar: [
 		{
 			text: "主持资料",
