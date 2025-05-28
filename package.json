@@ -1,39 +1,43 @@
 {
-	"name": "ShinKan42_TTRPG",
-	"type": "module",
-	"version": "0.1.2",
-	"description": "ShinKan42_TTRPG",
-	"packageManager": "pnpm@9.12.3",
-	"author": "ShinKan42 <ShinKan@foxmail.com>",
-	"license": "AGPL-3.0-only",
-	"engines": {
-		"node": "^18.20.0 || >=20.0.0"
-	},
-	"scripts": {
-		"docs:dev": "vuepress dev docs",
-		"docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
-		"docs:build": "vuepress build docs --clean-cache --clean-temp",
-		"docs:preview": "http-server docs/.vuepress/dist",
-		"vp-update": "pnpm dlx vp-update"
-	},
-	"devDependencies": {
-		"@vuepress/bundler-vite": "2.0.0-rc.20",
-		"http-server": "^14.1.1",
-		"sass-embedded": "^1.86.0",
-		"typescript": "^5.8.2",
-		"vue": "^3.5.13",
-		"vuepress": "2.0.0-rc.20",
-		"vuepress-theme-plume": "1.0.0-rc.136"
-	},
-	"dependencies": {
-		"@babel/core": "^7.26.10",
-		"@babel/preset-env": "^7.26.9",
-		"@iconify/json": "^2.2.318",
-		"@vercel/analytics": "^1.5.0",
-		"@vercel/speed-insights": "^1.2.0",
-		"@vue/cli": "^5.0.8",
-		"@vuepress/cli": "2.0.0-rc.20",
-		"@waline/client": "^3.5.6",
-		"mermaid": "^11.5.0"
-	}
+  "name": "ShinKan42_TTRPG",
+  "type": "module",
+  "version": "0.1.2",
+  "description": "ShinKan42_TTRPG",
+  "packageManager": "pnpm@9.12.3",
+  "author": "ShinKan42 <ShinKan@foxmail.com>",
+  "license": "AGPL-3.0-only",
+  "engines": {
+    "node": "^18.20.0 || >=20.0.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.23",
+    "http-server": "^14.1.1",
+    "sass-embedded": "^1.89.0",
+    "typescript": "^5.8.3",
+    "vue": "^3.5.15",
+    "vuepress": "2.0.0-rc.23",
+    "vuepress-theme-plume": "1.0.0-rc.152"
+  },
+  "dependencies": {
+    "@babel/core": "^7.27.3",
+    "@babel/preset-env": "^7.27.2",
+    "@iconify/json": "^2.2.342",
+    "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
+    "@vue/cli": "^5.0.8",
+    "@waline/client": "^3.5.7",
+    "chart.js": "^4.4.9",
+    "flowchart.ts": "^3.0.1",
+    "markmap-lib": "^0.18.11",
+    "markmap-toolbar": "^0.18.10",
+    "markmap-view": "^0.18.10",
+    "mermaid": "^11.6.0"
+  }
 }
