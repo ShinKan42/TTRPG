@@ -1,12 +1,14 @@
-import { viteBundler } from "@vuepress/bundler-vite";
-import { defineUserConfig } from "vuepress";
-import { plumeTheme } from "vuepress-theme-plume";
+import { viteBundler } from '@vuepress/bundler-vite';
+import { defineUserConfig } from 'vuepress';
+import { plumeTheme } from 'vuepress-theme-plume';
+
+const isProd = process.env.NODE_ENV === 'production';
 
 export default defineUserConfig({
 	base: '/',
 	lang: 'zh-CN',
-	title: 'HOT # 跑团热线 # LINE',
-	description: 'TTRPG HOT LINE',
+	title: '# Role Initiative #',
+	description: 'by ShinKan42',
 
 	bundler: viteBundler(),
 
@@ -50,11 +52,14 @@ export default defineUserConfig({
 			// },
 
 			shiki: {
-				languages: ['html', 'css', 'typescript', 'javascript'],
+				langs: ['html', 'css', 'typescript', 'javascript'],
 			},
 
 			// 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
 			git: true,
+
+			// ReplaceAssetsPluginOptions
+			replaceAssets: isProd ? 'https://bed.shinkan42.art' : false,
 
 			/**
 			 * markdown enhance
@@ -63,10 +68,11 @@ export default defineUserConfig({
 			markdownEnhance: {
 				demo: true,
 				//   include: true,
-				//   chart: true,
+				chartjs: true,
+				markmap: true,
 				//   echarts: true,
 				mermaid: true,
-				//   flowchart: true,
+				flowchart: true,
 			},
 
 			/**
@@ -100,6 +106,9 @@ export default defineUserConfig({
 				imageSize: true,
 				fileTree: true,
 				abbr: true,
+				annotation: true,
+				field: true,
+				timeline: true,
 			},
 
 			/**
