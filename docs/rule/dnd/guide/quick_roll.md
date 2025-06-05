@@ -56,6 +56,8 @@ D20 = 1 为 大失败，视为自动失败
 
 ## **角色数据**
 
+`熟练加值` Proficiency Bonus = <Badge type="warning" text="角色等级 / 4 + 1" />
+
 ### **生命**
 
 `生命` Health Point = <Badge type="warning" text="角色等级 * 体质调整值" /> + <Badge type="danger" text="职业生命骰 * 职业等级" />
@@ -150,14 +152,14 @@ D20 = 1 为 大失败，视为自动失败
 
 `非法术伤害` Damage = <Badge type="danger" text="伤害骰 + （属性调整值）" />（情况复杂，请当下判断）
 
-`坠落` Fall = <Badge type="danger" text="1d6" /> / 10ft （Max = <Badge type="danger" text="20d6" /> ）
+`坠落` Fall = <Badge type="danger" text="1d6" /> / 10 ft （Max = <Badge type="danger" text="20d6" /> ）
 
 `燃烧` Burn = <Badge type="danger" text="1d4" /> / 回合
 
 ### **跳高 / 跳远**
 
-`跳高` High Jump = 10ft 助跑 <Badge type="warning" text="3 + 力量属性值" />ft；无助跑减半；伸手触及 + (1.5 x 身高)
+`跳高` High Jump = 10 ft 助跑 <Badge type="warning" text="3 + 力量属性值" /> ft；无助跑减半；伸手触及 + (1.5 x 身高)
 
-`跳远`Long Jump = 10ft 助跑 <Badge type="warning" text="力量属性值" />ft；无助跑减半
+`跳远`Long Jump = 10 ft 助跑 <Badge type="warning" text="力量属性值" /> ft；无助跑减半
 
 :::
