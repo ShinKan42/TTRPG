@@ -10,7 +10,7 @@ icon: "material-symbols:mail-outline"
 
 [关于神官-ー-信観](#关于神官-ー-信観)
 
-[关于Role Initiative](#关于role-initiative)
+[关于 Role Initiative](#关于role-initiative)
 
 [关于网站](#关于网站)
 
@@ -77,7 +77,7 @@ Discord 是我`日常、国外社交`使用的软件，`兼顾工作`
 
 ::: center
 
-## **关于Role Initiative**
+## **关于 Role Initiative**
 
 :::
 
