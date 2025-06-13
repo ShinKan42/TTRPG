@@ -14,21 +14,59 @@ icon: 'qlementine-icons:money-16'
 
 ### **本页**
 
+:::
+
+:::: card-grid
+
+::: card
+
+::: center
+
+#### **主动行为**
+
 [技能与工具](#技能与工具)
 
 [休整](#休整)
 
 [制作](#制作)
 
+:::
+
+::: card
+
+::: center
+
+#### **贸易往来**
+
 [物资](#物资)
 
 [服务](#服务)
+
+::::
+
+::: card
+
+::: center
+
+#### **特殊情景**
 
 [旅行](#旅行)
 
 [追逐](#追逐)
 
+:::
+
+::: center
+
 ### **下一步**
+
+:::
+
+:::: card-grid
+
+::: card
+
+::: center
 
 #### **扮演资料**
 
@@ -37,6 +75,12 @@ icon: 'qlementine-icons:money-16'
 [工具](../data/tool)
 
 [据点](../data/bastion)
+
+:::
+
+::: card
+
+::: center
 
 #### **战斗资料**
 
@@ -48,8 +92,7 @@ icon: 'qlementine-icons:money-16'
 
 [装备](./item)
 
-:::
-
+::::
 
 -----
 
