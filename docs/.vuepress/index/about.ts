@@ -24,7 +24,7 @@ export const About = defineNoteConfig({
 					icon: 'ic:baseline-download',
 					prefix: 'ref',
 					collapsed: false,
-					items: ['bgm'],
+					items: ['bgm', 'sfx'],
 				},
 			],
 		},
