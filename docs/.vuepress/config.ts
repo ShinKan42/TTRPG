@@ -109,6 +109,7 @@ export default defineUserConfig({
 				annotation: true,
 				field: true,
 				timeline: true,
+				artPlayer: true,
 			},
 
 			/**
