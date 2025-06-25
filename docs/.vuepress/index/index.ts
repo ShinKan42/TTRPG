@@ -16,6 +16,10 @@ import { GM_Ref_List } from './gm_ref_index/gm_ref_list';
 
 import { About } from './about';
 
+import { PL_Kamen_Rider } from './pl_ref_index/kamen_rider';
+
+import { GM_Kamen_Rider } from './gm_ref_index/kamen_rider';
+
 export const NotesConfig = defineNotesConfig({
 	notes: [
 		COC,
@@ -29,5 +33,7 @@ export const NotesConfig = defineNotesConfig({
 		PL_Ref_List,
 		GM_Ref_List,
 		About,
+		PL_Kamen_Rider,
+		GM_Kamen_Rider,
 	],
 });
