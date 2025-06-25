@@ -327,6 +327,12 @@ export const navbar = defineNavbarConfig([
 						link: '/about/ref/bgm',
 						activeMatch: '^/about/ref/bgm',
 					},
+					{
+						text: '实用音效',
+						icon: 'subway:sound',
+						link: '/about/ref/sfx',
+						activeMatch: '^/about/ref/sfx',
+					},
 				],
 			},
 		],
