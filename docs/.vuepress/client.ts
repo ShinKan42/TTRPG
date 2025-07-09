@@ -1,3 +1,5 @@
+import { defineMermaidConfig } from '@vuepress/plugin-markdown-chart/client';
+
 import { defineClientConfig } from 'vuepress/client';
 
 // import RepoCard from 'vuepress-theme-plume/features/RepoCard.vue'
@@ -8,7 +10,6 @@ import { defineClientConfig } from 'vuepress/client';
 
 import './custom.css';
 
-/*
 defineMermaidConfig({
 	// 在此设置 mermaid 选项
 	theme: 'base',
@@ -30,7 +31,6 @@ defineMermaidConfig({
 		noteBorderColor: 'rgba(255, 77, 109, 1)',
 	},
 });
-*/
 
 export default defineClientConfig({
 	enhance({ app }) {
