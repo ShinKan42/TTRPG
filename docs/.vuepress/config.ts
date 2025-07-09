@@ -41,6 +41,16 @@ export default defineUserConfig({
 			permalink: false,
 		},
 
+		markdown: {
+			demo: true,
+			//   include: true,
+			chartjs: true,
+			markmap: true,
+			//   echarts: true,
+			mermaid: true,
+			flowchart: true,
+		},
+
 		plugins: {
 			/**
 			 * Shiki 代码高亮
@@ -60,20 +70,6 @@ export default defineUserConfig({
 
 			// ReplaceAssetsPluginOptions
 			replaceAssets: isProd ? 'https://bed.shinkan42.art' : false,
-
-			/**
-			 * markdown enhance
-			 * @see https://theme-plume.vuejs.press/config/plugins/markdown-enhance/
-			 */
-			markdownEnhance: {
-				demo: true,
-				//   include: true,
-				chartjs: true,
-				markmap: true,
-				//   echarts: true,
-				mermaid: true,
-				flowchart: true,
-			},
 
 			/**
 			 *  markdown power
