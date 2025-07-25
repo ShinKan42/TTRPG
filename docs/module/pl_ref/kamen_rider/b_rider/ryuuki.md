@@ -66,6 +66,14 @@ icon: "mdi:mirror"
 
 ---
 
+> ::: center
+> *戦えろう*
+> :::
+
+@[bilibili](BV1MU4y1k7JU)
+
+---
+
 ::: note NPC 数据
 
 请注意 NPC 数值并非完全按照规则建卡，有根据角色特点加强的成分
@@ -1247,3 +1255,11 @@ icon: "mdi:mirror"
 @[bilibili time="15"](BV1Hm411o7AH)
 
 :::
+
+---
+
+> ::: center
+> *戦えろう*
+> :::
+
+@[bilibili](BV1MU4y1k7JU)
