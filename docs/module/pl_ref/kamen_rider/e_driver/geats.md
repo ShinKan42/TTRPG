@@ -20,7 +20,7 @@ icon: "game-icons:belt-armor"
 
 [欲望驱动器](#欲望驱动器-1)
 
-[升级带扣](#升级带扣)
+[升级带扣-跳转目录](#升级带扣)
 
 :::
 
@@ -307,9 +307,9 @@ icon: "game-icons:belt-armor"
 
 :::: card
 
-#### **武器带扣**
-
 ::: center
+
+#### **武器带扣**
 
 随机抽取时，由 <Badge type="danger" text="2d12" /> 决定：
 
