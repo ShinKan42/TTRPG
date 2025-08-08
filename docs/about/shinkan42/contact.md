@@ -43,7 +43,7 @@ icon: "material-symbols:mail-outline"
 
 QQ 是我日常、国内社交使用的软件
 
-欢迎以`私人、交友、讨论`的名义、以此途径添加
+欢迎以==私人、交友、讨论==的名义、以此途径添加
 
 </LinkCard>
 
@@ -57,19 +57,23 @@ QQ 是我日常、国内社交使用的软件
 
 微信是我约团、工作使用的软件
 
-`约团、工作、公务、商务`等事项请以此途径添加
+==约团、工作、公务、商务==等事项请以此途径添加
 
 </Card>
 
 ---
 
-<LinkCard title="/// PLACEHOLDER ///" href="https://discord.gg/tbgra5cAtH">
+<LinkCard title="/// PLACEHOLDER ///" href="https://discord.gg/mxsEscteEX">
 
 ### **Discord**
 
 - Discord 号：`shinkan42`
 
-Discord 是我`日常、国外社交`使用的软件，`兼顾工作`
+Discord 是我==日常、国外社交==使用的软件，==兼顾工作==
+
+Discord 也将用于==网团==，其频道结构更适合分类
+
+==频道可通过点击卡片跳转加入==
 
 </LinkCard>
 
@@ -84,8 +88,7 @@ Discord 是我`日常、国外社交`使用的软件，`兼顾工作`
 `Role Initiative`是我目前对跑团所有项目的总称，包括但不限于：
 
 - 跑团辅助文档网站（此网站）
-- 线下跑团运作地点
-- 线上跑团社群（QQ 与 微信群）
+- 线下、线上跑团运作
 
 ---
 
