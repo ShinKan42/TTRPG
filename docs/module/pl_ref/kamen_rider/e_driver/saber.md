@@ -530,7 +530,7 @@ icon: "lets-icons:book-light"
 
 ::: center
 
-### ****
+### **刃王剑十圣刃**
 
 :::
 
