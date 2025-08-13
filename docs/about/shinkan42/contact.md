@@ -4,9 +4,11 @@ createTime: 2024/11/03 05:30:36
 icon: "material-symbols:mail-outline"
 ---
 
-::: center
+:::: center
 
 ## **快速跳转**
+
+::: card
 
 [关于神官-ー-信観](#关于神官-ー-信観)
 
@@ -15,6 +17,8 @@ icon: "material-symbols:mail-outline"
 [关于网站](#关于网站)
 
 :::
+
+::::
 
 ---
 

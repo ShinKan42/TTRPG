@@ -4,23 +4,27 @@ createTime: 2025/06/26 04:14:42
 icon: "game-icons:belt-armor"
 ---
 
-::: center
+::::: center
 
 ## **快速跳转**
 
-### **本页**
+**上一步**
 
-#### **选手指南**
+::: card
+
+[假面骑士总规则](../general)
 
 :::
+
+**本页**
+
+**选手指南**
 
 :::: card-grid
 
 ::: card
 
-::: center
-
-##### **规则变动**
+**规则变动**
 
 [人类形态](#人类形态)
 
@@ -30,9 +34,7 @@ icon: "game-icons:belt-armor"
 
 ::: card
 
-::: center
-
-##### **实用知识**
+**实用知识**
 
 [核心 ID](#核心-id)
 
@@ -46,15 +48,9 @@ icon: "game-icons:belt-armor"
 
 ::::
 
-::: center
-
-#### **赛制章程**
-
-:::
+**赛制章程**
 
 ::: card
-
-::: center
 
 [个人赛](#个人赛)
 
@@ -66,9 +62,7 @@ icon: "game-icons:belt-armor"
 
 ::: card
 
-::: center
-
-##### **场次设定**
+**场次设定**
 
 [任务目标](#任务目标)
 
@@ -76,12 +70,9 @@ icon: "game-icons:belt-armor"
 
 :::
 
-
 ::: card
 
-::: center
-
-##### **特殊援助**
+**特殊援助**
 
 [秘密任务](#秘密任务)
 
@@ -91,21 +82,17 @@ icon: "game-icons:belt-armor"
 
 ::::
 
-::: center
-
-### **下一步**
-
-:::
+**下一步**
 
 ::: card
 
-::: center
-
-#### **子规则**
+**子规则**
 
 [龙骑 - Me World](./1_dgp/ryuuki_meworld)
 
 :::
+
+:::::
 
 ---
 

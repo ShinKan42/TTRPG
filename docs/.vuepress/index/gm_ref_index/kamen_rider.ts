@@ -24,7 +24,7 @@ export const GM_Kamen_Rider = defineNoteConfig({
 			icon: 'game-icons:belt',
 			prefix: 'e_driver',
 			collapsed: false,
-			items: ['ryuuki', 'geats', 'saber'],
+			items: ['ryuuki', 'saber', 'geats'],
 		},
 		{
 			text: '骑士',

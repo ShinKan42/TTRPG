@@ -4,21 +4,17 @@ createTime: 2025/06/13 06:01:39
 icon: "ph:belt-fill"
 ---
 
-::: center
+::::: center
 
 ## **快速跳转**
 
-### **本页**
-
-:::
+**本页**
 
 :::: card-grid
 
 ::: card
 
-::: center
-
-#### **玩家人物**
+**玩家人物**
 
 [人类形态](#人类形态)
 
@@ -28,9 +24,7 @@ icon: "ph:belt-fill"
 
 ::: card
 
-::: center
-
-#### **其他人物**
+**其他人物**
 
 [骑士](#骑士)
 
@@ -44,17 +38,11 @@ icon: "ph:belt-fill"
 
 ::::
 
-::: center
-
-### **下一步**
-
-:::
+**下一步**
 
 ::: card
 
-::: center
-
-#### **框架规则**
+**框架规则**
 
 [欲望大奖赛](./1_dgp/desire_grand_prix)
 
@@ -62,14 +50,13 @@ icon: "ph:belt-fill"
 
 ::: card
 
-::: center
-
-#### **欲望大奖赛**
-
+**欲望大奖赛**
 
 [龙骑 - Me World](./1_dgp/ryuuki_meworld)
 
 :::
+
+:::::
 
 ---
 

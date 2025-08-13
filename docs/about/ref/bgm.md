@@ -4,11 +4,13 @@ createTime: 2025/04/17 20:00:39
 icon: "icon-park-solid:music-one"
 ---
 
-::: center
+:::: center
 
 ## **快速跳转**
 
-### **本页**
+**本页**
+
+::: card
 
 [下载链接](#下载链接)
 
@@ -18,11 +20,13 @@ icon: "icon-park-solid:music-one"
 
 :::
 
+::::
+
 ---
 
 ::: center
 
-## **下载链接**
+**下载链接**
 
 :::
 
