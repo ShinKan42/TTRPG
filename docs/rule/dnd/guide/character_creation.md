@@ -4,21 +4,21 @@ createTime: 2024/12/19 23:57:18
 icon: "tabler:arrow-guide"
 ---
 
-::: center
+::::: center
 
 ## **快速跳转**
 
-### **上一步**
-
-[团前准备](./preparation)
-
-### **本页**
-
-:::
+**上一步**
 
 ::: card
 
-::: center
+[团前准备](./preparation)
+
+:::
+
+**本页**
+
+::: card
 
 [流程](#流程)
 
@@ -28,9 +28,7 @@ icon: "tabler:arrow-guide"
 
 ::: card
 
-::: center
-
-#### **主题定调**
+**主题定调**
 
 [背景](#背景)
 
@@ -44,9 +42,7 @@ icon: "tabler:arrow-guide"
 
 ::: card
 
-::: center
-
-#### **游戏数据**
+**游戏数据**
 
 [属性](#属性)
 
@@ -64,9 +60,7 @@ icon: "tabler:arrow-guide"
 
 ::: card
 
-::: center
-
-#### **扮演细节**
+**扮演细节**
 
 [工具](#工具)
 
@@ -80,9 +74,9 @@ icon: "tabler:arrow-guide"
 
 ::::
 
-::: center
+**下一步**
 
-### **下一步**
+::: card
 
 [常用骰法](./quick_roll)
 

@@ -4,21 +4,17 @@ createTime: 2025/03/10 02:14:37
 icon: "hugeicons:glasses"
 ---
 
-::: center
+::::: center
 
 ## **快速跳转**
 
-### **本页**
-
-:::
+**本页**
 
 :::: card-grid
 
 ::: card
 
-::: center
-
-#### **游戏外准备**
+**游戏外准备**
 
 [跑团准备](#跑团准备)
 
@@ -28,9 +24,7 @@ icon: "hugeicons:glasses"
 
 ::: card
 
-::: center
-
-#### **游戏内准备**
+**游戏内准备**
 
 [战役准备](#战役准备)
 
@@ -42,19 +36,19 @@ icon: "hugeicons:glasses"
 
 ::: card
 
-::: center
-
 [总结](#总结)
 
 :::
 
-::: center
+**下一步**
 
-### **下一步**
+::: card
 
 [车卡指南](./character_creation)
 
 :::
+
+:::::
 
 ---
 

@@ -19,7 +19,6 @@ export const navbar = defineNavbarConfig([
 		items: [
 			{
 				text: '新手指南',
-				icon: 'icon-park-twotone:guide-board',
 				items: [
 					{
 						text: '团前准备',
@@ -151,56 +150,36 @@ export const navbar = defineNavbarConfig([
 		text: '模组一览',
 		items: [
 			{
-				text: '总览列表',
-				icon: 'solar:pin-list-bold',
-				link: '/module/menu/index',
-				activeMatch: '^/module/menu/index',
-			},
-			{
-				text: '规则分类',
-				icon: 'game-icons:rule-book',
+				text: '可选模组',
 				items: [
 					{
-						text: 'DND',
-						icon: 'simple-icons:dungeonsanddragons',
-						link: '/module/menu/rule/dnd/index',
-						activeMatch: '^/module/menu/rule/dnd',
+						text: '模组-神官',
+						icon: 'mingcute:pray-line',
+						link: '/module/menu/shinkan/module',
+						activeMatch: '^/module/menu/shinkan/module',
 					},
+				],
+			},
+
+			{
+				text: '游玩查阅-参考信息',
+				items: [
 					{
-						text: '赛博朋克',
-						icon: 'arcticons:cyberpunk-red-companion',
-						link: '/module/menu/rule/cyberpunk/index',
-						activeMatch: '^/module/menu/rule/cyberpunk/',
-					},
-					{
-						text: '降世神通',
-						icon: 'akar-icons:air',
-						link: '/module/menu/rule/avatar/index',
-						activeMatch: '^/module/menu/rule/avatar/',
+						text: '玩家手册目录-神官',
+						icon: 'typcn:th-list-outline',
+						link: '/module/menu/shinkan/pl_ref_index',
+						activeMatch: '^/module/menu/shinkan/pl_ref_index',
 					},
 				],
 			},
 			{
-				text: '长度分类',
-				icon: 'mdi:clock',
+				text: '主持资料-剧透慎点！',
 				items: [
 					{
-						text: '短团',
-						icon: 'icon-park-solid:one-key',
-						link: '/module/menu/scale/short/index',
-						activeMatch: '^/module/menu/scale/short/',
-					},
-					{
-						text: '中团',
-						icon: 'icon-park-solid:three-key',
-						link: '/module/menu/scale/medium/index',
-						activeMatch: '^/module/menu/scale/medium/',
-					},
-					{
-						text: '长团',
-						icon: 'icon-park-solid:five-key',
-						link: '/module/menu/scale/long/index',
-						activeMatch: '^/module/menu/scale/long/',
+						text: '备团手册目录-神官',
+						icon: 'jam:triangle-danger-f',
+						link: '/module/menu/shinkan/gm_ref_index',
+						activeMatch: '^/module/menu/shinkan/gm_ref_index',
 					},
 				],
 			},
@@ -208,77 +187,6 @@ export const navbar = defineNavbarConfig([
 	},
 
 	//{ text: '团记', link: '/log/', activeMatch: '^/log/' },
-
-	{
-		text: '玩家手册',
-		items: [
-			{
-				text: '总览列表',
-				icon: 'solar:pin-list-bold',
-				link: '/module/pl_ref/index',
-				activeMatch: '^/module/pl_ref/index',
-			},
-			{
-				text: '规则分类',
-				icon: 'game-icons:rule-book',
-				items: [
-					{
-						text: 'DND',
-						icon: 'simple-icons:dungeonsanddragons',
-						link: '/module/pl_ref/rule/dnd/index',
-						activeMatch: '^/module/pl_ref/rule/dnd',
-					},
-					{
-						text: '赛博朋克',
-						icon: 'arcticons:cyberpunk-red-companion',
-						link: '/module/pl_ref/rule/cyberpunk/index',
-						activeMatch: '^/module/pl_ref/rule/cyberpunk/',
-					},
-					{
-						text: '降世神通',
-						icon: 'akar-icons:air',
-						link: '/module/pl_ref/rule/avatar/index',
-						activeMatch: '^/module/pl_ref/rule/avatar/',
-					},
-				],
-			},
-		],
-	},
-	{
-		text: '主持资料',
-		items: [
-			{
-				text: '总览列表',
-				icon: 'solar:pin-list-bold',
-				link: '/module/gm_ref/index',
-				activeMatch: '^/module/gm_ref/index',
-			},
-			{
-				text: '规则分类',
-				icon: 'game-icons:rule-book',
-				items: [
-					{
-						text: 'DND',
-						icon: 'simple-icons:dungeonsanddragons',
-						link: '/module/gm_ref/rules/dnd/index',
-						activeMatch: '^/module/gm_ref/rules/dnd',
-					},
-					{
-						text: '赛博朋克',
-						icon: 'arcticons:cyberpunk-red-companion',
-						link: '/module/gm_ref/rules/cyberpunk/index',
-						activeMatch: '^/module/gm_ref/rules/cyberpunk/',
-					},
-					{
-						text: '降世神通',
-						icon: 'akar-icons:air',
-						link: '/module/gm_ref/rules/avatar/index',
-						activeMatch: '^/module/gm_ref/rules/avatar/',
-					},
-				],
-			},
-		],
-	},
 
 	{
 		text: '关于',

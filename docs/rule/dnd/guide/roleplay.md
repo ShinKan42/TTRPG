@@ -4,25 +4,25 @@ createTime: 2024/12/20 01:24:51
 icon: 'qlementine-icons:money-16'
 ---
 
-::: center
+::::: center
 
 ## **快速跳转**
 
-### **上一步**
+**上一步**
+
+::: card
 
 [常用骰法](./quick_roll)
 
-### **本页**
-
 :::
+
+**本页**
 
 :::: card-grid
 
 ::: card
 
-::: center
-
-#### **主动行为**
+**主动行为**
 
 [技能与工具](#技能与工具)
 
@@ -34,21 +34,19 @@ icon: 'qlementine-icons:money-16'
 
 ::: card
 
-::: center
-
-#### **贸易往来**
+**贸易往来**
 
 [物资](#物资)
 
 [服务](#服务)
 
+:::
+
 ::::
 
 ::: card
 
-::: center
-
-#### **特殊情景**
+**特殊情景**
 
 [旅行](#旅行)
 
@@ -56,19 +54,13 @@ icon: 'qlementine-icons:money-16'
 
 :::
 
-::: center
-
-### **下一步**
-
-:::
+**下一步**
 
 :::: card-grid
 
 ::: card
 
-::: center
-
-#### **扮演资料**
+**扮演资料**
 
 [技能](../data/skill)
 
@@ -80,9 +72,7 @@ icon: 'qlementine-icons:money-16'
 
 ::: card
 
-::: center
-
-#### **战斗资料**
+**战斗资料**
 
 [回合](./turn.md)
 
@@ -92,7 +82,11 @@ icon: 'qlementine-icons:money-16'
 
 [装备](./item)
 
+:::
+
 ::::
+
+:::::
 
 -----
 

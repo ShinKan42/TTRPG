@@ -1,30 +1,26 @@
-import { defineNoteConfig } from "vuepress-theme-plume";
+import { defineNoteConfig } from 'vuepress-theme-plume';
 
 export const Modules = defineNoteConfig({
-	link: "/module/menu/",
-	dir: "module/menu",
+	link: '/module/menu/',
+	dir: 'module/menu',
 	sidebar: [
 		{
-			text: "模组浏览",
-			icon: "mingcute:pray-line",
+			text: '可选模组',
+			icon: 'mingcute:pray-line',
 			collapsed: false,
-			items: [
-				"index",
-				{
-					text: "长度分类",
-					icon: "mdi:clock",
-					prefix: "scale",
-					collapsed: false,
-					items: ["short/index", "medium/index", "long/index"],
-				},
-				{
-					text: "规则分类",
-					icon: "mdi:clock",
-					prefix: "rule",
-					collapsed: false,
-					items: ["dnd/index", "cyberpunk/index", "avatar/index"],
-				},
-			],
+			items: ['shinkan/module'],
+		},
+		{
+			text: '玩家手册-参考信息',
+			icon: 'typcn:th-list-outline',
+			collapsed: false,
+			items: ['shinkan/pl_ref_index'],
+		},
+		{
+			text: '主持资料-剧透慎点！',
+			icon: 'jam:triangle-danger-f',
+			collapsed: false,
+			items: ['shinkan/gm_ref_index'],
 		},
 	],
 });
