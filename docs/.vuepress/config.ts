@@ -54,7 +54,7 @@ export default defineUserConfig({
 				align: 'center',
 				// 表格宽度是否为最大内容宽度
 				// 行内元素不再自动换行，超出容器宽度时表格显示滚动条
-				maxContent: false,
+				maxContent: true,
 				/**
 				 * 复制为 html/markdown
 				 * true 相当于 `all`，相当于同时启用 html 和 markdown
