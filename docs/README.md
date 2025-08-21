@@ -10,8 +10,8 @@ config:
       light: 0.1
       dark: 0.3
     hero:
-      name: Role Initiative
-      tagline: 齐聚一堂，在此一役
+      name: 台前 TRPG
+      tagline: Risks on Desk，Stakes on Stage
       actions:
         -
           theme: alt

@@ -7,7 +7,7 @@ const isProd = process.env.NODE_ENV === 'production';
 export default defineUserConfig({
 	base: '/',
 	lang: 'zh-CN',
-	title: '# Role Initiative #',
+	title: '# 台前 TRPG #',
 	description: 'by ShinKan42',
 
 	bundler: viteBundler(),
