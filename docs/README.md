@@ -24,7 +24,7 @@ config:
         -
           theme: alt
           text: 模组列表 →
-          link: /module/menu/
+          link: /module/menu/shinkan/module
   -
     type: features
     features:
