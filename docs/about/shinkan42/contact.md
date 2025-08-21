@@ -12,7 +12,7 @@ icon: "material-symbols:mail-outline"
 
 [关于神官-ー-信観](#关于神官-ー-信観)
 
-[关于 Role Initiative](#关于role-initiative)
+[关于 台前 TRPG](#关于-台前-trpg)
 
 [关于网站](#关于网站)
 
@@ -85,14 +85,15 @@ Discord 也将用于==网团==，其频道结构更适合分类
 
 ::: center
 
-## **关于 Role Initiative**
+## **关于 台前 TRPG**
 
 :::
 
-`Role Initiative`是我目前对跑团所有项目的总称，包括但不限于：
+`台前 TRPG`是我目前对自身跑团所有项目的总称，包括但不限于：
 
 - 跑团辅助文档网站（此网站）
-- 线下、线上跑团运作
+- 与燕清羽合作的线下跑团服务
+- 线上跑团服务
 
 ---
 
