@@ -11,7 +11,7 @@ config:
       dark: 0.3
     hero:
       name: 台前 TRPG
-      tagline: Risks on Desk，Stakes on Stage
+      tagline: Risks on Desk, Stakes on Stage
       actions:
         -
           theme: alt

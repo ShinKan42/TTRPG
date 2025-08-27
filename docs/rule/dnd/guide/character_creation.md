@@ -240,7 +240,7 @@ DND 可以远不止关于战斗与强度，请大胆创作独一无二的角色�
 
 ::: center
 
-[【腾讯文档】DND团卡在线简易模板-新版V4](https://docs.qq.com/sheet/DR2JRaXdOY2doQklp?tab=hz8tes)
+[【腾讯文档】DND团卡在线简易模板-新版V5](https://docs.qq.com/sheet/DR2JRaXdOY2doQklp?tab=hz8tes)
 
 *by ShinKan42*
 
