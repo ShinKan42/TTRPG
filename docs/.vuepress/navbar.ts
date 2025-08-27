@@ -139,7 +139,12 @@ export const navbar = defineNavbarConfig([
 	{
 		text: '更多规则',
 		items: [
-			{ text: '池（WIP）', link: '/dnd/', activeMatch: '^/dnd/' },
+			{
+				text: 'FATE',
+				icon: 'ph:plus-minus-bold',
+				link: '/rule/misc/fate',
+				activeMatch: '^/rule/misc/fate',
+			},
 			{ text: 'Dagger Heart（WIP）', link: '/dnd/', activeMatch: '^/dnd/' },
 			{ text: '魔法猫猫（WIP）', link: '/dnd/', activeMatch: '^/dnd/' },
 			{ text: '降世神通（WIP）', link: '/dnd/', activeMatch: '^/dnd/' },
