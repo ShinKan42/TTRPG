@@ -46,8 +46,9 @@ export const navbar = defineNavbarConfig([
 					},
 					{
 						text: '战斗规则',
-						link: '/rule/dnd/guide/combat/turn',
-						activeMatch: '^/rule/dnd/guide/combat/',
+						icon: 'ri:sword-line',
+						link: '/rule/dnd/guide/combat',
+						activeMatch: '^/rule/dnd/guide/combat',
 					},
 				],
 			},
@@ -60,24 +61,19 @@ export const navbar = defineNavbarConfig([
 						activeMatch: '^/rule/dnd/data/class/',
 					},
 					{
-						text: '法术',
-						link: '/rule/dnd/data/spell/',
-						activeMatch: '^/rule/dnd/data/spell/',
-					},
-					{
 						text: '种族',
 						link: '/rule/dnd/data/race/',
 						activeMatch: '^/rule/dnd/data/race/',
 					},
 					{
-						text: '背景',
-						link: '/rule/dnd/data/origin/',
-						activeMatch: '^/rule/dnd/data/origin/',
+						text: '专长',
+						link: '/rule/dnd/data/feat/',
+						activeMatch: '^/rule/dnd/data/feat/',
 					},
 					{
-						text: '装备',
-						link: '/rule/dnd/data/feat/',
-						activeMatch: '^/rule/dnd/data/equipment/',
+						text: '法术',
+						link: '/rule/dnd/data/spell/',
+						activeMatch: '^/rule/dnd/data/spell/',
 					},
 				],
 			},
@@ -88,31 +84,6 @@ export const navbar = defineNavbarConfig([
 						text: 'ACG角色',
 						link: '/rule/dnd/ref/acg_character/',
 						activeMatch: '^/rule/dnd/ref/acg_character/',
-					},
-					{
-						text: '参考链接',
-						link: '/rule/dnd/ref/link',
-						activeMatch: '^/rule/dnd/ref/link',
-					},
-					{
-						text: '神官村规',
-						link: '/rule/dnd/ref/shinkan42/',
-						activeMatch: '^/rule/dnd/ref/shinkan42/',
-					},
-				],
-			},
-			{
-				text: '神官村规',
-				items: [
-					{
-						text: 'ACG角色',
-						link: '/rule/dnd/ref/acg_character/',
-						activeMatch: '^/rule/dnd/ref/acg_character/',
-					},
-					{
-						text: '参考链接',
-						link: '/rule/dnd/ref/link',
-						activeMatch: '^/rule/dnd/ref/link',
 					},
 					{
 						text: '神官村规',
