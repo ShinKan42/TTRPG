@@ -158,11 +158,11 @@ D20 = 1 为 大失败，视为自动失败
 
 `法术攻击` Spell Attack = <Badge type="danger" text="D20 + 熟练加值 + 施法属性调整值" /> VS `护甲等级`
 
-`豁免难度` Difficulty Class（DC） = <Badge type="warning" text="8 + 熟练加值 + 施法属性调整值" /> VS `豁免检定`
+`豁免难度` Difficulty Class（`DC`） = <Badge type="warning" text="8 + 熟练加值 + 施法属性调整值" /> VS `豁免检定`
 
 ### **防御**
 
-`护甲等级` Armor Class（AC） = <Badge type="warning" text="10 + 防具加值 + 敏捷调整值" />
+`护甲等级` Armor Class（`AC`） = <Badge type="warning" text="10 + 防具加值 + 敏捷调整值" />
 
 `半身掩护`：Half Cover，`护甲等级`、`敏捷豁免检定` +2
 
