@@ -5,13 +5,13 @@ export const navbar = defineNavbarConfig([
 		text: 'COC',
 		items: [
 			{
-				text: 'WIP',
+				text: '施工中',
 				items: [
-					{ text: 'WIP', link: '/dnd/', activeMatch: '^/dnd/' },
-					{ text: 'WIP', link: '/dnd/', activeMatch: '^/dnd/' },
+					{ text: '施工中', link: '/dnd/', activeMatch: '^/dnd/' },
+					{ text: '施工中', link: '/dnd/', activeMatch: '^/dnd/' },
 				],
 			},
-			{ text: 'WIP', items: ['WIP', 'WIP'] },
+			{ text: '施工中', items: ['施工中', '施工中'] },
 		],
 	},
 	{
@@ -57,6 +57,7 @@ export const navbar = defineNavbarConfig([
 				items: [
 					{
 						text: '职业',
+						icon: 'fluent-emoji-high-contrast:thinking-face',
 						link: '/rule/dnd/data/class/',
 						activeMatch: '^/rule/dnd/data/class/',
 					},
@@ -71,9 +72,29 @@ export const navbar = defineNavbarConfig([
 						activeMatch: '^/rule/dnd/data/feat/',
 					},
 					{
+						text: '技能',
+						link: '/rule/dnd/data/skill',
+						activeMatch: '^/rule/dnd/data/skill',
+					},
+					{
+						text: '工具',
+						link: '/rule/dnd/data/tool',
+						activeMatch: '^/rule/dnd/data/tool',
+					},
+					{
 						text: '法术',
 						link: '/rule/dnd/data/spell/',
 						activeMatch: '^/rule/dnd/data/spell/',
+					},
+					{
+						text: '物品',
+						link: '/rule/dnd/data/item/',
+						activeMatch: '^/rule/dnd/data/item/',
+					},
+					{
+						text: '状态',
+						link: '/rule/dnd/data/condition',
+						activeMatch: '^/rule/dnd/data/condition',
 					},
 				],
 			},
@@ -81,14 +102,19 @@ export const navbar = defineNavbarConfig([
 				text: '其他资料',
 				items: [
 					{
-						text: 'ACG角色',
+						text: 'ACG 角色',
 						link: '/rule/dnd/ref/acg_character/',
 						activeMatch: '^/rule/dnd/ref/acg_character/',
 					},
 					{
-						text: '神官村规',
-						link: '/rule/dnd/ref/shinkan42/',
-						activeMatch: '^/rule/dnd/ref/shinkan42/',
+						text: '神官 - 村规',
+						link: '/rule/dnd/ref/house_rule/overall',
+						activeMatch: '^/rule/dnd/ref/house_rule',
+					},
+					{
+						text: '神官 - DLC',
+						link: '/rule/dnd/ref/dlc/',
+						activeMatch: '^/rule/dnd/ref/dlc',
 					},
 				],
 			},
@@ -98,13 +124,13 @@ export const navbar = defineNavbarConfig([
 		text: '赛博朋克',
 		items: [
 			{
-				text: 'WIP',
+				text: '施工中',
 				items: [
-					{ text: 'WIP', link: '/dnd/', activeMatch: '^/dnd/' },
-					{ text: 'WIP', link: '/dnd/', activeMatch: '^/dnd/' },
+					{ text: '施工中', link: '/dnd/', activeMatch: '^/dnd/' },
+					{ text: '施工中', link: '/dnd/', activeMatch: '^/dnd/' },
 				],
 			},
-			{ text: 'WIP', items: ['WIP', 'WIP'] },
+			{ text: '施工中', items: ['施工中', '施工中'] },
 		],
 	},
 	{
@@ -116,10 +142,10 @@ export const navbar = defineNavbarConfig([
 				link: '/rule/misc/fate',
 				activeMatch: '^/rule/misc/fate',
 			},
-			{ text: 'Dagger Heart（WIP）', link: '/dnd/', activeMatch: '^/dnd/' },
-			{ text: '魔法猫猫（WIP）', link: '/dnd/', activeMatch: '^/dnd/' },
-			{ text: '降世神通（WIP）', link: '/dnd/', activeMatch: '^/dnd/' },
-			{ text: '沙丘（WIP）', link: '/dnd/', activeMatch: '^/dnd/' },
+			{ text: 'Dagger Heart（施工中）', link: '/dnd/', activeMatch: '^/dnd/' },
+			{ text: '魔法猫猫（施工中）', link: '/dnd/', activeMatch: '^/dnd/' },
+			{ text: '降世神通（施工中）', link: '/dnd/', activeMatch: '^/dnd/' },
+			{ text: '沙丘（施工中）', link: '/dnd/', activeMatch: '^/dnd/' },
 		],
 	},
 	{
@@ -141,7 +167,7 @@ export const navbar = defineNavbarConfig([
 				text: '游玩查阅-参考信息',
 				items: [
 					{
-						text: '玩家手册目录-神官',
+						text: '玩家手册目录-神官（施工中）',
 						icon: 'typcn:th-list-outline',
 						link: '/module/menu/shinkan/pl_ref_index',
 						activeMatch: '^/module/menu/shinkan/pl_ref_index',
@@ -152,7 +178,7 @@ export const navbar = defineNavbarConfig([
 				text: '主持资料-剧透慎点！',
 				items: [
 					{
-						text: '备团手册目录-神官',
+						text: '备团手册目录-神官（施工中）',
 						icon: 'jam:triangle-danger-f',
 						link: '/module/menu/shinkan/gm_ref_index',
 						activeMatch: '^/module/menu/shinkan/gm_ref_index',
