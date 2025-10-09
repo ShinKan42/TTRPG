@@ -1,7 +1,9 @@
-import { defineNoteConfig } from 'vuepress-theme-plume';
+import { defineCollection } from 'vuepress-theme-plume';
 
-export const DND = defineNoteConfig({
-	link: '/rule/dnd/',
+export default defineCollection({
+	type: 'doc',
+	title: 'DND-5R',
+	linkPrefix: '/rule/dnd/',
 	dir: 'rule/dnd',
 	sidebar: [
 		{

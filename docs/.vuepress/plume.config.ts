@@ -1,7 +1,8 @@
 import path from 'node:path';
 import { defineThemeConfig } from 'vuepress-theme-plume';
 import { navbar } from './navbar';
-import { NotesConfig } from './index/index';
+
+import Collections from './index/index.ts';
 
 /**
  * @see https://theme-plume.vuejs.press/config/basic/
@@ -26,19 +27,11 @@ export default defineThemeConfig({
 		// organization: '',
 	},
 
-	blog: {
-		link: '/log/',
-		include: ['log/**/*.md'],
-		exclude: ['.vuepress/', 'node_modules/'],
-		tagsLink: '/log/tags/',
-		archivesLink: '/log/archives/',
-		categoriesLink: '/log/categories/',
-	},
+	Collections,
 
 	social: [],
 	navbarSocialInclude: [],
 
-	notes: NotesConfig,
 	navbar: navbar,
 
 	bulletin: {

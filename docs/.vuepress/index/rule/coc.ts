@@ -1,6 +1,8 @@
-import { defineNoteConfig } from 'vuepress-theme-plume';
+import { defineCollection } from 'vuepress-theme-plume';
 
-export const COC = defineNoteConfig({
-	link: '/rule/coc/',
+export default defineCollection({
+	type: 'doc',
+	title: 'COC',
+	linkPrefix: '/rule/coc/',
 	dir: 'rule/coc',
 });
