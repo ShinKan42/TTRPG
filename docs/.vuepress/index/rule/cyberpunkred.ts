@@ -2,7 +2,7 @@ import { defineCollection } from 'vuepress-theme-plume';
 
 export default defineCollection({
 	type: 'doc',
-	title: '降世神通',
-	linkPrefix: '/rule/avatar/',
-	dir: 'rule/avatar',
+	title: '赛博朋克：红',
+	linkPrefix: '/rule/cyberpunk/',
+	dir: 'rule/cyberpunk',
 });
