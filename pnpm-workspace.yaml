@@ -1,0 +1,5 @@
+onlyBuiltDependencies:
+  - '@apollo/protobufjs'
+  - '@parcel/watcher'
+  - '@vercel/speed-insights'
+  - esbuild

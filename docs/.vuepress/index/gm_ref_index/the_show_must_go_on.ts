@@ -1,7 +1,9 @@
-import { defineNoteConfig } from 'vuepress-theme-plume';
+import { defineCollection } from 'vuepress-theme-plume';
 
-export const GM_The_Show_Must_Go_On = defineNoteConfig({
-	link: '/module/gm_ref/the_show_must_go_on/',
+export default defineCollection({
+	type: 'doc',
+	title: 'The Show Must Go On',
+	linkPrefix: '/module/gm_ref/the_show_must_go_on/',
 	dir: 'module/gm_ref/the_show_must_go_on',
 	sidebar: [
 		'index',

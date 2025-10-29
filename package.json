@@ -1,44 +1,63 @@
 {
-  "name": "ShinKan42_TTRPG",
-  "type": "module",
-  "version": "0.1.2",
-  "description": "ShinKan42_TTRPG",
-  "packageManager": "pnpm@9.12.3",
-  "author": "ShinKan42 <ShinKan@foxmail.com>",
-  "license": "AGPL-3.0-only",
-  "engines": {
-    "node": "^18.20.0 || >=20.0.0"
-  },
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
-    "docs:build": "vuepress build docs --clean-cache --clean-temp",
-    "docs:preview": "http-server docs/.vuepress/dist",
-    "vp-update": "pnpm dlx vp-update"
-  },
-  "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.24",
-    "http-server": "^14.1.1",
-    "sass-embedded": "^1.93.1",
-    "typescript": "^5.9.2",
-    "vue": "^3.5.21",
-    "vuepress": "2.0.0-rc.24",
-    "vuepress-theme-plume": "1.0.0-rc.164"
-  },
-  "dependencies": {
-    "@babel/core": "^7.28.4",
-    "@babel/preset-env": "^7.28.3",
-    "@iconify/json": "^2.2.387",
-    "@vercel/analytics": "^1.5.0",
-    "@vercel/speed-insights": "^1.2.0",
-    "@vue/cli": "^5.0.9",
-    "@waline/client": "^3.6.0",
-    "artplayer": "^5.3.0",
-    "chart.js": "^4.5.0",
-    "flowchart.ts": "^3.0.1",
-    "markmap-lib": "^0.18.12",
-    "markmap-toolbar": "^0.18.12",
-    "markmap-view": "^0.18.12",
-    "mermaid": "^11.12.0"
-  }
+	"name": "ShinKan42_TTRPG",
+	"type": "module",
+	"version": "0.1.2",
+	"description": "ShinKan42_TTRPG",
+	"private": true,
+	"packageManager": "pnpm@10.18.3",
+	"author": "ShinKan42 <ShinKan@foxmail.com>",
+	"license": "AGPL-3.0-only",
+	"keywords": [
+		"TTRPG",
+		"TRPG",
+		"台前 TRPG",
+		"COC",
+		"DND",
+		"赛博朋克",
+		"降世神通",
+		"匕首之心",
+		"FATE",
+		"魔法猫猫拯救世界",
+		"沙丘",
+		"战锤"
+	],
+	"engines": {
+		"node": "^20.9.0 || >=22.1.0",
+		"pnpm": ">=9"
+	},
+	"scripts": {
+		"docs:dev": "vuepress dev docs",
+		"docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+		"docs:build": "vuepress build docs --clean-cache --clean-temp",
+		"docs:preview": "http-server docs/.vuepress/dist",
+		"vp-update": "pnpm dlx vp-update"
+	},
+	"devDependencies": {
+		"@vuepress/bundler-vite": "2.0.0-rc.26",
+		"http-server": "^14.1.1",
+		"sass-embedded": "^1.93.2",
+		"typescript": "^5.9.3",
+		"vue": "^3.5.22",
+		"vuepress": "2.0.0-rc.26",
+		"vuepress-theme-plume": "1.0.0-rc.174"
+	},
+	"dependencies": {
+		"@babel/core": "^7.28.5",
+		"@babel/preset-env": "^7.28.5",
+		"@iconify/json": "^2.2.401",
+		"@vercel/analytics": "^1.5.0",
+		"@vercel/speed-insights": "^1.2.0",
+		"@vue/cli": "^5.0.9",
+		"@waline/client": "^3.7.0",
+		"artplayer": "^5.3.0",
+		"chart.js": "^4.5.1",
+		"dashjs": "^5.0.3",
+		"flowchart.ts": "^3.0.1",
+		"hls.js": "^1.6.13",
+		"markmap-lib": "^0.18.12",
+		"markmap-toolbar": "^0.18.12",
+		"markmap-view": "^0.18.12",
+		"mermaid": "^11.12.1",
+		"mpegts.js": "^1.8.0"
+	}
 }
