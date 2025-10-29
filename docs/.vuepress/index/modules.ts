@@ -1,7 +1,9 @@
-import { defineNoteConfig } from 'vuepress-theme-plume';
+import { defineCollection } from 'vuepress-theme-plume';
 
-export const Modules = defineNoteConfig({
-	link: '/module/menu/',
+export default defineCollection({
+	type: 'doc',
+	title: '模组一览',
+	linkPrefix: '/module/menu/',
 	dir: 'module/menu',
 	sidebar: [
 		{

@@ -1,7 +1,9 @@
-import { defineNoteConfig } from 'vuepress-theme-plume';
+import { defineCollection } from 'vuepress-theme-plume';
 
-export const DND = defineNoteConfig({
-	link: '/rule/dnd/',
+export default defineCollection({
+	type: 'doc',
+	title: 'DND-5R',
+	linkPrefix: '/rule/dnd/',
 	dir: 'rule/dnd',
 	sidebar: [
 		{
@@ -31,19 +33,24 @@ export const DND = defineNoteConfig({
 					collapsed: true,
 					items: [
 						'index',
+						{ text: '菜刀', link: '---' },
 						'barbarian',
 						'rogue',
 						'monk',
 						'fighter',
+						{ text: '半法', link: '---' },
 						'ranger',
 						'paladin',
+						{ text: '神术', link: '---' },
 						'cleric',
 						'druid',
+						{ text: '奥术', link: '---' },
 						'warlock',
 						'bard',
 						'sorcerer',
 						'wizard',
 						'artificer',
+						{ text: '合作', link: '---' },
 						'blood_hunter',
 						'illrigger',
 						'gunslinger',
