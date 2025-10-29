@@ -2,6 +2,8 @@ import { viteBundler } from '@vuepress/bundler-vite';
 import { defineUserConfig } from 'vuepress';
 import { plumeTheme } from 'vuepress-theme-plume';
 
+import collections from './index/index.ts';
+
 const isProd = process.env.NODE_ENV === 'production';
 
 export default defineUserConfig({
@@ -35,11 +37,11 @@ export default defineUserConfig({
 			avatarPattern: 'https://github.com/:username.png',
 		},
 
-		article: 'log',
-
 		autoFrontmatter: {
 			permalink: false,
 		},
+
+		collections,
 
 		markdown: {
 			demo: true,

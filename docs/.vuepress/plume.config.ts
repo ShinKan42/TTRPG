@@ -2,8 +2,6 @@ import path from 'node:path';
 import { defineThemeConfig } from 'vuepress-theme-plume';
 import { navbar } from './navbar';
 
-import Collections from './index/index.ts';
-
 /**
  * @see https://theme-plume.vuejs.press/config/basic/
  */
@@ -26,8 +24,6 @@ export default defineThemeConfig({
 		// location: '',
 		// organization: '',
 	},
-
-	Collections,
 
 	social: [],
 	navbarSocialInclude: [],

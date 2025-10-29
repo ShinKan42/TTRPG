@@ -15,7 +15,7 @@ export const navbar = defineNavbarConfig([
 		],
 	},
 	{
-		text: 'DND',
+		text: 'DND-5R',
 		items: [
 			{
 				text: '新手指南',
@@ -23,18 +23,21 @@ export const navbar = defineNavbarConfig([
 					{
 						text: '团前准备',
 						icon: 'hugeicons:glasses',
+						badge: '推荐',
 						link: '/rule/dnd/guide/preparation',
 						activeMatch: '^/rule/dnd/guide/preparation',
 					},
 					{
 						text: '车卡指南',
 						icon: 'tabler:arrow-guide',
+						badge: '新手',
 						link: '/rule/dnd/guide/character_creation',
 						activeMatch: '^/rule/dnd/guide/character_creation',
 					},
 					{
 						text: '常用骰法',
 						icon: 'fa-solid:dice-d20',
+						badge: '常用',
 						link: '/rule/dnd/guide/quick_roll',
 						activeMatch: '^/rule/dnd/guide/quick_roll',
 					},
@@ -139,6 +142,7 @@ export const navbar = defineNavbarConfig([
 			{
 				text: 'FATE',
 				icon: 'ph:plus-minus-bold',
+				badge: '口胡',
 				link: '/rule/misc/fate',
 				activeMatch: '^/rule/misc/fate',
 			},
