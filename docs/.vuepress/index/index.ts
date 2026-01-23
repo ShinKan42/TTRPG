@@ -1,9 +1,10 @@
 import { defineCollections } from 'vuepress-theme-plume';
 
-import COC from './rule/coc.ts';
-import DND5R from './rule/dnd5r.ts';
-import CyberpunkRed from './rule/cyberpunkred.ts';
-import Avatar from './rule/avatar.ts';
+import COC_7 from './rule/coc_7.ts';
+import Dagger_Heart from './rule/dagger_heart.ts';
+import DND_5R from './rule/dnd_5r.ts';
+import Cyberpunk_Red from './rule/cyberpunk_red.ts';
+import Avatar_Legend from './rule/avatar_legend.ts';
 
 import Modules from './modules.ts';
 
@@ -13,10 +14,11 @@ import PL_The_Show_Must_Go_On from './pl_ref_index/the_show_must_go_on.ts';
 import GM_The_Show_Must_Go_On from './gm_ref_index/the_show_must_go_on.ts';
 
 export default defineCollections([
-	COC,
-	DND5R,
-	CyberpunkRed,
-	Avatar,
+	COC_7,
+	Dagger_Heart,
+	DND_5R,
+	Cyberpunk_Red,
+	Avatar_Legend,
 	Modules,
 	About,
 	PL_The_Show_Must_Go_On,

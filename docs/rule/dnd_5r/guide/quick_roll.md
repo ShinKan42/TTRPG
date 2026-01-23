@@ -2,6 +2,7 @@
 title: 常用骰法
 createTime: 2024/12/19 23:58:22
 icon: 'fa-solid:dice-d20'
+badge: 常用
 ---
 
 ::::: center
@@ -182,7 +183,7 @@ D20 = 1 为 大失败，视为自动失败
 
 `坠落` Fall = <Badge type="danger" text="1d6" /> / 10 ft （Max = <Badge type="danger" text="20d6" /> ）
 
-`燃烧` Burn = <Badge type="danger" text="1d4" /> / 回合
+`燃烧` Burn = <Badge type="danger" text="1d4" /> / `回合`
 
 ### **跳高 / 跳远**
 
