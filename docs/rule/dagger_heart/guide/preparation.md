@@ -2,6 +2,7 @@
 title: 团前准备
 createTime: 2025/03/10 02:14:37
 icon: "hugeicons:glasses"
+badge: 须知
 ---
 
 ::::: center

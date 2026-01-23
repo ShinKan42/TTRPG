@@ -3,8 +3,8 @@ import { defineCollection } from 'vuepress-theme-plume';
 export default defineCollection({
 	type: 'doc',
 	title: 'DND-5R',
-	linkPrefix: '/rule/dnd/',
-	dir: 'rule/dnd',
+	linkPrefix: '/rule/dnd_5r/',
+	dir: 'rule/dnd_5r',
 	sidebar: [
 		{
 			text: '新手指南',
@@ -22,7 +22,7 @@ export default defineCollection({
 		},
 		{
 			text: '资料信息',
-			icon: 'icon-park-twotone:guide-board',
+			icon: 'prime:book',
 			collapsed: false,
 			prefix: 'data',
 			items: [
@@ -118,7 +118,7 @@ export default defineCollection({
 				{
 					text: 'ACG 角色',
 					icon: 'game-icons:crystal-wand',
-					prefix: 'acg',
+					prefix: 'acg_character',
 					collapsed: true,
 					items: ['index', 'madoka_magica', '1999'],
 				},
@@ -127,7 +127,7 @@ export default defineCollection({
 					icon: 'healthicons:village-24px',
 					prefix: 'house_rule',
 					collapsed: true,
-					items: ['overall', 'tarrot', 'camp', 'dungeon_meshi', 'craft'],
+					items: ['index', 'tarrot', 'camp', 'dungeon_meshi', 'craft'],
 				},
 				{
 					text: '神官 - DLC',
