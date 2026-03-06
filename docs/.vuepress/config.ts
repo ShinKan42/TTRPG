@@ -14,17 +14,11 @@ export default defineUserConfig({
 
 	bundler: viteBundler(),
 
-	theme: plumeTheme({
-		// 添加您的部署域名
-		// hostname: 'https://your_site_url',
-
-		hostname: 'http://ttrpg.shinkan42.art/',
-
-   		 head: [
+	head: [
    		   // Google验证（直接粘贴从GSC复制的完整标签）
   		    ['meta', { 
   		      name: 'google-site-verification', 
-  		      content: '<meta name="google-site-verification" content="dAVp0f72P9QitJLdUdLt9xLrQoNKqTsYCGS_SJMH3AI" />' 
+  		      content: 'dAVp0f72P9QitJLdUdLt9xLrQoNKqTsYCGS_SJMH3AI' 
   		    }],
       
   		    // 百度验证（自己组装，content值替换为你从百度获取的）
@@ -32,8 +26,13 @@ export default defineUserConfig({
  		       name: 'baidu-site-verification', 
  		       content: 'codeva-qsgrSAbOG4' 
 		      }],
-  		  ],
+		],
 
+	theme: plumeTheme({
+		// 添加您的部署域名
+		// hostname: 'https://your_site_url',
+
+		hostname: 'http://ttrpg.shinkan42.art/',
 
 		// 默认 不启用，仅当 plugins.git 为 true 时生效
 		// 此配置在 plume.config.ts 中无效
