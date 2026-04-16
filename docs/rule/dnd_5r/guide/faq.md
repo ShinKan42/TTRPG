@@ -1,7 +1,7 @@
 ---
 title: 常见问题（FAQ）
 createTime: 2025/05/28 14:16:41
-icon: 'tabler:zoom-question'
+icon: 'foundation:magnifying-glass'
 ---
 
 ::: center

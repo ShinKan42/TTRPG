@@ -23,7 +23,7 @@ export default defineCollection({
 			text: '资料信息',
 			icon: 'prime:book',
 			collapsed: false,
-			prefix: 'data',
+			prefix: 'brief_ref',
 			items: [
 				{
 					text: '职业',

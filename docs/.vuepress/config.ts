@@ -9,7 +9,7 @@ const isProd = process.env.NODE_ENV === 'production';
 export default defineUserConfig({
 	base: '/',
 	lang: 'zh-CN',
-	title: '# 台前 TRPG #',
+	title: '# Role Initiative #',
 	description: 'by ShinKan42',
 
 	bundler: viteBundler(),
@@ -47,7 +47,7 @@ export default defineUserConfig({
 		// 默认启用，仅当 plugins.git 为 true 时生效
 		// 此配置在 plume.config.ts 中无效
 		contributors: {
-			mode: 'block',
+			mode: 'inline',
 			avatarPattern: 'https://github.com/:username.png',
 		},
 
@@ -157,7 +157,7 @@ export default defineUserConfig({
 				serverURL: 'https://comment.shinkan42.art/',
 				dark: 'auto',
 				commentSorting: 'latest',
-				reaction: 'true',
+				reaction: true,
 				//   repo: '',
 				//   repoId: '',
 				//   categoryId: '',

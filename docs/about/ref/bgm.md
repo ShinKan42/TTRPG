@@ -34,7 +34,7 @@ icon: "icon-park-solid:music-one"
 
 ::: center
 
-[百度网盘](https://pan.baidu.com/s/1iWDO0Zv20IwF6j-K9cw0vA?pwd=TRPG)
+[百度网盘](https://pan.baidu.com/s/1BBNljshNc_zGWIinBNrEVQ?pwd=TRPG)
 
 提取码: TRPG
 
@@ -288,3 +288,11 @@ markmap:
 :::
 
 如题，请见文件夹名
+
+::: info 音乐风格
+
+默认倾向于==中世纪奇幻==类使用，多是可以通用的音乐，夹杂各种原声与各类风格的音乐
+
+特殊题材无法通用的，比如电音，归到此处单独的文件夹
+
+:::

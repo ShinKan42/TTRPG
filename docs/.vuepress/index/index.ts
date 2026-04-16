@@ -10,6 +10,8 @@ import Modules from './modules.ts';
 
 import About from './about.ts';
 
+import Log from './log.ts';
+
 import PL_The_Show_Must_Go_On from './pl_ref_index/the_show_must_go_on.ts';
 import GM_The_Show_Must_Go_On from './gm_ref_index/the_show_must_go_on.ts';
 
@@ -19,8 +21,11 @@ export default defineCollections([
 	DND_5R,
 	Cyberpunk_Red,
 	Avatar_Legend,
+	//
 	Modules,
+	Log,
 	About,
+	//
 	PL_The_Show_Must_Go_On,
 	GM_The_Show_Must_Go_On,
 ]);
