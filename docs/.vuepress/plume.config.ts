@@ -6,7 +6,7 @@ import { navbar } from './navbar';
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-	logo: '/image/site/SS-Seal-Filled-Resized.png',
+	logo: 'https://ttrpg.shinkan42.art/image/site/SS-Seal-Filled-Resized.png',
 	// your git repo url
 	docsRepo: 'https://github.com/ShinKan42/TTRPG',
 	docsDir: 'docs',
@@ -17,7 +17,7 @@ export default defineThemeConfig({
 	},
 
 	profile: {
-		avatar: '/image/site/SS-Seal-Filled-Resized.png',
+		avatar: 'https://ttrpg.shinkan42.art/image/site/SS-Seal-Filled-Resized.png',
 		name: '神官 ー 信観',
 		description: '跑团Log',
 		circle: true,
