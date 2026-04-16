@@ -138,7 +138,7 @@ icon: "streamline-plump:announcement-megaphone"
     - 强调“*Take you All your Time and Money*”后
     - ==原地复活==
 
-@[artPlayer loop](/audio/the_show_must_go_on/Keep_Yourself_Alive.mp3)
+@[artPlayer loop](https://ttrpg.shinkan42.art/audio/the_show_must_go_on/Keep_Yourself_Alive.mp3)
 
 :::
 
@@ -150,7 +150,7 @@ icon: "streamline-plump:announcement-megaphone"
     - 响起《It's a Miracle》（可选）
     - 发生“爱与和平”画风的奇迹进行指引
 
-@[artPlayer loop](/audio/the_show_must_go_on/The_Miracle.mp3)
+@[artPlayer loop](https://ttrpg.shinkan42.art/audio/the_show_must_go_on/The_Miracle.mp3)
 
 :::
 
