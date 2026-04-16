@@ -124,7 +124,7 @@ icon: 'fluent-emoji-high-contrast:thinking-face'
 
 ## **一图流**
 
-![一图流子职推荐](https://ttrpg.shinkan42.art/image/dnd_5r/brief_ref/class_recommendation.jpg "一图流子职推荐")
+![一图流子职推荐](https://bed.shinkan42.art/image/dnd_5r/brief_ref/class_recommendation.jpg "一图流子职推荐")
 
 :::
 

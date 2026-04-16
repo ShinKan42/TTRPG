@@ -616,7 +616,7 @@ FATE 的角色卡并非局限于人物，若有必要，一切事物都可以拥
 
 :::
 
-![技能详解](https://ttrpg.shinkan42.art/image/fate/skill.png "技能详解")
+![技能详解](https://bed.shinkan42.art/image/fate/skill.png "技能详解")
 
 ---
 
