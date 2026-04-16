@@ -1,16 +1,17 @@
 {
   "name": "ShinKan42_TTRPG",
   "type": "module",
-  "version": "0.1.2",
+  "version": "0.9.1",
   "description": "ShinKan42_TTRPG",
   "private": true,
-  "packageManager": "pnpm@10.18.3",
+  "packageManager": "pnpm@10.33.0",
   "author": "ShinKan42 <ShinKan@foxmail.com>",
   "license": "AGPL-3.0-only",
   "keywords": [
     "TTRPG",
     "TRPG",
-    "台前 TRPG",
+    "在此演役",
+    "Role Initiative",
     "COC",
     "DND",
     "赛博朋克",
@@ -33,31 +34,32 @@
     "vp-update": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "@vuepress/bundler-vite": "2.0.0-rc.28",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.129",
     "http-server": "^14.1.1",
-    "sass-embedded": "^1.97.3",
+    "sass-embedded": "^1.99.0",
     "typescript": "^5.9.3",
-    "vue": "^3.5.27",
-    "vuepress": "2.0.0-rc.26",
-    "vuepress-theme-plume": "1.0.0-rc.187"
+    "vue": "^3.5.32",
+    "vuepress": "2.0.0-rc.28",
+    "vuepress-theme-plume": "1.0.0-rc.194"
   },
   "dependencies": {
-    "@babel/core": "^7.28.6",
-    "@babel/preset-env": "^7.28.6",
-    "@iconify/json": "^2.2.431",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "@iconify/json": "^2.2.462",
     "@vercel/analytics": "^1.6.1",
     "@vercel/speed-insights": "^1.3.1",
     "@vue/cli": "^5.0.9",
-    "@waline/client": "^3.8.0",
-    "artplayer": "^5.3.0",
+    "@waline/client": "^3.13.0",
+    "artplayer": "^5.4.0",
     "chart.js": "^4.5.1",
-    "dashjs": "^5.1.0",
+    "dashjs": "^5.1.1",
     "flowchart.ts": "^3.0.1",
-    "hls.js": "^1.6.15",
+    "hls.js": "^1.6.16",
     "markmap-lib": "^0.18.12",
     "markmap-toolbar": "^0.18.12",
     "markmap-view": "^0.18.12",
-    "mermaid": "^11.12.2",
-    "mpegts.js": "^1.8.0"
+    "mermaid": "^11.14.0",
+    "mpegts.js": "1.7.3"
   }
 }

@@ -2,22 +2,15 @@ import { defineCollection } from 'vuepress-theme-plume';
 
 export default defineCollection({
 	type: 'doc',
-	title: '台前 TRPG',
+	title: 'Role Initiative',
 	linkPrefix: '/about/',
 	dir: 'about',
 	sidebar: [
 		{
-			text: '台前 TRPG',
+			text: '约团相关',
 			icon: 'mingcute:pray-line',
 			collapsed: false,
-			items: ['preparation', 'help', 'sample'],
-		},
-		{
-			text: '神官 ー 信観',
-			icon: 'mingcute:pray-line',
-			prefix: 'shinkan42',
-			collapsed: false,
-			items: ['appointment', 'contact'],
+			items: ['contact','appointment', 'preparation'],
 		},
 		{
 			text: '资源资料',

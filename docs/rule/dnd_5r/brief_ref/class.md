@@ -1,8 +1,7 @@
 ---
-title: 选择推荐
+title: 职业
 createTime: 2025/05/28 05:24:36
 icon: 'fluent-emoji-high-contrast:thinking-face'
-badge: 导引
 ---
 
 ::::::: center
@@ -125,7 +124,7 @@ badge: 导引
 
 ## **一图流**
 
-![一图流子职推荐](/image/dnd_5r/data/class_recommendation.jpg "一图流子职推荐")
+![一图流子职推荐](/image/dnd_5r/brief_ref/class_recommendation.jpg "一图流子职推荐")
 
 :::
 

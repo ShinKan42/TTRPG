@@ -1,5 +1,5 @@
 ---
-title: 战斗规则
+title: 战斗
 createTime: 2025/05/28 14:13:07
 icon: 'ri:sword-line'
 ---

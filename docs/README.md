@@ -9,18 +9,18 @@ config:
       light: 0.1
       dark: 0.3
     hero:
-      name: 台前 TRPG
-      tagline: Risks on Desk, Stakes on Stage
+      name: 在此演役
+      tagline: 设计你的角色，役を選ぼうよ！
       actions:
         - theme: alt
           text: 约团方式 →
-          link: /about/shinkan42/appointment
+          link: /about/appointment
         - theme: alt
           text: 团前准备 →
           link: /about/preparation
         - theme: alt
-          text: 模组列表 →
-          link: /module/menu/shinkan/module
+          text: 模组选择 →
+          link: /module/menu/index
   - type: features
     features:
       - title: Dungeons & Dragons （Work in Progress）
@@ -41,11 +41,11 @@ config:
       dark: 0.3
     hero:
       name: 联系我们
-      tagline: 请静候根据地建立
+      tagline: 广州市海珠区天一酒店 1308
       actions:
         - theme: alt
           text: 联系方式 →
-          link: /about/shinkan42/contact
+          link: /about/contact
 title: 指南
 createTime: 2025/04/17 20:00:39
 ---

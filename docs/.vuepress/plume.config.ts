@@ -32,7 +32,7 @@ export default defineThemeConfig({
 
 	bulletin: {
 		layout: 'bottom-right',
-		title: '跑团告知',
+		title: '跑团是什么？',
 		contentType: 'markdown',
 		lifetime: 'session',
 		enablePage: true,
