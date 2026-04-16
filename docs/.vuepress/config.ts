@@ -96,9 +96,6 @@ export default defineUserConfig({
 			// 如果您在此处直接声明为 true，则表示开发环境和生产环境都启用该功能
 			git: true,
 
-			// ReplaceAssetsPluginOptions
-			replaceAssets: isProd ? 'https://bed.shinkan42.art' : false,
-
 			/**
 			 *  markdown power
 			 * @see https://theme-plume.vuejs.press/config/plugin/markdown-power/

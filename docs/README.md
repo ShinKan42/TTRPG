@@ -3,7 +3,7 @@ pageLayout: home
 externalLinkIcon: false
 config:
   - type: banner
-    banner: https://ttrpg.shinkan42.art/image/site/Hotline3.png
+    banner: https://bed.shinkan42.art/image/site/Hotline3.png
     full: true
     bannerMask:
       light: 0.1
@@ -34,7 +34,7 @@ config:
         details: 降世神通 传奇 规则
   - type: blog
   - type: banner
-    banner: https://ttrpg.shinkan42.art/image/site/Commission.png
+    banner: https://bed.shinkan42.art/image/site/Commission.png
     full: true
     bannerMask:
       light: 0.1
