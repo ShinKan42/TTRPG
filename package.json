@@ -23,8 +23,8 @@
     "战锤"
   ],
   "engines": {
-    "node": "^20.9.0 || >=22.1.0",
-    "pnpm": ">=9"
+    "node": "^24.14.0",
+    "pnpm": "^10.33.0"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
