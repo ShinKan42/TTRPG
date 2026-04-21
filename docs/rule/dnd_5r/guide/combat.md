@@ -95,7 +95,7 @@ icon: 'ri:sword-line'
 
 :::
 
-在战斗开始时，每个当下参与到战斗的人物都需要投掷`先攻`
+在战斗开始时，每个当下参与到战斗的、智能的、享有独立回合的人物都需要投掷`先攻`
 
 `先攻加值` Initiative Modifier = <Badge type="warning" text="敏捷调整值" />
 
