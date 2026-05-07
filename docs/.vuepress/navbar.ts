@@ -286,7 +286,7 @@ export const navbar = defineNavbarConfig([
 		],
 	},
 
-	//{ text: '团记', link: '/log/', activeMatch: '^/log/' },
+	{ text: '团记', link: '/log/', activeMatch: '^/log/' },
 
 	{
 		text: '关于',

@@ -79,6 +79,12 @@ export default defineUserConfig({
 			},
 		},
 
+		encrypt: {
+      		rules: {
+        		'/module/gm_ref/': 'ShinKan42',
+     		 }
+   		 },
+
 		plugins: {
 			/**
 			 * Shiki 代码高亮
