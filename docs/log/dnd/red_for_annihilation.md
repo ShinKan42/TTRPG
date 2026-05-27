@@ -10,6 +10,22 @@ tags:
    - 大白
 ---
 
+:::: center
+
+::: card
+
+## **角色卡**
+
+【腾讯文档】红色是毁灭
+
+https://docs.qq.com/sheet/DR3ZjckRKekF4TGdo?tab=3tjoct
+
+:::
+
+::::
+
+---
+
 ::: center
 
 ## **封面**
