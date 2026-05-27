@@ -28,6 +28,12 @@ icon: "streamline:group-meeting-call-solid"
 
 ---
 
+希望拼团、得到主动通知，可填写【订阅】表格👇
+
+[点击跳转腾讯问卷](https://docs.qq.com/form/page/DR2xsaERJbmJReGVx)
+
+---
+
 ::: center
 
 ### 2.确定开团细节
