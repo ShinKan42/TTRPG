@@ -16,9 +16,7 @@ tags:
 
 ## **角色卡**
 
-【腾讯文档】阴婷遇险记
-
-https://docs.qq.com/sheet/DR3BLS1J5QUdNYWF6?tab=oc146l
+[【腾讯文档】阴婷遇险记](https://docs.qq.com/sheet/DR3BLS1J5QUdNYWF6?tab=oc146l)
 
 :::
 
