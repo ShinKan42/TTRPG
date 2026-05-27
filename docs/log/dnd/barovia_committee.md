@@ -13,6 +13,22 @@ tags:
    - 尼尔·索恩
 ---
 
+:::: center
+
+::: card
+
+## **角色卡**
+
+【腾讯文档】斯特拉德 - 巴诺维亚村委会
+
+https://docs.qq.com/sheet/DR0thY0JzVnRxb3FD?tab=hkqhlo
+
+:::
+
+::::
+
+---
+
 ::: center
 
 ## **工作汇报(含剧透)**
