@@ -10,6 +10,18 @@ tags:
    - 大白
 ---
 
+::: center
+
+## **封面**
+
+:::
+
+![封面](https://bed.shinkan42.art/log/dnd/red_for_annihilation/封面.jpg)
+
+![封面差分](https://bed.shinkan42.art/log/dnd/red_for_annihilation/封面差分.png)
+
+---
+
 :::: center
 
 ::: card
@@ -21,18 +33,6 @@ tags:
 :::
 
 ::::
-
----
-
-::: center
-
-## **封面**
-
-:::
-
-![封面](https://bed.shinkan42.art/log/dnd/red_for_annihilation/封面.jpg)
-
-![封面差分](https://bed.shinkan42.art/log/dnd/red_for_annihilation/封面差分.png)
 
 ---
 
