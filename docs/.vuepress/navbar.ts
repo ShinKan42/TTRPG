@@ -117,26 +117,26 @@ export const navbar = defineNavbarConfig([
 						activeMatch: '^/rule/dnd_5r/guide/about',
 					},
 					{
-						text: '车卡指南🚧',
+						text: '车卡指南',
 						icon: 'tabler:arrow-guide',
 						link: '/rule/dnd_5r/guide/character_creation',
 						activeMatch: '^/rule/dnd_5r/guide/character_creation',
 					},
 					{
-						text: '常用骰法🚧',
+						text: '常用骰法',
 						icon: 'fa-solid:dice-d20',
 						badge: '⚡',
 						link: '/rule/dnd_5r/guide/quick_roll',
 						activeMatch: '^/rule/dnd_5r/guide/quick_roll',
 					},
 					{
-						text: '扮演🚧',
+						text: '扮演',
 						icon: 'qlementine-icons:money-16',
 						link: '/rule/dnd_5r/guide/roleplay',
 						activeMatch: '^/rule/dnd_5r/guide/roleplay',
 					},
 					{
-						text: '战斗🚧',
+						text: '战斗',
 						icon: 'ri:sword-line',
 						link: '/rule/dnd_5r/guide/combat',
 						activeMatch: '^/rule/dnd_5r/guide/combat',
@@ -213,7 +213,7 @@ export const navbar = defineNavbarConfig([
 		],
 	},
 	{
-		text: '🖲️赛博朋克🚧',
+		text: '🖲️赛博朋克：红🚧',
 		items: [
 			{
 				text: '🚧',
