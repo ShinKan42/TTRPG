@@ -16,9 +16,9 @@ tags:
 
 :::
 
-![封面](https://bed.shinkan42.art/log/dnd/red_for_annihilation/封面.jpg)
+![封面](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/封面.jpg)
 
-![封面差分](https://bed.shinkan42.art/log/dnd/red_for_annihilation/封面差分.png)
+![封面差分](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/封面差分.png)
 
 ---
 
@@ -34,9 +34,9 @@ tags:
 
 ::::
 
-![PC 卡 - 1](https://bed.shinkan42.art/log/dnd/red_for_annihilation/PC%20卡%20-%201.jpg)
+![PC 卡 - 1](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/PC%20卡%20-%201.jpg)
 
-![PC 卡 - 2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/PC%20卡%20-%202.png)
+![PC 卡 - 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/PC%20卡%20-%202.png)
 
 ---
 
@@ -54,9 +54,9 @@ tags:
 
 :::
 
-@[artPlayer](https://bed.shinkan42.art/log/dnd/red_for_annihilation/卖%20Raven.mp4)
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/卖%20Raven.mp4)
 
-![卖 Raven](https://bed.shinkan42.art/log/dnd/red_for_annihilation/卖%20Raven.png)
+![卖 Raven](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/卖%20Raven.png)
 
 ---
 
@@ -66,7 +66,7 @@ tags:
 
 :::
 
-@[artPlayer](https://bed.shinkan42.art/log/dnd/red_for_annihilation/把妹王.mp4)
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/把妹王.mp4)
 
 ---
 
@@ -76,7 +76,7 @@ tags:
 
 :::
 
-![下地狱](https://bed.shinkan42.art/log/dnd/red_for_annihilation/下地狱.jpg)
+![下地狱](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/下地狱.jpg)
 
 ---
 
@@ -86,9 +86,9 @@ tags:
 
 :::
 
-![道歉连线](https://bed.shinkan42.art/log/dnd/red_for_annihilation/道歉连线.jpg)
+![道歉连线](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/道歉连线.jpg)
 
-![道歉连线2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/道歉连线2.png)
+![道歉连线2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/道歉连线2.png)
 
 ---
 
@@ -100,9 +100,9 @@ tags:
 
 ::: card-grid
 
-![地狱王座](https://bed.shinkan42.art/log/dnd/red_for_annihilation/地狱王座.jpg)
+![地狱王座](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/地狱王座.jpg)
 
-![地狱王座-2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/地狱王座%20-%202.jpg)
+![地狱王座-2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/地狱王座%20-%202.jpg)
 
 :::
 
@@ -116,9 +116,9 @@ tags:
 
 ::: card-grid
 
-![西游记](https://bed.shinkan42.art/log/dnd/red_for_annihilation/西游记.jpg)
+![西游记](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/西游记.jpg)
 
-![西游记 2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/西游记%202.jpg)
+![西游记 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/西游记%202.jpg)
 
 :::
 
@@ -132,15 +132,15 @@ tags:
 
 ::: card-masonry
 
-![小记1](https://bed.shinkan42.art/log/dnd/red_for_annihilation/小记1.jpg)
+![小记1](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/小记1.jpg)
 
-![小记2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/小记2.jpg)
+![小记2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/小记2.jpg)
 
-![小记3](https://bed.shinkan42.art/log/dnd/red_for_annihilation/小记3.jpg)
+![小记3](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/小记3.jpg)
 
-![小记4](https://bed.shinkan42.art/log/dnd/red_for_annihilation/小记4.jpg)
+![小记4](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/小记4.jpg)
 
-![小记5](https://bed.shinkan42.art/log/dnd/red_for_annihilation/小记5.jpg)
+![小记5](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/小记5.jpg)
 
 :::
 
@@ -152,13 +152,13 @@ tags:
 
 :::
 
-![不吃压力](https://bed.shinkan42.art/log/dnd/red_for_annihilation/不吃压力.jpg)
+![不吃压力](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/不吃压力.jpg)
 
 ::: card-grid
 
-![不吃压力2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/不吃压力%202.jpg)
+![不吃压力2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/不吃压力%202.jpg)
 
-![不吃压力3](https://bed.shinkan42.art/log/dnd/red_for_annihilation/不吃压力%203.jpg)
+![不吃压力3](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/不吃压力%203.jpg)
 
 :::
 
@@ -170,9 +170,9 @@ tags:
 
 :::
 
-![镜子赌局1](https://bed.shinkan42.art/log/dnd/red_for_annihilation/镜子赌局1.jpg)
+![镜子赌局1](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/镜子赌局1.jpg)
 
-![镜子赌局2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/镜子赌局2.jpg)
+![镜子赌局2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/镜子赌局2.jpg)
 
 ---
 
@@ -182,7 +182,7 @@ tags:
 
 :::
 
-![蕾娅-be like](https://bed.shinkan42.art/log/dnd/red_for_annihilation/蕾娅%20-%20be%20like.jpg)
+![蕾娅-be like](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/蕾娅%20-%20be%20like.jpg)
 
 ---
 
@@ -192,7 +192,7 @@ tags:
 
 :::
 
-![扎瑞尔-扎彩英](https://bed.shinkan42.art/log/dnd/red_for_annihilation/扎瑞尔%20-%20扎彩英.jpg)
+![扎瑞尔-扎彩英](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/扎瑞尔%20-%20扎彩英.jpg)
 
 ---
 
@@ -210,7 +210,7 @@ tags:
 
 :::
 
-![露-解决问题](https://bed.shinkan42.art/log/dnd/red_for_annihilation/露%20-%20解决问题.jpg)
+![露-解决问题](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/露%20-%20解决问题.jpg)
 
 ---
 
@@ -220,7 +220,7 @@ tags:
 
 :::
 
-![露次方](https://bed.shinkan42.art/log/dnd/red_for_annihilation/露次方.jpg)
+![露次方](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/露次方.jpg)
 
 ---
 
@@ -240,9 +240,9 @@ tags:
 
 ::: card-grid
 
-![拉-嘉豪](https://bed.shinkan42.art/log/dnd/red_for_annihilation/拉%20-%20嘉豪.jpg)
+![拉-嘉豪](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/拉%20-%20嘉豪.jpg)
 
-![拉-鱼](https://bed.shinkan42.art/log/dnd/red_for_annihilation/拉%20-%20鱼.jpg)
+![拉-鱼](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/拉%20-%20鱼.jpg)
 
 :::
 
@@ -256,9 +256,9 @@ tags:
 
 ::: card-grid
 
-![瑟拉 梦 1](https://bed.shinkan42.art/log/dnd/red_for_annihilation/瑟拉%20梦%201.jpg)
+![瑟拉 梦 1](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟拉%20梦%201.jpg)
 
-![瑟拉 梦 2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/瑟拉%20梦%202.jpg)
+![瑟拉 梦 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟拉%20梦%202.jpg)
 
 :::
 
@@ -280,9 +280,9 @@ tags:
 
 ::: card-grid
 
-![小翅膀](https://bed.shinkan42.art/log/dnd/red_for_annihilation/小翅膀.jpg)
+![小翅膀](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/小翅膀.jpg)
 
-![小翅膀 2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/小翅膀%202.jpg)
+![小翅膀 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/小翅膀%202.jpg)
 
 :::
 
@@ -296,9 +296,9 @@ tags:
 
 ::: card-grid
 
-![瑟卡-岳母](https://bed.shinkan42.art/log/dnd/red_for_annihilation/瑟卡%20-%20岳母.jpg)
+![瑟卡-岳母](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟卡%20-%20岳母.jpg)
 
-![瑟卡-美梦](https://bed.shinkan42.art/log/dnd/red_for_annihilation/瑟卡%20-%20美梦.jpg)
+![瑟卡-美梦](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟卡%20-%20美梦.jpg)
 
 :::
 
@@ -310,7 +310,7 @@ tags:
 
 :::
 
-![瑟曦-幸运星](https://bed.shinkan42.art/log/dnd/red_for_annihilation/瑟曦%20-%20幸运星.jpg)
+![瑟曦-幸运星](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟曦%20-%20幸运星.jpg)
 
 ---
 
@@ -320,9 +320,9 @@ tags:
 
 :::
 
-![瑟曦%苦命](https://bed.shinkan42.art/log/dnd/red_for_annihilation/瑟曦%20-%20苦命.jpg)
+![瑟曦%苦命](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟曦%20-%20苦命.jpg)
 
-![瑟曦-苦命2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/瑟曦%20-%20苦命2.jpg)
+![瑟曦-苦命2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟曦%20-%20苦命2.jpg)
 
 ---
 
@@ -340,7 +340,7 @@ tags:
 
 :::
 
-![大白-萌萌](https://bed.shinkan42.art/log/dnd/red_for_annihilation/大白%20-%20萌萌.jpg)
+![大白-萌萌](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/大白%20-%20萌萌.jpg)
 
 ---
 
@@ -350,7 +350,7 @@ tags:
 
 :::
 
-![大白-重拳](https://bed.shinkan42.art/log/dnd/red_for_annihilation/大白%20-%20重拳.jpg)
+![大白-重拳](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/大白%20-%20重拳.jpg)
 
 ---
 
@@ -360,7 +360,7 @@ tags:
 
 :::
 
-![大白-孩子](https://bed.shinkan42.art/log/dnd/red_for_annihilation/大白%20-%20孩子.jpg)
+![大白-孩子](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/大白%20-%20孩子.jpg)
 
 
 ---
@@ -369,7 +369,17 @@ tags:
 
 ### **盯**
 
-![大白-盯](https://bed.shinkan42.art/log/dnd/red_for_annihilation/大白%20-%20盯.jpg)
+![大白-盯](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/大白%20-%20盯.jpg)
+
+:::
+
+---
+
+::: center
+
+### **利刃与坚盾**
+
+![Raven - 利刃与坚盾](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Raven%20-%20利刃与坚盾.jpg)
 
 :::
 
@@ -391,9 +401,9 @@ tags:
 
 ::: card-grid
 
-![Raven-捡垃圾](https://bed.shinkan42.art/log/dnd/red_for_annihilation/Raven%20-%20捡垃圾.jpg)
+![Raven-捡垃圾](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Raven%20-%20捡垃圾.jpg)
 
-![Raven-歇](https://bed.shinkan42.art/log/dnd/red_for_annihilation/Raven%20-%20歇.jpg)
+![Raven-歇](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Raven%20-%20歇.jpg)
 
 :::
 
@@ -407,11 +417,11 @@ tags:
 
 ::: card-masonry
 
-![双头熊](https://bed.shinkan42.art/log/dnd/red_for_annihilation/双头熊.jpg)
+![双头熊](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/双头熊.jpg)
 
-![双头熊 2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/双头熊%202.jpg)
+![双头熊 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/双头熊%202.jpg)
 
-![双头熊 3](https://bed.shinkan42.art/log/dnd/red_for_annihilation/双头熊%203.jpg)
+![双头熊 3](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/双头熊%203.jpg)
 
 :::
 
@@ -425,9 +435,9 @@ tags:
 
 ::: card-grid
 
-![熊倒地](https://bed.shinkan42.art/log/dnd/red_for_annihilation/熊倒地.jpg)
+![熊倒地](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/熊倒地.jpg)
 
-![熊倒地 2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/熊倒地%202.jpg)
+![熊倒地 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/熊倒地%202.jpg)
 
 :::
 
@@ -439,15 +449,15 @@ tags:
 
 :::
 
-![Raven 梦](https://bed.shinkan42.art/log/dnd/red_for_annihilation/Raven%20梦.jpg)
+![Raven 梦](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Raven%20梦.jpg)
 
 ::: card-masonry
 
-![Raven 梦 1](https://bed.shinkan42.art/log/dnd/red_for_annihilation/Raven%20梦%201.jpg)
+![Raven 梦 1](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Raven%20梦%201.jpg)
 
-![Raven 梦 2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/Raven%20梦%202.jpg)
+![Raven 梦 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Raven%20梦%202.jpg)
 
-![Raven 梦 3](https://bed.shinkan42.art/log/dnd/red_for_annihilation/Raven%20梦%203.jpg)
+![Raven 梦 3](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Raven%20梦%203.jpg)
 
 :::
 
@@ -459,7 +469,7 @@ tags:
 
 :::
 
-![Raven 老母鸡](https://bed.shinkan42.art/log/dnd/red_for_annihilation/Raven%20-%20老母鸡.jpg)
+![Raven 老母鸡](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Raven%20-%20老母鸡.jpg)
 
 ---
 
@@ -472,13 +482,13 @@ tags:
 
 ::: card-grid
 
-![暴击 2](https://bed.shinkan42.art/log/dnd/red_for_annihilation/暴击%202.jpg)
+![暴击 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/暴击%202.jpg)
 
-![拉%20-%20被针对](https://bed.shinkan42.art/log/dnd/red_for_annihilation/拉%20-%20被针对.png)
+![拉%20-%20被针对](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/拉%20-%20被针对.png)
 
 :::
 
-![暴击](https://bed.shinkan42.art/log/dnd/red_for_annihilation/暴击.jpg)
+![暴击](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/暴击.jpg)
 
 ---
 
@@ -488,7 +498,7 @@ tags:
 
 :::
 
-@[artPlayer](https://bed.shinkan42.art/log/dnd/red_for_annihilation/刻板印象.mp4)
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/刻板印象.mp4)
 
 ---
 
