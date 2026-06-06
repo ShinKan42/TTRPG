@@ -38,6 +38,8 @@ tags:
 
 ![PC 卡 - 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/PC%20卡%20-%202.png)
 
+![露提-理发](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/露提-理发.png)
+
 ---
 
 ::: center
