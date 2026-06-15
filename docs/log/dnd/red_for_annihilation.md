@@ -2,7 +2,7 @@
 title: 红色是毁灭
 createTime: 2026/04/16 09:13:54
 tags:
-   - 坠入阿弗纳斯
+   - 博德之门：坠入阿弗纳斯
    - DND
    - 瑟曦·颂徽
    - 露提·森德尔
@@ -39,6 +39,12 @@ tags:
 ![PC 卡 - 2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/PC%20卡%20-%202.png)
 
 ![露提-理发](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/露提-理发.png)
+
+![露提-头像](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/露提-头像.jpg)
+
+![拉斐尔-头像](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/拉斐尔-头像.jpg)
+
+![功夫病院](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/功夫病院.jpg)
 
 ---
 
@@ -325,6 +331,17 @@ tags:
 ![瑟曦%苦命](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟曦%20-%20苦命.jpg)
 
 ![瑟曦-苦命2](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟曦%20-%20苦命2.jpg)
+
+---
+
+
+::: center
+
+### **两面派**
+
+:::
+
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟曦-两面派.mp4)
 
 ---
 
