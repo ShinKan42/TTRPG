@@ -190,7 +190,7 @@ tags:
 
 :::
 
-@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/On%20the%Couch.mp4)
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/On%20the%20Couch.mp4)
 
 ---
 
