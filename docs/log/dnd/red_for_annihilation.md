@@ -344,7 +344,6 @@ tags:
 
 ---
 
-
 ::: center
 
 ### **两面派**
@@ -352,6 +351,16 @@ tags:
 :::
 
 @[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/瑟曦-两面派.mp4)
+
+---
+
+::: center
+
+### **Not Just a Bitch**
+
+:::
+
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/Not%20Just%20a%20Bitch.mp4)
 
 ---
 
