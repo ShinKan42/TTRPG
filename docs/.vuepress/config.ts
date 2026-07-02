@@ -153,21 +153,6 @@ export default defineUserConfig({
 			//   reactionsEnabled: true,
 			//   inputPosition: 'top',
 			// },
-
-			comment: {
-				provider: 'Waline', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-				comment: true,
-				serverURL: 'https://comment.shinkan42.art/',
-				dark: 'auto',
-				commentSorting: 'latest',
-				reaction: true,
-				//   repo: '',
-				//   repoId: '',
-				//   categoryId: '',
-				//   mapping: 'pathname',
-				//   reactionsEnabled: true,
-				//   inputPosition: 'top',
-			},
 		},
 	}),
 });
