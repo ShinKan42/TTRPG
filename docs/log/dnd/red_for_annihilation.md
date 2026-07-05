@@ -542,6 +542,28 @@ tags:
 
 ::: center
 
+## **寡妇与狗**
+
+:::
+
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/寡妇与狗动画.mp4)
+
+::: card-grid
+
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/寡妇与狗动画-大白.mp4)
+
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/寡妇与狗动画-露提.mp4)
+
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/寡妇与狗动画-拉斐尔.mp4)
+
+@[artPlayer](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/寡妇与狗动画-瑟曦.mp4)
+
+:::
+
+---
+
+::: center
+
 ## **正义书卷(含剧透)**
 
 :::
