@@ -33,7 +33,14 @@ export default defineCollection({
 			icon: 'jam:triangle-danger-f',
 			prefix: 'gm_ref',
 			collapsed: false,
-			items: ['index'],
+			items: [
+				{
+					text: '奇幻类',
+					icon: 'game-icons:magic-broom',
+					collapsed: false,
+					items: ['dnd_5r/'],
+				},
+			],
 		},
 	],
 });
