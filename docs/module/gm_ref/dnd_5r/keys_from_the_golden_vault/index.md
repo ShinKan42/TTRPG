@@ -47,6 +47,14 @@ icon: "game-icons:treasure-map"
 
 ::::
 
+::: details 🎨 黄金宝库徽章
+
+![黄金宝库徽章](https://bed.shinkan42.art/image/module/dnd_5r/keys_from_the_golden_vault/Golden%20Vault%20Seal.webp)
+
+*官方插画。*
+
+:::
+
 ---
 
 ::: center
@@ -78,6 +86,14 @@ icon: "game-icons:treasure-map"
 
 ::: center
 ### **钥匙**
+:::
+
+::: details 🎨 钥匙
+
+![钥匙](https://bed.shinkan42.art/image/module/dnd_5r/keys_from_the_golden_vault/key.webp)
+
+*官方插画。*
+
 :::
 
 **外观**：巴掌长，铜质，齿纹不对称。
@@ -150,7 +166,7 @@ icon: "game-icons:treasure-map"
 
 | 角色 | 种族/职业 | 定位 |
 |------|-----------|------|
-| <Badge type="info" text="Ithréïne"/>（伊丝瑞恩）| `高等精灵`·`预言`学派 `法师` | 竞争队伍指挥 |
+| <Badge type="info" text="Sibylle"/>（茜贝尔）| `高等精灵`·`预言`学派 `法师` | 竞争队伍指挥 |
 | <Badge type="info" text="Gareth"/>（加雷斯）| `人类`·重甲 `战士` | 竞争队伍核心 |
 
 :::
@@ -165,8 +181,8 @@ icon: "game-icons:treasure-map"
 
 | 角色 | 种族/职业 | 定位 |
 |------|-----------|------|
-| <Badge type="info" text="Kaël"/>（卡埃尔）| `半精灵`·`游侠`（`猎人`）| 追踪者，远程 |
-| <Badge type="info" text="Sylla"/>（茜拉）| `提夫林`·`战士`（`战斗大师`）| 突击手，近战 |
+| <Badge type="info" text="Fidèle"/>（菲德尔）| `半精灵`·`游侠`（`猎人`）| 追踪者，远程 |
+| <Badge type="info" text="Sear"/>（茜尔）| `提夫林`·`战士`（`战斗大师`）| 突击手，近战 |
 
 :::
 
@@ -175,7 +191,7 @@ icon: "game-icons:treasure-map"
 :::: card
 
 ::: center
-### **Ithréïne 动机链**
+### **Sibylle 动机链**
 :::
 
 - **驱动**：==知识的武器化==——武器的垄断。

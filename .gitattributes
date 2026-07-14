@@ -1,10 +1,8 @@
-* text eol=lf
-*.txt text eol=crlf
+# Auto detect text files and normalize line endings
+# Git stores LF in the repo; on Windows (core.autocrlf=true) checks out CRLF
+* text=auto
 
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.ico binary
-*.tff binary
-*.woff binary
-*.woff2 binary
+# Windows-specific scripts
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
