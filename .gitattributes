@@ -6,3 +6,7 @@
 *.bat text eol=crlf
 *.cmd text eol=crlf
 *.ps1 text eol=crlf
+
+# Git config files — keep CRLF on Windows to avoid LF→CRLF warnings
+.gitattributes text eol=crlf
+.gitignore text eol=crlf
