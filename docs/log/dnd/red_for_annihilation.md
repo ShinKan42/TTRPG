@@ -425,6 +425,16 @@ tags:
 
 ::: center
 
+### **生气**
+
+![大白-生气](https://bed.shinkan42.art/log/dnd_5r/red_for_annihilation/大白-生气.jpg)
+
+:::
+
+---
+
+::: center
+
 ## **百变 Raven**
 
 :::
