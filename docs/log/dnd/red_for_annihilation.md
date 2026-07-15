@@ -890,3 +890,487 @@ Maggie知道些什么，但不打算说。
 :::
 
 ::::
+
+---
+
+::: center
+
+### **瑟曦受难记**
+
+2026.07.12｜Session 3
+
+:::
+
+---
+
+:::::: card
+
+::: center
+
+**🔥 红色是毁灭 · 瑟曦受难记**
+
+2026.07.12｜Session 3｜马哈迪的流浪集市
+
+:::
+
+---
+
+::::: left
+
+🎂 **流浪集市的生日会**
+
+从露露的梦里醒来之后，小队在马哈迪的集市里补了药水和装备。
+
+理发店换了老板，不是之前那个年轻女人了。
+
+拉拉公主给露提和拉斐尔办了生日会，偏偏不带瑟曦和卡拉克。
+
+玛门的仆人阿姆利克自己凑过来——想挖瑟曦和卡拉克墙角，说什么"类人迪士尼"的生意，想拉她们当顾问。
+
+至少，比马哈迪在地狱开桑拿是带点头脑的。
+
+:::: details 🎵 人戏之王 — 基于《The Greatest Showman》"The Other Side"改编
+
+::: left
+
+**阿姆利克：**
+
+Right here, right now, I put the offer out
+
+就这儿，就现在，我出价了
+
+I don't wanna chase you down but I know you see it
+
+我不追着你，但你知道我说什么
+
+You run with me and I can cut you free
+
+跟我干，我让你从"善良"脱身
+
+Out of the drudgery and walls you keep in
+
+从类人的正义与道德里出来
+
+So trade that typical for somethin' colorful
+
+拿"正义感"换"当明星"
+
+And if it's crazy, live a little crazy
+
+疯狂就疯狂一点
+
+You can play it sensible, a king of conventional
+
+你可以继续守着你的道德
+
+Or you can risk it all and see
+
+或者冒个险看看
+
+:::
+
+::: left
+
+**阿姆利克：**
+
+Don't you wanna get away
+
+不想逃吗
+
+From the same old part you gotta play?
+
+从你一直扮演的"正义角色"里？
+
+'Cause I got what you need so come with me and take the ride
+
+我有你需要的，跟我来上这趟车
+
+It'll take you to the other side
+
+它会带你去另一边
+
+'Cause you can do like you do or you can do like me
+
+你可以照旧，或者跟我一样
+
+Stay in the cage or you'll finally take the key
+
+待在道德的笼子里，或者终于拿起钥匙
+
+Oh, damn, suddenly you're free to fly
+
+突然你就自由了
+
+It'll take you to the other side
+
+它会带你去另一边
+
+:::
+
+::: right
+
+**瑟曦：**
+
+Okay, my friend, you want to cut me in
+
+好啊朋友，你想拉我入伙
+
+Well, I hate to tell you but it just won't happen
+
+但不可能
+
+So thanks, but no, I think I'm good to go
+
+谢了，我自己挺好
+
+'Cause I quite enjoy the life you say I'm trapped in
+
+我很享受你说我"被困"的生活
+
+Now I admire you and that whole show you do
+
+我佩服你的表演
+
+You're onto somethin', really, it's somethin'
+
+真的有点东西
+
+But I live among the swells and we don't pick up peanut shells
+
+但我带着我的团活到现在——不是为了丢下他们
+
+I'll have to leave that up to you
+
+你自己玩吧
+
+:::
+
+::: right
+
+**瑟曦：**
+
+Don't you know that I'm okay
+
+你不知道我过得挺好
+
+With this uptown part I get to play?
+
+我选的这条路——守着他们
+
+'Cause I got what I need and I don't wanna take the ride
+
+我不缺什么，不想上你的车
+
+I don't need to see the other side
+
+我不需要另一边
+
+So go and do like you do, I'm good to do like me
+
+你走你的，我走我的
+
+Ain't in a cage so I don't need to take the key
+
+我没被困住，不需要你的钥匙
+
+Oh, damn, can't you see I'm doin' fine?
+
+你看不出来我挺好？
+
+I don't need to see the other side
+
+我不需要另一边
+
+:::
+
+::: center
+
+**阿姆利克：**
+
+Now is this really how you like to spend your days?
+
+这就是你想要的日子？
+
+Whiskey and misery, and parties and plays
+
+威士忌和力竭，团队和儿戏
+
+**瑟曦：**
+
+If I were mixed up with you, I'd be the talk of the town
+
+如果跟你混，我就是九狱的笑柄
+
+Disgraced and disowned, another one of the clowns
+
+被团抛弃，又一个马戏团小丑
+
+**阿姆利克：**
+
+But you would finally live a little, finally laugh a little
+
+但你会终于——为自己活一点，为自己笑一点
+
+Just let me give you the freedom to dream
+
+让我给你——放下他们的自由去梦
+
+And it'll wake you up and cure your achin'
+
+它会叫醒你、治愈你
+
+Take your walls and start 'em breakin'
+
+推倒你的墙
+
+Now that's a deal that seems worth takin'
+
+这交易不错
+
+But I guess I'll leave that up to you
+
+但你自己决定
+
+:::
+
+::::
+
+:::::
+
+---
+
+::::: center
+
+🦄 **土巨灵的独角兽囚笼**
+
+去了露露梦到的地方。一个土巨灵带俩土元素守着独角兽。
+
+独角兽被关在魔法球里，时不时发一次光，挨近的邪魔直接蒸发。
+
+土巨灵跟扎瑞尔签了合同，没法放人。
+
+露提自告奋勇，本能手语比划了半天，土巨灵指了指路：去找红露丝。
+
+:::: details 🎵 从另一边 — 基于 Adele《Hello》改编
+
+::: left
+
+**Ralzala：**
+
+Hello, it's me
+
+你好，是我
+
+I was wondering if after all these years you'd like to meet
+
+我想知道，你能不能听懂我的意思
+
+To go over everything
+
+我想说清楚——合同的事
+
+They say that time's supposed to heal ya, but I ain't done much healing
+
+他们说时间能治愈——但合同还绑着我
+
+:::
+
+::: center
+
+**露提：**
+
+Hello, can you hear me?
+
+你好，能听到我吗？
+
+I'm in California dreaming about who we used to be
+
+我还记得——在博德之门的时候
+
+When we were younger and free
+
+那时候还自由
+
+I've forgotten how it felt before the world fell at our feet
+
+已经忘了——在埃尔托瑞尔陷落之前的感觉
+
+:::
+
+::: center
+
+**三人：**
+
+There's such a difference between us
+
+我们之间隔着太多
+
+And a million miles
+
+隔着合同、隔着语言、隔着灭魔器的光
+
+:::
+
+::: center
+
+**露提：**
+
+Hello from the other side
+
+你好——从笼子外面
+
+I must've called a thousand times
+
+我比划了半天
+
+To tell you I'm sorry for everything that I've done
+
+想说——对不起我没能救你
+
+But when I call, you never seem to be home
+
+但你听不到
+
+:::
+
+::: right
+
+**Mooncolor：**
+
+Hello from the outside
+
+你好——从灭魔器里面
+
+At least, I can say that I've tried
+
+至少，我撑到了现在
+
+To tell you I'm sorry for breaking your heart
+
+想说——对不起让你看着我被困住
+
+But it don't matter, it clearly doesn't tear you apart anymore
+
+但没关系了
+
+:::
+
+::::
+
+:::::
+
+---
+
+:::: right
+
+🔮 **红露丝的血肉屋**
+
+穿过设计师小时候被折磨的血林迷宫，找到一个用血肉搞艺术的夜鬼婆。
+
+她四十多年没洗澡了，画了个血阵直接传送到马哈迪那边泡澡。
+
+洗完回来心情好——给了五折药水售卖权，告诉小队：
+
+要泰坦的血才能破土巨灵的合同。那个天界泰坦叫 Uldrak，被提亚马特搞成了个小棘魔。
+
+::: details 🎨 阿弗纳斯最令人不安的个展
+
+欢迎来到阿弗纳斯最令人不安的个展。
+
+艺术家红露丝，夜鬼婆，从业四十余年。为了保护她的创作，她专门造了一个迷宫。
+
+不是通往展馆的路——迷宫本身就是展览的第一部分。
+
+说真的，这个迷宫的设计师童年应该不太好过。每一棵树都在告诉你：你不该来这儿。但你来了。
+
+这就是艺术家的核心作品——**"让观众后悔自己的选择"**。
+
+穿过迷宫，你才能看到她的工作室。
+
+用血肉拼成的艺术小屋。材质：人皮、骨骼、血液。艺术家对选材有自己的坚持——新鲜、真实、不加工。
+
+用策展人的话说：这是对生命本质的终极追问。
+
+用红露丝自己的话说：他们死了，但好看。
+
+为艺术献身四十多年没洗澡了。
+
+但这个不重要。
+
+重要的是——为了保护这些东西，她专门造了一个迷宫。
+
+:::
+
+::::
+
+---
+
+:::: left
+
+💀 **瑟曦受难记**
+
+回马哈迪处休息。瑟曦力竭叠到四层。
+
+小队聊了个狠的——杀了再复活，力竭就清了。
+
+瑟曦自己点了头。卡拉克无法接受这种离奇的观念，愣是大闹了一场。
+
+最后由 Raven 老本行，动了手。
+
+::: details 📖 吉瑟斯受难记
+
+瑟 1:1 太初有力竭，力竭与吉瑟斯同在。力竭就是她的十字架。
+
+瑟 1:2 生日会上，拉拉公主分蛋糕，不给吉瑟斯。露提在旁边，没有为她说话。她不认她。
+
+瑟 1:3 这就应验了经上的话：人子被交在魔鬼手里，鸡叫以先，众人都不认她。
+
+瑟 1:4 回到马哈迪歇息的时候，吉瑟斯的力竭已经叠到四层。她知道自己从哪里来，往哪里去。
+
+瑟 1:5 门徒们就聚集，商议说：不如杀了她，再复活。卡拉克却大闹起来，说：这话甚难，谁能听呢？但吉瑟斯自己点了头。
+
+瑟 1:6 Raven便动了手。杀的时候，吉瑟斯没有挣扎。她就把灵魂交付了。
+
+瑟 1:7 当下她复活了。力竭就清了。凡信她的，必不至于力竭，反得安息。
+
+:::
+
+::::
+
+---
+
+::: right
+
+📋 **下回优先**
+
+🔴 神秘助力即将显现——阿ke库里啊呀猴奔
+
+🟡 土巨灵的合同——泰坦 Uldrak 的血还没拿到
+
+🟢 迪士尼的后续——龙神争战会以什么形式收场
+
+:::
+
+---
+
+::: center
+
+✨ **本次高光**
+
+▸ 拉斐尔——猫头鹰飞过去看独角兽，差点被光柱烤了；直觉带路避开险情
+
+▸ 露提——举白旗比划着跟土巨灵沟通；嘲讽拉拉公主破大防
+
+▸ 大白——在血林里闻到红露丝的味道；丝毫没有犹豫解决敌人，往拉斐尔捅了两刀
+
+▸ 瑟曦——四层力竭，蛋糕被打飞，自愿死了一回
+
+▸ 卡拉克——被荆棘缠着仍奋力输出；主动说"我来杀"被挡了
+
+▸ Raven——不得已而为之的事，动手利落；钱袋子但半夜偷赌输了一颗
+
+▸ 小A——变银龙载人飞；行动自如破荆棘
+
+:::
+
+::::::
