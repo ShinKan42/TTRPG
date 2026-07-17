@@ -12,9 +12,6 @@ import About from './about.ts';
 
 import Log from './log.ts';
 
-import PL_The_Show_Must_Go_On from './pl_ref_index/the_show_must_go_on.ts';
-import GM_Keys_From_The_Golden_Vault from './gm_ref_index/keys_from_the_golden_vault.ts';
-
 export default defineCollections([
 	COC_7,
 	Dagger_Heart,
@@ -26,6 +23,4 @@ export default defineCollections([
 	Log,
 	About,
 	//
-	PL_The_Show_Must_Go_On,
-	GM_Keys_From_The_Golden_Vault,
 ]);
