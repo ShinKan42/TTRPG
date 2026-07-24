@@ -1,0 +1,3 @@
+Sitemap: http://ttrpg.shinkan42.art/sitemap.xml
+User-agent:*
+Disallow:
