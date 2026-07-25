@@ -1,5 +1,5 @@
 ---
-title: 至圣凿
+title: ⚔️ 至圣凿
 createTime: 2026/04/16 09:14:58
 tags:
    - 斯特拉德的诅咒
@@ -12,7 +12,7 @@ tags:
 
 ::: center
 
-## **封面**
+## **📄 封面**
 
 :::
 
@@ -32,7 +32,7 @@ tags:
 
 ::: card
 
-## **角色卡**
+## **📋 角色卡**
 
 [【腾讯文档】阴婷遇险记](https://docs.qq.com/sheet/DR3BLS1J5QUdNYWF6?tab=oc146l)
 
@@ -46,7 +46,7 @@ tags:
 
 ::: center
 
-## **伊娃夫人的预言**
+## **🔮 伊娃夫人的预言**
 
 :::
 
@@ -98,7 +98,7 @@ tags:
 
 ::: center
 
-## **命运硬币**
+## **🪙 命运硬币**
 
 :::
 
@@ -110,7 +110,7 @@ tags:
 
 ::: center
 
-## **没有人比大白更懂**
+## **🤷 没有人比大白更懂**
 
 :::
 
@@ -128,7 +128,7 @@ tags:
 
 ::: center
 
-## **心灵长枪**
+## **🗡️ 心灵长枪**
 
 :::
 
@@ -142,7 +142,7 @@ tags:
 
 ::: center
 
-## **斯特拉德公嬷**
+## **🧛 斯特拉德公嬷**
 
 :::
 
@@ -162,29 +162,29 @@ tags:
 
 ::: center
 
-## **PC 攻受**
+## **⚔️ PC 攻受**
 
-### **瑟曦**
+### **瑟曦 👑**
 
 ![攻受 瑟曦](https://bed.shinkan42.art/log/dnd_5r/divine_thrust/攻受%20瑟曦.jpg)
 
-### **露提**
+### **露提 👤**
 
 ![攻受 露提](https://bed.shinkan42.art/log/dnd_5r/divine_thrust/攻受%20露提.jpg)
 
-### **小 A**
+### **小 A 🅰️**
 
 ![攻受 小A](https://bed.shinkan42.art/log/dnd_5r/divine_thrust/攻受%20小A.jpg)
 
-### **大白**
+### **大白 🐻**
 
 ![攻受 大白](https://bed.shinkan42.art/log/dnd_5r/divine_thrust/攻受%20大白.jpg)
 
-### **Raven**
+### **Raven 🐦‍⬛**
 
 ![攻受 Raven](https://bed.shinkan42.art/log/dnd_5r/divine_thrust/攻受%20Raven.jpg)
 
-### **拉斐尔**
+### **拉斐尔 👼**
 
 ![攻受 拉斐尔](https://bed.shinkan42.art/log/dnd_5r/divine_thrust/攻受%20拉.jpg)
 
@@ -194,7 +194,7 @@ tags:
 
 ::: center
 
-## **总结**
+## **📝 总结**
 
 :::
 

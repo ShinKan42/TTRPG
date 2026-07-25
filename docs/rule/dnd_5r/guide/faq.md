@@ -1,12 +1,11 @@
 ---
-title: 常见问题（FAQ）
+title: ❓ 常见问题（FAQ）
 createTime: 2025/05/28 14:16:41
-icon: 'foundation:magnifying-glass'
 ---
 
 ::: center
 
-## **扮演相关**
+## **🎭 扮演相关**
 
 :::
 
@@ -14,13 +13,13 @@ icon: 'foundation:magnifying-glass'
 
 ::: center
 
-## **战斗相关**
+## **⚔️ 战斗相关**
 
 :::
 
 ::::: card
 
-### **元素反应（水电工）**
+### **元素反应（水电工） ⚡**
 
 元素反应，如水电易伤，是拉瑞安工作室在游戏中引入的村规
 
@@ -31,7 +30,7 @@ icon: 'foundation:magnifying-glass'
 
 ::::: card
 
-### **投掷药水**
+### **投掷药水 🧪**
 
 投掷药水，及其范围效应，是拉瑞安工作室在游戏中引入的村规
 

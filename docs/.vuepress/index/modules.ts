@@ -6,41 +6,11 @@ export default defineCollection({
 	linkPrefix: '/module/',
 	dir: 'module',
 	sidebar: [
+		'menu/index',
 		{
-			text: '模组介绍-约团挑选',
-			icon: 'foundation:magnifying-glass',
-			prefix: 'menu',
+			text: '🐉 奇幻类',
 			collapsed: false,
-			items: [
-				'index',
-				{
-					text: '奇幻类',
-					icon: 'game-icons:magic-broom',
-					collapsed: false,
-					items: ['dnd_5r'],
-				},
-			],
-		},
-		{
-			text: '玩家手册-参考信息',
-			icon: 'typcn:th-list-outline',
-			prefix: 'pl_ref',
-			collapsed: false,
-			items: ['index'],
-		},
-		{
-			text: '主持指南-剧透慎点',
-			icon: 'jam:triangle-danger-f',
-			prefix: 'gm_ref',
-			collapsed: false,
-			items: [
-				{
-					text: '奇幻类',
-					icon: 'game-icons:magic-broom',
-					collapsed: false,
-					items: ['dnd_5r/'],
-				},
-			],
+			items: ['menu/dnd_5r'],
 		},
 	],
 });
