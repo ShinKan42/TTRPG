@@ -104,107 +104,70 @@ export const navbar = defineNavbarConfig([
 		],
 	},
 	{
-		text: '🔮DND-5R🚧',
+		text: '🔮 DND-5R',
 		items: [
 			{
-				text: '新手指南',
+				text: '📖 新手指南',
 				items: [
 					{
-						text: 'DND 怎么玩',
-						icon: 'hugeicons:glasses',
-						badge: '❔',
+						text: 'DND 怎么玩 ❔',
 						link: '/rule/dnd_5r/guide/about',
 						activeMatch: '^/rule/dnd_5r/guide/about',
 					},
 					{
-						text: '车卡指南',
-						icon: 'tabler:arrow-guide',
+						text: '车卡指南 📖',
 						link: '/rule/dnd_5r/guide/character_creation',
 						activeMatch: '^/rule/dnd_5r/guide/character_creation',
 					},
 					{
-						text: '常用骰法',
-						icon: 'fa-solid:dice-d20',
-						badge: '⚡',
+						text: '常用骰法 🎲',
 						link: '/rule/dnd_5r/guide/quick_roll',
 						activeMatch: '^/rule/dnd_5r/guide/quick_roll',
 					},
 					{
-						text: '扮演',
-						icon: 'qlementine-icons:money-16',
+						text: '扮演 🎭',
 						link: '/rule/dnd_5r/guide/roleplay',
 						activeMatch: '^/rule/dnd_5r/guide/roleplay',
 					},
 					{
-						text: '战斗',
-						icon: 'ri:sword-line',
+						text: '战斗 ⚔️',
 						link: '/rule/dnd_5r/guide/combat',
 						activeMatch: '^/rule/dnd_5r/guide/combat',
 					},
 					{
-						text: '技能与工具🚧',
-						link: '/rule/dnd_5r/guide/skill_and_tool',
-						activeMatch: '^/rule/dnd_5r/guide/skill_and_tool',
-					},
-					{
-						text: '环境与状态🚧',
-						link: '/rule/dnd_5r/guide/environment_and_condition',
-						activeMatch: '^/rule/dnd_5r/guide/environment_and_condition',
-					},
-					{
-						text: '常见问题（FAQ）🚧',
-						icon: 'foundation:magnifying-glass',
+						text: '常见问题 ❓',
 						link: '/rule/dnd_5r/guide/faq',
 						activeMatch: '^/rule/dnd_5r/guide/faq',
 					},
 				],
 			},
 			{
-				text: '简化资料🚧',
+				text: '🔗 资料站跳转',
 				items: [
-					{
-						text: '职业🚧',
-						icon: 'fluent-emoji-high-contrast:thinking-face',
-						link: '/rule/dnd_5r/brief_ref/class',
-						activeMatch: '^/rule/dnd_5r/brief_ref/class',
-					},
-					{
-						text: '种族🚧',
-						link: '/rule/dnd_5r/brief_ref/race',
-						activeMatch: '^/rule/dnd_5r/brief_ref/race',
-					},
-					{
-						text: '专长🚧',
-						link: '/rule/dnd_5r/brief_ref/feat/',
-						activeMatch: '^/rule/dnd_5r/brief_ref/feat/',
-					},
-					{
-						text: '法术🚧',
-						link: '/rule/dnd_5r/brief_ref/spell/',
-						activeMatch: '^/rule/dnd_5r/brief_ref/spell/',
-					},
-					{
-						text: '物品🚧',
-						link: '/rule/dnd_5r/brief_ref/item/',
-						activeMatch: '^/rule/dnd_5r/brief_ref/item/',
-					},
+					{ text: '职业 🗡️', link: 'https://5e.kiwee.top/classes.html' },
+					{ text: '种族 🧝', link: 'https://5e.kiwee.top/races.html' },
+					{ text: '专长 💪', link: 'https://5e.kiwee.top/feats.html' },
+					{ text: '法术 ✨', link: 'https://5e.kiwee.top/spells.html' },
+					{ text: '物品 🎒', link: 'https://5e.kiwee.top/items.html' },
+					{ text: '据点 🏰', link: 'https://5e.kiwee.top/book.html#xdmg' },
+					{ text: '不全书 📖', link: 'https://5echm.kagangtuya.top/' },
 				],
 			},
 			{
-				text: '其他资料🚧',
+				text: '👤 神官 ー 信観',
 				items: [
 					{
-						text: 'ACG 角色🚧',
-						link: '/rule/dnd_5r/home_brew/acg_character/',
-						activeMatch: '^/rule/dnd_5r/home_brew/acg_character/',
+						text: 'ACG 角色 🎭',
+						link: '/rule/dnd_5r/home_brew/acg/',
+						activeMatch: '^/rule/dnd_5r/home_brew/acg/',
 					},
 					{
-						text: '神官 - 村规🚧',
-						link: '/rule/dnd_5r/home_brew/shinkan_house_rule/index',
+						text: '村规 📜',
+						link: '/rule/dnd_5r/home_brew/shinkan_house_rule/',
 						activeMatch: '^/rule/dnd_5r/home_brew/shinkan_house_rule/',
 					},
 					{
-						text: '神官 - DLC🚧',
+						text: 'DLC 📦',
 						link: '/rule/dnd_5r/home_brew/shinkan_dlc/',
 						activeMatch: '^/rule/dnd_5r/home_brew/shinkan_dlc/',
 					},
@@ -232,11 +195,10 @@ export const navbar = defineNavbarConfig([
 				text: '轻量',
 				items: [
 					{
-					text: 'FATE',
-					icon: 'ph:plus-minus-bold',
-					badge: '通用',
-					link: '/rule/misc/fate',
-					activeMatch: '^/rule/misc/fate',
+						text: 'FATE ⚖️',
+						badge: '泛用',
+						link: '/rule/misc/fate',
+						activeMatch: '^/rule/misc/fate',
 					},
 								{
 					text: '魔法猫猫🚧',
@@ -259,34 +221,22 @@ export const navbar = defineNavbarConfig([
 		],
 	},
 	{
-		text: '🔎模组一览',
+		text: '🎲 挑选模组',
 		items: [
+			{ text: '快速选择 ⚡', link: '/module/menu/', activeMatch: '^/module/menu/' },
 			{
-				text: '模组介绍-约团挑选',
-				icon: 'foundation:magnifying-glass',
+				text: '🐉 奇幻类',
 				items: [
-					{ text: '快速选择', icon:'arcticons:quick-cursor', badge: '⚡', link: '/module/menu/', activeMatch: '^/module/menu/' },
-					{ text: 'DND-5R', icon:'simple-icons:dungeonsanddragons', link: '/module/menu/dnd_5r', activeMatch: '^/module/menu/dnd_5r' },
-				],
-			},
-			{
-				text: '玩家手册-参考信息',
-				icon: 'typcn:th-list-outline',
-				items: [
-					{ text: 'DND-5R', icon:'simple-icons:dungeonsanddragons', link: '/module/pl_ref/dnd_5r/', activeMatch: '^/module/pl_ref/dnd_5r/' },
-				],
-			},
-			{
-				text: '主持指南-剧透慎点',
-				icon: 'jam:triangle-danger-f',
-				items: [
-					{ text: 'DND-5R', icon:'simple-icons:dungeonsanddragons', link: '/module/gm_ref/dnd_5r/', activeMatch: '^/module/gm_ref/dnd_5r/' },
+					{ text: 'DND 5R 🔮', link: '/module/menu/dnd_5r', activeMatch: '^/module/menu/dnd_5r' },
 				],
 			},
 		],
 	},
-
-	{ text: '📜团记', link: '/log/', activeMatch: '^/log/' },
+	{
+		text: '📜团记',
+		link: '/log/',
+		activeMatch: '^/log/',
+	},
 
 	{
 		text: '关于',
