@@ -1,61 +1,216 @@
+/* ========== 日间 - 淡淡的不透明方案 ========== */
 :root {
-
-  /**
-   * 主题色
-   * -------------------------------------------------------------------------- */
-
-  --vp-c-brand-1: rgba(240, 40, 60, 1);               /* 链接颜色、强调色 */
-  --vp-c-brand-2: rgba(132, 78, 138, 1);              /* 链接、按钮 hover 颜色 */
-  --vp-c-brand-3: rgba(255, 77, 109, 1);              /* 背景色、边框色 */
-  --vp-c-brand-soft: rgba(255, 130, 167, 0.34);       /* 辅助色 */
-
-  /**
-   * 文本颜色
-   * -------------------------------------------------------------------------- */
-
-  --vp-c-text-1: rgba(66, 50, 56, 1);                 /* 主要文本 */
-  --vp-c-text-2: rgba(66, 50, 56, 0.78);              /* 次要文本 */
-  --vp-c-text-3: rgba(66, 50, 56, 0.56);              /* 辅助文本 */
-
-  /**
-   * 背景色
-   * -------------------------------------------------------------------------- */
-
-  --vp-c-bg: rgba(255, 253, 254, 1);                  /* 主体背景 */
-  --vp-nav-bg-color: rgba(255, 210, 220, 1);          /* 导航栏背景 */
-  --vp-nav-screen-bg-color: rgba(255, 210, 220, 1);   /* 移动端导航栏 */
-  --vp-local-nav-bg-color: rgba(255, 210, 220, 1);    /* 页面内导航栏 */
-  --vp-sidebar-bg-color: rgba(255, 215, 225, 1);      /* 侧边栏背景 */
-  --vp-code-block-bg: rgba(255, 228, 235, 1);         /* 代码块背景 */
+  --vp-c-bg: rgba(255, 253, 252, 1);
+  --vp-c-text-1: rgba(66, 50, 56, 1);
+  --vp-c-text-2: rgba(66, 50, 56, 0.78);
+  --vp-c-text-3: rgba(66, 50, 56, 0.56);
+  --vp-c-brand-1: rgba(190, 105, 128, 1);
+  --vp-c-brand-2: rgba(175, 92, 116, 1);
+  --vp-c-brand-3: rgba(158, 78, 102, 1);
+  --vp-c-brand-soft: rgba(190, 105, 128, 0.34);
+  --vp-nav-bg-color: rgba(245, 208, 216, 1);
+  --vp-nav-screen-bg-color: rgba(245, 208, 216, 1);
+  --vp-local-nav-bg-color: rgba(245, 208, 216, 1);
+  --vp-sidebar-bg-color: rgba(245, 208, 216, 1);
+  --vp-code-block-bg: rgba(247, 242, 244, 1);
+}
+/* --- 统一日间文字色（限定日间，不污染夜间） --- */
+:root:not([data-theme="dark"]) .vp-doc .hint-container {
+  color: rgba(25, 25, 30, 1) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container code {
+  background-color: rgba(25, 25, 30, 0.06) !important;
 }
 
+/* --- 各 block 背景+边框（角色色） - 仅日间 --- */
+:root:not([data-theme="dark"]) .vp-doc .hint-container.tip {
+  background-color: rgba(242, 200, 212, 1) !important;
+  border-color: rgba(216, 64, 80, 0.55) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.note {
+  background-color: rgba(216, 228, 240, 1) !important;
+  border-color: rgba(200, 160, 48, 0.55) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.info {
+  background-color: rgba(224, 216, 236, 1) !important;
+  border-color: rgba(168, 128, 192, 0.5) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.warning {
+  background-color: rgba(255, 0, 0, 0.45) !important;
+  border-color: rgba(200, 80, 70, 0.5) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.warning p {
+  color: rgba(25, 25, 30, 1) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.important {
+  background-color: rgba(242, 236, 212, 1) !important;
+  border-color: rgba(200, 160, 64, 0.5) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.caution {
+  background-color: rgba(255, 0, 0, 0.35) !important;
+  border-color: rgba(220, 50, 50, 0.55) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.caution > hr {
+  border-color: rgba(180, 100, 100, 0.3) !important;
+}
+/* --- 各 block code 色（角色主色 - 第三色 bg 做对比）- 仅日间 --- */
+:root:not([data-theme="dark"]) .vp-doc .hint-container.tip code {
+  color: rgba(216, 64, 80, 1) !important;
+  background-color: rgba(255, 242, 235, 0.35) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.note code {
+  color: rgba(58, 80, 112, 1) !important;
+  background-color: rgba(250, 244, 235, 0.35) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.info code {
+  color: rgba(122, 80, 160, 1) !important;
+  background-color: rgba(242, 240, 248, 0.35) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.warning code {
+  color: rgba(200, 80, 70, 1) !important;
+  background-color: rgba(255, 248, 240, 0.35) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.important code {
+  color: rgba(200, 160, 64, 1) !important;
+  background-color: rgba(252, 248, 230, 0.35) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.caution code {
+  color: rgba(200, 0, 0, 1) !important;
+  background-color: rgba(255, 248, 240, 0.35) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.details {
+  background: rgba(232, 224, 240, 1) !important;
+  border: 1px solid rgba(168, 128, 192, 0.3) !important;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.details summary {
+  font-weight: 600;
+}
+:root:not([data-theme="dark"]) blockquote {
+  background: rgba(242, 200, 212, 0.12) !important;
+  border-left-color: rgba(242, 200, 212, 0.55) !important;
+  padding: 0.5rem 1.2rem;
+}
+:root:not([data-theme="dark"]) mark {
+  --vp-mark-linear-color: rgba(216, 64, 80, 0.25) !important;
+  background-color: rgba(216, 64, 80, 0.08) !important;
+  color: inherit !important;
+}
+:root:not([data-theme="dark"]) .badge.danger {
+  background: rgba(208, 64, 72, 0.15) !important;
+  color: rgba(139, 48, 56, 1) !important;
+}
+:root:not([data-theme="dark"]) .badge.warning {
+  background: rgba(58, 80, 112, 0.12) !important;
+  color: rgba(58, 80, 112, 1) !important;
+}
+:root:not([data-theme="dark"]) .badge.info {
+  background: rgba(74, 56, 112, 0.12) !important;
+  color: rgba(74, 56, 112, 1) !important;
+}
+
+/* ========== 夜间 ========== */
 [data-theme="dark"] {
-
-  /**
-   * 主题色
-   * -------------------------------------------------------------------------- */
-
-  --vp-c-brand-1: rgba(160, 128, 200, 1);             /* 链接颜色、强调色 */
-  --vp-c-brand-2: rgba(243, 180, 194, 1);             /* 链接、按钮 hover 颜色 */
-  --vp-c-brand-3: rgba(132, 76, 138, 1);              /* 背景色、边框色 */
-  --vp-c-brand-soft: rgba(160, 128, 200, 0.34);       /* 辅助色 */
-
-  /**
-   * 文本颜色
-   * -------------------------------------------------------------------------- */
-
-  --vp-c-text-1: rgba(250, 230, 240, 0.86);           /* 主要文本 */
-  --vp-c-text-2: rgba(250, 230, 240, 0.6);            /* 次要文本 */
-  --vp-c-text-3: rgba(250, 230, 240, 0.38);           /* 辅助文本 */
-
-  /**
-   * 背景色
-   * -------------------------------------------------------------------------- */
-
-  --vp-c-bg: rgba(26, 24, 27, 1);                     /* 主体背景 */
-  --vp-nav-bg-color: rgba(30, 22, 38, 1);             /* 导航栏背景 */
-  --vp-nav-screen-bg-color: rgba(30, 22, 38, 1);      /* 移动端导航栏 */
-  --vp-local-nav-bg-color: rgba(20, 15, 25, 1);       /* 页面内导航栏 */
-  --vp-sidebar-bg-color: rgba(20, 15, 25, 1);         /* 侧边栏背景 */
-  --vp-code-block-bg: rgba(20, 14, 26, 1);            /* 代码块背景 */
+  --vp-c-bg: rgba(26, 22, 28, 1);
+  --vp-c-text-1: rgba(224, 212, 228, 0.86);
+  --vp-c-text-2: rgba(224, 212, 228, 0.6);
+  --vp-c-text-3: rgba(224, 212, 228, 0.38);
+  --vp-c-brand-1: rgba(160, 130, 186, 1);
+  --vp-c-brand-2: rgba(180, 150, 206, 1);
+  --vp-c-brand-3: rgba(135, 80, 140, 1);
+  --vp-c-brand-soft: rgba(160, 130, 186, 0.34);
+  --vp-nav-bg-color: rgba(30, 22, 38, 1);
+  --vp-nav-screen-bg-color: rgba(30, 22, 38, 1);
+  --vp-local-nav-bg-color: rgba(20, 15, 25, 1);
+  --vp-sidebar-bg-color: rgba(20, 15, 25, 1);
+  --vp-code-block-bg: rgba(20, 14, 26, 1);
+}
+[data-theme="dark"] .vp-doc .hint-container.tip {
+  background-color: rgba(104, 64, 76, 1) !important;
+  color: rgba(212, 188, 196, 0.9) !important;
+  border-color: rgba(220, 210, 210, 0.7) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.tip code {
+  color: rgba(212, 188, 196, 0.9) !important;
+  background-color: rgba(212, 188, 196, 0.08) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.note {
+  background-color: rgba(60, 18, 18, 1) !important;
+  color: rgba(208, 168, 168, 0.9) !important;
+  border-color: rgba(220, 210, 210, 0.7) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.note code {
+  color: rgba(208, 168, 168, 0.9) !important;
+  background-color: rgba(208, 168, 168, 0.08) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.info {
+  background-color: rgba(42, 31, 50, 1) !important;
+  color: rgba(200, 184, 216, 0.85) !important;
+  border-color: rgba(220, 210, 210, 0.7) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.info code {
+  color: rgba(200, 184, 216, 0.9) !important;
+  background-color: rgba(200, 184, 216, 0.08) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.warning {
+  background-color: rgba(30, 36, 52, 1) !important;
+  color: rgba(184, 200, 216, 0.85) !important;
+  border-color: rgba(220, 210, 210, 0.7) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.warning code {
+  color: rgba(184, 200, 216, 0.9) !important;
+  background-color: rgba(184, 200, 216, 0.08) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.important {
+  background-color: rgba(72, 56, 32, 1) !important;
+  color: rgba(212, 192, 160, 0.9) !important;
+  border-color: rgba(220, 210, 210, 0.7) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.important code {
+  color: rgba(212, 192, 160, 0.9) !important;
+  background-color: rgba(212, 192, 160, 0.08) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.caution {
+  background-color: rgba(130, 38, 38, 1) !important;
+  color: rgba(220, 200, 200, 0.9) !important;
+  border-color: rgba(220, 210, 210, 0.7) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.caution p {
+  color: rgba(220, 200, 200, 0.9) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.caution code {
+  color: rgba(220, 200, 200, 0.9) !important;
+  background-color: rgba(220, 200, 200, 0.08) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.details {
+  background: rgba(55, 42, 68, 1) !important;
+  border: 1px solid rgba(220, 210, 210, 0.7) !important;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+}
+[data-theme="dark"] .vp-doc .hint-container.details summary {
+  font-weight: 600;
+}
+[data-theme="dark"] blockquote {
+  background: rgba(100, 82, 120, 0.12) !important;
+  border-left-color: rgba(160, 128, 192, 0.55) !important;
+  padding: 0.5rem 1.2rem;
+}
+[data-theme="dark"] mark {
+  --vp-mark-linear-color: rgba(160, 130, 186, 0.35) !important;
+  background-color: rgba(160, 130, 186, 0.12) !important;
+  color: inherit !important;
+}
+[data-theme="dark"] .badge.danger {
+  background: rgba(208, 64, 72, 0.2) !important;
+  color: rgba(208, 160, 160, 1) !important;
+}
+[data-theme="dark"] .badge.warning {
+  background: rgba(184, 200, 216, 0.15) !important;
+  color: rgba(184, 200, 216, 1) !important;
+}
+[data-theme="dark"] .badge.info {
+  background: rgba(200, 184, 216, 0.15) !important;
+  color: rgba(200, 184, 216, 1) !important;
 }
