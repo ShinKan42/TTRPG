@@ -1,6 +1,6 @@
 /* ========== 日间 - 淡淡的不透明方案 ========== */
 :root {
-  --vp-c-bg: rgba(255, 253, 252, 1);
+  --vp-c-bg: rgba(242, 222, 228, 1);
   --vp-c-text-1: rgba(66, 50, 56, 1);
   --vp-c-text-2: rgba(66, 50, 56, 0.78);
   --vp-c-text-3: rgba(66, 50, 56, 0.56);
@@ -8,19 +8,24 @@
   --vp-c-brand-2: rgba(175, 92, 116, 1);
   --vp-c-brand-3: rgba(158, 78, 102, 1);
   --vp-c-brand-soft: rgba(190, 105, 128, 0.34);
-  --vp-nav-bg-color: rgba(245, 208, 216, 1);
-  --vp-nav-screen-bg-color: rgba(245, 208, 216, 1);
-  --vp-local-nav-bg-color: rgba(245, 208, 216, 1);
-  --vp-sidebar-bg-color: rgba(245, 208, 216, 1);
+  --vp-nav-bg-color: rgba(230, 188, 200, 1);
+  --vp-nav-screen-bg-color: rgba(230, 188, 200, 1);
+  --vp-local-nav-bg-color: rgba(230, 188, 200, 1);
+  --vp-sidebar-bg-color: rgba(230, 188, 200, 1);
   --vp-code-block-bg: rgba(247, 242, 244, 1);
 }
 /* --- 统一日间文字色（限定日间，不污染夜间） --- */
 :root:not([data-theme="dark"]) .vp-doc .hint-container {
   color: rgba(25, 25, 30, 1) !important;
 }
+/* Day - 全部 code：金色底，正文 code 圆粉 */
+:root:not([data-theme="dark"]) .vp-doc code {
+  background-color: rgba(255, 210, 40, 0.35) !important;
+  color: rgba(240, 75, 100, 1) !important;
+}
+/* Day - block 内 code：金色底不变，文字色由 block 规则覆盖 */
 :root:not([data-theme="dark"]) .vp-doc .hint-container code {
-  background-color: rgba(210, 175, 70, 0.25) !important;
-  color: rgba(25, 25, 30, 1) !important;
+  background-color: rgba(255, 210, 40, 0.35) !important;
 }
 
 /* --- 各 block 背景+边框（角色色） - 仅日间 --- */
@@ -37,7 +42,7 @@
   border-color: rgba(122, 80, 160, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.warning {
-  background-color: rgba(255, 0, 0, 0.45) !important;
+  background-color: rgba(255, 0, 0, 0.1) !important;
   border-color: rgba(200, 0, 0, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.warning p {
@@ -48,11 +53,30 @@
   border-color: rgba(200, 160, 64, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.caution {
-  background-color: rgba(255, 0, 0, 0.35) !important;
+  background-color: rgba(255, 0, 0, 0.1) !important;
   border-color: rgba(220, 50, 50, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.caution > hr {
   border-color: rgba(180, 100, 100, 0.3) !important;
+}
+/* --- Day block 内 code 文字色（激进纯色） --- */
+:root:not([data-theme="dark"]) .vp-doc .hint-container.tip code {
+  color: rgba(235, 25, 70, 1) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.note code {
+  color: rgba(10, 80, 210, 1) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.info code {
+  color: rgba(145, 35, 240, 1) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.warning code {
+  color: rgba(255, 0, 0, 1) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.important code {
+  color: rgba(140, 75, 10, 1) !important;
+}
+:root:not([data-theme="dark"]) .vp-doc .hint-container.caution code {
+  color: rgba(180, 20, 20, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.details {
   background: rgba(232, 224, 240, 1) !important;
@@ -69,9 +93,14 @@
   padding: 0.5rem 1.2rem;
 }
 :root:not([data-theme="dark"]) mark {
-  --vp-mark-linear-color: rgba(216, 64, 80, 0.25) !important;
-  background-color: rgba(216, 64, 80, 0.08) !important;
+  --vp-mark-linear-color: transparent !important;
+  background-color: transparent !important;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(255, 0, 0, 1) !important;
   color: inherit !important;
+  font-weight: 550 !important;
 }
 :root:not([data-theme="dark"]) .badge.danger {
   background: rgba(208, 64, 72, 0.15) !important;
@@ -102,9 +131,14 @@
   --vp-sidebar-bg-color: rgba(20, 15, 25, 1);
   --vp-code-block-bg: rgba(20, 14, 26, 1);
 }
+/* Night - 全部 code：金色底，正文 code 焰紫 */
+[data-theme="dark"] .vp-doc code {
+  background-color: rgba(210, 175, 70, 0.15) !important;
+  color: rgba(190, 120, 255, 1) !important;
+}
+/* Night - block 内 code：金色底不变，文字色由 block 规则覆盖 */
 [data-theme="dark"] .vp-doc .hint-container code {
-  background-color: rgba(210, 175, 70, 0.25) !important;
-  color: rgba(224, 212, 228, 0.9) !important;
+  background-color: rgba(210, 175, 70, 0.15) !important;
 }
 [data-theme="dark"] .vp-doc .hint-container.tip {
   background-color: rgba(104, 64, 76, 1) !important;
@@ -139,6 +173,25 @@
 [data-theme="dark"] .vp-doc .hint-container.caution p {
   color: rgba(220, 200, 200, 0.9) !important;
 }
+/* --- Night block 内 code 文字色（激进纯色） --- */
+[data-theme="dark"] .vp-doc .hint-container.tip code {
+  color: rgba(255, 75, 120, 1) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.note code {
+  color: rgba(255, 110, 90, 1) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.info code {
+  color: rgba(250, 180, 255, 1) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.warning code {
+  color: rgba(160, 235, 255, 1) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.important code {
+  color: rgba(255, 245, 60, 1) !important;
+}
+[data-theme="dark"] .vp-doc .hint-container.caution code {
+  color: rgba(255, 255, 110, 1) !important;
+}
 [data-theme="dark"] .vp-doc .hint-container.details {
   background: rgba(55, 42, 68, 1) !important;
   border: 1px solid rgba(220, 210, 210, 0.7) !important;
@@ -154,9 +207,14 @@
   padding: 0.5rem 1.2rem;
 }
 [data-theme="dark"] mark {
-  --vp-mark-linear-color: rgba(160, 130, 186, 0.35) !important;
-  background-color: rgba(160, 130, 186, 0.12) !important;
+  --vp-mark-linear-color: transparent !important;
+  background-color: transparent !important;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(255, 0, 0, 1) !important;
   color: inherit !important;
+  font-weight: 550 !important;
 }
 [data-theme="dark"] .badge.danger {
   background: rgba(208, 64, 72, 0.2) !important;
