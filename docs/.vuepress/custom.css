@@ -19,64 +19,40 @@
   color: rgba(25, 25, 30, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container code {
-  background-color: rgba(25, 25, 30, 0.06) !important;
+  background-color: rgba(210, 175, 70, 0.25) !important;
+  color: rgba(25, 25, 30, 1) !important;
 }
 
 /* --- 各 block 背景+边框（角色色） - 仅日间 --- */
 :root:not([data-theme="dark"]) .vp-doc .hint-container.tip {
   background-color: rgba(242, 200, 212, 1) !important;
-  border-color: rgba(216, 64, 80, 0.55) !important;
+  border-color: rgba(216, 64, 80, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.note {
   background-color: rgba(216, 228, 240, 1) !important;
-  border-color: rgba(200, 160, 48, 0.55) !important;
+  border-color: rgba(58, 80, 112, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.info {
   background-color: rgba(224, 216, 236, 1) !important;
-  border-color: rgba(168, 128, 192, 0.5) !important;
+  border-color: rgba(122, 80, 160, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.warning {
   background-color: rgba(255, 0, 0, 0.45) !important;
-  border-color: rgba(200, 80, 70, 0.5) !important;
+  border-color: rgba(200, 0, 0, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.warning p {
   color: rgba(25, 25, 30, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.important {
   background-color: rgba(242, 236, 212, 1) !important;
-  border-color: rgba(200, 160, 64, 0.5) !important;
+  border-color: rgba(200, 160, 64, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.caution {
   background-color: rgba(255, 0, 0, 0.35) !important;
-  border-color: rgba(220, 50, 50, 0.55) !important;
+  border-color: rgba(220, 50, 50, 1) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.caution > hr {
   border-color: rgba(180, 100, 100, 0.3) !important;
-}
-/* --- 各 block code 色（角色主色 - 第三色 bg 做对比）- 仅日间 --- */
-:root:not([data-theme="dark"]) .vp-doc .hint-container.tip code {
-  color: rgba(216, 64, 80, 1) !important;
-  background-color: rgba(255, 242, 235, 0.35) !important;
-}
-:root:not([data-theme="dark"]) .vp-doc .hint-container.note code {
-  color: rgba(58, 80, 112, 1) !important;
-  background-color: rgba(250, 244, 235, 0.35) !important;
-}
-:root:not([data-theme="dark"]) .vp-doc .hint-container.info code {
-  color: rgba(122, 80, 160, 1) !important;
-  background-color: rgba(242, 240, 248, 0.35) !important;
-}
-:root:not([data-theme="dark"]) .vp-doc .hint-container.warning code {
-  color: rgba(200, 80, 70, 1) !important;
-  background-color: rgba(255, 248, 240, 0.35) !important;
-}
-:root:not([data-theme="dark"]) .vp-doc .hint-container.important code {
-  color: rgba(200, 160, 64, 1) !important;
-  background-color: rgba(252, 248, 230, 0.35) !important;
-}
-:root:not([data-theme="dark"]) .vp-doc .hint-container.caution code {
-  color: rgba(200, 0, 0, 1) !important;
-  background-color: rgba(255, 248, 240, 0.35) !important;
 }
 :root:not([data-theme="dark"]) .vp-doc .hint-container.details {
   background: rgba(232, 224, 240, 1) !important;
@@ -126,50 +102,34 @@
   --vp-sidebar-bg-color: rgba(20, 15, 25, 1);
   --vp-code-block-bg: rgba(20, 14, 26, 1);
 }
+[data-theme="dark"] .vp-doc .hint-container code {
+  background-color: rgba(210, 175, 70, 0.25) !important;
+  color: rgba(224, 212, 228, 0.9) !important;
+}
 [data-theme="dark"] .vp-doc .hint-container.tip {
   background-color: rgba(104, 64, 76, 1) !important;
   color: rgba(212, 188, 196, 0.9) !important;
   border-color: rgba(220, 210, 210, 0.7) !important;
-}
-[data-theme="dark"] .vp-doc .hint-container.tip code {
-  color: rgba(212, 188, 196, 0.9) !important;
-  background-color: rgba(212, 188, 196, 0.08) !important;
 }
 [data-theme="dark"] .vp-doc .hint-container.note {
   background-color: rgba(60, 18, 18, 1) !important;
   color: rgba(208, 168, 168, 0.9) !important;
   border-color: rgba(220, 210, 210, 0.7) !important;
 }
-[data-theme="dark"] .vp-doc .hint-container.note code {
-  color: rgba(208, 168, 168, 0.9) !important;
-  background-color: rgba(208, 168, 168, 0.08) !important;
-}
 [data-theme="dark"] .vp-doc .hint-container.info {
   background-color: rgba(42, 31, 50, 1) !important;
   color: rgba(200, 184, 216, 0.85) !important;
   border-color: rgba(220, 210, 210, 0.7) !important;
-}
-[data-theme="dark"] .vp-doc .hint-container.info code {
-  color: rgba(200, 184, 216, 0.9) !important;
-  background-color: rgba(200, 184, 216, 0.08) !important;
 }
 [data-theme="dark"] .vp-doc .hint-container.warning {
   background-color: rgba(30, 36, 52, 1) !important;
   color: rgba(184, 200, 216, 0.85) !important;
   border-color: rgba(220, 210, 210, 0.7) !important;
 }
-[data-theme="dark"] .vp-doc .hint-container.warning code {
-  color: rgba(184, 200, 216, 0.9) !important;
-  background-color: rgba(184, 200, 216, 0.08) !important;
-}
 [data-theme="dark"] .vp-doc .hint-container.important {
   background-color: rgba(72, 56, 32, 1) !important;
   color: rgba(212, 192, 160, 0.9) !important;
   border-color: rgba(220, 210, 210, 0.7) !important;
-}
-[data-theme="dark"] .vp-doc .hint-container.important code {
-  color: rgba(212, 192, 160, 0.9) !important;
-  background-color: rgba(212, 192, 160, 0.08) !important;
 }
 [data-theme="dark"] .vp-doc .hint-container.caution {
   background-color: rgba(130, 38, 38, 1) !important;
@@ -178,10 +138,6 @@
 }
 [data-theme="dark"] .vp-doc .hint-container.caution p {
   color: rgba(220, 200, 200, 0.9) !important;
-}
-[data-theme="dark"] .vp-doc .hint-container.caution code {
-  color: rgba(220, 200, 200, 0.9) !important;
-  background-color: rgba(220, 200, 200, 0.08) !important;
 }
 [data-theme="dark"] .vp-doc .hint-container.details {
   background: rgba(55, 42, 68, 1) !important;
