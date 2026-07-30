@@ -20,54 +20,10 @@ export default defineCollection({
 			],
 		},
 		{
-			text: '📖 职业选择 🗡️',
-			collapsed: false,
-			prefix: 'class',
-			items: [
-				{ text: '选择思路 💭', link: 'guide' },
-				{
-					text: '⚔️ 战士组',
-					collapsed: true,
-					items: [
-						{ text: '野蛮人 🪓', link: 'https://5e.kiwee.top/classes.html#野蛮人_phb%2724' },
-						{ text: '战士 ⚔️', link: 'https://5e.kiwee.top/classes.html#战士_phb%2724' },
-						{ text: '武僧 🥋', link: 'https://5e.kiwee.top/classes.html#武僧_phb%2724' },
-						{ text: '圣武士 🛡️', link: 'https://5e.kiwee.top/classes.html#圣武士_phb%2724' },
-					],
-				},
-				{
-					text: '🎯 专家组',
-					collapsed: true,
-					items: [
-						{ text: '吟游诗人 🎵', link: 'https://5e.kiwee.top/classes.html#吟游诗人_phb%2724' },
-						{ text: '游侠 🏹', link: 'https://5e.kiwee.top/classes.html#游侠_phb%2724' },
-						{ text: '游荡者 🔪', link: 'https://5e.kiwee.top/classes.html#游荡者_phb%2724' },
-					],
-				},
-				{
-					text: '🔮 法师组',
-					collapsed: true,
-					items: [
-						{ text: '术士 🔮', link: 'https://5e.kiwee.top/classes.html#术士_phb%2724' },
-						{ text: '魔契师 👁️', link: 'https://5e.kiwee.top/classes.html#魔契师_phb%2724' },
-						{ text: '法师 📖', link: 'https://5e.kiwee.top/classes.html#法师_phb%2724' },
-					],
-				},
-				{
-					text: '⛪ 神术组',
-					collapsed: true,
-					items: [
-						{ text: '牧师 ⛪', link: 'https://5e.kiwee.top/classes.html#牧师_phb%2724' },
-						{ text: '德鲁伊 🌿', link: 'https://5e.kiwee.top/classes.html#德鲁伊_phb%2724' },
-					],
-				},
-				{ text: '⚙️ 奇械师', link: 'https://5e.kiwee.top/classes.html#奇械师_tce' },
-			],
-		},
-		{
 			text: '🔗 资料站跳转',
 			collapsed: false,
 			items: [
+				{ text: '职业 🗡️', link: 'https://5e.kiwee.top/classes.html' },
 				{ text: '种族 🧝', link: 'https://5e.kiwee.top/races.html' },
 				{ text: '专长 💪', link: 'https://5e.kiwee.top/feats.html' },
 				{ text: '法术 ✨', link: 'https://5e.kiwee.top/spells.html' },
