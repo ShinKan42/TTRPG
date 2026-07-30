@@ -10,7 +10,7 @@ export default defineCollection({
 		{
 			text: '🐉 奇幻类',
 			collapsed: false,
-			items: ['menu/dnd_5r', 'menu/dagger_heart'],
+			items: ['menu/dnd_5r'],
 		},
 	],
 });
