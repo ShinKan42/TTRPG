@@ -8,6 +8,14 @@ icon: "tabler:arrow-guide"
 
 ## **快速跳转**
 
+**上一步**
+
+::: card
+
+[团前准备](./preparation)
+
+:::
+
 **本页**
 
 :::: card-grid
@@ -604,7 +612,7 @@ RED 有 **66 项技能**，每项绑定一个属性。
 | 劝说 Persuasion | COOL | 让人按你的想法走 |
 | 个人打扮 Personal Grooming | COOL | 打理自己 |
 | 交易 Trading | COOL | 砍价、识货、辨别假货 |
-| 衣品/时尚 Wardrobe & Style | COOL | 穿对衣服——见[服饰](#八、你穿什么-你带什么) |
+| 衣品/时尚 Wardrobe & Style | COOL | 穿对衣服——见[服饰](#服饰) |
 
 @tab 技术（TECH）
 
