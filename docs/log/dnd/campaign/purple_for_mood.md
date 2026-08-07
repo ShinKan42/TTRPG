@@ -46,6 +46,8 @@ tags:
 
 ![功夫病院](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/功夫病院.jpg)
 
+![功夫浴缸](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/功夫浴缸.jpg)
+
 ---
 
 ::: center
@@ -160,6 +162,8 @@ tags:
 
 :::
 
+![不被压力](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/不被压力.jpg)
+
 ![不吃压力](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/不吃压力.jpg)
 
 ::: card-grid
@@ -191,6 +195,56 @@ tags:
 :::
 
 @[artPlayer](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/On%20the%20Couch.mp4)
+
+---
+
+::: center
+
+### **橙毛皮克精生日 🎂**
+
+:::
+
+![故事-橙毛皮克精生日](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/故事-橙毛皮克精生日.jpg)
+
+---
+
+::: center
+
+### **魔邓婶 🔮**
+
+:::
+
+![故事-魔邓婶](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/故事-魔邓婶.jpg)
+
+---
+
+::: center
+
+### **神秘表格 📜**
+
+:::
+
+![故事-神秘表格](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/故事-神秘表格.jpg)
+
+---
+
+::: center
+
+### **大白+拉+卡拉克+瑟曦 🌟**
+
+:::
+
+![故事-大白拉克+卡拉克曦](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/故事-大白拉克+卡拉克曦.jpg)
+
+---
+
+::: center
+
+### **露+大白+瑟曦+露露 🌙**
+
+:::
+
+![故事-露大白+瑟曦露](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/故事-露大白+瑟曦露.jpg)
 
 ---
 
@@ -244,6 +298,16 @@ tags:
 
 ::: center
 
+### **露提写真集发售 📸**
+
+:::
+
+![露提-露提写真集发售](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/露提-露提写真集发售.jpg)
+
+---
+
+::: center
+
 ## **👼 拉斐尔**
 
 :::
@@ -274,7 +338,7 @@ tags:
 
 ::: card-grid
 
-![瑟拉 梦 1](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/瑟拉%20梦%201.jpg)
+![瑟拉 梦 1](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/瑟拉%20梦1.jpg)
 
 ![瑟拉 梦 2](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/瑟拉%20梦%202.jpg)
 
@@ -361,6 +425,16 @@ tags:
 :::
 
 @[artPlayer](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/Not%20Just%20a%20Bitch.mp4)
+
+---
+
+::: center
+
+### **石头 🪨**
+
+:::
+
+![石头](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/石头.jpg)
 
 ---
 
@@ -518,6 +592,16 @@ tags:
 :::
 
 ![Raven 老母鸡](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/Raven%20-%20老母鸡.jpg)
+
+---
+
+::: center
+
+### **不为人知 Raven 🦅**
+
+:::
+
+![Raven-不为人知](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/Raven-不为人知.jpg)
 
 ---
 
