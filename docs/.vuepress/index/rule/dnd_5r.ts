@@ -77,6 +77,25 @@ export default defineCollection({
 			],
 		},
 		{
+			text: '📚 更多资料',
+			collapsed: false,
+			items: [
+				{
+					text: '官方资料 📖',
+					prefix: 'official',
+					collapsed: true,
+					items: [
+						{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
+					],
+				},
+				{
+					text: '社区资料 🤝 🚧',
+					collapsed: true,
+					items: [],
+				},
+			],
+		},
+		{
 			text: '👤 神官 ー 信観',
 			collapsed: false,
 			prefix: 'home_brew',

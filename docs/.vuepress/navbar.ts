@@ -100,8 +100,25 @@ export const navbar = defineNavbarConfig([
 				],
 			},
 			{
-				text: '👤 神官 ー 信観',
-				items: [
+					text: '📚 更多资料',
+					items: [
+						{
+							text: '官方资料 📖',
+							items: [
+								{ text: '三龙牌 🐉', link: '/rule/dnd_5r/official/three_dragon_ante', activeMatch: '^/rule/dnd_5r/official/three_dragon_ante' },
+							],
+						},
+						{
+							text: '社区资料 🤝 🚧',
+							items: [
+								{ text: '🚧', link: '/dnd_5r/', activeMatch: '^/dnd_5r/' },
+							],
+						},
+					],
+				},
+				{
+					text: '👤 神官 ー 信観',
+					items: [
 					{
 						text: 'ACG 角色 🎭',
 						link: '/rule/dnd_5r/home_brew/acg/',
