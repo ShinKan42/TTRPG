@@ -214,7 +214,11 @@ tags:
 
 :::
 
+::: center
+
 ![故事-魔邓婶](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/故事-魔邓婶.jpg)
+
+:::
 
 ---
 
