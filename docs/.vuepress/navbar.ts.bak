@@ -61,11 +61,6 @@ export const navbar = defineNavbarConfig([
 						activeMatch: '^/rule/dnd_5r/guide/about',
 					},
 					{
-						text: '职业选择 🗡️',
-						link: '/rule/dnd_5r/class/guide',
-						activeMatch: '^/rule/dnd_5r/class/',
-					},
-					{
 						text: '车卡指南 📖',
 						link: '/rule/dnd_5r/guide/character_creation',
 						activeMatch: '^/rule/dnd_5r/guide/character_creation',
@@ -109,13 +104,15 @@ export const navbar = defineNavbarConfig([
 					items: [
 						{
 							text: '官方资料 📖',
-							link: '/rule/dnd_5r/official/',
-							activeMatch: '^/rule/dnd_5r/official/',
+							items: [
+								{ text: '三龙牌 🐉', link: '/rule/dnd_5r/official/three_dragon_ante', activeMatch: '^/rule/dnd_5r/official/three_dragon_ante' },
+							],
 						},
 						{
 							text: '社区资料 🤝 🚧',
-							link: '/rule/dnd_5r/community/',
-							activeMatch: '^/rule/dnd_5r/community/',
+							items: [
+								{ text: '🚧', link: '/dnd_5r/', activeMatch: '^/dnd_5r/' },
+							],
 						},
 					],
 				},

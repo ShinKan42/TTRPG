@@ -12,12 +12,56 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: 'DND 怎么玩 ❔', link: 'about' },
-				{ text: '职业选择 🗡️', link: '/rule/dnd_5r/class/guide' },
 				{ text: '车卡指南 📖', link: 'character_creation' },
 				{ text: '常用骰法 🎲', link: 'quick_roll' },
 				{ text: '扮演 🎭', link: 'roleplay' },
 				{ text: '战斗 ⚔️', link: 'combat' },
 				{ text: '常见问题 ❓', link: 'faq' },
+			],
+		},
+		{
+			text: '📖 职业选择 🗡️',
+			collapsed: false,
+			prefix: 'class',
+			items: [
+				{ text: '选择思路 💭', link: 'guide' },
+				{
+					text: '⚔️ 战士组',
+					collapsed: true,
+					items: [
+						{ text: '野蛮人 🪓', link: 'https://5e.kiwee.top/classes.html#野蛮人_phb%2724' },
+						{ text: '战士 ⚔️', link: 'https://5e.kiwee.top/classes.html#战士_phb%2724' },
+						{ text: '武僧 🥋', link: 'https://5e.kiwee.top/classes.html#武僧_phb%2724' },
+						{ text: '圣武士 🛡️', link: 'https://5e.kiwee.top/classes.html#圣武士_phb%2724' },
+					],
+				},
+				{
+					text: '🎯 专家组',
+					collapsed: true,
+					items: [
+						{ text: '吟游诗人 🎵', link: 'https://5e.kiwee.top/classes.html#吟游诗人_phb%2724' },
+						{ text: '游侠 🏹', link: 'https://5e.kiwee.top/classes.html#游侠_phb%2724' },
+						{ text: '游荡者 🔪', link: 'https://5e.kiwee.top/classes.html#游荡者_phb%2724' },
+					],
+				},
+				{
+					text: '🔮 法师组',
+					collapsed: true,
+					items: [
+						{ text: '术士 🔮', link: 'https://5e.kiwee.top/classes.html#术士_phb%2724' },
+						{ text: '魔契师 👁️', link: 'https://5e.kiwee.top/classes.html#魔契师_phb%2724' },
+						{ text: '法师 📖', link: 'https://5e.kiwee.top/classes.html#法师_phb%2724' },
+					],
+				},
+				{
+					text: '⛪ 神术组',
+					collapsed: true,
+					items: [
+						{ text: '牧师 ⛪', link: 'https://5e.kiwee.top/classes.html#牧师_phb%2724' },
+						{ text: '德鲁伊 🌿', link: 'https://5e.kiwee.top/classes.html#德鲁伊_phb%2724' },
+					],
+				},
+				{ text: '⚙️ 奇械师', link: 'https://5e.kiwee.top/classes.html#奇械师_tce' },
 			],
 		},
 		{
@@ -41,17 +85,13 @@ export default defineCollection({
 					prefix: 'official',
 					collapsed: true,
 					items: [
-						'index',
 						{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
 					],
 				},
 				{
 					text: '社区资料 🤝 🚧',
-					prefix: 'community',
 					collapsed: true,
-					items: [
-						'index',
-					],
+					items: [],
 				},
 			],
 		},
