@@ -7,6 +7,7 @@ import Cyberpunk_Red from './rule/cyberpunk_red.ts';
 import Avatar_Legend from './rule/avatar_legend.ts';
 
 import Modules from './modules.ts';
+import Prep from './prep.ts';
 
 import About from './about.ts';
 
@@ -20,6 +21,7 @@ export default defineCollections([
 	Avatar_Legend,
 	//
 	Modules,
+	Prep,
 	Log,
 	About,
 	//

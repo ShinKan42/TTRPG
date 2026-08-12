@@ -196,6 +196,12 @@ export const navbar = defineNavbarConfig([
 					{ text: 'DND 5R 🔮', link: '/module/menu/dnd_5r', activeMatch: '^/module/menu/dnd_5r' },
 				],
 			},
+			{
+				text: '📋 主持备团',
+				items: [
+					{ text: 'DND 5R 🔮', link: '/prep/menu/dnd_5r', activeMatch: '^/prep/menu/dnd_5r' },
+				],
+			},
 		],
 	},
 	{
