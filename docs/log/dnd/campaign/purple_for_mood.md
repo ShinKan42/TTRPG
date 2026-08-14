@@ -492,7 +492,7 @@ tags:
 
 :::
 
-![瑟曦%苦命](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/瑟曦%20-%20苦命.jpg)
+![瑟曦-苦命](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/瑟曦%20-%20苦命.jpg)
 
 ![瑟曦-苦命2](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/瑟曦%20-%20苦命2.jpg)
 
@@ -714,7 +714,7 @@ tags:
 
 ![暴击 2](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/暴击%202.jpg)
 
-![拉%20-%20被针对](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/拉%20-%20被针对.png)
+![拉-被针对](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/拉%20-%20被针对.png)
 
 :::
 
