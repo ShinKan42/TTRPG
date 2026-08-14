@@ -31,6 +31,14 @@ createTime: 2026/08/13
 
 [📖 案卷](/prep/dnd_5r/reach_for_the_stars.md)
 
+---
+
+#### **帕丽赛特宫的宴会 🎉**
+
+10 级 · 妖精荒野冬至宴会 · 偷窃即救援
+
+[📖 案卷](/prep/dnd_5r/party_at_paliset_hall.md)
+
 :::
 
 ::::::

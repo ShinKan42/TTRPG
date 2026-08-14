@@ -29,6 +29,14 @@ export default defineUserConfig({
 		],
 
 	theme: plumeTheme({
+
+		// GM 备团文件夹加密（2026-08-14 DM 指令：密码 114514）
+		encrypt: {
+			rules: {
+				'/prep/': '114514',
+			},
+		},
+
 		// 添加您的部署域名
 		// hostname: 'https://your_site_url',
 
@@ -82,6 +90,11 @@ export default defineUserConfig({
 
 
 		plugins: {
+			// GM 备团页不进 sitemap（加密页不应被搜索引擎索引）
+			sitemap: {
+				exclude: ['/prep/', '/prep/**'],
+			},
+
 			/**
 			 * Shiki 代码高亮
 			 * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
