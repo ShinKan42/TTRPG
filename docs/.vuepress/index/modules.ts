@@ -7,6 +7,7 @@ export default defineCollection({
 	dir: 'module',
 	sidebar: [
 		'menu/index',
+		'menu/collection',
 		{
 			text: '🐉 奇幻类',
 			collapsed: false,

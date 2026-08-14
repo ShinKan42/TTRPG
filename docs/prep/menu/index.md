@@ -2,31 +2,30 @@
 title: 备团
 createTime: 2026/08/13
 sitemap: false
-search: false
 ---
 
 ::: center
 
-### **📋 主持备团**
+### **📋 主持备团 · 案卷总索引**
 
 :::
 
 ---
 
-::: center
+::: tip 规则自由
 
-选择规则系统查看备团案卷
+案卷适配的模组同样可以==换规则带==——按主题挑故事，规则自由选
 
 :::
 
-:::::: card-grid
+---
 
 ::: card
 
-#### **🐉 奇幻类**
+#### **🔑 黄金宝库之钥**
 
-[🔮 DND 5R](/prep/menu/dnd_5r.md)
+[攀手星空✨](/prep/dnd_5r/reach_for_the_stars.md) —— 3 级 · 异怪宅邸寻找《天界典籍》
+
+[帕丽赛特宫的宴会🎉](/prep/dnd_5r/party_at_paliset_hall.md) —— 10 级 · 妖精荒野冬至宴会偷钻石
 
 :::
-
-::::

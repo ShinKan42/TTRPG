@@ -189,7 +189,8 @@ export const navbar = defineNavbarConfig([
 	{
 		text: '🎲 挑选模组',
 		items: [
-			{ text: '快速选择 ⚡', link: '/module/menu/', activeMatch: '^/module/menu/' },
+			{ text: '快速选择 ⚡', link: '/module/menu/', activeMatch: '^/module/menu/$' },
+			{ text: '总索引 📋', link: '/module/menu/collection', activeMatch: '^/module/menu/collection' },
 			{
 				text: '🐉 奇幻类',
 				items: [
@@ -199,6 +200,7 @@ export const navbar = defineNavbarConfig([
 			{
 				text: '📋 主持备团',
 				items: [
+					{ text: '案卷总索引 📋', link: '/prep/menu/', activeMatch: '^/prep/menu/$' },
 					{ text: 'DND 5R 🔮', link: '/prep/menu/dnd_5r', activeMatch: '^/prep/menu/dnd_5r' },
 				],
 			},
