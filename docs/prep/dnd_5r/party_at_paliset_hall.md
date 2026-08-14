@@ -2,6 +2,8 @@
 title: 帕丽赛特宫的宴会
 createTime: 2026/08/14
 description: GM 备团案卷（加密）
+sitemap: false
+search: false
 ---
 
 ::: center

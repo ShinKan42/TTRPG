@@ -1,6 +1,8 @@
 ---
 title: 🔮 DND 5R
 createTime: 2026/08/13
+sitemap: false
+search: false
 ---
 
 ::: center

@@ -37,6 +37,11 @@ export default defineUserConfig({
 			},
 		},
 
+		// GM 备团加密页不进站内搜索（目录级过滤，防止搜索框泄露案卷标题/章节）
+		search: {
+			isSearchable: (page: any) => !page.path.startsWith('/prep/'),
+		},
+
 		// 添加您的部署域名
 		// hostname: 'https://your_site_url',
 
@@ -91,8 +96,14 @@ export default defineUserConfig({
 
 		plugins: {
 			// GM 备团页不进 sitemap（加密页不应被搜索引擎索引）
+			// 注意：excludePaths 只支持精确路径；新增 prep 页时同步在页面 frontmatter 写 sitemap: false
 			sitemap: {
-				exclude: ['/prep/', '/prep/**'],
+				excludePaths: [
+					'/prep/menu/',
+					'/prep/menu/dnd_5r.html',
+					'/prep/dnd_5r/reach_for_the_stars.html',
+					'/prep/dnd_5r/party_at_paliset_hall.html',
+				],
 			},
 
 			/**
