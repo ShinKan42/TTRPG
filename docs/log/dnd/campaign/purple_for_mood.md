@@ -38,13 +38,21 @@ tags:
 
 ::: center
 
-### **PC 卡 🎴**
+### **全员 Token 🎫**
 
 :::
 
 ![PC 卡 - 1](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/PC%20卡%20-%201.jpg)
 
 ![PC 卡 - 2](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/PC%20卡%20-%202.png)
+
+---
+
+::: center
+
+### **露提理发后 💇**
+
+:::
 
 ![露提-理发](https://bed.shinkan42.art/log/dnd_5r/purple_for_mood/露提-理发.png)
 
