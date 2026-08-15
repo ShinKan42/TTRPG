@@ -4607,4 +4607,14 @@ search: false
 
 - [灰机 wiki·黄金宝库之钥（中文全书页）](https://dnd.huijiwiki.com/wiki/金色金库的钥匙)——本篇=2.12 帕利塞特大厅的派对（站方译名「帕利塞特大厅」，本案卷作「帕丽赛特宫」）
 - [5etools·Keys from the Golden Vault（英文原书）](https://5e.tools/adventure.html#kftgv,p,13)——本篇 Ch13 Party at Paliset Hall
-- 关键译名：Shard Solitaire=**孤石**｜Paliset Hall=**帕丽赛特宫**｜Crestfall Coven=**沮丧集会**｜Loch Wynnis=**温尼斯湖**｜Fifel=**菲弗尔**｜Oren=**欧伦**｜Anisita=**阿尼西塔**
+**关键译名对照**
+
+| 原文 | 本案卷译名 |
+|---|---|
+| Shard Solitaire | **孤石** |
+| Paliset Hall | **帕丽赛特宫** |
+| Crestfall Coven | **沮丧集会** |
+| Loch Wynnis | **温尼斯湖** |
+| Fifel | **菲弗尔** |
+| Oren | **欧伦** |
+| Anisita | **阿尼西塔** |
