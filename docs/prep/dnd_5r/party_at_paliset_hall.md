@@ -3334,13 +3334,13 @@ search: false
 
 | NPC | 身份 | 卡 |
 |---|---|---|
-| [维拉诺·哈尼韦尔 Verano](#npc-verano) | 银月城记者 | 平民 |
+| [维拉诺·优蜜 Verano](#npc-verano) | 银月城记者 | 平民 |
 | [艾格西 Eggsy](#npc-eggsy) | 侏儒扒手（假请帖） | 间谍 MM |
 | [卡登·兰尼斯 Kaden](#npc-kaden) | 找真爱的人类青年 | 平民 |
 | [雅莱拉 Yalara](#npc-yalara) | 落寞精灵歌姬 | 平民 |
 | [贝伦加尔 Berengar](#npc-berengar) | 埃利法斯的熊人老友 | 熊人（同底卡） |
 
-#### <a id="npc-verano"></a>维拉诺·哈尼韦尔 Verano Honeywell——银月城《银月晚报》记者
+#### <a id="npc-verano"></a>维拉诺·优蜜 Verano Honeywell——银月城《银月晚报》记者
 
 ::: center
 **是什么 · 做什么**
