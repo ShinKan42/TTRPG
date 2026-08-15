@@ -31,7 +31,7 @@ search: false
 | # | 龙 | 冒险 | 英文名 | 等级 | 状态 |
 |:-:|:--:|:-----|:--------|:----:|:----:|
 | 1 | 🟢 绿龙 | 日落时分的死神 | Death at Sunset | 1 | 待录 |
-| 2 | 🟡 金龙 | 面包师的捉襟见肘 | Baker's Doesn't | 3 | 录入中 |
+| 2 | 🟡 金龙 | 面包师的捉襟见肘 | Baker's Doesn't | 3 | [📖 案卷](/prep/dnd_5r/dragon_delves/bakers_doesnt.md) |
 | 3 | ⚪ 银龙 | 奥喀斯之命 | The Will of Orcus | 4 | 待录 |
 | 4 | 🟤 黄铜龙 | 虚空唤谁而鸣 | For Whom the Void Calls | 5 | 待录 |
 | 5 | 🟠 青铜龙 | 纳基凯尔之龙 | The Dragon of Najkir | 7 | 待录 |

@@ -18,7 +18,7 @@ export default defineCollection({
 		},
 		{
 			text: '🏛️ 巨龙迷城',
-			items: ['dnd_5r/dragon_delves/index'],
+			items: ['dnd_5r/dragon_delves/index', 'dnd_5r/dragon_delves/bakers_doesnt'],
 		},
 		{
 			text: '🔑 黄金宝库之钥',

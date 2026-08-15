@@ -108,6 +108,7 @@ export default defineUserConfig({
 					'/prep/dnd_5r/dragons_of_stormwrack_isle.html',
 					'/prep/dnd_5r/dragon_delves/',
 					'/prep/dnd_5r/dragon_delves/index.html',
+					'/prep/dnd_5r/dragon_delves/bakers_doesnt.html',
 					],
 			},
 
