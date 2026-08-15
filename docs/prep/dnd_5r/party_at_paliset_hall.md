@@ -3834,15 +3834,15 @@ search: false
 
 #### 玩家地图 12.1——菲弗尔手绘的庄园大致布局
 
-![玩家地图 12.1](/img/kftgv/091-12-003.player-map.webp "菲弗尔手绘的庄园大致布局，发给玩家用")
+<img src="/img/kftgv/091-12-003.player-map.webp" alt="玩家地图 12.1" title="菲弗尔手绘的庄园大致布局，发给玩家用">
 
 - 玩家地图由**菲弗尔**应询画出交给角色（原文：角色们询问菲弗尔关于宫殿布局时他画出大致地图，见地图 12.1）
 
 #### DM 地图 12.2——全宫楼层平面与 P 区编号
 
-![DM 地图 12.2](/img/kftgv/092-map-12.02-dms-map.webp "带 P 区编号的 DM 地图，带团对照用")
+<img src="/img/kftgv/092-map-12.02-dms-map.webp" alt="DM 地图 12.2" title="带 P 区编号的 DM 地图，带团对照用">
 
-![DM 地图无编号版](/img/kftgv/093-map-12.02-dms-map-player.webp "同布局无 P 区标注，画面更干净")
+<img src="/img/kftgv/093-map-12.02-dms-map-player.webp" alt="DM 地图无编号版" title="同布局无 P 区标注，画面更干净">
 
 ### 村（物质侧前置）
 
