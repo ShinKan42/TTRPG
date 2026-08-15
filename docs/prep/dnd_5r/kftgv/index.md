@@ -37,3 +37,37 @@ search: false
 :::
 
 ::::::
+
+---
+
+:::::: card
+
+::: center
+
+#### **待录清单 📋**
+
+:::
+
+---
+
+| # | 冒险 | 英文名 | 等级 | 状态 |
+|:-:|:-----|:-------|:----:|:----:|
+| 1 | 黯沉泥沼的毒牙 | The Murkmire Malevolence | 1 | 待录 |
+| 2 | 冥河筹谋 | The Stygian Gambit | 2 | 待录 |
+| 4 | 13号囚犯 | Prisoner 13 | 4 | 待录 |
+| 5 | 托克沃斯的发条工坊 | Tockworth's Clockworks | 5 | 待录 |
+| 6 | 名画风波 | Masterpiece Imbroglio | 5 | 待录 |
+| 7 | 坟中之斧 | Axe from the Grave | 6 | 待录 |
+| 8 | 维多兰特的宝库 | Vidorant's Vault | 7 | 待录 |
+| 9 | 被诅咒的碎片 | Shard of the Accursed | 8 | 待录 |
+| 10 | 灰烬之心 | Heart of Ashes | 8 | 待录 |
+| 11 | 和谐号特快列车事件 | Affair on the Concordant Express | 9 | 待录 |
+| 13 | 火焰与黑暗 | Fire and Darkness | 11 | 待录 |
+
+::: center
+
+*#3 攀手星空、#12 帕丽赛特宫的宴会已录入（见上）。*
+
+:::
+
+::::::
