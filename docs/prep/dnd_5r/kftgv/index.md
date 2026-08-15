@@ -1,29 +1,22 @@
 ---
-title: 🔮 DND 5R
-createTime: 2026/08/13
+title: 黄金宝库之钥
+createTime: 2026/08/16
+description: 黄金宝库之钥系列备团总览
 sitemap: false
 search: false
 ---
 
 ::: center
 
-### **🔮 DND 5R 备团案卷**
-
-:::
-
----
-
-:::::: card
-
-::: center
-
-**🔑 黄金宝库之钥**
+### **🔑 黄金宝库之钥 Keys from the Golden Vault**
 
 单元剧 · 劫盗冒险 · 1~11 级
 
 :::
 
 ---
+
+:::::: card
 
 ::: center
 

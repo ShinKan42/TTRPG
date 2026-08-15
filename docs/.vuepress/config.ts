@@ -101,8 +101,10 @@ export default defineUserConfig({
 				excludePaths: [
 					'/prep/menu/',
 					'/prep/menu/dnd_5r.html',
-					'/prep/dnd_5r/reach_for_the_stars.html',
-					'/prep/dnd_5r/party_at_paliset_hall.html',
+					'/prep/dnd_5r/kftgv/',
+					'/prep/dnd_5r/kftgv/index.html',
+					'/prep/dnd_5r/kftgv/reach_for_the_stars.html',
+					'/prep/dnd_5r/kftgv/party_at_paliset_hall.html',
 				],
 			},
 
