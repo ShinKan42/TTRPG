@@ -330,42 +330,42 @@ search: false
 
 ## 4. 人物
 
-| 数据卡 | NPC | 跳转链接 |
-|---|---|---|
-| 大法师改 | 佐汉娜的拟像 | [跳转链接](#npc-simulacrum) |
-| 夜鬼婆改 CR~10 | coven 三姐妹 | [跳转链接](#npc-coven) |
-| 斥候+冬季雅灵 | Kiran | [跳转链接](#npc-kiran) |
-| 法师 MM | 凯尔·温特 | [跳转链接](#npc-kael) |
-| 法师 MM+预兆 | 茜贝尔 | [跳转链接](#npc-sybelle) |
-| 战斗冠军 Champion | 加雷斯 | [跳转链接](#npc-sybelle) |
-|  | 蕾伊 | — |
-| 熊人改（智18+施法） | 埃利法斯 | [跳转链接](#npc-eliphas) |
-| 大法师改（6环+耗尽） | 真·佐汉娜 | [跳转链接](#npc-zorhanna) |
-| 半羊人 MM | 欧伦 | [跳转链接](#npc-oren) |
-|  | 菲弗尔 | [跳转链接](#npc-fifel) |
-| 树精 MM | 阿尼西塔 | [跳转链接](#npc-anisita) |
-|  | 苔藓&石南 | [跳转链接](#npc-moss) |
-| 熊地精 MM | 霍尔 | [跳转链接](#npc-khorr) |
-| 小妖精 MM | 西塞 | [跳转链接](#npc-sisse) |
-|  | 瓦尔 | [跳转链接](#npc-var) |
-| 平民 Commoner | 尼克斯 Nix | — |
-|  | 莱克莉丝 Lycoris | — |
-|  | 维拉诺 Verano | — |
-|  | 卡登 Kaden | — |
-|  | 雅莱拉 Yalara | — |
-| 贝伦加尔 Berengar | 熊人（同埃利法斯底卡） | — |
-| 间谍 Spy | 艾格西 | [跳转链接](#npc-eggsy) |
-|  | 吉尔 | [跳转链接](#npc-jill) |
-| Selkie 自研 | 多丽 | [跳转链接](#npc-doris) |
-| 雪鸮自研 | 教授 | [跳转链接](#npc-professor) |
-| 匪首 MM+义手 | 义手船长 | [跳转链接](#npc-captain) |
-| 冬季雅灵孩童 | 霜精灵双胞胎 | [跳转链接](#npc-twins) |
-| MM | 冬狼 ×6 | [跳转链接](#npc-winterwolf) |
-| MM | 冰魔蝠 ×6 | [跳转链接](#npc-icemephit) |
-| MM | 石魔像 | [跳转链接](#npc-stonegolem) |
-| MM | 隐形追猎者 ×3 | [跳转链接](#npc-stalker) |
-| MM | 皮克精 ×3 | [跳转链接](#npc-pixie) |
-| MM | 贵族（填充客人） | [跳转链接](#npc-noble) |
+| NPC | 势力 | 身份 | 数据卡 | 跳转链接 |
+|---|---|---|---|---|
+| 佐汉娜的拟像 | 主家 | 女主人（雪构造） | 大法师改 | [跳转链接](#npc-simulacrum) |
+| 真·佐汉娜 | 主家 | ==被困==大法师 | 大法师改（6环+耗尽） | [跳转链接](#npc-zorhanna) |
+| 埃利法斯 Eliphas | 主家 | 丈夫 | 熊人改（智18+施法） | [跳转链接](#npc-eliphas) |
+| 沮丧集会 coven | 阴谋方 | 瓦尔丹三姐妹（伪装） | 夜鬼婆改 CR~10·四卡 | [跳转链接](#npc-coven) |
+| 基兰 Kiran | 阴谋方 | 仲夏王廷记者（不知情棋子） | 斥候+冬季雅灵·双卡 | [跳转链接](#npc-kiran) |
+| 茜贝尔 Sybelle | 赴宴对手 | 预兆法师 | 法师 MM+预兆 | [跳转链接](#npc-sybelle) |
+| 加雷斯 Gareth | 赴宴对手 | 战士，茜贝尔的搭档 | 战斗冠军 Champion | [跳转链接](#npc-sybelle) |
+| 凯尔·温特 Kael Wynter | 赴宴对手 | 前解谜冠军 | 法师 MM | [跳转链接](#npc-kael) |
+| 欧伦 Oren | 宫廷职员 | 管家（半羊人） | 半羊人 MM | [跳转链接](#npc-oren) |
+| 菲弗尔 Fifel | 宫廷职员 | 委托信使（半羊人） | 半羊人 MM | [跳转链接](#npc-fifel) |
+| 阿尼西塔 Anisita | 宫廷职员 | 厨师长（树精） | 树精 MM | [跳转链接](#npc-anisita) |
+| 苔藓&石南 | 宫廷职员 | 花之侍者双子 | 树精 MM | [跳转链接](#npc-moss) |
+| 霍尔 Khorr | 宫廷职员 | 裁缝（熊地精） | 熊地精 MM | [跳转链接](#npc-khorr) |
+| 西塞 Sisse | 宫廷职员 | 小妖精侍者（P7） | 小妖精 MM | [跳转链接](#npc-sisse) |
+| 瓦尔 Var | 宫廷职员 | 小妖精侍者（P7） | 小妖精 MM | [跳转链接](#npc-var) |
+| 莱克莉丝 Lycoris | 宫廷职员 | 退休老管家 | 平民 Commoner | [跳转链接](#npc-lycoris) |
+| 尼克斯 Nix | 宫廷职员 | 佐汉娜的侏儒学徒 | 平民 Commoner | [跳转链接](#npc-nix) |
+| 维拉诺·优蜜 Verano | 宴会宾客 | 银月城记者 | 平民 Commoner | [跳转链接](#npc-verano) |
+| 艾格西 Eggsy | 宴会宾客 | 侏儒扒手（假请帖） | 间谍 Spy | [跳转链接](#npc-eggsy) |
+| 卡登·兰尼斯 Kaden Lannis | 宴会宾客 | 找真爱的人类青年 | 平民 Commoner | [跳转链接](#npc-kaden) |
+| 雅莱拉 Yalara | 宴会宾客 | 落寞精灵歌姬 | 平民 Commoner | [跳转链接](#npc-yalara) |
+| 贝伦加尔 Berengar | 宴会宾客 | 埃利法斯的熊人老友 | 熊人（同埃利法斯底卡） | [跳转链接](#npc-berengar) |
+| 吉尔 Jill | 宴会宾客 | 「半张请帖」银月城输家 | 间谍 Spy | [跳转链接](#npc-jill) |
+| 蕾伊·帕兹兰 Rei Paceran | 村治安 | 村治安官（精灵老兵）·条目在村场景 | 精灵老兵 Veteran（无卡） | [跳转链接](#village) |
+| 多丽·迟语 | 即兴弹药 | 海豹人歌手 | Selkie 自研 | [跳转链接](#npc-doris) |
+| 「教授」 | 即兴弹药 | 雪鸮学者·解谜评委 | 雪鸮自研 | [跳转链接](#npc-professor) |
+| 「义手」船长 | 即兴弹药 | 退役私掠船长（矮人） | 匪首 MM+义手 | [跳转链接](#npc-captain) |
+| 霜精灵双胞胎 | 即兴弹药 | 冬季雅灵儿童 | 冬季雅灵孩童 | [跳转链接](#npc-twins) |
+| 冬狼 ×6 | 宫廷守卫 | 门卫·渡口守卫 | MM | [跳转链接](#npc-winterwolf) |
+| 冰魔蝠 ×6 | 宫廷守卫 | 伪装冰饰 | MM | [跳转链接](#npc-icemephit) |
+| 石魔像 | 宫廷守卫 | 主浴室守卫 | MM | [跳转链接](#npc-stonegolem) |
+| 隐形追猎者 ×3 | 暗流威胁 | 孤石裂隙猎手 | MM | [跳转链接](#npc-stalker) |
+| 皮克精 ×3 | 宫廷职员 | 厨房帮工 | MM | [跳转链接](#npc-pixie) |
+| 贵族（填充客人） | 宴会填充 | 通用客人 | MM | [跳转链接](#npc-noble) |
 
 
 ### 核心
