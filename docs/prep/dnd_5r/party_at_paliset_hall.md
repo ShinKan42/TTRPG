@@ -3031,6 +3031,17 @@ search: false
 
 ## 4. 场景
 
+### 宫殿地图
+
+| 图 | 内容 | 用途 | 链接 |
+|---|---|---|---|
+| 玩家地图 12.1 | 菲弗尔手绘的庄园大致布局 | 发给玩家 | [5etools 图床](https://5e.tools/img/adventure/KftGV/091-12-003.player-map.webp) |
+| DM 地图 12.2 | 全宫楼层平面+P 区编号 | 带团对照 | [5etools 图床](https://5e.tools/img/adventure/KftGV/092-map-12.02-dms-map.webp) |
+| DM 地图（无编号） | 同布局无 P 区标注 | 画面更干净 | [5etools 图床](https://5e.tools/img/adventure/KftGV/093-map-12.02-dms-map-player.webp) |
+
+- **本地备份**（5etools 打不开时用）：`F:/BaiduSyncdisk/TRPG/模组/DND 5e/黄金宝库之钥/map/12.1.png`＝玩家地图、`12.2-DM.png`＝DM 地图
+- 玩家地图由**菲弗尔**应询画出交给角色（原文：角色们询问菲弗尔关于宫殿布局时他画出大致地图，见地图 12.1）
+
 ### 村（物质侧前置）
 
 | 地点 | 要点 | 锚点 |
