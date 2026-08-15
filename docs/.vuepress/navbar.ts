@@ -2,16 +2,18 @@ import { defineNavbarConfig } from 'vuepress-theme-plume';
 
 export const navbar = defineNavbarConfig([
 	{
-		text: '🕯️COC🚧',
+		text: '🕯️ COC',
 		items: [
 			{
-				text: '🚧',
+				text: '📖 新手指南',
 				items: [
-					{ text: '🚧', link: '/dnd_5r/', activeMatch: '^/dnd_5r/' },
-					{ text: '🚧', link: '/dnd_5r/', activeMatch: '^/dnd_5r/' },
+					{
+						text: 'COC 怎么玩 ❔',
+						link: '/rule/coc/guide/about',
+						activeMatch: '^/rule/coc/guide/about',
+					},
 				],
 			},
-			{ text: '🚧', items: ['🚧', '🚧'] },
 		],
 	},
 	{
