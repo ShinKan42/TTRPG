@@ -1,5 +1,5 @@
 ---
-title: 🎰 冥河筹谋
+title: 🔥 打唔赢就放火
 createTime: 2026/08/08
 tags:
   - 黄金宝库之钥
