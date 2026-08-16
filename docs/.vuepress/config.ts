@@ -110,6 +110,12 @@ export default defineUserConfig({
 					'/prep/dnd_5r/dragon_delves/',
 					'/prep/dnd_5r/dragon_delves/index.html',
 					'/prep/dnd_5r/dragon_delves/bakers_doesnt.html',
+					'/prep/dnd_5r/deaths_house/',
+					'/prep/dnd_5r/deaths_house/index.html',
+					'/prep/dnd_5r/curse_of_strahd/',
+					'/prep/dnd_5r/curse_of_strahd/index.html',
+					'/prep/dnd_5r/descent_into_avernus/',
+					'/prep/dnd_5r/descent_into_avernus/index.html',
 					],
 			},
 
