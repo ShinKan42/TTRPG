@@ -20,6 +20,14 @@ search: false
 
 ::: center
 
+#### **黯沉泥沼的毒牙 🥚**
+
+1 级 · 博物馆盗窃 · 偷蛋倒计时
+
+[📖 案卷](/prep/dnd_5r/kftgv/the_murkmire_malevolence.md)
+
+---
+
 #### **攀手星空 ✨**
 
 3 级 · 异怪领域宅邸 · 寻找《天界典籍》
