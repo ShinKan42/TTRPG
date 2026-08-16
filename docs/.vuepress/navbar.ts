@@ -39,6 +39,26 @@ export const navbar = defineNavbarConfig([
 					},
 				],
 			},
+			{
+				text: '📚 资料速查',
+				items: [
+					{
+						text: '技能表 📋',
+						link: '/rule/coc/guide/skills_table',
+						activeMatch: '^/rule/coc/guide/skills_table',
+					},
+					{
+						text: '职业表 🎓',
+						link: '/rule/coc/guide/jobs_table',
+						activeMatch: '^/rule/coc/guide/jobs_table',
+					},
+					{
+						text: '武器表 🔫',
+						link: '/rule/coc/guide/weapons_table',
+						activeMatch: '^/rule/coc/guide/weapons_table',
+					},
+				],
+			},
 		],
 	},
 	{
