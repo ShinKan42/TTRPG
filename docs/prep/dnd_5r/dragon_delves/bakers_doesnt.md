@@ -682,11 +682,17 @@ search: false
 
 ### 地图
 
-| 图 | 内容 | 用途 | 链接 |
-|---|---|---|---|
-| 糖果店平面图 | 20 尺见方小木屋 | 火灾开场 | 原 PDF 地图页（糖果店火灾） |
-| 菲尔的面包房 | 双层建筑外观如巨大面包 | 村内调查 | 原 PDF 地图页（菲尔的面包房） |
-| 糖果小屋 | C1-C15 全区域 | 主 dungeon | 原 PDF 地图页（糖果小屋） |
+| 图 | 内容 | 用途 |
+|---|---|---|
+| 糖果店平面图 | 20 尺见方小木屋 | 火灾开场 |
+| 菲尔的面包房 | 双层建筑外观如巨大面包 | 村内调查 |
+| 糖果小屋 | C1-C15 全区域 | 主 dungeon |
+
+<img src="/img/prep/dragon_delves/bakers_doesnt/map_confectionery.png" alt="糖果店平面图">
+
+<img src="/img/prep/dragon_delves/bakers_doesnt/map_bakery.png" alt="菲尔的面包房">
+
+<img src="/img/prep/dragon_delves/bakers_doesnt/map_cottage.png" alt="糖果小屋">
 
 ### 村庄——汉堡屯 Hubbleton
 
