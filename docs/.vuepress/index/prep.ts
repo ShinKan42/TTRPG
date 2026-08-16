@@ -7,23 +7,35 @@ export default defineCollection({
 	dir: 'prep',
 	sidebar: [
 		'menu/index',
+		'menu/dnd_5r',
 		{
-			text: '🐉 奇幻类',
+			text: '🎲 短团',
 			collapsed: false,
-			items: ['menu/dnd_5r'],
+			items: [],
 		},
 		{
-			text: '🐉 风骸岛之龙',
-			link: '/prep/dnd_5r/dragons_of_stormwrack_isle.html',
-		},
-		{
-			text: '🏛️ 巨龙迷城',
-			items: ['dnd_5r/dragon_delves/index', 'dnd_5r/dragon_delves/bakers_doesnt'],
-		},
-		{
-			text: '🔑 黄金宝库之钥',
+			text: '📚 短团集',
 			collapsed: false,
-			items: ['dnd_5r/kftgv/index', 'dnd_5r/kftgv/reach_for_the_stars', 'dnd_5r/kftgv/party_at_paliset_hall'],
+			items: [
+				{
+					text: '🏛️ 巨龙迷城',
+					items: ['dnd_5r/dragon_delves/index', 'dnd_5r/dragon_delves/bakers_doesnt'],
+				},
+				{
+					text: '🔑 黄金宝库之钥',
+					items: ['dnd_5r/kftgv/index', 'dnd_5r/kftgv/reach_for_the_stars', 'dnd_5r/kftgv/party_at_paliset_hall'],
+				},
+			],
+		},
+		{
+			text: '🎭 长团',
+			collapsed: false,
+			items: [
+				{
+					text: '🐉 风骸岛之龙',
+					items: ['dnd_5r/dragons_of_stormwrack_isle/index'],
+				},
+			],
 		},
 	],
 });
