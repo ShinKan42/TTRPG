@@ -4242,7 +4242,7 @@ Kiran 的这一枚，是铜戒指上镶嵌的一颗上漆眼球——上届专�
 
 :::: card
 
-<img src="/img/kftgv/091-12-003.player-map.webp" alt="玩家地图 12.1" title="菲弗尔手绘的庄园大致布局，发给玩家用">
+<img src="https://bed.shinkan42.art/prep/dnd_5r/kftgv/091-12-003.player-map.webp" alt="玩家地图 12.1" title="菲弗尔手绘的庄园大致布局，发给玩家用">
 
 - 玩家地图由**菲弗尔**应询画出交给角色（原文：角色们询问菲弗尔关于宫殿布局时他画出大致地图，见地图 12.1）
 
@@ -4255,9 +4255,9 @@ Kiran 的这一枚，是铜戒指上镶嵌的一颗上漆眼球——上届专�
 
 :::: card
 
-<img src="/img/kftgv/092-map-12.02-dms-map.webp" alt="DM 地图 12.2" title="带 P 区编号的 DM 地图，带团对照用">
+<img src="https://bed.shinkan42.art/prep/dnd_5r/kftgv/092-map-12.02-dms-map.webp" alt="DM 地图 12.2" title="带 P 区编号的 DM 地图，带团对照用">
 
-<img src="/img/kftgv/093-map-12.02-dms-map-player.webp" alt="DM 地图无编号版" title="同布局无 P 区标注，画面更干净">
+<img src="https://bed.shinkan42.art/prep/dnd_5r/kftgv/093-map-12.02-dms-map-player.webp" alt="DM 地图无编号版" title="同布局无 P 区标注，画面更干净">
 
 ::::
 
@@ -4389,7 +4389,7 @@ Kiran 的这一枚，是铜戒指上镶嵌的一颗上漆眼球——上届专�
   - 客人汇流点：物质客人湿脚出喷泉；荒野客人（华丽冬季装束）乘**半羊人驾驶、独角兽拉动**的马车抵达
     - 
 
-<img src="/img/kftgv/094-12-004.gnome-adventurer.webp" alt="取走孤石项链的侏儒冒险者" title="取走孤石项链和管家钥匙的侏儒冒险者">
+<img src="https://bed.shinkan42.art/prep/dnd_5r/kftgv/094-12-004.gnome-adventurer.webp" alt="取走孤石项链的侏儒冒险者" title="取走孤石项链和管家钥匙的侏儒冒险者">
 
 ::: details P1——原文
 **四只冬狼** 很快与来自温尼斯湖的两只汇合。每只狼每天对自己施展一次**识破隐形 See Invisibility**——看到请帖隐形水印、发现隐形不速之客。没有佐汉娜或埃利法斯的命令，狼群禁止进入宫殿。有人试图溜过狼群时，它们向 P2 的冰魔蝠报警，魔蝠攻击入侵者。
@@ -4620,7 +4620,7 @@ Kiran 的这一枚，是铜戒指上镶嵌的一颗上漆眼球——上届专�
   - 魔改挂点：未标记角落挂着义手船长的旧舵轮（他的来意所在）
   - **道德题**（原文正典）：P6 自取展品=**埃利法斯**视为报酬已付——顺手牵羊其实有制度依据
 
-<img src="/img/kftgv/095-12-005.magic-items.webp" alt="四件魔法展品" title="从左到右：铁锈色魔术袋、蛇纹石猫头鹰、食人魔力量护手、艾罗娜的箭袋">
+<img src="https://bed.shinkan42.art/prep/dnd_5r/kftgv/095-12-005.magic-items.webp" alt="四件魔法展品" title="从左到右：铁锈色魔术袋、蛇纹石猫头鹰、食人魔力量护手、艾罗娜的箭袋">
 
 ::: details P6——原文
 **宝藏**。四件展品具有魔法：铁锈色魔术袋 Bag of Tricks／异能塑像（蛇纹石猫头鹰）／食人魔力量护手 Gauntlets of Ogre Power／艾罗娜的箭袋 Quiver of Ehlonna。
@@ -5091,7 +5091,7 @@ Kiran 的这一枚，是铜戒指上镶嵌的一颗上漆眼球——上届专�
 **最东边的壁橱发着光芒**——角色第一次打开这个储物柜时，里面是通往 P20 的裂隙（单向入口）。
 :::
 
-<img src="/img/kftgv/096-12-009.trapped-in-space.webp" alt="被困在孤石异空间的冒险者与佐汉娜" title="被困在孤石异空间中的冒险者与佐汉娜">
+<img src="https://bed.shinkan42.art/prep/dnd_5r/kftgv/096-12-009.trapped-in-space.webp" alt="被困在孤石异空间的冒险者与佐汉娜" title="被困在孤石异空间中的冒险者与佐汉娜">
 
 ::::
 
