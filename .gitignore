@@ -11,3 +11,4 @@ docs/.vuepress/dist
 .env*.local
 # media on R2 CDN (bed.shinkan42.art) - local only, not tracked
 public/
+.wrangler/
