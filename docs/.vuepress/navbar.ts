@@ -12,6 +12,31 @@ export const navbar = defineNavbarConfig([
 						link: '/rule/coc/guide/about',
 						activeMatch: '^/rule/coc/guide/about',
 					},
+					{
+						text: '车卡指南 📖',
+						link: '/rule/coc/guide/character_creation',
+						activeMatch: '^/rule/coc/guide/character_creation',
+					},
+					{
+						text: '常用骰法 🎲',
+						link: '/rule/coc/guide/quick_roll',
+						activeMatch: '^/rule/coc/guide/quick_roll',
+					},
+					{
+						text: '理智与疯狂 🧠',
+						link: '/rule/coc/guide/sanity',
+						activeMatch: '^/rule/coc/guide/sanity',
+					},
+					{
+						text: '战斗 ⚔️',
+						link: '/rule/coc/guide/combat',
+						activeMatch: '^/rule/coc/guide/combat',
+					},
+					{
+						text: '常见问题 ❓',
+						link: '/rule/coc/guide/faq',
+						activeMatch: '^/rule/coc/guide/faq',
+					},
 				],
 			},
 		],
