@@ -22,10 +22,12 @@ sitemap: false
 
 ::: card
 
-#### **🔑 黄金宝库之钥**
+#### **🔮 DND 5R**
 
-[攀手星空✨](/prep/dnd_5r/kftgv/reach_for_the_stars.md) —— 3 级 · 异怪宅邸寻找《天界典籍》
+[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/) —— 短团集 · 十色龙 · 1~12 级
 
-[帕丽赛特宫的宴会🎉](/prep/dnd_5r/kftgv/party_at_paliset_hall.md) —— 10 级 · 妖精荒野冬至宴会偷钻石
+[黄金宝库之钥🔑](/prep/dnd_5r/kftgv/) —— 短团集 · 劫盗冒险 · 1~11 级
+
+[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/) —— 长团 · 巨龙孵育之岛 · 1~3 级
 
 :::

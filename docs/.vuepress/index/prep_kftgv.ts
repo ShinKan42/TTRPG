@@ -1,0 +1,8 @@
+import { defineCollection } from 'vuepress-theme-plume';
+
+export default defineCollection({
+	type: 'doc',
+	title: '黄金宝库之钥',
+	dir: 'prep/dnd_5r/kftgv',
+	sidebar: ['index', 'reach_for_the_stars', 'party_at_paliset_hall'],
+});

@@ -17,29 +17,27 @@ search: false
 
 ::: center
 
+**🏛️ 巨龙迷城**
+
+短团集 · 十色龙 · 1~12 级
+
+[📚 系列总览](/prep/dnd_5r/dragon_delves/)
+
+---
+
 **🔑 黄金宝库之钥**
 
-单元剧 · 劫盗冒险 · 1~11 级
+短团集 · 劫盗冒险 · 1~11 级
 
-:::
-
----
-
-::: center
-
-#### **攀手星空 ✨**
-
-3 级 · 异怪领域宅邸 · 寻找《天界典籍》
-
-[📖 案卷](/prep/dnd_5r/kftgv/reach_for_the_stars.md)
+[📚 系列总览](/prep/dnd_5r/kftgv/)
 
 ---
 
-#### **帕丽赛特宫的宴会 🎉**
+**🐉 风骸岛之龙**
 
-10 级 · 妖精荒野冬至宴会 · 偷窃即救援
+长团 · 单冒险 · 1~3 级
 
-[📖 案卷](/prep/dnd_5r/kftgv/party_at_paliset_hall.md)
+[📖 案卷](/prep/dnd_5r/dragons_of_stormwrack_isle/)
 
 :::
 

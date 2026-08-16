@@ -8,6 +8,9 @@ import Avatar_Legend from './rule/avatar_legend.ts';
 
 import Modules from './modules.ts';
 import Prep from './prep.ts';
+import PrepDragonDelves from './prep_dragon_delves.ts';
+import PrepKftgv from './prep_kftgv.ts';
+import PrepStormwrack from './prep_stormwrack.ts';
 
 import About from './about.ts';
 
@@ -22,6 +25,9 @@ export default defineCollections([
 	//
 	Modules,
 	Prep,
+	PrepDragonDelves,
+	PrepKftgv,
+	PrepStormwrack,
 	Log,
 	About,
 	//
