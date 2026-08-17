@@ -83,7 +83,10 @@ export default defineUserConfig({
 				align: 'center',
 				// 表格宽度是否为最大内容宽度
 				// 行内元素不再自动换行，超出容器宽度时表格显示滚动条
-				maxContent: true,
+				// 2026-08-18 改 false：max-content 让单元格永不换行，多列宽表总宽超视口→横向滚动条
+				// false 后表格收缩到容器宽，中文单元格自动换行（站点级替代逐表手动 <br>）
+				// 个别确需单行的表可单表加 max-content 参数豁免
+				maxContent: false,
 				/**
 				 * 复制为 html/markdown
 				 * true 相当于 `all`，相当于同时启用 html 和 markdown
