@@ -19,7 +19,11 @@ tags:
 
 ::: card
 
+::: center
+
 ## **📋 目录**
+
+:::
 
 ::: table
 
