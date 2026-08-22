@@ -485,7 +485,7 @@ badge: 🔮
 
 ::: center
 
-<h2 id="sep-1">----------</h2>
+<h2 id="sep-1" tabindex="-1"><a class="header-anchor" href="#sep-1"><span>----------</span></a></h2>
 
 :::
 
@@ -519,7 +519,7 @@ badge: 🔮
 
 ::: center
 
-<h2 id="sep-2">----------</h2>
+<h2 id="sep-2" tabindex="-1"><a class="header-anchor" href="#sep-2"><span>----------</span></a></h2>
 
 :::
 
@@ -615,7 +615,7 @@ badge: 🔮
 
 ::: center
 
-<h2 id="sep-3">----------</h2>
+<h2 id="sep-3" tabindex="-1"><a class="header-anchor" href="#sep-3"><span>----------</span></a></h2>
 
 :::
 
@@ -652,7 +652,7 @@ badge: 🔮
 
 ::: center
 
-<h2 id="sep-4">----------</h2>
+<h2 id="sep-4" tabindex="-1"><a class="header-anchor" href="#sep-4"><span>----------</span></a></h2>
 
 :::
 
