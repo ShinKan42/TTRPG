@@ -14,6 +14,7 @@ import PrepStormwrack from './prep_stormwrack.ts';
 import PrepDeathsHouse from './prep_deaths_house.ts';
 import PrepCurseOfStrahd from './prep_curse_of_strahd.ts';
 import PrepDescentIntoAvernus from './prep_descent_into_avernus.ts';
+import PrepDoomedSwordCoast from './prep_doomed_sword_coast.ts';
 
 import About from './about.ts';
 
@@ -34,6 +35,7 @@ export default defineCollections([
 	PrepDeathsHouse,
 	PrepCurseOfStrahd,
 	PrepDescentIntoAvernus,
+	PrepDoomedSwordCoast,
 	Log,
 	About,
 	//

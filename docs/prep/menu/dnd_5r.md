@@ -37,6 +37,8 @@ search: false
 
 [坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/) —— 魔鬼炼狱主题长篇 · 3~13 级
 
+[末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/) —— 系列三部曲 · 腐化王朝 · 3~6 级
+
 [风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/) —— 巨龙孵育之岛 · 1~3 级
 
 :::

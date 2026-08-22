@@ -121,6 +121,10 @@ export default defineUserConfig({
 					'/prep/dnd_5r/curse_of_strahd/ch1_2_into_the_mists.html',
 					'/prep/dnd_5r/descent_into_avernus/',
 					'/prep/dnd_5r/descent_into_avernus/index.html',
+					'/prep/dnd_5r/doomed_sword_coast/',
+					'/prep/dnd_5r/doomed_sword_coast/index.html',
+					'/prep/dnd_5r/doomed_sword_coast/geography.html',
+					'/prep/dnd_5r/doomed_sword_coast/reign_of_rot.html',
 					],
 			},
 
