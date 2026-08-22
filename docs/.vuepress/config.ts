@@ -125,6 +125,8 @@ export default defineUserConfig({
 					'/prep/dnd_5r/doomed_sword_coast/index.html',
 					'/prep/dnd_5r/doomed_sword_coast/geography.html',
 					'/prep/dnd_5r/doomed_sword_coast/reign_of_rot.html',
+					'/prep/dnd_5r/doomed_sword_coast/vecna_rise.html',
+					'/prep/dnd_5r/doomed_sword_coast/vecna_fall.html',
 					],
 			},
 
