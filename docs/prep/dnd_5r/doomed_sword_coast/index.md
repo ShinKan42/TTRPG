@@ -32,7 +32,19 @@ Doomed Forgotten Realms 系列 · 备团总览
 
 ::: center
 
-**⚔️ 主线：维克那四部曲（地表 · 1~25 级全程）**
+**📗 末日剑湾：地理志**
+
+:::
+
+| 书 | 状态 |
+|----|------|
+| [Sword Coast Gazetteer](/prep/dnd_5r/doomed_sword_coast/geography.html) | [📖 消化版](/prep/dnd_5r/doomed_sword_coast/geography.html) |
+
+---
+
+::: center
+
+**⚔️ 维克那四部曲**
 
 :::
 
@@ -47,7 +59,7 @@ Doomed Forgotten Realms 系列 · 备团总览
 
 ::: center
 
-**🕳️ 末日幽暗地域线（3~15 级）**
+**🕳️ 末日幽暗地域**
 
 :::
 
@@ -57,19 +69,7 @@ Doomed Forgotten Realms 系列 · 备团总览
 | Vol.2 | [祖格莫伊之怒](/prep/dnd_5r/doomed_sword_coast/wrath_of_zuggtmoy.html) | 7-11 | 案卷待建 |
 | Vol.3 | [血战](/prep/dnd_5r/doomed_sword_coast/blood_war.html) | 11-15 | 案卷待建 |
 
----
-
-::: center
-
-**📗 设定书**
-
-:::
-
-| 书 | 状态 |
-|----|------|
-| [末日剑湾：地理志](/prep/dnd_5r/doomed_sword_coast/geography.html)（Sword Coast Gazetteer） | [📖 消化版](/prep/dnd_5r/doomed_sword_coast/geography.html) |
-
-> 末日剑湾=大类名（本地文件夹名），系列本名=Doomed Forgotten Realms（DMs Guild · Academy of Adventure 工作室）；其下两线七卷+设定书，官方全线已收录齐架构位。**祖格莫伊之怒=腐化王朝直接续卷**（7-11 级无缝衔接）。
+> 系列本名=Doomed Forgotten Realms（DMs Guild · Academy of Adventure 工作室）：维克那四部曲+末日幽暗地域三卷+剑湾地理志，官方全线已收录齐架构位。**祖格莫伊之怒=腐化王朝直接续卷**（7-11 级无缝衔接）。
 
 :::
 
