@@ -1,5 +1,5 @@
 ---
-title: 🐟 鱼是真的
+title: 😤 受够这些繁文缛节了 cut the crap
 createTime: 2026/08/09
 tags:
   - 黄金宝库之钥
