@@ -127,6 +127,10 @@ export default defineUserConfig({
 					'/prep/dnd_5r/doomed_sword_coast/reign_of_rot.html',
 					'/prep/dnd_5r/doomed_sword_coast/vecna_rise.html',
 					'/prep/dnd_5r/doomed_sword_coast/vecna_fall.html',
+					'/prep/dnd_5r/doomed_sword_coast/academy_of_adventure.html',
+					'/prep/dnd_5r/doomed_sword_coast/legacy_of_vecna.html',
+					'/prep/dnd_5r/doomed_sword_coast/wrath_of_zuggtmoy.html',
+					'/prep/dnd_5r/doomed_sword_coast/blood_war.html',
 					],
 			},
 
