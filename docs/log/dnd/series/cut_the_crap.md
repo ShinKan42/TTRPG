@@ -1,5 +1,5 @@
 ---
-title: 😤 受够这些繁文缛节了 cut the crap
+title: 😤 受够这些繁文缛节了
 createTime: 2026/08/09
 tags:
   - 黄金宝库之钥
