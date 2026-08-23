@@ -30,6 +30,7 @@ export default defineCollection({
 				{ text: '疯狂表 🤪', link: 'madness_table' },
 				{ text: '装备表 🎒', link: 'equipment_table' },
 				{ text: '法术表 📜', link: 'spells_table' },
+				{ text: '神话图鉴 👁️', link: 'mythos_table' },
 			],
 		},
 	],
