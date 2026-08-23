@@ -77,6 +77,16 @@ export const navbar = defineNavbarConfig([
 						link: '/rule/coc/guide/mythos_table',
 						activeMatch: '^/rule/coc/guide/mythos_table',
 					},
+					{
+						text: '神话典籍 📚',
+						link: '/rule/coc/guide/tomes_table',
+						activeMatch: '^/rule/coc/guide/tomes_table',
+					},
+					{
+						text: '神话造物 🔮',
+						link: '/rule/coc/guide/artifacts_table',
+						activeMatch: '^/rule/coc/guide/artifacts_table',
+					},
 					],
 			},
 		],

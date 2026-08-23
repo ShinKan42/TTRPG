@@ -31,6 +31,8 @@ export default defineCollection({
 				{ text: '装备表 🎒', link: 'equipment_table' },
 				{ text: '法术表 📜', link: 'spells_table' },
 				{ text: '神话图鉴 👁️', link: 'mythos_table' },
+				{ text: '神话典籍 📚', link: 'tomes_table' },
+				{ text: '神话造物 🔮', link: 'artifacts_table' },
 			],
 		},
 	],
