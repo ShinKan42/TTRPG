@@ -57,7 +57,22 @@ export const navbar = defineNavbarConfig([
 						link: '/rule/coc/guide/weapons_table',
 						activeMatch: '^/rule/coc/guide/weapons_table',
 					},
-				],
+					{
+						text: '疯狂表 🤪',
+						link: '/rule/coc/guide/madness_table',
+						activeMatch: '^/rule/coc/guide/madness_table',
+					},
+					{
+						text: '装备表 🎒',
+						link: '/rule/coc/guide/equipment_table',
+						activeMatch: '^/rule/coc/guide/equipment_table',
+					},
+					{
+						text: '法术表 📜',
+						link: '/rule/coc/guide/spells_table',
+						activeMatch: '^/rule/coc/guide/spells_table',
+					},
+					],
 			},
 		],
 	},
