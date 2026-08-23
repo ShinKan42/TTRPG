@@ -28,6 +28,8 @@ export default defineCollection({
 				{ text: '职业表 🎓', link: 'jobs_table' },
 				{ text: '武器表 🔫', link: 'weapons_table' },
 				{ text: '疯狂表 🤪', link: 'madness_table' },
+				{ text: '装备表 🎒', link: 'equipment_table' },
+				{ text: '法术表 📜', link: 'spells_table' },
 			],
 		},
 	],
