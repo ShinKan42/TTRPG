@@ -81,7 +81,7 @@ DND 默认使用 D20 进行投骰
 
 ## **📋 角色数据**
 
-`熟练加值` Proficiency Bonus = <Badge type="warning" text="向上取整(角色等级 / 4) + 1" />
+`熟练加值` Proficiency Bonus = <Badge type="warning" text="2 + 向下取整((角色等级 - 1) / 4)" />（1-4 级 =2，5-8 级 =3，9-12 级 =4，13-16 级 =5，17-20 级 =6）
 
 ### **生命 ❤️**
 
