@@ -27,6 +27,7 @@ export default defineCollection({
 				{ text: '技能表 📋', link: 'skills_table' },
 				{ text: '职业表 🎓', link: 'jobs_table' },
 				{ text: '武器表 🔫', link: 'weapons_table' },
+				{ text: '疯狂表 🤪', link: 'madness_table' },
 			],
 		},
 	],
