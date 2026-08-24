@@ -1,5 +1,5 @@
 ---
-title: 腐化王朝·卷二 案卷（曼塔德里斯）
+title: 卷二 · 曼塔德里斯
 createTime: 2026/08/24
 description: 卷二=第六章 曼塔德里斯——谎言之城与两个推销员
 sitemap: false

@@ -1,5 +1,5 @@
 ---
-title: 腐化王朝·卷一 案卷（序幕+蘑菇与恶意）
+title: 卷一 · 序幕+蘑菇与恶意
 createTime: 2026/08/23
 description: 卷一=序幕（原第四章·半场版）+第五章 蘑菇与恶意——带团起点
 sitemap: false

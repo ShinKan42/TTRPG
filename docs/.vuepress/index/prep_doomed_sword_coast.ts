@@ -12,7 +12,7 @@ export default defineCollection({
 		{
 			text: '末日幽暗地域',
 			items: [
-				{ text: '腐化王朝', collapsed: false, items: ['reign_of_rot', 'reign_of_rot_1', 'reign_of_rot_2'] },
+				{ text: '腐化王朝', collapsed: false, items: [{ text: '总览', link: 'reign_of_rot' }, { text: '卷一 · 序幕+蘑菇与恶意', link: 'reign_of_rot_1' }, { text: '卷二 · 曼塔德里斯', link: 'reign_of_rot_2' }] },
 				'wrath_of_zuggtmoy',
 				'blood_war',
 			],
