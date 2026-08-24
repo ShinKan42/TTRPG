@@ -14,7 +14,7 @@ export default defineCollection({
 			text: '末日幽暗地域',
 			prefix: '/',
 			items: [
-				{ text: '腐化王朝', prefix: '/', collapsed: false, items: ['reign_of_rot', 'reign_of_rot_ch5'] },
+				{ text: '腐化王朝', prefix: '/', collapsed: false, items: ['reign_of_rot', 'reign_of_rot_1'] },
 				'wrath_of_zuggtmoy',
 				'blood_war',
 			],

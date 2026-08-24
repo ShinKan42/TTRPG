@@ -3,16 +3,16 @@ title: reign_of_rot_ch5
 createTime: 2026/08/24 01:13:13
 ---
 ---
-title: 腐化王朝·第五章 案卷
+title: 腐化王朝·卷一 案卷（序幕+蘑菇与恶意）
 createTime: 2026/08/23
-description: 蘑菇与恶意——带团起点章案卷（SAE 终版）
+description: 卷一=序幕（原第四章·半场版）+第五章 蘑菇与恶意——带团起点
 sitemap: false
 search: false
 ---
 
 ::: center
 
-### **🍄 第五章 · 蘑菇与恶意（带团起点）**
+### **🍄 卷一 · 序幕+蘑菇与恶意（带团起点）**
 
 :::
 
