@@ -7,14 +7,12 @@ export default defineCollection({
 	sidebar: ['index', 'geography',
 		{
 			text: '维克那四部曲',
-			prefix: '/',
 			items: ['academy_of_adventure', 'vecna_rise', 'vecna_fall', 'legacy_of_vecna'],
 		},
 		{
 			text: '末日幽暗地域',
-			prefix: '/',
 			items: [
-				{ text: '腐化王朝', prefix: '/', collapsed: false, items: ['reign_of_rot', 'reign_of_rot_1'] },
+				{ text: '腐化王朝', collapsed: false, items: ['reign_of_rot', 'reign_of_rot_1'] },
 				'wrath_of_zuggtmoy',
 				'blood_war',
 			],
