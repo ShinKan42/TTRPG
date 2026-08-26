@@ -7,7 +7,7 @@ export default defineCollection({
 	dir: 'rule/dagger_heart',
 	sidebar: [
 		{
-			text: '📖 新手指南 🚧',
+			text: '📖 新手指南',
 			prefix: 'guide',
 			collapsed: false,
 			items: [
