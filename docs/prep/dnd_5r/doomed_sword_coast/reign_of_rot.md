@@ -16,7 +16,7 @@ search: false
 
 ---
 
-::::::: card
+::::: card
 
 :::: card
 
@@ -67,5 +67,5 @@ search: false
 
 ::::
 
-:::::::
+:::::
 
