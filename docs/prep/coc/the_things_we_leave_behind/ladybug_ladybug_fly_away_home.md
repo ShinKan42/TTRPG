@@ -1,6 +1,6 @@
 ---
 title: 瓢虫，瓢虫，飞回家
-createTime: 2026/08/24
+createTime: 2026/08/26
 description: COC 备团案卷（加密）
 sitemap: false
 search: false
@@ -361,6 +361,7 @@ STR 70 CON 75 SIZ 70 INT 50 POW 55 DEX 65 APP 50 EDU 50 SAN 0 HP 14
 
 ### 6b. GNS 记者团钩
 
+- **组织页**：《全球新闻社》（同目录同名文件；Site 页 global_news_service）——公司表象/工作四律/三模板车卡/残缺者规则的完整底盘在此页，两页互为镜像。
 - **文化注**：GNS=「全球新闻社」，一个专收「声名狼藉但有一手」的落魄记者的通讯社——老板 Tony Patel 只在邮件/Skype 里出现。（DM 暗线：Patel=奈亚拉托特普化身，GNS 是他「温水煮社会」的长局；记者耳后有生物芯片——追踪/监视/肿瘤开关。**本篇不揭示，不入招募帖**；耳后芯片的存在在玩家被招募时已发生，DM 知道即可。）
 - **残缺者规则**（建卡）：起始 SAN -2D10；幸运 +3D10（上限 99）；技能点 EDU×6。
 - **三模板任选**：Nosy Pest（烦人精——Fast Talk≥50，线人网+警队朋友）/Paparazzi（狗仔——摄影+潜入装备）/Hot Mess（塌房名人——Charm≥50，收视率毒药本人）。

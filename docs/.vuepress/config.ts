@@ -109,6 +109,7 @@ export default defineUserConfig({
 					'/prep/coc/the_things_we_leave_behind/',
 					'/prep/coc/the_things_we_leave_behind/index.html',
 					'/prep/coc/the_things_we_leave_behind/ladybug_ladybug_fly_away_home.html',
+					'/prep/coc/the_things_we_leave_behind/global_news_service.html',
 					'/prep/menu/dnd_5r.html',
 					'/prep/dnd_5r/kftgv/',
 					'/prep/dnd_5r/kftgv/index.html',
