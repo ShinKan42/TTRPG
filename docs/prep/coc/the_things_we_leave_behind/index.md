@@ -33,3 +33,6 @@ search: false
 >
 > **[🌍 全球新闻社 Global News Service](/prep/coc/the_things_we_leave_behind/global_news_service/)** —— 记者开局（b 钩）的组织底盘 · 战役框架页
 
+>
+> **[📄 瓢虫·玩家 Handouts](/prep/coc/the_things_we_leave_behind/handouts/)** —— 四件实物：到场简报／书速览／破译讯息／仪式录像
+

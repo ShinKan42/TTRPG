@@ -1,6 +1,6 @@
 ---
 title: 瓢虫，瓢虫，飞回家
-createTime: 2026/08/26
+createTime: 2026/08/24
 description: COC 备团案卷（加密）
 sitemap: false
 search: false
@@ -380,7 +380,7 @@ STR 70 CON 75 SIZ 70 INT 50 POW 55 DEX 65 APP 50 EDU 50 SAN 0 HP 14
 | 祭刀 | Balfour 家祭坛下/John 后备箱 | 献祭凶器；微放射性（可侦测） |
 | 羊血（周二） | 礼拜堂门框 | 第十灾现场位 |
 
-Handout 制作（周四 Site 阶段）：#1 简报卡／#2 书 skim 卡／#3 耶利米密文卡／仪式录像文字稿。
+Handout 四件已成交付：《瓢虫_handouts》（同目录；Site 页 handouts）——玩家面=卡文本身（零 SAN 零 DM 注记），交付时机/推理链位置/保真备注在每节 details 折叠层。
 
 ## 8. 文件与查阅入口
 
