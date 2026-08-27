@@ -6,12 +6,17 @@ export default defineCollection({
 	linkPrefix: '/module/',
 	dir: 'module',
 	sidebar: [
-		'menu/index',
-		'menu/collection',
+		'index',
+		'collection',
 		{
 			text: '🐉 奇幻类',
 			collapsed: false,
-			items: ['menu/dnd_5r', 'menu/dagger_heart'],
+			items: ['dnd_5r', 'dagger_heart'],
+		},
+		{
+			text: '🐙 恐怖类',
+			collapsed: false,
+			items: ['coc'],
 		},
 	],
 });

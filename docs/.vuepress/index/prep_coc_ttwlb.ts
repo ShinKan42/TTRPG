@@ -6,20 +6,20 @@ export default defineCollection({
 	dir: 'prep/coc/the_things_we_leave_behind',
 	sidebar: ['index',
 		{
-			text: '在跑的团 · 周二日落',
-			collapsed: false,
-			items: [
-				{ text: '约团入口', link: 'game_entry' },
-				{ text: '瓢虫，瓢虫，飞回家', link: 'ladybug_ladybug_fly_away_home' },
-				{ text: '玩家 Handouts', link: 'handouts' },
-			],
-		},
-		{
-			text: '资料 · 全球新闻社',
+			text: '📰 全球新闻社',
 			collapsed: false,
 			items: [
 				{ text: '组织页', link: 'global_news_service' },
 				{ text: '战役框架', link: 'global_news_service_reading' },
+			],
+		},
+		{
+			text: '🐞 瓢虫，瓢虫，飞回家',
+			collapsed: false,
+			items: [
+				{ text: '约团入口', link: 'game_entry' },
+				{ text: 'DM 案卷', link: 'ladybug_ladybug_fly_away_home' },
+				{ text: '玩家 Handouts', link: 'handouts' },
 			],
 		},
 	],

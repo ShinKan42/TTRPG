@@ -266,12 +266,12 @@ export const navbar = defineNavbarConfig([
 	{
 		text: '🎲 挑选模组',
 		items: [
-			{ text: '快速选择 ⚡', link: '/module/menu/', activeMatch: '^/module/menu/$' },
-			{ text: '总索引 📋', link: '/module/menu/collection', activeMatch: '^/module/menu/collection' },
+			{ text: '快速选择 ⚡', link: '/module/', activeMatch: '^/module/$' },
+			{ text: '总索引 📋', link: '/module/collection', activeMatch: '^/module/collection' },
 			{
 				text: '🐉 奇幻类',
 				items: [
-					{ text: 'DND 5R 🔮', link: '/module/menu/dnd_5r', activeMatch: '^/module/menu/dnd_5r' },
+					{ text: 'DND 5R 🔮', link: '/module/dnd_5r', activeMatch: '^/module/dnd_5r' },
 				],
 			},
 			{

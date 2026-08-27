@@ -1,12 +1,12 @@
 ---
-title: 📋 案卷总索引
+title: 📋 主持备团 · 总索引
 createTime: 2026/08/13
 sitemap: false
 ---
 
 ::: center
 
-### **📋 主持备团 · 案卷总索引**
+### **📋 主持备团 · 总索引**
 
 :::
 
@@ -20,58 +20,36 @@ sitemap: false
 
 ---
 
-::: card
+:::: card-grid
 
-#### **🔮 DND 5R**
+:::: card
 
-[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/) —— 短团集 · 十色龙 · 1~12 级
+**🔮 DND 5R**
 
-[黄金宝库之钥🔑](/prep/dnd_5r/kftgv/) —— 短团集 · 劫盗冒险 · 1~11 级
+[死亡之屋💀](/prep/dnd_5r/deaths_house/) —— 短团 · 吸血鬼前传
 
-[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/) —— 长团 · 巨龙孵育之岛 · 1~3 级
+[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/) —— 短团集 · 十色龙
 
-[死亡之屋💀](/prep/dnd_5r/deaths_house/) —— 短团 · 吸血鬼主题前传导入
+[黄金宝库之钥🔑](/prep/dnd_5r/kftgv/) —— 短团集 · 劫盗冒险
 
-[施特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/) —— 长团 · 吸血鬼主题长篇 · 3~11 级
+[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/) —— 长团 · 1~3 级
 
-[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/) —— 长团 · 魔鬼炼狱主题长篇 · 3~13 级
+[施特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/) —— 长团 · 哥特沙盒
 
-:::
+[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/) —— 长团 · 魔鬼炼狱
 
-::: card
+[末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/) —— 系列 · 三部曲
 
-#### **🐙 克苏鲁的呼唤 COC**
+::::
 
-[我们留下的东西📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇选集 · 双钩制
+:::: card
 
-:::
+**🐙 克苏鲁的呼唤**
 
----
+[我们留下的东西📦](/prep/coc/the_things_we_leave_behind/) —— 选集 · 六篇 · 双钩制
 
-::: tip 现正约团
+分类页：[🐙 COC 备团](/prep/menu/coc/)
 
-**[🚪 瓢虫，瓢虫，飞回家 · 约团入口](/prep/coc/the_things_we_leave_behind/game_entry/)** —— 规则／时间／场地／费用／双钩，一页看全
-
-:::
-
----
-
-:::: details 录入待办（2026-08-17 登记）
-
-::: table
-
-| 模组 | 类型 | 状态 | 下一步 |
-|:---|:---|:---|:---|
-| 巨龙迷城 | 短团集 | 🟡 面包师录入中（并行会话） | 其余 9 章待录 |
-| 黄金宝库之钥 | 短团集 | 🟡 4/13 已录 | 按系列顺序或 DM 指定 |
-| 风骸岛之龙 | 长团 | 🟢 已录（2026-08-17，待 DM 审阅） | — |
-| 死亡之屋 | 短团 | 🟢 已录（2026-08-17，待 DM 审阅） | DM 网页审阅→魔改意向 |
-| 施特拉德的诅咒 | 长团 | 🟡 阶段一已录（第 1-2 章，2026-08-18） | 第 3 章巴洛维亚村→第 4 章鸦阁城堡分阶段 |
-| 坠入阿弗纳斯 | 长团 | 🔴 框架已立 | 204 页 5 章录入 |
-| 我们留下的东西 | COC 六篇选集 | 🟢 瓢虫已备 | 其余五篇按 DM 指令排期 |
-
-:::
-
-夜间 cron（1:00-6:00）按此表推进：收集社区魔改建议/辅助资料 → 建索引 → 消化 → 魔改建议方向 + 纯净原版录入
+::::
 
 ::::

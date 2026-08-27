@@ -20,7 +20,7 @@ config:
           link: /about/preparation
         - theme: alt
           text: 模组选择 →
-          link: /module/menu/index
+          link: /module/index
   - type: features
     title: 🎭 带团风格
     description: 故事第一，规则第二——期待角色用自己的方式，开创不一样的展开
@@ -28,7 +28,7 @@ config:
       - title: 故事第一
         icon: game-icons:drama-masks
         details: 关注发生了什么，而非规则条框；每场战斗都有故事意义，我们是共同完成故事的伙伴
-        link: /module/menu/
+        link: /module/
         linkText: 了解带团风格
       - title: 角色驱动
         icon: game-icons:quill
@@ -108,9 +108,9 @@ createTime: 2025/4/17 20:00:39
 
 短团一次跑完，长团多次连续，风格各异
 
-[🎲 快速选择模组](/module/menu/)
+[🎲 快速选择模组](/module/)
 
-[📋 模组总索引](/module/menu/collection.md)
+[📋 模组总索引](/module/collection.md)
 
 ::::
 

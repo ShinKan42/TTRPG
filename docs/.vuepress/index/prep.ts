@@ -4,5 +4,5 @@ export default defineCollection({
 	type: 'doc',
 	title: '备团总索引',
 	dir: 'prep/menu',
-	sidebar: ['index', 'dnd_5r'],
+	sidebar: ['index', 'dnd_5r', 'coc'],
 });
