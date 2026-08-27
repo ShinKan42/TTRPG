@@ -8,7 +8,7 @@ search: false
 
 > 🔑 黄金宝库之钥 #1 · 1 级 · 1-2 次团 · ==无魔改原版录入== · 博物馆盗窃
 
-## 0. 背景知识索引
+## 📚 背景知识索引
 
 模组引用但不解释的外部设定，带团推理的地基。
 
@@ -65,7 +65,7 @@ search: false
 
 ---
 
-## 1. 宏观魔改
+## 🛠️ 宏观魔改
 
 ::: table
 
@@ -92,7 +92,7 @@ search: false
 
 ---
 
-## 2. 暗流
+## 🌊 暗流
 
 ### S——从哪来
 
@@ -217,7 +217,7 @@ search: false
 
 ---
 
-## 3. 全场性机制
+## ⚙️ 全场性机制
 
 ::: table
 
@@ -323,7 +323,7 @@ search: false
 
 ---
 
-## 4. 人物
+## 👥 人物
 
 ::: table
 
@@ -462,7 +462,7 @@ search: false
 
 ---
 
-## 5. 场景
+## 🗺️ 场景
 
 ### 地图
 
@@ -841,7 +841,7 @@ search: false
 
 ---
 
-## 6. 物品与机制
+## 📦 物品与机制
 
 ::: table
 
@@ -932,7 +932,7 @@ search: false
 
 ---
 
-## 7. 数据卡
+## 🗃️ 数据卡
 
 ### NPC 速查表
 
@@ -1401,7 +1401,7 @@ search: false
 
 ---
 
-## 8. 文件与查阅入口
+## 📌 文件与查阅入口
 
 - [5etools·Keys from the Golden Vault 冒险页（英文原书）](https://5e.tools/adventure.html#kftgv,1)——#1 黯沉泥沼的毒牙原文
 - [灰机wiki·龙与地下城TRPG](https://dnd.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)——中文译名对照检索

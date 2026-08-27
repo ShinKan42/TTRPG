@@ -96,7 +96,7 @@ createTime: 2025/4/17 20:00:39
 
 从零学起？从对应规则的新手指南开始
 
-[🔮 DND 5R 怎么玩](/rule/dnd_5r/guide/about.md)
+[🔮 龙与地下城 5 版 2024 怎么玩](/rule/dnd_5r/guide/about.md)
 
 [🕯️ COC 怎么玩](/rule/coc/guide/about.md)
 

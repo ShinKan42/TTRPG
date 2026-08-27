@@ -271,14 +271,15 @@ export const navbar = defineNavbarConfig([
 			{
 				text: '🐉 奇幻类',
 				items: [
-					{ text: 'DND 5R 🔮', link: '/module/dnd_5r', activeMatch: '^/module/dnd_5r' },
+					{ text: '龙与地下城 5 版 2024 🔮', link: '/module/dnd_5r', activeMatch: '^/module/dnd_5r' },
 				],
 			},
 			{
 				text: '📋 主持备团',
 				items: [
 					{ text: '案卷总索引 📋', link: '/prep/menu/', activeMatch: '^/prep/menu/$' },
-					{ text: 'DND 5R 🔮', link: '/prep/menu/dnd_5r', activeMatch: '^/prep/menu/dnd_5r' },
+					{ text: '龙与地下城 5 版 2024 🔮', link: '/prep/menu/dnd_5r', activeMatch: '^/prep/menu/dnd_5r' },
+					{ text: '克苏鲁的呼唤 🐙', link: '/prep/menu/coc', activeMatch: '^/prep/menu/coc' },
 				],
 			},
 		],
