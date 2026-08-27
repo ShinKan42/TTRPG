@@ -32,6 +32,7 @@ search: false
 > 双钩制：同一案卷两种开局（传统调查员／GNS 记者团），开团前与玩家选定。
 >
 > **[🌍 全球新闻社 Global News Service](/prep/coc/the_things_we_leave_behind/global_news_service/)** —— 记者开局（b 钩）的组织底盘 · 战役框架页
+> **[📖 全球新闻社（导读）](/prep/coc/the_things_we_leave_behind/global_news_service_reading/)** —— 战役框架全册伴读：金句直译+怪细节全保，读 PDF 时的对照与补漏
 
 >
 > **[📄 瓢虫·玩家 Handouts](/prep/coc/the_things_we_leave_behind/handouts/)** —— 四件实物：到场简报／书速览／破译讯息／仪式录像
