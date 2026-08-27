@@ -10,7 +10,7 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '组织页', link: 'global_news_service' },
-				{ text: '战役框架', link: 'global_news_service_reading' },
+				{ text: '战役框架', link: 'global_news_service_campaign' },
 			],
 		},
 		{
