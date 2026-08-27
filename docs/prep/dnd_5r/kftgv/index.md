@@ -78,7 +78,7 @@ search: false
 |:-:|:-----|:-------|:----:|:----:|
 | 1 | 黯沉泥沼的毒牙 | The Murkmire Malevolence | 1 | 待录 |
 | 2 | 冥河筹谋 | The Stygian Gambit | 2 | 已录 |
-| 4 | 13号囚犯 | Prisoner 13 | 4 | 待录 |
+| 4 | 13号囚犯 | Prisoner 13 | 4 | 已录 |
 | 5 | 托克沃斯的发条工坊 | Tockworth's Clockworks | 5 | 待录 |
 | 6 | 名画风波 | Masterpiece Imbroglio | 5 | 待录 |
 | 7 | 坟中之斧 | Axe from the Grave | 6 | 待录 |
@@ -90,7 +90,7 @@ search: false
 
 ::: center
 
-*#2 冥河筹谋、#3 攀手星空、#12 帕丽赛特宫的宴会已录入（见上）；#1 黯沉泥沼的毒牙另页已录。*
+*#2 冥河筹谋、#3 攀手星空、#4 13号囚犯、#12 帕丽赛特宫的宴会已录入（见上）；#1 黯沉泥沼的毒牙另页已录。*
 
 :::
 
