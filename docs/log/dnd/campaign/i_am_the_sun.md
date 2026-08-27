@@ -2699,10 +2699,10 @@ PC 在海上与鱼人作战，俘获船长。船长去留起争议——格林�
 
 :::
 
-![屁侠](https://bed.shinkan42.art/log/dnd_5r/i_am_the_Sun/成就卡-屁侠-1787829463851.gif)
+![屁侠](https://bed.shinkan42.art/log/dnd_5r/i_am_the_Sun/成就卡-屁侠-1787833741775.png)
 
-![我禁言他](https://bed.shinkan42.art/log/dnd_5r/i_am_the_Sun/成就卡-我禁言他-1787829944763.gif)
+![我禁言他](https://bed.shinkan42.art/log/dnd_5r/i_am_the_Sun/成就卡-我禁言他-1787833677000.png)
 
-![我是太阳](https://bed.shinkan42.art/log/dnd_5r/i_am_the_Sun/成就卡-我是太阳-1787829556892.gif)
+![我是太阳](https://bed.shinkan42.art/log/dnd_5r/i_am_the_Sun/成就卡-我是太阳-1787833693430.png)
 
 :::::
