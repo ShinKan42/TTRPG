@@ -110,7 +110,7 @@ createTime: 2025/4/17 20:00:39
 
 [🎲 快速选择模组](/module/)
 
-[📋 模组总索引](/module/collection.md)
+[📋 模组挑选总索引](/module/collection.md)
 
 ::::
 

@@ -31,7 +31,7 @@ search: false
 
 :::
 
-[我们留下的东西📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇 · 双钩制
+[我们搁置之事📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇 · 双钩制
 
 ::::
 

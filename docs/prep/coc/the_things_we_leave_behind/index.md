@@ -1,5 +1,5 @@
 ---
-title: 我们留下的东西
+title: 我们搁置之事
 createTime: 2026/08/24
 description: COC 备团案卷（加密）
 sitemap: false
@@ -8,7 +8,7 @@ search: false
 
 ::: center
 
-### **📦 我们留下的东西 The Things We Leave Behind**
+### **📦 我们搁置之事 The Things We Leave Behind**
 
 现代美国克苏鲁 · Stygian Fox 选集 · 六篇 · 双钩制备团
 

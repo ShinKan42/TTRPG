@@ -267,19 +267,11 @@ export const navbar = defineNavbarConfig([
 		text: '🎲 挑选模组',
 		items: [
 			{ text: '快速选择 ⚡', link: '/module/', activeMatch: '^/module/$' },
-			{ text: '总索引 📋', link: '/module/collection', activeMatch: '^/module/collection' },
+			{ text: '模组挑选总索引 📋', link: '/module/collection', activeMatch: '^/module/collection' },
 			{
 				text: '🐉 奇幻类',
 				items: [
 					{ text: '龙与地下城 5 版 2024 🔮', link: '/module/dnd_5r', activeMatch: '^/module/dnd_5r' },
-				],
-			},
-			{
-				text: '📋 主持备团',
-				items: [
-					{ text: '案卷总索引 📋', link: '/prep/menu/', activeMatch: '^/prep/menu/$' },
-					{ text: '龙与地下城 5 版 2024 🔮', link: '/prep/menu/dnd_5r', activeMatch: '^/prep/menu/dnd_5r' },
-					{ text: '克苏鲁的呼唤 🐙', link: '/prep/menu/coc', activeMatch: '^/prep/menu/coc' },
 				],
 			},
 		],
@@ -291,47 +283,29 @@ export const navbar = defineNavbarConfig([
 	},
 
 	{
-		text: '关于',
+		text: 'ℹ️ 关于',
 		items: [
 			{
-				text: '约团相关',
+				text: '🤝 约团相关',
 				items: [
-					{
-						text: '联系方式',
-						icon: 'material-symbols:mail-outline',
-						link: '/about/contact',
-						activeMatch: '^/about/contact',
-					},
-					{
-						text: '约团方式',
-						icon: 'streamline:group-meeting-call-solid',
-						link: '/about/appointment',
-						activeMatch: '^/about/appointment',
-					},
-					{
-						text: '跑团怎么玩',
-						icon: 'foundation:magnifying-glass',
-						badge: '❔',
-						link: '/about/preparation',
-						activeMatch: '^/about/preparation',
-					},
+					{ text: '联系方式 📮', link: '/about/contact', activeMatch: '^/about/contact' },
+					{ text: '约团方式 📅', link: '/about/appointment', activeMatch: '^/about/appointment' },
+					{ text: '跑团怎么玩 ❔', link: '/about/preparation', activeMatch: '^/about/preparation' },
 				],
 			},
 			{
-				text: '资源资料',
+				text: '🎧 资源资料',
 				items: [
-					{
-						text: '背景音乐',
-						icon: 'icon-park-solid:music-one',
-						link: '/about/ref/bgm',
-						activeMatch: '^/about/ref/bgm',
-					},
-					{
-						text: '实用音效',
-						icon: 'subway:sound',
-						link: '/about/ref/sfx',
-						activeMatch: '^/about/ref/sfx',
-					},
+					{ text: '背景音乐 🎵', link: '/about/ref/bgm', activeMatch: '^/about/ref/bgm' },
+					{ text: '实用音效 🔊', link: '/about/ref/sfx', activeMatch: '^/about/ref/sfx' },
+				],
+			},
+			{
+				text: '📋 主持备团',
+				items: [
+					{ text: '案卷总索引 📋', link: '/prep/menu/', activeMatch: '^/prep/menu/$' },
+					{ text: '龙与地下城 5 版 2024 🔮', link: '/prep/menu/dnd_5r', activeMatch: '^/prep/menu/dnd_5r' },
+					{ text: '克苏鲁的呼唤 🐙', link: '/prep/menu/coc', activeMatch: '^/prep/menu/coc' },
 				],
 			},
 		],
