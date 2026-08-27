@@ -6,9 +6,16 @@ sitemap: false
 search: false
 ---
 
-> **内容提示**：儿童绑架与重病、邪教与宗教极端、自杀、自杀式袭击、末日灭世
 > 调查员配置：3-5 人；现代美国（克利夫兰→匹兹堡）；五日结构（周四晚—周二日落）
-> 源：TTWLB 主书 p7-31；GNS 框架 Ladybug 跑法节
+> 源：主书《The Things We Leave Behind》瓢虫篇 p7-31；GNS 框架册 Ladybug 跑法节
+
+
+::: warning 内容提示
+- **未成年人**：儿童绑架与重病
+- **宗教**：邪教与宗教极端
+- **自伤自杀**：自杀、自杀式袭击
+- **末日**：灭世倒计时
+:::
 
 <!-- 招募帖速取：复跑出帖直接复制下方代码块改「时间」一行；写法标准=TTRPG/创作准则/通用/招募帖模板.md（含第零段敏感点标注）。线上落地页=game_entry（团入口），场地/费用/时间变更两处同步 -->
 ::: details 📣 招募帖速取（复制代码块，改「时间」一行即可出帖）
@@ -384,7 +391,7 @@ Handout 四件已成交付：《瓢虫_handouts》（同目录；Site 页 handou
 
 ## 8. 文件与查阅入口
 
-- 原文：`F:/BaiduSyncdisk/TRPG/模组/COC/The Things We Leave Behind/TTWLB-1(reduced).pdf` L101-546（主书）；`We_Have_Been_(REDUCED).pdf`（GNS 框架）
+- 原文：主书《The Things We Leave Behind》瓢虫篇 L101-546；GNS 框架册《We Have Been, We Are, We Will Be》
 - 过程件：本目录 `_资源/S1_SAE初推.md`（Q&A 定案记录在内）
 - 译名对照：见 SAE 件 §十/本轮会话定案（篇名/书名/人名/地名全表）
-- 规则点回查：`F:/BaiduSyncdisk/TRPG/规则/COC/`（7 版调查员手册）
+- 规则点回查：COC 七版调查员手册（本地规则库）

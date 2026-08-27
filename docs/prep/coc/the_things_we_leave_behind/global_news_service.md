@@ -8,7 +8,7 @@ search: false
 
 > **内容提示**：成瘾与自毁（角色底色）、灰产采访手段（窃听/收买/偷拍描写）、性产业边缘场（限战役终局段）
 > 定位：《我们留下的东西》配套战役框架（We Have Been, We Are, We Will Be）——「记者开局」的组织底盘。退：只当瓢虫一团的组织背景；进：撑起六篇选集的完整战役。
-> 源：`We_Have_Been_(REDUCED).pdf` 全册
+> 源：GNS 战役框架册《We Have Been, We Are, We Will Be》全册
 
 ## 0. 文化差异补注
 
@@ -79,6 +79,6 @@ search: false
 
 ## 3. 文件与查阅入口
 
-- 原文：`F:/BaiduSyncdisk/TRPG/模组/COC/The Things We Leave Behind/We_Have_Been_(REDUCED).pdf`
+- 原文：GNS 战役框架册《We Have Been, We Are, We Will Be》（全 34 页）
 - 接口案卷：同目录《瓢虫，瓢虫，飞回家》§6b（Site：ladybug_ladybug_fly_away_home 页）
-- 规则点回查：`F:/BaiduSyncdisk/TRPG/规则/COC/`（7 版调查员手册）
+- 规则点回查：COC 七版调查员手册（本地规则库）

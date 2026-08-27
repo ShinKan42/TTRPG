@@ -1,5 +1,5 @@
 ---
-title: 周二日落 · 团入口
+title: 瓢虫，瓢虫，飞回家 · 约团入口
 createTime: 2026/08/27
 description: COC 备团团入口（加密）
 sitemap: false
@@ -8,9 +8,9 @@ search: false
 
 ::: center
 
-### **🚪 周二日落**
+### **🚪 瓢虫 · 约团入口**
 
-COC 7版 · 现代美国短团 · 《瓢虫，瓢虫，飞回家》
+COC 7版 · 现代美国短团 · 现正约团
 
 :::
 
@@ -22,13 +22,21 @@ COC 7版 · 现代美国短团 · 《瓢虫，瓢虫，飞回家》
 |---|---|
 | 规则 | COC 7版 |
 | 模组 | 《瓢虫，瓢虫，飞回家》（取自选集《我们留下的东西 The Things We Leave Behind》） |
+| 团名 | 周二日落（玩家面代号，取自案卷灭世倒计时） |
 | 类型 | 短团，一晚到一天；风格：现代都市克苏鲁 |
 | 人数 | 3-5 人 |
-| 内容提示 | 儿童绑架与重病、邪教与宗教极端、自杀、自杀式袭击、末日灭世 |
 | 时间 | [需确认] |
 | 场地 | Home享主义桌游（海珠区 天一酒店 1308）（市二宫地铁站 D 出口马路对岸） |
 | 费用 | 车卡赠送 1 小时、工作日开头 3 小时 78 元 / 休息日开头 5 小时 138 元、后续 25 元/小时 |
 | 联系人 | ShinKan42 |
+
+
+::: warning 内容提示
+- **未成年人**：儿童绑架与重病
+- **宗教**：邪教与宗教极端
+- **自伤自杀**：自杀、自杀式袭击
+- **末日**：灭世倒计时
+:::
 
 ---
 
@@ -67,7 +75,7 @@ COC 7版 · 现代美国短团 · 《瓢虫，瓢虫，飞回家》
 
 - **[📋 案卷：瓢虫，瓢虫，飞回家](/prep/coc/the_things_we_leave_behind/ladybug_ladybug_fly_away_home/)** —— DM 带团主件：暗流／人物／场景／Handout 全档
 - **[🌍 全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service/)** —— B 钩记者团的组织底盘
-- **[📖 全球新闻社（导读）](/prep/coc/the_things_we_leave_behind/global_news_service_reading/)** —— 战役框架全册伴读
+- **[🗺️ 全球新闻社 · 战役框架](/prep/coc/the_things_we_leave_behind/global_news_service_reading/)** —— 组织／招募／编辑部／五案跑法／终章全档
 - **[📄 瓢虫·玩家 Handouts](/prep/coc/the_things_we_leave_behind/handouts/)** —— 四件实物
 - **[📦 我们留下的东西（选集总览）](/prep/coc/the_things_we_leave_behind/)** —— 六篇一览＋敏感点标注
 

@@ -1682,11 +1682,11 @@ D6 秘密图书馆藏物（与 +1 战斧二选一）。
 
 | 文件 | 位置 | 说明 |
 |---|---|---|
-| 原文全文提取 | `F:/BaiduSyncdisk/AI/LLM/_temp_stormwrack_full.txt` | 583 行（docx 1.2 版） |
-| 17 卡原始 JSON | `F:/BaiduSyncdisk/AI/LLM/_temp_stormwrack_monsters.json` | 5etools MM/DoSI |
-| 数值骨架 | `F:/BaiduSyncdisk/AI/LLM/_temp_cards_skeleton.json` | 组装用 |
-| 物品原文 | `F:/BaiduSyncdisk/AI/LLM/_temp_items_raw.json` | 附录 A |
-| 地图原件 | `F:/BaiduSyncdisk/TRPG/模组/DND 5e/风骸岛之龙/` | 中文版地图 |
+| 原文全文提取 | `_temp_stormwrack_full.txt`（工作区临时件） | 583 行（docx 1.2 版） |
+| 17 卡原始 JSON | `_temp_stormwrack_monsters.json`（工作区临时件） | 5etools MM/DoSI |
+| 数值骨架 | `_temp_cards_skeleton.json`（工作区临时件） | 组装用 |
+| 物品原文 | `_temp_items_raw.json`（工作区临时件） | 附录 A |
+| 地图原件 | 风骸岛之龙中文版地图（本地模组库） | 中文版地图 |
 | 地图 R2 | `https://bed.shinkan42.art/prep/dnd_5r/stormwrack/` | 10 张已上传（2026-08-17） |
 | Site 镜像 | `Site/docs/prep/dnd_5r/dragons_of_stormwrack_isle/` | 待同步 |
 | 命令术 chm 源 | `DND5e_chm/玩家手册/魔法/法术详述/1环.html` | gbk 提取 |

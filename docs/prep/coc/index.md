@@ -22,7 +22,7 @@ search: false
 
 [我们留下的东西📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇选集 · 双钩制
 
-**[🚪 周二日落 · 团入口](/prep/coc/the_things_we_leave_behind/game_entry/)** —— 在跑的团：报名信息一页看全
+**[🚪 瓢虫 · 约团入口](/prep/coc/the_things_we_leave_behind/game_entry/)** —— 现正约团：报名信息一页看全
 
 :::
 

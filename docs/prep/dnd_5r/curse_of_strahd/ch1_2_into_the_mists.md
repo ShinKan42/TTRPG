@@ -902,7 +902,7 @@ search: false
 
 - [5etools·Curse of Strahd 冒险页（英文原书）](https://5e.tools/adventure.html#cos,0)——本章地图/插画原图
 - [灰机wiki·龙与地下城TRPG](https://dnd.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)——中文译名对照检索
-- [CoS 中译 v1.3 PDF（本地）](file:///F:/BaiduSyncdisk/TRPG/%E6%A8%A1%E7%BB%84/DND%205e/5eDnD_%E6%96%BD%E7%89%B9%E6%8B%89%E5%BE%B7%E7%9A%84%E8%AF%85%E5%92%92CoS_%E4%B8%AD%E8%AF%91v1.3%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86/5eDnD_%E6%96%BD%E7%89%B9%E6%8B%89%E5%BE%B7%E7%9A%84%E8%AF%85%E5%92%92CoS_%E4%B8%AD%E8%AF%91v1.3.pdf)——源文件 p9-38（第 1-2 章）
+- CoS 中译 v1.3（本地存档）——源文件 p9-38（第 1-2 章）
 - [Curse of Strahd: Reloaded（DragnaCarta）](https://www.gmbinder.com/share/-NLbNwx2vuNjfjcWaY1N)——魔改建议来源（三泉/沉睡开场/传送门死亡之屋）
 - [Fleshing Out CoS（MandyMod）系列索引](https://www.reddit.com/r/CurseofStrahd/comments/9pbka6/fleshing_out_curse_of_strahd_master_table_of)——魔改建议来源（秘密系统/补天方向）
 - [Sly Flourish·Running Curse of Strahd](https://slyflourish.com/running_curse_of_strahd.html)——魔改建议来源（施特拉德早期登场）
