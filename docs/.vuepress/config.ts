@@ -116,6 +116,7 @@ export default defineUserConfig({
 					'/prep/dnd_5r/kftgv/index.html',
 					'/prep/dnd_5r/kftgv/reach_for_the_stars.html',
 					'/prep/dnd_5r/kftgv/the_murkmire_malevolence.html',
+					'/prep/dnd_5r/kftgv/prisoner_13.html',
 					'/prep/dnd_5r/kftgv/the_stygian_gambit.html',
 					'/prep/dnd_5r/kftgv/party_at_paliset_hall.html',
 					'/prep/dnd_5r/dragons_of_stormwrack_isle/',
