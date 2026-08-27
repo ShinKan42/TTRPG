@@ -68,7 +68,7 @@ sitemap: false
 
 **📡 战役线**
 
-[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service/) —— 记者团组织底盘＋战役框架
+[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service/) —— 组织底盘＋战役框架
 
 ::::
 
