@@ -15,13 +15,11 @@ search: false
 
 ::: tip 联动
 
-本页为==主持面==案卷索引；玩家面的规则介绍与模组前瞻见 [🐙 克苏鲁的呼唤（模组一览）](/module/coc/)
+本页为==主持面==案卷索引；玩家面的规则介绍与模组前瞻见 [🐙 克苏鲁的呼唤（模组一览）](/module/coc.html)
 
 :::
 
 ---
-
-::::: card-grid
 
 :::: card
 
@@ -33,21 +31,9 @@ search: false
 
 [我们搁置之事📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇 · 双钩制
 
-::::
-
-:::: card
-
-::: center
-
-**📡 战役线**
-
-:::
-
-[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service/) —— 组织底盘＋战役框架
+框架：[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service.html) —— 记者开局组织底盘 · 本集官方战役框架
 
 ::::
-
-:::::
 
 ---
 
@@ -76,6 +62,6 @@ search: false
 
 ::: note 玩家资料
 
-GNS 玩家简介与三模板车卡：[📰 全球新闻社（玩家资料）](/module/pl_ref/gns/)；本表首篇前瞻：[🐞 瓢虫，瓢虫，飞回家](/module/pl_ref/ladybug/)
+GNS 玩家简介与三模板车卡：[📰 全球新闻社（玩家资料）](/module/pl_ref/gns.html)；本表首篇前瞻：[🐞 瓢虫，瓢虫，飞回家](/module/pl_ref/ladybug.html)
 
 :::

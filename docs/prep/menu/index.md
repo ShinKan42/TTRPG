@@ -66,9 +66,7 @@ sitemap: false
 
 [我们搁置之事📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇 · 双钩制
 
-**📡 战役线**
-
-[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service/) —— 组织底盘＋战役框架
+框架：[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service.html) —— 记者开局组织底盘 · 本集官方战役框架
 
 ::::
 
@@ -78,5 +76,5 @@ sitemap: false
 
 **分类详表**：
 
-- [🔮 龙与地下城 5 版 2024 · 分类页](/prep/menu/dnd_5r/)
-- [🐙 克苏鲁的呼唤 · 分类页](/prep/menu/coc/)
+- [🔮 龙与地下城 5 版 2024 · 分类页](/prep/menu/dnd_5r.html)
+- [🐙 克苏鲁的呼唤 · 分类页](/prep/menu/coc.html)

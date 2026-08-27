@@ -14,8 +14,6 @@ search: false
 
 ---
 
-::::: card-grid
-
 :::: card
 
 ::: center
@@ -26,21 +24,9 @@ search: false
 
 [我们搁置之事📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇 · 双钩制
 
-::::
-
-:::: card
-
-::: center
-
-**📡 战役线**
-
-:::
-
-[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service/) —— 组织底盘＋战役框架
+框架：[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service.html) —— 记者开局组织底盘 · 本集官方战役框架
 
 ::::
-
-:::::
 
 ---
 
@@ -57,6 +43,6 @@ search: false
 
 ::: note 玩家面
 
-面向玩家的规则介绍与模组前瞻见 [🐙 克苏鲁的呼唤（模组一览）](/module/coc/)——每篇敏感点单独标注，报名前自行判断
+面向玩家的规则介绍与模组前瞻见 [🐙 克苏鲁的呼唤（模组一览）](/module/coc.html)——每篇敏感点单独标注，报名前自行判断
 
 :::
