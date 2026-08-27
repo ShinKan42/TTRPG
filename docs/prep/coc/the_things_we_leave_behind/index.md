@@ -61,7 +61,7 @@ search: false
 
 **书的来历是一个电视迷的较真**
 
-作者看 1974 年美剧《Kolchak: The Night Stalker》其中一集——恰好就叫 "We Have Been, We Are, We Will Be"——看出了三个元问题。
+作者看 1974 年美剧《Kolchak: The Night Stalker》其中一集，恰好就叫 "We Have Been, We Are, We Will Be"，看出了三个元问题。
 
 剧里那个记者撞上一个隐形的爱手艺式怪物。
 
