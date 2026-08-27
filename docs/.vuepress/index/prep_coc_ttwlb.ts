@@ -10,14 +10,14 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '组织页', link: 'global_news_service' },
-				{ text: '战役框架', link: 'global_news_service_campaign' },
+				{ text: '模组之后', link: 'global_news_service_aftermath' },
 			],
 		},
 		{
-			text: '🐞 瓢虫，瓢虫，飞回家',
+			text: '🐞 模组详情',
 			collapsed: false,
 			items: [
-				{ text: '案卷', link: 'ladybug_ladybug_fly_away_home' },
+				{ text: '瓢虫，瓢虫，飞回家', link: 'ladybug_ladybug_fly_away_home' },
 			],
 		},
 	],
