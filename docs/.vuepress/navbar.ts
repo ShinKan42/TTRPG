@@ -274,6 +274,12 @@ export const navbar = defineNavbarConfig([
 					{ text: '龙与地下城 5 版 2024 🔮', link: '/module/dnd_5r', activeMatch: '^/module/dnd_5r' },
 				],
 			},
+			{
+				text: '🐙 恐怖类',
+				items: [
+					{ text: '克苏鲁的呼唤 🐙', link: '/module/coc', activeMatch: '^/module/coc' },
+				],
+			},
 		],
 	},
 	{

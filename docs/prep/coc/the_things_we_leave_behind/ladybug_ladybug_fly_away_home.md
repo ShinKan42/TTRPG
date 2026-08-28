@@ -21,7 +21,7 @@ search: false
 | 项 | 内容 |
 |---|---|
 | 调查员 | 3-5 人 |
-| 舞台 | 现代美国（克利夫兰→匹兹堡） |
+| 舞台 | 现代美国（克利夫兰到匹兹堡） |
 | 结构 | 五日：周四晚—周二日落 |
 
 :::
@@ -65,9 +65,8 @@ B 记者——落魄记者团（狗仔/烦人精/塌房名人任选），你是�
 教会的网站上挂着一行倒计时：世界将在下周二，日落时结束。
 
 角色塑造问题：
-1、（战役题）有些故事追到手才发现，播出去就是帮凶
-2、当每个人都确信自己是对的，你听谁的？
-3、你深信过的东西被证明是错的，那些付出的还算数吗？
+1、当每个人都确信自己是对的，你听谁的？
+2、你深信过的东西被证明是错的，那些付出的还算数吗？
 
 联系人：
 ShinKan42
@@ -151,7 +150,7 @@ KJV：
 
 ::: tip 十灾——神罚阶梯
 
-- 出埃及时神降十灾逼法老放人：血→蛙→虱→蝇→畜疫→疮→雹→蝗→暗→杀头生子
+- 出埃及时神降十灾逼法老放人：血、蛙、虱、蝇、畜疫、疮、雹、蝗、暗、杀头生子
   - 一灾比一灾重，第十灾，神亲自行走人间
 - 关键叙事：灾是**警告的阶梯**不是直接毁灭——每次灾后都留「悔改窗口」
 - 教会自我认同是新以色列人
@@ -163,7 +162,7 @@ KJV：
 
 ::: details ✍️ 作者手记（评语 · 可跳过）
 
-- 两种读法：本案暗流的底色
+- 两种读法贯穿本案全部暗流
 
 :::
 
@@ -213,7 +212,7 @@ KJV：
 
 ::: details ✍️ 作者手记（评语 · 可跳过）
 
-- 夫妻名对应：作者留的签名
+- 夫妻名约翰与撒拉，对应旧约的亚伯拉罕与撒拉——作者埋下的名字呼应
 
 :::
 
@@ -227,7 +226,7 @@ KJV：
 
 - **FBI**：跨州绑架自动介入（林德伯格法）。Bates 属「失踪与受剥削儿童工作组」。
 - **地方警**：县/市两级，法庭记录在县。
-- 「失踪 48 小时才能立案」是**迷思**——警务话术，法条点破用（Law 判定）。
+- 「失踪 48 小时才能立案」是影视作品造成的流行迷思——美国法律没有这条，未成年人失踪报案警方必须立即受理；玩家角色有 `Law` 技能的，判定成功即可当场说破这句推诿话术。
 
 :::
 
@@ -266,8 +265,14 @@ KJV：
 
 ---
 
-- **命题**（已定稿挂招募帖，战役题置首）：
-  - 战役题：有些故事追到手才发现，播出去就是帮凶
+- **战役主题——搁置**：
+  - 选集名《我们搁置之事》；GNS 行规要你保密、别逞英雄
+  - 「哪个邪教被一帮拿枪的滥好人端了，只能说明他们还没到播出档期」——逞英雄就能破坏的降临，就是还没准备好的降临
+  - 「帮凶」一句是这条主题在 GNS 侧的写法
+
+---
+
+- **本篇命题**（挂招募帖·角色塑造问题）：
   - ①当每个人都确信自己是对的，你听谁的？
   - ②你深信过的东西被证明是错的，那些付出的还算数吗？
 
@@ -319,7 +324,7 @@ KJV：
     - 医疗自付数十万、病历干净、法庭档案清白
     - 真诚相信天使会豁免 Regina（以撒框架）
   - 系统失效线
-    - George 走过全部正当途径：卧底三年→无证据→两年前诉讼败诉→走 rogue
+    - George 走过全部正当途径：卧底三年拿不到证据，两年前的监护诉讼败诉，最后选择绕开法律单干
   - **本案没有反派，只有各自正确的阵营**
 
 ---
@@ -336,7 +341,7 @@ KJV：
 |---|---|---|---|
 | John→Regina | 献祭 vs 爱 | 备祭袍/律师/法庭令，全程「合法施压」 | 救回 Regina 就是撞上（4 小时后法庭令来收人） |
 | 撒拉→Regina | 替祭备胎 | 周二下午绝望线起：买麻布自制替祭袍、焚灰运灰、纠集武装核心 | 周二白天她家后院在烧东西 |
-| Balfour 夫妇→Lindsay | 平行追索 | 周一认出 George=卧底教友 Zach 后启动：信徒搜城+John 尾随调查员蹭情报 | John 一直在你身后 |
+| Balfour 夫妇→Lindsay | 平行追索 | 周一夫妇认出 George 就是教友 Zach 后启动：教众满城找琳赛，约翰一直跟在调查员身后「帮忙」兼收集进展 | John 一直在你身后 |
 | John→调查员 | 情报寄生虫 | 凑上来「帮忙」、街头布道、试探进度 | 每个现场都有他 |
 | Lindsay→调查员 | 信任门 | 警频监听+看新闻，评估来者是敌是「考验」 | 假情报可钓她；无线电静默使她紧张 |
 | Lindsay→Regina | 保护者-挟持者同体 | 冷药睡眠、DVD 安抚、霰弹枪随身 | 隔门谈判的全部人性面 |
@@ -425,7 +430,7 @@ KJV：
   - **静止凝视**（复眼万对）——覆盖路面车顶灯罩，不散不咬，只看
   - 全城仅此一区有目击报告（定案保留）
     - 区域限定就是「异常与我们同址」的公开在场证明
-    - GNS 团新闻嗅觉的天然戏位
+    - 对记者团来说，这就是「独家就在这个街区」的信号
 - 时历推进原则：表是态势不是轨道
   - 玩家抢跑或拖堂，各阵营按自己的钟走
   - John 周一晚必 `Entreat`；撒拉周二下午必赴死线
@@ -580,9 +585,15 @@ KJV：
 
 ::::
 
-:::: card
+::: center
 
-**🚗 车程时间表（时间就是这场团的命脉）**
+### **<a id="drive-times"></a> 🚗 车程时间表——时间就是这场团的命脉**
+
+:::
+
+---
+
+:::: card
 
 ::: table
 
@@ -668,28 +679,30 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ::: card
 
-- **职业池**
-  - FBI 探员（Bates 协作位）／本地警探／执法顾问（神秘学背景）
-  - 受雇私探（Balfour 家雇）
-    - 原文完整支持：无传票权但夫妇配合度高、可与 Bates 以物易物
-  - 新闻队（可选）——与 b 钩的区别是无 GNS 组织背景
+**调查员的介入，与开局已知（Involving the Investigators, and What Is Known at the Start）**
+
+- 无论如何安排，调查员都会在绑架发生后几小时内介入
+- 至少一人必须有合乎逻辑的理由，深度参与一起儿童失踪案的调查
 
 ---
 
-- **开场包**：
-  - 简报会（Handout#1 五要点：案发经过/录像/Balfour 夫妇反应/邪教背景/George 身份）
-  - 「收每人兄弟姐妹数与出生顺位」（建卡信息，DM 留底）
-  - 头生的私下发梦
+- **最可能的安排**：一人是负责侦破此案的执法人员，其余人以协助或跟踪调查的身份在场
+- 若无人是执法者：有神秘学经验者可被执法部门聘为顾问——他们了解到的东西应当让他们要么插手这桩调查，要么自己开一条平行的调查线
+- **最合逻辑的设置**：一名 FBI 外勤探员，被召来协助这桩明目张胆的儿童绑架案——可能还跨了州界
 
 ---
 
-- **车卡命题双题**（已定稿）：见宏观魔改节命题定案
+- **另一种开局**：一支过度热情的新闻摄制组，决定跟踪调查、试着自己破案（或至少拿到最好的素材、抢在同行前头发出独家）
+  - 可行，但需要大量角色扮演，尤其是与试图管控媒体信息流的执法人员打交道时
 
 ---
 
-- **建卡要点**
-  - 技能权重：心理学／法律／图书馆／计算机／说服是本案的核心调查技能
-  - 武力是最后手段——本篇用武几乎处处是错招
+- 调查员不应与蕾吉娜·贝尔福有亲属关系；但可以与乔治·刘易斯顿有过往交集——若有，他们认识的他是一个好人、一名国内右翼邪教问题专家，一个没有极充分的理由绝不会单干出走的人
+- 蕾吉娜的绑架在案发一小时内传遍地方新闻，不久之后登上全国新闻
+- 执法调查员或持官方授权者，在初次简报中得知「瓢虫、瓢虫」调查员手持材料 #1 中的信息
+  - 若调查员中有 FBI 探员接管调查，信息来自到场的地方警察；否则来自负责此案的 FBI 探员露西·贝茨
+- 新闻摄制组可以通过收买执法系统的「线人」拿到同样的信息
+- 若调查员自己主案，贝茨探员是冗余且不必要的；否则她的数据卡见人物区
 
 :::
 
@@ -730,7 +743,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 - **本篇任务简报**（Vince 派单口径）：跟着 FBI 的拐童案跑第二季 reel
   - 「拍教会一家的小品、拍末日倒计时的节目效果、抢在 FBI 前头拿到隔门专访」
   - 「直播对峙、拿到回家仪式的独家入场券」
-  - 原文：夫妇欢迎「友好的媒体」到场见证礼拜——**最后一条是天然的 GNS 专属终局入场位**
+  - 原文：夫妇欢迎「友好的媒体」到场见证礼拜——这条入场机会只有记者团用得上
 
 ---
 
@@ -875,6 +888,31 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 :::::
 
+:::: details 📖 原文留档：琳赛的心态——两年前的案子与一周前的录像（原书 p24-25，中英双版）
+
+**中文（忠实全文）**
+
+琳赛的心态如下：几年前，她被叔叔乔治劝动，对贝尔福一家提出「需救助儿童」（基于虐童指控的临时寄养）申请。她与叔叔非常亲近，知道他是退休 ATF 探员、长年调查右翼邪教。他告诉她他有个棘手的问题：一个小女孩有麻烦；他拿不出能说服法庭的证据；但如果他不把小女孩从她疯狂的父母身边弄开、哪怕只是某个特定日期前后的几周，她就会被杀。他向她解释：这对父母——贝尔福夫妇——只在他们预言世界终结的日子前后才对孩子的安全构成威胁。因为他们的宗教要求他们把头生孩子献给「逾越节天使」，换取他们与信众在世界末日中幸免。他们还相信孩子会被「逾越节天使」复活，所以献祭她并不算真的害她。乔治叔叔怀疑那位天使复活祭品的能力。
+
+琳赛读了他们的宗教材料，听了叔叔设法录下的几段教会礼拜偷录音频。果然，里面谈到世界将在某个确切日期终结、献祭小蕾吉娜、以及她会因他们对神与「逾越节天使」的坚定信心而复活。她也意识到：如果把这些证据交上法庭，叔叔会因为窃听罪行惹上麻烦。于是，明白叔叔只是需要争取时间，她勉强照他的意思办了。她试着立案，最终（日期临近时）提交了把蕾吉娜带离父母的紧急申请。孩子出来后，琳赛就让这件事淡了下去。她知道自己会受纪律处分，但这是她愿意为乔治叔叔挨的一击。
+
+大约一周前，叔叔再次找上门，故事几乎一样，献祭日期是下周二晚。但这一次，叔叔有些不对劲。他看上去多日没睡，苍白、瞪着眼、发抖。起初他拒绝解释，但当琳赛没有一个足够好的理由就不肯再帮时，他给了她一个。这一次他以右翼国内恐怖分子的身份卧底，过去几年渗入教会会众，并偷录了一场仪式——仪式上「逾越节天使」经一场血腥可怖的仪式被召来，出现在贝尔福家后面的礼拜堂里。天使向信众下达指令，然后直视藏起来的摄像机，用一声冰冷的、坟墓般的声音说：「你们什么都做不了，小人。你也不行，小女人。」乔治夺门而逃；教众只是看着他离开，显然相信天使会料理好一切。
+
+起初琳赛仍想与整件事毫无瓜葛，但接下来的四十八小时改变了这一点。自从看了那段录像，她不断产生幻觉——在每一个转角，余光里都有一个黑色兜帽、黑翼的天使。她不断在不可能的地方发现翻到《出埃及记》11-12 章的圣经——挂在淋浴喷头上、放在她的枕头上，旅馆里也有。她的梦全是古埃及与圣经十灾的噩梦，此后再没睡好过。叔叔警告她千万别关灯；唯一一次她关了——只关了一秒——她瞥见窗外有个巨大的、带翼的、蛇形的东西直冲她而来。那就够了。她相信有什么恶魔般的东西在追她和小蕾吉娜，她必须保她安全到周三，否则怪物会吃了她。这两件事她都判断对了。
+
+**English (verbatim)**
+
+Lindsay's mindset is as follows: A few years ago, she allowed herself to be talked into harassing, and ultimately filing a child in need of aid (temporary foster care based on child abuse) petition against the Balfours by her uncle George. She was very close to her uncle, and knew that he was a retired A.T.F. agent who spent a lot of time investigating right-wing cults. He told her that he had a bad problem: a little girl was in trouble; he lacked evidence that would convince a court; but if he did not get the little girl away from her crazy parents just for a few weeks around a certain date, she would be killed. He explained to her that these parents, the Balfours, were only a danger to her welfare around times that they predicted the world to end. This was because their religion demanded that they sacrifice their firstborn child to the "Passover Angel," so that they and their followers would be spared from the end of the world. They also believed that she would be resurrected by the "Passover Angel," so that they were not actually endangering her by sacrificing her. Uncle George doubted the Angel's capacity to resurrect human sacrifices.
+
+Lindsay read some of their religious material, and listened to some surreptitious audio recordings that her uncle had managed to make of some of the Church's services. Sure enough, they talked about the end of the world coming on a date certain, sacrificing little Regina, and how she would be resurrected due to their overwhelming faith in God and his "Passover Angel". She also realized that her uncle would get in trouble for wiretapping crimes if she used this evidence in court. So, realizing that her uncle just needed to buy time, she reluctantly went along with his wishes. She tried to build a case, and ultimately (when the date grew close) filed an emergency petition to remove Regina from her parents. This got her out of the home, and then Lindsay just let the matter drop. She knew that she would be disciplined, but it was a hit that she was willing to take for her Uncle George.
+
+About a week ago, her uncle approached her again, with much the same story and a target sacrifice date of a week from Tuesday evening. This time, though, there was something wrong with her uncle. He looked like he had not slept in days, and was pale, wide-eyed and shaking. Initially he refused to explain why, but when Lindsay would not help him again without a very good reason, he gave her one. This time he had gone undercover as a right-wing domestic terrorist, infiltrated the Church's membership over the past few years, and surreptitiously videotaped a ritual—one at which the "Passover Angel" had been summoned through a hideous blood ritual and appeared in the chapel behind the Balfour's house. The Angel issued orders to the faithful, and then looked right at the hidden camera and said, in a chilling, sepulchral voice: "There is nothing that you can do, little man. Nor you, little woman." George bolted for the door; the cultists simply watched him leave, apparently trusting in the Angel to set things right.
+
+Lindsay initially still wanted to have nothing to do with the whole matter, but that changed over the course of the next forty-eight hours. Since seeing the video, she has been hallucinating. She has been seeing a dark, hooded, black-winged angel out of the corner of her eye at every turn. She keeps finding Bibles opened to Exodus 11-12 in inaccessible places, like hanging from her shower nozzle or on her pillow—including at the motel. Her dreams have been nightmares of ancient Egypt and Biblical plagues, and she has not slept well since. Her uncle warned her never to turn out the lights, and the one time that she did, for just a second, she saw a glimpse of something huge, winged and serpentine outside her window, headed straight for her. That was enough. She believes that something demonic is after her and little Regina, and that she needs to keep her safe until Wednesday or monsters will eat her. She is correct on both scores.
+
+::::
+
+
 ---
 
 ::: center
@@ -1011,7 +1049,7 @@ KJV：
     - 内嵌《创世记》18 撒拉求子典故
     - 与约翰「Life for life」成夫妻二重唱——替祭启动时刻的口吻
   - 辅：「上帝只是要一个贝尔福家的孩子，没说要哪一个。」
-    - 账目式平静——周二下午电话线里的底色
+    - 说这话时她是平静的——周二下午电话线里就是这种平静
 
 ---
 
@@ -1073,7 +1111,7 @@ KJV：
 - **锚点台词**（原文）：
   - 「Get out of my crime scene!」
   - 「The only thing that matters is getting that little girl back to her mom and dad!」
-    - 第二句与真相的反讽同句，本案题眼
+    - 第二句正是全案的反讽所在：她要的「完好归还」，就是把孩子送回祭坛
 
 :::
 
@@ -1142,16 +1180,23 @@ KJV：
 
 ::: card
 
-- **底色**：纯真＋爱父母＋**心理健全得反常**
-  - 父母的疯狂是「信念型」——家庭功能正常
+- **暗流**：纯真、爱父母、心理健全得反常——父母的疯狂是「信念型」的，家庭功能正常
+- **立场**：五岁孩子眼里的世界：爸爸妈妈是好的，「琳赛阿姨」是从超市把她抢走的坏人；超市里那个「坏人叔叔」以前还对她挺好的
 
 ---
 
-- **获救后证词**（全场最冷三拍）：
-  - ①「爸爸妈妈对我很好，这个琳赛阿姨把我抢走了」
-  - ②「那个超市里的坏人是爸爸的教友，以前对我挺好的」
-    - **关键线索**：坐实 George 卧底＋父母知情
-  - ③「我最喜欢的圣经故事是以撒——上帝只是考验，天使会拦住刀的，爸爸每天都讲」
+- **感官**：被冷药昏睡了大半时间；醒着的时候靠动画片和琳赛的呵斥保持安静——门外能听见小声放着的小马宝莉（My Little Pony）
+- **人味**：睡着时被毯子裹着、放在安全座椅里搬上车；
+  - 收费站那一程她咳嗽、喘鸣、呼吸窘迫——琳赛哭着问最近的医院；
+  - 旅馆老板家的小女儿敲门想找她玩，没有人应门
+- **锚点台词**（获救后证词，全场最冷三拍）：
+  - 「爸爸妈妈对我很好，这个琳赛阿姨把我抢走了」
+  - 「那个超市里的坏人是爸爸的教友，以前对我挺好的」
+    - 关键线索：坐实 George 卧底＋父母知情
+  - 「我最喜欢的圣经故事是以撒——上帝只是考验，天使会拦住刀的，爸爸每天都讲」
+
+---
+
 - **DM 定案（以撒故事由蕾吉娜亲口讲）**：
   - 触发：问对「最喜欢的圣经故事」或心理分析判定成功
   - 问不对由 DM 按原文兜底给
@@ -1159,7 +1204,7 @@ KJV：
 
 ---
 
-- **律师墙**：夫妇会合法抗拒一切对蕾吉娜的问询/体检，周二越晚越激烈，最终拿法庭令
+- **律师墙**：夫妇会合法抗拒一切对蕾吉娜的问询、体检，周二越晚越激烈，最终拿法庭令
 
 :::
 
@@ -1428,31 +1473,53 @@ KP 任意指定至 99%
 
 ::: card
 
-- **暗流**：George 的殿后是**设计好的**
-  - 制造噪音、不开杀戒（除迎宾员膝盖）、朝无人的外墙自尽
+- **现场能查到什么**（录像之外，原书 p15）：
+  - 停车场几位目击者记得：接应车手是一个年轻的白人女性；
+    - 小女孩被扔进后座时挣扎着喊救命；
+    - 没人记住车牌号
+  - 店内多名目击者（包括被枪击的迎宾员）作证：枪手本来可以干干净净走掉——他是故意折返的，而且刻意不杀人
+  - 他明显在故意制造一场引人注目的大乱
+  - 他对着商店外墙开枪自杀——选的位置不会有流弹穿透伤人的风险
+  - 调查员到场时，店员正急着清场恢复营业
+  - 那一枪打进了鱼缸区，死鱼泡在血水里——**原文要求：务必让调查员看到这一幕**（第一灾，经文见下）
+
+---
+
+- **暗流**：George 的殿后是设计好的
+  - 制造噪音、不开杀戒（唯一枪伤是迎宾员的膝盖）、朝无人的外墙自尽
   - 每个目击者都能作证「他本来可以走」
 
 ---
 
 - **关键实体**：
-  - 瓢虫书包——输液泵在里面，母亲抢下了它
-  - 录像三段——卖场拉扯／出口装车／殿后自杀
+  - 瓢虫书包——静脉类固醇输液泵在里面；母亲当场抢下了它
+  - 录像三段——卖场拉扯／出口装车／店内游荡与自尽（全文见物品区·到场简报条目）
 
 ---
 
 - **到达途径**：
-  - 执法走简报自动
-  - 平民走贿赂泄密线人
+  - 执法调查员走简报自动到场
+  - 平民调查员走贿赂泄密线人
   - 新闻队走官方通稿＋现场残机位
-
----
-
-- **闲笔**：
-  - 鱼缸区死鱼泡血水（第一灾）
-  - 店员急着清理现场想开业
 
 :::
 
+
+:::: details 📖 第一灾经文：出 7:20-21 血水（和合本＋KJV）
+
+和合本：
+
+> 20 摩西、亚伦就照耶和华所吩咐的行。亚伦在法老和臣仆眼前举杖击打河里的水，河里的水都变作血了。
+>
+> 21 河里的鱼死了，河也腥臭了，埃及人就不能吃这河里的水；埃及遍地都有了血。
+
+KJV：
+
+> 20 And Moses and Aaron did so, as the Lord commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood.
+>
+> 21 And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt.
+
+::::
 
 :::: details 📖 原文留档：监控摄像头主题（原书 p11，中英双版）
 
@@ -1466,6 +1533,27 @@ It is no accident that so many of the clues in the investigation tree involve se
 
 ::::
 
+:::: details 📖 原文留档：案发现场与目击者访谈（原书 p15，中英双版）
+
+**中文（忠实全文）**
+
+大盒子商店里，除了录像带上的内容，只有一点额外的证据可挖，但访谈和现场复查能把事情放进上下文。停车场有几个人相信，开车接应的是一个年轻的白人女性。小女孩被扔进后座时在挣扎、喊救命。没有人记住车牌号。
+
+店里有几个人（包括被枪击的迎宾员）能作证：枪手本来可以干干净净地脱身，但他是故意折返回店里的，而且刻意不试图杀任何人。很明显，他是在故意制造一场大而分散注意力的乱子。
+
+枪手对着商店的外墙开枪自杀（那个位置不太可能有别人被贯穿的流弹伤到）。调查员到场时，店员们正急着清理现场好恢复营业；那一枪打进了鱼缸区，死鱼泡在血水里。务必让调查员看到这一幕。
+
+**English (verbatim)**
+
+There is only a little additional evidence to be gained at the big box store than what is on the videotapes, but interviews and a crime scene review may put things in context. A few people from the parking lot believe that a young Caucasian woman was driving the getaway car. The little girl was struggling and screaming for help as she was tossed in the back seat. No one got a license plate number.
+
+Several people inside the store (including the greeter who was shot) can attest that the shooter could have gotten away cleanly, but deliberately came back into the store, and deliberately did not try to kill anyone. Indeed, it was apparent that he was deliberately trying to cause a large, distracting ruckus.
+
+The shooter committed suicide against an outside wall of the store (where no one else was likely to get hit by a through and through shot). When the investigators get there, the store crew will be wanting to clean up the mess; the shot went into the fish tank section, and dying fish lie amid bloody water. Make a point of allowing the investigators to see this.
+
+::::
+
+
 ---
 
 ::: center
@@ -1476,24 +1564,72 @@ It is no accident that so many of the clues in the investigation tree involve se
 
 ::: card
 
-- **暗流**：真诚的悲恸
-  - 撒拉黑眼眶骨折（被 George 踢的），约翰压着怒气
-  - 他们配合到「周二的真正意义」为止
+- **现场**（周五凌晨回家前都在警局，原书 p15-16）：
+  - 夫妇由悲伤辅导员陪伴，接受各路执法人员的问询；他们心急如焚
+  - 撒拉在流泪——黑眼眶、鼻骨骨折（被绑匪当脸踢的），濒临精神崩溃
+  - 约翰是压着怒气的平静：看起来在控制怒火，但随时可能无端爆发
+  - 审讯室里围着一大群苍蝇打转——**原文要求：把这个指出来**（第四灾，见十灾钟·蝇灾）
 
 ---
 
-- **破口（到达途径）**：
-  - 心理学读出隐瞒
-  - 出示 George 无伪装照片→认出「教友 Zach Nowiski」
-  - 点破「诉讼时间与上次末日预言时间重合」→**夫妇对视，起身回家**（平行搜寻从此启动）
+- **他们的状态与所信**：
+  - 是逾越节天使彻底的奴仆，但相信自己与内圈是被拣选的先知——侍奉的正是调查员们很可能也敬拜的那位神
+  - 两人看起来真心疼爱女儿
+  - 相信必须在周二大召唤与「清除不忠者」之前把女儿要回来；名义上要在周二日落献祭她，但这会像亚伯拉罕献以撒——天使会拦刀，她不会真的受伤
+  - 完全不知道周二到了、蕾吉娜却不在场会发生什么
+  - 更担心绑匪杀蕾吉娜，一点不担心周二那一刀——再不合逻辑也是如此
 
 ---
 
-- **闲笔**：
-  - 审讯室苍蝇（第四灾）
-  - 夫妇对头虱/官司问题各自炸毛
+- **配合的边界**：
+  - 初期配合执法，直到触及「周二的真正意义」与对女儿的计划为止
+  - 承认网站上的末日计算就是周二日落；解释日期时答案混乱——「占星分析」与神启混着说
+  - 回避《逾越节天使之书》密文破译的一切问题；对克苏鲁神话一无所知，真心相信逾越节天使是旧约天使
+
+---
+
+- **破口**：
+  - 心理学判定读出他们在隐瞒
+  - 得知 George 是琳赛的叔叔后，他们会乐于讲两年前琳赛「刑事性地、毫无依据地」抢孩子的故事
+  - 点破「那次诉讼与上一次末日预言日期重合」，夫妇会瞪大眼睛、决定必须回家——**平行追索从此认真启动**（动用教众搜琳赛，见暗流总览）
+  - 出示 George 无伪装照片：认出「教友 Zach Nowiski」——约三年前入教、被信任过
+  - 他们可能坦白也可能不坦白（心理学判定可提示隐瞒）
+  - 绝不会主动提：一周前亲历过天使显形的仪式；George 从仪式中途跑掉后一直在找他、想让他闭嘴
 
 :::
+
+:::: details 📖 原文留档：审讯贝尔福夫妇（原书 p15-16，中英双版）
+
+**中文（忠实全文）**
+
+贝尔福夫妇（直到周五凌晨回家睡觉前）都在地方警局，由悲伤辅导员陪伴，接受各路执法人员的问询。基于他们开局所知与所信，把初次访谈演出来。贝尔福夫妇是逾越节天使彻底的奴仆，但他们相信自己和内圈是被拣选的先知——侍奉的正是调查员们很可能也敬拜的那位神。他们心急如焚。贝尔福太太在流泪，黑眼眶、鼻骨骨折（被绑匪踢的），濒临精神崩溃。贝尔福先生是压着怒气的平静；他看起来在努力控制怒火，但怒气可能随机爆发。
+
+他们看起来都真心疼爱女儿。他们相信自己必须在周二逾越节天使的大召唤与预定的大清洗之前把女儿要回来。他们相信，虽然名义上必须在周二日落献祭蕾吉娜，但这会像亚伯拉罕献以撒：逾越节天使会出手拦下，她不会受到真正的伤害。如果周二到了、他们却必须在没有蕾吉娜的情况下继续——会发生什么，他们毫无概念。他们更担心绑匪会杀掉蕾吉娜，而一点也不担心她周二按计划被刺那一刀会伤到她，不管这有多不合逻辑。
+
+审讯室里围着一大群苍蝇。把这个指出来。
+
+贝尔福夫妇初期会配合执法，直到触及「周二的真正意义」以及他们届时打算对女儿做什么。他们会承认，按网站所言，他们目前对末日大决战时刻的计算是周二日落。至于为什么认为是这一天，他们会给出一个混乱费解的回答，把「占星分析」与一场神启混在一起说。他们会回避一切关于破译《逾越节天使之书》加密讯息的问题，或克苏鲁神话的问题——他们对后者根本不了解。他们真心认为逾越节天使是一位旧约天使，对神话的其余部分、甚至「神话」这个概念一无所知。
+
+他们起初也确实不知道乔治·刘易斯顿是谁。如果他们得知或被告知他是琳赛·皮尔的叔叔，他们会乐于讲出两年前琳赛如何「刑事性地、毫无事实依据地」试图把他们的女儿从他们身边夺走的故事。如果向他们指出，那次诉讼与教会此前的一次末日预言日期重合，他们的眼睛会瞪得很大，然后决定他们需要回家。从这一刻起，一场动用教众、由他们自己发动的寻找琳赛·皮尔的平行行动将认真展开——因为绑架的动机至此对他们已经清楚了。
+
+同样，如果给他们看乔治·刘易斯顿不戴帽子、不戴墨镜、去掉伪装胡须的照片，他们会认出他们认识的一个人，名叫扎克·诺威斯基（Zach Nowiski）。他大约三年前入教，他们信任过他。他们可能坦白，也可能不（如果不坦白，一次心理学检定可以提示调查员他们在隐瞒信息）。但他们绝不会主动提到：他们曾经信任他到亲自出席并参与一场仪式——逾越节天使在一周前的那场仪式上显形过；也不会提到自从他从仪式中途跑掉、从此「不再来教会」之后，他们一直在试图找到他、让他闭嘴。
+
+**English (verbatim)**
+
+The Balfours are (until they go home in the wee hours of Friday morning to get some sleep) at the local police station, being comforted by grief counselors and questioned by various law enforcement personnel. Roleplay out initial interviews with them based on what they are aware of and believe at the outset. The Balfours are complete and utter slaves of the Passover Angel, but believe that they and their inner circle have been chosen as prophets of the same God that the investigators probably worship. They are frantic. Mrs. Balfour is in tears, has a black eye and broken nose from being kicked in the face by the abductor, and is on the verge of a nervous breakdown. Mr. Balfour is placidly angry; he will seem like he is trying to control his anger but it may erupt randomly.
+
+They both seem to genuinely care for their daughter. They believe that they need to get her back before Tuesday's big summoning of the Passover Angel and the scheduled purging of the unfaithful. They believe that while they nominally have to sacrifice Regina at nightfall on Tuesday, it will be like Abraham's sacrifice of Jacob: the Passover Angel will intervene, and no real harm will come to her. They have no idea what will happen if Tuesday comes and they have to proceed without Regina. They are more worried that the abductor will kill Regina, and not at all worried that her scheduled stabbing on Tuesday will harm her at all, as irrational as that may be.
+
+There are a lot of houseflies buzzing about the interrogation room. Point this out.
+
+The Balfours will initially cooperate with law enforcement, up to the point of divulging the true significance of Tuesday or what they intend to do with their daughter then. They will acknowledge that their current calculation for Armageddon, as stated on their website, is Tuesday at sunset. They will give a garbled and confusing answer as to why they think it is, combining "astrological analysis" with a divine revelation. They will avoid questions about deciphering encoded messages in the Book of the Passover Angel, or the Cthulhu Mythos in general—which they are unfamiliar with as such. They honestly think that the Passover Angel is an Old Testament angel, and know nothing of the rest of the Mythos or even the Mythos as a concept.
+
+They also honestly have no idea, initially, who George Lewiston was. If they learn or are told that he was Lindsay Peale's uncle, they will cheerfully tell the story about how Lindsay Peale tried—criminally and without any basis in fact—to take their daughter away from them two years ago. If it is pointed out to them that this effort coincided with a prior Apocalyptic prediction date, their eyes will go very wide and they will decide that they need to go home. At which point, a parallel effort to find Lindsay Peale on their part—with the use of cult members—will begin in earnest, as the motivation for the abduction will now be clear to them.
+
+Likewise, if they are shown a picture of George Lewiston without his hat, sunglasses and added facial hair, they will recognize him as someone they know by the name of Zach Nowiski. He had joined their church about three years ago, and they trusted him. They may or may not confess to this (if they do not, a Psychology roll might suggest that they are withholding information). They will most certainly, however, neglect to mention that they trusted him enough to actually attend and participate in a ritual at which the Passover Angel appeared about a week ago, and that they have been trying without luck to find and silence him since he ran out of the service and abruptly stopped "coming to church" thereafter.
+
+::::
+
 
 ---
 
@@ -1505,50 +1641,242 @@ It is no accident that so many of the clues in the investigation tree involve se
 
 ::: card
 
-- **医疗线**：诊治医生 Dante
-  - 慢性肺梗阻，静脉类固醇依赖，无泵约一周内衰竭
-  - 五年全额现金
+- **医疗线**：诊治医生但丁（Dr. Dante）——慢性肺梗阻，静脉类固醇依赖，离开输液泵大约一周内衰竭；五年来每一笔医药费都是全额现金
 
 ---
 
-- **法庭线**：密封卷宗「In re R.B.」
-  - 两年前监护申请、法官痛斥琳赛、停职一个月
-  - **申请时间落在上次末日预言前一周**（非巧合）
+- **法庭线**：密封卷宗「In re R.B.」——两年前琳赛的紧急监护申请；
+  - 法官当庭痛斥、申请驳回、琳赛停职一个月；
+  - 申请时间落在教会上一次末日预言前一周
 
 ---
 
-- **联邦线**：
-  - ATF 屡查无获
-  - IRS 年均数百万捐款（极端组织+大企业——可埋神话污染企业名）
-  - 国务院记录：John 频繁赴肯尼亚，「红喇叭」政治团体，Blood Tongue 烟无火
+- **联邦线**：ATF 屡查无获；
+  - IRS 记录年均数百万美元捐款（极端组织＋大企业）；
+  - 国务院档案——约翰频繁赴肯尼亚、登记为「红喇叭」政治团体成员、Blood Tongue 线查无实证
 
 ---
 
-- **文本线**：
-  - 教会网站——倒计时钟指着周二日落；动画青蛙
-  - 《逾越节天使之书》
-    - 速读 4 小时：四章节结构
-    - `Spot Hidden` 排版异常→8 小时破译→耶利米书密文——「预言是真的」的文献级证据
-    - 精读 4 周：+2% CM／-1D4 SAN／法术**恳求**
-    - 五日案内跑不完，续团资产
+- **文本线**：教会网站挂着指向周二日落的倒计时钟、首页动画青蛙；《逾越节天使之书》速读 4 小时——见物品区条目
 
 ---
 
-- **George 寓所**
-  - 碎电脑／猫／Nicole／草稿箱协议
-  - 黑客或 subpoena 后仍只看到日常——真正协议在草稿箱
+- **蛋蛋盛宴！Eggstravaganza!**（全案钥匙的出处）：
+  - 克利夫兰市中心一片破旧街区里的 24 小时餐馆，George 吃早餐的老地方——邻居或他女儿妮可（Nicole）知道这个习惯
+  - 周四早晨他照常来吃早餐，用一张全新的借记卡结账
+  - 收银员塞巴斯蒂安·沃林厄姆（Sebastian Walligham）记得：这张卡忘了先打电话激活——那是它的首次使用
+  - 卡号就记在餐馆的收据上；执法开口即给，其他人付一笔合适的费用也行——因为是新卡，连有效期和安全码都一并记下了
+  - 有人愿意在电话里冒充持卡人、或动用黑客手段，就能「查询」这张卡的余额与其他消费——这就是推动全案的那把钥匙，**原文明示 vital clue：宁可放宽也要让调查员查到它**
+  - 这张卡本周早些时候在本地一家药房用现金购入；George 周二从银行取了 2000 美元现金，其中 1000 美元买了这张卡，另外 1000 美元下落不明（真相：给了琳赛，她后来用它买了第二张卡）
+  - 若媒体开始花钱买「认识 George 的人」的访谈，餐馆的人自己就会打电话给媒体、伸手要钱——平民与记者线的天然入口
 
 ---
 
-- **琳赛同事线**：纪律听证旧事、「她做了她必须做的事」、监工 Goldfarb/工会 Agostino 知最深
+- **这张卡付过什么**（查到卡号后顺藤展开）：
+  - 周四白天、案发之前——案发那家大盒子商店的一笔大单：免烹包装食品、五岁女孩尺码的衣物、大型急救包、洗漱用品、约一打儿童 DVD 和一台便携播放机、大量能量饮料、数包夜间感冒药，以及一台能监听警察、消防、急救频段的便携电台扫描器（在俄亥俄州合法）
+  - 商店周四早的监控录像：George 换了衣服、没戴帽子，推着满满一车上述物资，用这张卡结账
+  - 周四深夜——阿克隆（Akron）一家租车行的租车费（见追踪节）
 
 ---
 
-- **蛋蛋盛宴！**：预付卡号是全案钥匙
-  - **原文明示 vital clue，宁可放宽也要让调查员拿到**
-  - 执法直接调；平民贿赂；新闻队买断 Sebastian
+- **George 寓所**（已被执法搜查，门前拉着警戒线）：
+  - 电脑和手机被大锤砸碎、碎片留在桌上；
+    - 全部账单几天前提前付清；
+    - 周四早上把猫托付给邻居，留了现金作猫粮和兽医费
+  - 那只猫满身包扎着的疖肿、明显不适——**原文要求：必要时让邻居抱着猫上门给调查员看**（第六灾呼应）
+  - 手机记录：与侄女琳赛多年来的大量通话，案发前三天突然中断（真相：两人换了预付手机）
+  - 邮箱记录（执法可调取）：平平无奇——真正的联络渠道是一个只有他和琳赛知道的 Gmail 账户，以草稿箱存稿不发送的方式留言
+  - 女儿妮可有公寓钥匙和地址；周五下午五点邮件到达时，她会收到 George 生前寄出的信（Handout #4，原书为图版信件，随图版工序嵌入物品区）
+
+---
+
+- **琳赛宅**：独居，屋内无异常；
+  - 笔记本电脑和手机都不见了；
+  - 答录机里堆着周四周五单位打来的电话——人在哪、为什么不接手机
+  - 壁炉台上是一排飞靶射击奖杯——大学全国级射击赛事的前列名次；屋内有枪柜，登记在她名下的几支霰弹枪里少了两支
+  - 工作邮箱依法留存七年：近期与贝尔福一家相关的邮件一片空白——只有三年前 George 用他的常用邮箱发来的一封：「琳赛，我需要和你谈谈一个需要帮助的孩子。你听说过逾越节天使教会吗？说来你不会信。一起吃个午饭吧。乔治叔叔。」
+  - 邮件空白这件事本身就不正常（Law 判定成功或问同事可点破）：两年前她推动把蕾吉娜送进寄养家庭时，按理该有大量她与上司、县检察官之间的往来邮件——这与贝尔福家抱怨的「福利检查瘟疫」开始时间正好对上
+
+---
+
+- **琳赛同事线**：一听说调查员在查蕾吉娜失踪案，认识她的人全有话说，没一句好话——但也没有人怀疑她涉案
+  - 两年前无薪停职一个月的事所有人都知道个大概：她凭一个「匿名线报」绕过全部常规核查程序，哄着县检察官凭空洞含糊的虐童指控立刻行动；案子被法官当庭戳穿并痛斥时，她一句自辩都没有
+  - 近来极度紧张恍惚，但没对人说过原因；本周早些时候有同事撞见她在洗手间崩溃大哭，被她挥手挡开
+  - 直属上司戈德法布（Goldfarb）与工会代表阿戈斯蒂诺（Agostino）知道得更多——他们是那次纪律听证会上仅有的另外两人：她不申诉、安静接受停职，最后只道了歉，说自己做了必须做的事、动机说出来他们也不会信、以后再也不会这样了。除这一件事外，她是各方面都无可挑剔的模范社工
 
 :::
+
+:::: details 📖 原文留档：George 的寓所、财务与蛋蛋盛宴（原书 p17-18，中英双版）
+
+**中文（忠实全文）**
+
+乔治·刘易斯顿已退休、离婚多年、独居。他有一个女儿妮可，住在克利夫兰。妮可了解父亲退休后的大致活动：他担任政府顾问，研究危险的国内生存主义者与民兵团体，不时协助 FBI 或 ATF 的调查。
+
+除了一个人之外，他的亲戚、朋友和熟人没有一个知道逾越节天使教会，也不知道他对该教会有任何兴趣。没人明白他为什么会从商店绑走一个女孩、又当众自杀。那唯一的例外当然是琳赛·皮尔——如果有人被问起 George 与琳赛的关系：琳赛是他侄女，两人非常亲近。妮可有 George 公寓的钥匙和地址。
+
+鉴于执法部门很快查明了他的身份，Lewiston 的房子已被搜查，一切像是证据的东西（包括他的电脑和财务记录残骸）都被查封运往地方警局。门前拉着警戒线。
+
+George 用大锤砸毁了电脑和手机，碎片留在桌上。他付清了所有未结账单，昨天早上把猫托付给邻居，说自己要离开一阵子，并留了些现金支付猫粮和兽医费用。猫情况不好——满身包扎着的疖肿、明显不适。把这一点指出来；必要时让邻居抱着猫过来。
+
+复查 George 的手机记录：与他侄女琳赛·皮尔名下手机多年来的大量通话，案发前几天往来数十次，在案发前三天戛然而止（守秘人信息：两人此时都换用了预付手机）。知道他常用邮箱的人会把它提供给执法部门，后者可向服务器调取近期记录，但内容平淡无奇（守秘人信息：他设了一个只有他和琳赛知道的 Gmail 账户，以不发送、只存草稿的方式讨论蕾吉娜与他们的密谋）。
+
+他的邻居或女儿知道，George 喜欢去克利夫兰市中心一片破旧街区的一家叫「蛋蛋盛宴！」（Eggstravaganza!）的餐馆吃饭。（餐馆的人如果听说媒体在花钱买认识 George 的人的访谈，可能会自己打给媒体，伸手要钱。）George 周四早晨照常来吃早餐，用一张新的借记卡结账。执法人员、或任何足够有说服力、有魅力、能吓人或能侃的人，可以查到卡号。这张卡对应本周早些时候在本地一家药房用现金购入的全新预付卡。餐馆收银员塞巴斯蒂安·沃林厄姆（Sebastian Walligham）记得 George 忘了先打电话激活这张卡——那是它的首次使用。卡号他们有——执法开口即给，其他人付合适的费用。因为是新卡，他们连有效期和安全码都记下了，想打电话给卡公司、冒充持卡人身份查询此卡还在哪里用过的人可以用上。
+
+执法人员，或任何愿意在电话里做点小诈骗、或动用黑客手段的人，可以「查询」卡内余额与其他消费状态。这就是调查员推进案情所需的关键线索，宁可放宽也要让他们找到。这张预付卡付过一系列东西：案发当天早些时候、在蕾吉娜被绑的同一家「大盒子」商店的一笔大额账单；以及一笔在阿克隆（或案发地旁边最近的大城市）租车行的消费。租车详情见下文。
+
+复查案发商店周四早些时候的监控：George Lewiston（换了衣服、没戴帽子）买了一整车物资并用预付卡付款。购物清单包括：免烹包装食品；五岁女孩尺码合身的衣物；大型急救包；洗漱用品；约一打儿童 DVD 和便携 DVD 播放机；大量能量饮料；数包夜间感冒药；以及——重要的是——一台可监听警察、消防、急救频段的便携电台扫描器（这在俄亥俄不违法）。
+
+复查他的银行与常用信用卡记录还能得到其他宝贵线索：George 几天前提前付清了全部账单；周二提取现金 2000 美元，其中 1000 美元用于购买那张预付卡，另 1000 美元去向不明（守秘人信息：给了琳赛，她最终用它买了另一张预付卡）。他两周前还买了两支 12 号霰弹枪和两盒霰弹（都不在他公寓中找到）。George 名下没有接应车辆；他女儿知道琳赛有一辆——2008 年棕褐色福特金牛。George 自己的车还停在车库里。要点在于：George 精心计划、知道自己回不来；并且他打算照顾一个五岁女孩好几天。
+
+周五下午五点左右邮件到达时，他女儿收到一封 George 的信，即「瓢虫，瓢虫」调查员手持材料 #4。这多半只与执法共享，不过盯着女儿看的、爱打探的非执法调查员可能有机会干一票偷信。
+
+**English (verbatim)**
+
+George Lewiston was retired, long divorced and lived alone. He has one daughter, Nicole, who lives in Cleveland. She is aware of George's general activities since his retirement: he worked as a government consultant on dangerous domestic survivalist and militia groups. He would assist in investigations conducted by the F.B.I. or A.T.F. from time to time.
+
+With one exception, none of his relatives, friends or acquaintances knows anything about the Church of the Passover Angel or any interest on George Lewiston's part about them. No one has any idea why he would abduct a girl from a store or commit a spectacular public suicide. The one exception is Lindsay Peale, of course. If any of his friends or relatives is asked about a connection between George Lewiston and Lindsay Peale, Lindsay is his niece, and they were very close. Nicole has a key to George's apartment and the address.
+
+Given that law enforcement was able to identify him quickly, Lewiston's house has already been searched and anything that looked like evidence (including what was left of his computer and financial records) has been seized and transported to the local police station. Police tape is up in front of his door.
+
+George had destroyed his computer and cellular telephone with a sledgehammer and left the pieces on his desk. He had paid all of his outstanding bills and left his cat with a neighbor yesterday morning. He said that he would be away for a while, and left the neighbor some cash to pay for food and veterinarian bills. The cat is not well; it is covered with bandaged boils and in obvious discomfort. Point this out to them; have the neighbor come over with the cat in her arms if necessary.
+
+Review of George's cellular telephone records reveal numerous calls to a cellular telephone registered to his niece, Lindsay Peale, stretching back years. There have been dozens of calls back and forth between them in the days leading up to the abduction. These stop cold three days before the abduction (Keeper's Information: at which point, both switched to burner phones). People who know his usual email address will give it to law enforcement, who can subpoena recent records off of servers, but they are unremarkable. (Keeper's information: he set up a special Gmail account that only he and Lindsay knew about, to discuss issues surrounding Regina and their conspiracy, by saving emails in draft without sending them).
+
+Either his neighbor or his daughter knows that George liked to frequent a diner called Eggstravaganza! in a grungy part of downtown Cleveland. (The people at the diner, if they get wind of the press paying money for interviews with people who knew George, might call the media on their own, with their hands out). George was in Thursday morning for breakfast as usual. He paid his tab with a new debit card, and law enforcement or anyone sufficiently Persuasive, Charming, Intimidating or Fast Talking enough can get a look at the number. It corresponds to a brand new, pre-paid card bought at a local drug store earlier that week, for cash. The cashier at the restaurant, Sebastian Walligham, remembers that George had forgotten to call and authorize it, as it was its initial use. They have the card number—for asking on the part of law enforcement, or an appropriate fee for others. Since it was a new card, they even took down the expiration date and security code should someone wish to call the card company and misrepresent their identity in an effort to find out where else it might have been used.
+
+Law enforcement, or anyone willing to commit a little fraud over the phone or hacking, can "check" on what balance is left on the card and the status of other charges to it. This is the vital clue that the investigators need to find to move things forward quickly, so err on the side of allowing them to find it. The prepaid card paid for a variety of things: a large bill at the same "big box" store from which Regina was abducted, earlier that day; and a charge to a rental car agency in Akron (or the appropriate next sizable city over from where the abduction occurred). More details on the rental car below.
+
+Reviewing surveillance footage from earlier on Thursday at the site of the abduction reveals George Lewiston (in different clothing, without a hat) buying a shopping cart full of supplies and paying with his prepaid card. His shopping list included packaged food not requiring cooking to prepare; clothes sized for and appropriate to a five year old girl; a large first aid kit; toiletries; about a dozen children's DVDs and a portable DVD player; and a lot of energy drinks. Also purchased were several packages of night-time cold medicine, and importantly, a portable radio scanner capable of monitoring police, fire and EMT frequencies. (These are not illegal in Ohio). As noted above, he used his newly acquired, prepaid card to do so.
+
+Review of his bank or normal credit card records provides other valuable clues. George paid all of his bills a few days ago, in advance. He withdrew $2,000 in cash on Tuesday. $1,000 went to the purchase of the prepaid card. The other $1,000 is unaccounted for. (Keeper's information: he gave it to Lindsay, who ultimately used it to buy another prepaid card. More details below). He also bought two 12-gauge shotguns two weeks ago, along with two boxes of shells. (Neither was recovered from his apartment).
+
+George did not have a vehicle corresponding to the getaway car. His daughter is aware that Lindsay does, however: a 2008 tan Ford Taurus. George's only car is in its garage. The points are that George planned carefully and knew that he was not coming back; and, he was planning on taking care of a five year old girl for several days.
+
+When the mail arrives around 5 P.M. on Friday, his daughter receives a letter in the mail from George, which is reproduced below as Ladybug, Ladybug, Investigator Handout #4. This is likely shared with law enforcement only, although nosy non-law enforcement investigators who are staking the daughter out might have a chance to engage in some mail theft.
+
+::::
+
+:::: details 📖 原文留档：琳赛宅、记录与同事访谈（原书 p18-19，中英双版）
+
+**中文（忠实全文）**
+
+琳赛·皮尔的房子相当平常。她独居。认识她的人可以告知：她有一台笔记本电脑，但电脑和手机都不见了。她的个人财务记录提供不出任何线索（守秘人信息：一切都由她叔叔付钱，她目前在用的是一张用叔叔的现金购买的预付借记卡）。
+
+她的答录机上有几条单位打来的留言，全是周四周五的——她到底在哪、为什么不接手机。知道她常用私人邮箱的人可以提供给执法部门调取，内容平淡无奇（守秘人信息：George 设了一个只有两人知道的 Gmail 账户，以不发送草稿的方式讨论蕾吉娜与密谋）。
+
+她的房子里唯一值得注意的是壁炉台上数量众多的飞靶射击奖杯。翻看可知她在大学全国级射击比赛中数次名列前茅；屋内有一只枪柜。琳赛·皮尔名下登记有几支霰弹枪（若能打开枪柜）：少了两支。
+
+她的工作邮箱（社工）依法留存七年。近期没有任何与贝尔福家相关的内容，但有一封三年前、从 George Lewiston 常用邮箱发来的邮件，内容只有：「琳赛，我需要和你谈谈一个需要帮助的孩子。你听说过逾越节天使教会吗？说来你不会信。一起吃个午饭吧。乔治叔叔。」相关邮件流量的缺失极不寻常（Law 判定成功或与同事交谈）——她曾参与把蕾吉娜送进寄养家庭的行动，正常情况下她与上司、县检察官之间本该有大量往来邮件。这个时间点与贝尔福家乐于抱怨的「福利检查」瘟疫的开始正好吻合。
+
+琳赛·皮尔的朋友与同事访谈——任何一个听说调查员在查蕾吉娜·贝尔福失踪的人，都有很多话可说，没有一句是对琳赛有利的。没有人怀疑她涉案。琳赛两年前因试图把蕾吉娜从父母身边带走被无薪停职一个月，认识她的人全知道这段往事的大概：她当时凭一个「匿名线报」行动，但大家认为线报并不匿名、她是在保护线源；她绕过了全部常规核查程序，实质上是哄骗县检察官凭空洞含糊的虐童指控立即行动；案子被法官当庭戳穿、斥她变造整个事件时，她没有为自己辩护一句。
+
+琳赛近来显得极度紧张、心不在焉，但没说过原因。本周早些时候，一位同事撞见她在洗手间心碎大哭，被她挥手挡开。
+
+她的直属上司罗克珊娜·戈德法布（Roxanna Goldfarb）或工会代表吉姆·阿戈斯蒂诺（Jim Agostino）知道得更多一点——他们是她那次纪律听证会上仅有的另外两人。她没有申诉，只是安静地接受了停职、不曾自辩。两人都同意：如果她此前有任何负面工作记录，她可能已经被开除。最后她只是道了歉，说自己做了必须做的事、她的动机说出来他们也不会信、以后再也不会做这样的事。除了这一段独走之外，琳赛在各方面都是一名模范社工。
+
+**English (verbatim)**
+
+Lindsay Peale's house is largely unremarkable. She lives alone. Anyone who knows her can advise that she has a laptop computer, but it is missing, along with her cellular phone. Her personal financial records offer no clues. (Keeper's information: her uncle paid for everything, and she is presently using a prepaid debit card, paid for with cash from her uncle).
+
+There are several messages on her answering machine from her work, all from Thursday and Friday, wondering where the hell she is and complaining that she is not answering her cell phone. People who know her usual personal email address can give it to law enforcement, who can subpoena recent records off of servers, but they are unremarkable. (Keeper's information: George set up a special Gmail account that only he and Lindsay know about, to discuss issues surrounding Regina and their conspiracy via unsent draft messages).
+
+The only thing noteworthy about her house is the large number of trap shooting awards on her mantle. A perusal of these reveals several high placements at collegiate national-level shooting competitions, and there is a gun safe in her house. Lindsay Peale does have several shotguns registered in her name; two are missing from the gun safe (if they manage to access it).
+
+Lindsay's work email (as a social worker) is archived for seven years. There is nothing recent that has anything to do with the Balfours, but there is one from George Lewiston's usual email address dated about three years ago. It simply reads: "Lindsay, I need to talk to you about a child in need of aid. Have you ever heard of the Church of the Passover Angel? It's going to be tough to believe. Let's do lunch. Uncle George." This lack of pertinent email traffic is quite unusual (Law roll or talking to co-workers) since she was involved in an effort to put Regina in foster care. There would ordinarily be lots of emails back and forth between her, supervisors and/or county prosecutors about any effort to take a child away from her parents. This date corresponds with the onset of the plague of "welfare checks" that the Balfours are only too happy to complain about.
+
+As soon as any of Lindsay Peale's friends or co-workers hear that the investigators are looking into the disappearance of Regina Balfour, people have a lot to say on the subject, none of it positive about Lindsay. No one has any doubt that she was involved. Lindsay was suspended without pay for a month for her efforts to remove Regina Balfour from her parents two years ago. Everyone who knows her at all knows the basic story. She was acting on an "anonymous tip," but people think that the tip was not anonymous and that she was protecting her source. She bypassed all of the usual checks and procedures, and basically sweet-talked a county prosecutor into moving forward immediately on unsubstantiated and vague claims of child abuse. When she was accused, in effect, of dummying the whole thing up by the judge when the case was thrown out, she said nothing in her own defense.
+
+Lindsay had seemed extremely stressed and distracted lately, but had not shared why. One of her co-workers found her distraught and sobbing in the restroom earlier this week, but Lindsay waved her off.
+
+Her immediate supervisor, Roxanna Goldfarb, or her union representative, Jim Agostino, both know a little more. They were the only two people at her initial disciplinary proceeding. She did not appeal and simply quietly accepted the month's suspension without defending herself. Each agrees that, if she had had any prior negative work history, she might have been fired. At the end, she simply apologized and said that she did what she had to do, that they would not believe her if she explained her motivations, and that she would never do anything like this again. Except for this episode of rogue behavior, Lindsay was in all respects an exemplary social worker.
+
+::::
+
+
+---
+
+::: center
+
+### **贝尔福宅——宅邸、礼拜堂与避难所 🏡**
+
+:::
+
+::: card
+
+- **地块与外观**（克利夫兰西侧上中产街区）：
+  - 长条形郊区大块地基，纵深离街；前排一栋朴素的两层宅，侧车道绕向后院
+  - 后院是一座单间白木板小礼拜堂，带小尖顶；礼拜堂后面是密林与丛生的灌木
+  - 教会财报年均数百万美元捐款，但夫妇只领微薄薪金——住宅毫不起眼，与收入不符的朴素
+
+---
+
+- **宅内**：
+  - 想象一位非常保守的牧师那栋体面而朴素的房子，没有任何偶像崇拜
+  - 蕾吉娜的房间家具精良，适龄的玩偶、玩具和书很多（大量宗教主题）
+  - 家庭办公室唯一特别的东西：一台接着家用电脑的 3D 打印机
+  - 夫妇的解释：为女儿在家教育的科学课做准备，想让她早早学电脑
+  - 他们不信「六千年年轻地球」创造论——可能说漏嘴：「我们相信地球早在神认为宜于造人之前，就孕育在神的怀抱里」
+
+---
+
+- **礼拜堂**：
+  - 表面上（连他们自己都会惊讶）毫不起眼，可容约五十人
+  - 周日晨有礼拜，不对外；普通礼拜旁听或潜入收获寥寥——标准原教旨「火与硫磺」流程：赞美诗、传递奉献盘、约翰的火爆布道，劝信众在世界终结前与神和好
+  - 唯一怪处：他确信这件事就发生在周二晚上
+  - 会众被号召在自家门框上做记号，以避那晚逾越节天使之怒
+
+---
+
+- **避难所**（礼拜堂后林中，原书 p19）：
+  - 查旧执法记录（多为 ATF 档案）可知林中藏着一座掩体；夫妇不主动提，执法点名要看时耸耸肩放行
+  - 混凝土竖井下十英尺，壁内嵌梯子是唯一入口；极坚固的舱门从内上锁
+  - 里面：三人的生存物资与行军床、化学马桶、警频扫描器与民用波段电台、《逾越节天使之书》数册
+  - 枪柜里六支 12 号霰弹枪带弹药——全部登记在约翰名下，完全合法
+
+---
+
+- **舱门缘的刻痕**（本案最重的一枚暗线索）：
+  - 要特意去找或极幸运才能发现（Spot Hidden 大成功）
+  - 舱门金属外缘有一圈极淡极细的刻痕，细看是一组伊丽莎白时代魔法结界常见的符号（Occult 判定）
+  - 其中一个清晰是==长者之印==（Elder Sign——克苏鲁神话判定或先前经验识别）
+  - 问起来历：那是逾越节天使给约翰的启示，一个用来标记门框、保孩子平安的符号
+  - 周二晚上，他们还会把礼拜堂和住宅的门框涂上羊血
+
+:::
+
+:::: details 📖 原文留档：贝尔福宅——宅邸、礼拜堂与避难所（原书 p19-20，中英双版）
+
+**中文（忠实全文）**
+
+贝尔福家的房子在克利夫兰西侧一块大型郊区地块上，属上中产街区。尽管教会财务记录显示年均数百万美元捐款，记录同样显示他们只领取微薄的薪水，房子也几乎看不出什么。地块长而方正，纵深离街。临街是一栋朴素的两层宅，一条侧车道绕向后方。后院是一座单间、传统样式的白木板礼拜堂，带一座小尖顶。礼拜堂之后是密林与丛生的灌木。
+
+复查此前的执法记录（多为 ATF 记录）会发现，礼拜堂后的林中藏着一座隐蔽的地下掩体。贝尔福夫妇不会主动提及，但若执法部门搜查其地产时点名要看，他们会耸耸肩允许查看。
+
+他们的房子毫不起眼。想象一位非常保守的牧师那栋体面而朴素的家，没有任何偶像崇拜。蕾吉娜的房间布置精良，她有充足的衣物和大量适龄的玩偶、玩具与书籍（许多带宗教主题）。有一间大体平常的家庭办公室；唯一有意思的东西是一台接在家用电脑上的 3D 打印机。他们的解释是，他们在为女儿在家教育的科学部分做准备，想让她早早学习电脑。（贝尔福夫妇并不信奉六千年时间线的创造论；他们可能说漏嘴，说出「我们相信地球早在神认为宜于造人之前，就早已孕育在神的怀抱里」之类的话。）
+
+礼拜堂（他们自己会惊讶地发现）也毫不起眼，至少表面上如此。可容约五十人。周日早晨有礼拜，但不对外。窥看或潜入一场普通礼拜收获的信息很少。流程非常像一场典型的原教旨主义「火与硫磺」基督教礼拜：唱赞美诗、传递奉献盘，最后是贝尔福先生一场火爆的布道，劝信众在世界终结前与神和好。唯一奇怪的是，他确信这件事就发生在周二晚上。会众被号召在自家门框上做记号，以避那晚逾越节天使的怒火。
+
+掩体大体平常，至少对一座掩体而言。混凝土竖井下十英尺，壁内嵌着的梯子是唯一入口，舱门极坚固、从内上锁。里面有供三人用的生存物资与行军床、一个化学马桶，还有一台警频扫描器与一台民用波段电台，以及数册《逾越节天使之书》。枪柜里还有六支 12 号霰弹枪，带弹药——全部登记在贝尔福先生名下，完全合法。
+
+掩体有一样不寻常的东西，但必须特意去找或非常走运才能发现（Spot Hidden 大成功）。舱门的金属外缘、从外面可见处，有一圈极淡极细的蚀刻，比划痕深不了多少。细看会发现一组伊丽莎白时代魔法结界常见的符号（Occult 判定）。但其中一个，清晰地是一个长者之印（Elder Sign；克苏鲁神话判定或先前经验可识别）。若被问起，这是大能的逾越节天使给贝尔福先生的启示——一个用来标记门框、保他们孩子平安的符号。（周二晚上，他们还会把礼拜堂与住宅的门框涂上羊血。）
+
+**English (verbatim)**
+
+The Balfours' house is on a large suburban lot on the west side of Cleveland, in an upper-middle class neighborhood. Although their church's financial records reveal millions in annual donations, they also reflect that they take only a modest salary out, and little about their house reflects otherwise.
+
+The lot is long and rectangular, running away from the street. There is a modest, two story house toward the front of the lot, and a side driveway runs around toward the back. At the back is a small, one room, traditional looking, white-clapboard chapel with a small steeple. Thick trees and overgrown brush lie behind the chapel.
+
+Review of prior law enforcement records (mostly A.T.F. records) will reveal that there is a well-hidden underground bomb shelter in the woods behind the chapel. The Balfours do not volunteer this information, but if law enforcement asking to search their property specifically asks to see it, they shrug and allow an inspection.
+
+Their house is unremarkable. Imagine the nice but modest house of a very conservative preacher, without any idolatry. Regina's room is nicely furnished and she has ample clothing and age-appropriate dolls, toys and books (many with a religious theme). There is a mostly unremarkable home office; the one thing of interest is a 3D printer attached to their home computer. Their explanation for it is that they are preparing their daughter for the scientific end of her homeschooling, and they want her to learn computers at an early age. (The Balfours do not subscribe to 6,000 year timeline creationism; they may slip up and say something about how they have faith that the Earth existed in the bosom of God long before he saw fit to create mankind.)
+
+The chapel is (they will be surprised to learn) also unremarkable, at least on the surface. It seats about fifty people. They have services on Sunday morning, but those are closed to the public. Spying on a normal service (they are nightly or twice Sunday mornings) or infiltrating a normal service garners little information. It progresses very much like a typical fundamentalist, fire-and-brimstone Christian service, with hymns, passing the collection plate and finally a fiery sermon from Mr. Balfour, exhorting the faithful to get right with God before the world ends. The only odd thing is that he is convinced that this is going to happen on Tuesday night. Followers are called upon to mark their doorposts to avoid the wrath of the Passover Angel that night.
+
+The bomb shelter is largely unremarkable, at least for a bomb shelter. It is ten feet down a concrete shaft with a ladder set into the walls as the only access, and a very sturdy hatch that locks from the inside. There are survival goods and sleeping cots for three, and a chemical toilet. There is also a police band scanner and a citizen's band radio, as well as copies of The Book of the Passover Angel. There are also six 12 gauge shotguns, with ammunition—all registered to Mr. Balfour and all completely legal—in a gun safe.
+
+There is something unusual about the bomb shelter, but one has to look for it specifically or get very lucky (Critical Spot Hidden). Around the lip of the hatch, visible from the outside there are very faint and subtle etchings in the metal rim, little more than scratches. Examining them reveals a number of symbols (Occult roll) common to Elizabethan era magical wards. One in particular, however, is clearly an Elder Sign (a Cthulhu Mythos roll or prior experience recognizes it). If asked about this, it came to Mr. Balfour in a revelation from the mighty Passover Angel, as a symbol with which to mark their doorposts to keep their children safe. (On Tuesday evening, they will paint the chapel and house's door posts with lamb's blood as well.)
+
+::::
 
 ---
 
@@ -1560,28 +1888,142 @@ It is no accident that so many of the clues in the investigation tree involve se
 
 ::: card
 
-- **追踪链**
-  - 预付卡流水→大盒子商店采购（周四晨，无伪装 George：童装／急救包／免烹食品）
-  - →Akron 租车行（黑 Focus，周四深夜，签约录像；GPS 被拆，末次 ping 在 Turnpike 休息区）
-  - →收费站录像（东向上匝→宾州边第一出口；女孩呼吸危殆、琳赛哭着问医院）
+- **找到琳赛的车**：
+  - 她那辆 2008 年棕褐色福特金牛，停在租车行对面的旅馆停车场里（阿克隆/坎顿机场附近）——找到租车行就能找到它：孤零零一辆、尽量贴着街边停
+  - 兜底：只要车牌号或车辆描述进了通报，最迟周日早上本地警察会发现它并上报
 
 ---
 
-- **雹暴 set piece**（周六-一，追至出口区途中）：
-  - 天气预报晴。几分钟内积雨云压顶，棒球大冰雹+连环落雷
-  - 不靠边就是团灭级
-  - 幸运＋驾驶判定；翻车 2D6、未系安全带 4D6
-  - 云中那张脸（`Spot Hidden`）——SAN 1/1D10，疯狂洞见者想起十灾序列
-  - 若 John 尾随在场：他的车**毫发无伤**
+- **租车行**（机场旁卫星停车场，生意火爆）：
+  - 职员配合执法，也配合「数额可观且不张扬的贿赂」
+  - 周四深夜租出一辆 2011 版黑色福特福克斯给琳赛·皮尔——签了字、出示了驾照；当班职员（第二班次，需要时可召回）认得她的照片
+  - 车款已提前由一名男子打电话用借记卡付清——正是 George 买的那张预付卡
+  - 职员记得：被要求出示驾照时她犹豫了一下，得安抚她「不出示驾照没有哪家租车行会租给你」；她全程显得紧张
+  - 停车场监控：她从街对面步行入场办手续；
+    - 办完后数次往返于监控拍不到的街对面，搬运行李和杂货袋；
+    - 最后一趟搬的是一只安全座椅——上面睡着一个小女孩
 
 ---
 
-- **兽医诊所**（周五 04:00 被盗）：
-  - 只偷兽用类固醇+IV 器材
-  - 徒步到达说明他们就在附近、靠腿、带着孩子——推理收口
-  - 租车停在对面商场停车场，3 时她空手下车步行离开，说明落脚点在步行圈
+- **GPS 与收费站**：
+  - 现代租车都带 GPS，租车行会为合法请求定位（执法，或与执法协同的贝尔福夫妇）——但这台的 GPS 被拆了，最后一次信号出现在克利夫兰与宾州西部之间、俄亥俄收费高速上的一个休息区
+  - 懂汽车或懂电子的人会作证：这可不是随便谁都能做到的事
+  - 收费高速的上下匝道全程有摄像头记录过往车辆；执法能调记录，但不知道她在哪上哪下，逐段翻录像很费时间——她上、下匝道之间有十来个出口要查
+  - 收线：她在离租车行最近的入口上了东向高速（租车后约半小时）；
+    - 后座能看见安全座椅；
+    - 收费员一个班看几千辆车，记不得更多细节
+  - 录像查得够久会发现：她在俄亥俄-宾州州界后的第一个出口下了高速
+  - 玩家灵光一闪或大张旗鼓求助媒体去查出口收费员时，对的那个收费亭会打来电话——收费员认得出琳赛和蕾吉娜的照片：蕾吉娜咳嗽、喘鸣、呼吸明显窘迫；琳赛在哭、非常着急，问最近的医院——被告知约 20 英里外有一家
+  - 再兜底：等蕾吉娜的照片上了每一台电视，州界收费亭的职员迟早自己对上号——周日或周一
+
+---
+
+- **雹暴**（周六-一，追至出口区途中）：
+  - 天气预报（务必让调查员听到一份）是晴天无降水——几分钟内雷暴云压顶、狂风骤起，一个猛烈的风暴胞罩住调查员那一段路：棒球大的冰雹、多处落雷、闪电劈中沿路多辆车——他们见过（或后来听气象评论员说）的最狠的一场雹灾
+  - 不立刻靠边（除了路肩无处可停）就是 serious danger：硬开——全组幸运判定躲过雷击冰雹；躲不过则车毁、翻进沟里，驾驶判定成功才免伤，否则车内每人 2D6（未系安全带 4D6）
+  - 靠边留在车里——车遭雷击、风挡被垒球大的冰雹砸穿，前座每人 1D6；这明显不是自然天气，SAN 1/1D3
+  - 下车在暴风里跑——KP 完全有权限让雷劈了他们、或让漏斗云把他们卷走
+  - 乘客 Spot Hidden（司机在看路）：云里那张脸——黑色的天使翼框着一张怒容分明的脸，击中他们车的闪电正是从那双眼打出来的；SAN 1/1D10，获得疯狂洞见的人会想起埃及十灾及其顺序
+  - 若约翰尾随在场：他会把他们从残骸里捡出来，指出自摩西降雹于法老以来没人见过这种东西——**他的车毫发无伤**
+
+---
+
+- **兽医诊所与落脚圈**（向当地执法查近几日的失窃案）：
+  - 周五凌晨 4 点前后（打烊后），繁忙商业区一家兽医诊所被撬：门被砸开；有滥用价值的贵重药品一样没少，只拿走了特定类固醇（治疗蕾吉娜呼吸疾病的那种兽用制剂）和静脉注射器材（针头、管路、输液袋）
+  - 监控：一个用外套蒙头的女人作的案；另一台摄像头拍到她是步行穿过停车场接近的
+  - **关键推理**（原文标注 important clue）：琳赛就在附近——不在租车里、也不在任何车里；Idea 判定——蕾吉娜的病情严重限制了带她移动的范围，绑匪若想保她活着又不惹眼，只能就近落脚藏身
+  - 兜底：这件事周六早间可能上匹兹堡本地新闻
+  - 诊所对面的商业街停车场里能找到那辆租车：锁着、空的
+  - 商场监控（周五凌晨 3 点）：那个女人下车、步行离开——什么都没卸下。也就是说，商店采购的全部物资和蕾吉娜，都已在步行范围内某处卸下；周边公交与出租车司机全部排查无果——绑匪没有第二辆车
+
+
+
+![琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png)
 
 :::
+
+:::: details 📖 原文留档：找车、租车行、GPS 与收费站（原书 p19-20，中英双版）
+
+**中文（忠实全文）**
+
+琳赛的棕褐色福特金牛停在租车行对面的旅馆停车场里，靠近阿克隆/坎顿机场。调查员找到租车行后就能轻松找到它——它独自停着，尽量靠近街边。如果调查员需要提示，且假设琳赛·皮尔的车牌号或车辆描述已经发布，一名本地警察最迟会在绑架后的周日早上发现这辆车并上报。
+
+租车行生意极好，位于机场旁的卫星停车场。租车职员会配合执法，也配合数额可观且不张扬的贿赂。他们确实在周四深夜租了一辆车——2011 版黑色福特福克斯——给琳赛·皮尔。他们让她签了字、出示了驾照；当班职员（上第二班，或必要时可快速召回）认得出她的照片。车款已提前由一名男子打电话用借记卡付清，正是 George Lewiston 买的那张预付卡。职员记得，被要求出示驾照时她犹豫了一下，需要安抚她说没有任何租车行会不看出驾照租车。她显得很紧张。
+
+租车行的停车场有监控。录像显示琳赛·皮尔从街对面步行入场、走进租车办公室。办完手续出来、解锁车后，她数次往返于监控范围之外的街对面，搬运行李和杂货袋。最后一趟，她搬的是一只安全座椅，上面睡着一个小女孩。
+
+现代大型租车行的车都带 GPS，租车行会为合法请求（即执法，或与执法协同的蕾吉娜父母）定位追踪。遗憾的是这台 GPS 被拆除了，最后一次信号出现在克利夫兰与宾夕法尼亚州西部之间、俄亥俄收费高速（限制进入的收费公路）上的一个休息区。懂汽车或电子设备的人会作证：这并非易事。
+
+收费高速的入口与出口全都有摄像头记录上下高速的车辆。执法部门可以调取这些记录，但翻查需要时间，而且调查员不知道琳赛可能在哪上、哪下。假设她在取车点附近上高速是个稳妥的判断（事实上她在最近的入口上的）。该收费亭的记录显示她在租车约半小时后上高速东行。后座能看到装着小女孩的安全座椅，但收费员（一班要看几千辆车）记不得更多细节。
+
+录像翻得够久会发现：琳赛的车在俄亥俄与宾夕法尼亚州界后的第一个出口下了收费高速。这个翻查应当花相当多的时间——她上、下匝道之间有大约一打出口要费劲排查。如果调查员灵光一现，或在媒体上大张旗鼓地寻人，他们可能会致电或携照片排查收费员，也可能接到对应出口收费亭打来的电话。如果他们致电或公开征集「一辆黑色福特福克斯、带着生病或吵闹的小女孩」的出口亭线索，就会得到对应收费亭的回电。收费员能辨认琳赛·皮尔和蕾吉娜两人的照片。蕾吉娜当时在咳嗽、喘鸣，呼吸明显窘迫。琳赛在哭、非常焦虑，询问最近的医院在哪，被告知约 20 英里外有一家。
+
+无论如何，一旦蕾吉娜的照片上了每一台电视、对应亭的职员注意到，这通给执法的电话迟早会发生——但那要到周日或周一。
+
+**English (verbatim)**
+
+Lindsay's tan Ford Taurus is parked in a hotel lot across the street from the rental agency, near the Akron/Canton airport. It will be easily found once the investigators find the rental car agency; it is sitting by itself, as close to the street as possible. If the investigators need a hint, and assuming that the license plate number or description of Lindsay Peale's car has been put out, a local police officer will eventually find the car and call it in, no later than Sunday morning after the abduction.
+
+The rental car agency is extremely busy and located at a satellite lot near the airport. The rental agents will cooperate with law enforcement, and/or with sizable and discrete bribes. They did rent a car, a 2011 black Ford Focus, to Lindsay Peale late Thursday evening. They made her sign for it and show her driver's license, and the agent who was on duty (who will be there second shift, or can be quickly summoned to work if necessary) recognizes a photo of her. It had been paid for already over the phone by a man with a debit card, corresponding to the prepaid card bought by George Lewiston. The agent remembers that she hesitated when asked for her driver's license, and that she had to be reassured that no rental agency would rent her a car without one. She seemed nervous.
+
+The rental agency does keep security cameras in the lot. The footage shows Lindsay Peale walking onto the lot from across the street and into the rental office. She comes out after her transaction, unlocks the car, and then makes several trips back and forth across the street out of camera range, carrying luggage and grocery bags. On the last trip, she is carrying a car seat with a sleeping little girl in it.
+
+All modern day, major agency rental cars come equipped with GPS, which the rental agency can and will track for people with legitimate requests (i.e., law enforcement, or Regina's parents in conjunction with law enforcement). The GPS, regrettably, has been disabled, with its last ping coming at a rest stop on the Ohio Turnpike (limited access toll road) between Cleveland and western Pennsylvania. Knowledgeable persons about automobiles or electronics in general can attest that this is not an easy thing to do.
+
+The Turnpike entries and exits all have security cameras that log cars getting on and off the Turnpike. Law enforcement can get these records, although it will take time to browse through them, and the investigators do not know where Lindsay Peale may have gotten on and off. Assuming that Lindsay got on the Turnpike somewhere near where she got the rental car is a safe bet (in fact, she hopped on at the closest entrance). Records from that toll booth show her getting on the Turnpike eastbound, about a half an hour after renting the car. A car seat with a little girl in it can be seen in the back seat, but the attendant (who sees thousands of cars per shift) remembers no further details.
+
+Enough time reviewing video reveals that Lindsay Peale's car got off of the Turnpike at the first exit over the state border between Ohio and Pennsylvania. This review should take a considerable amount of time, as there are about a dozen exits between where she got on and off to laboriously review. If the investigators have a flash of inspiration, or go very public in the media with their search, they might call or track down the attendants and canvass them with pictures, or they might get a call from the pertinent exit booth. If they call or publicize their interest in hearing from exit booths about a black Ford Focus with a sick and/or unruly little girl, they are rewarded with a call from the pertinent exit booth. The toll booth attendant can identify pictures of both Lindsay Peale and Regina. Regina was coughing, wheezing, and in obvious respiratory distress. Lindsay was crying and looked very worried. She asked where the nearest hospital was, and was given directions to one about 20 miles away.
+
+Eventually, this call to law enforcement will happen anyway, once Regina's picture shows up on every television and the pertinent booth clerk notices it, but that will not be until Sunday or Monday.
+
+::::
+
+:::: details 📖 原文留档：雹暴、排查与兽医诊所（原书 p20-22，中英双版）
+
+**中文（忠实全文）**
+
+成功开好这场团的重要一环，是在调查员心里尽量播下怀疑——贝尔福家到底是真危险，还是只是担心女儿的神经质父母。最有效的办法之一，是让调查员拿到数量不一的第一手信息，看他们彼此信任到什么程度。这场戏安排在调查员沿俄亥俄收费高速（I-80）东行、前往租车 GPS 断讯的休息区和/或出口收费员报告见过蕾吉娜与琳赛下高速的路上。
+
+雹暴与雷暴来得极快、几乎没有预警。天气预报（务必让调查员听到一份）是晴天无降水。然而几分钟内雷暴云成形、狂风卷起，一个猛烈的风暴胞压在调查员那一段公路上。如《出埃及记》所写，这是调查员（或后来的气象评论员）前所未见的雹灾，闪电数次劈中沿路多处，包括几辆车。
+
+如果调查员没有立刻靠边（除了路肩无处可停），他们处境极其危险。如果他们继续硬开，允许全组做一次幸运判定，躲避被异常巨大的闪电加冰雹击中——那会摧毁汽车、把他们甩进沟里，（除非驾驶判定成功）对车内每人造成 2D6 伤害（未系安全带 4D6）。如果他们停车留在车内，车会遭雷击、风挡被垒球大小的冰雹砸穿，前座每人受 1D6 伤害。这显然不是自然事件，SAN 损失 1/1D3。如果他们下车试图在暴风中央奔跑，你完全有权把他们烤了、或让漏斗云把他们吸走。
+
+如果贝尔福先生尾随在后，他可以把他们从残骸里捞出来，指出自摩西召雹灾降于法老以来没人见过这种东西。他的车奇怪地毫发无伤。
+
+好玩的部分在于：正当调查员开始意识到这场暴有多糟时，它开始从「寻常雹暴」变成「明显非自然」。假设司机盯着路，请乘客们做 Spot Hidden。当他们看见云中那张怒容分明的脸——黑色的天使之翼框着它，劈中他们车的闪电从它眼中射出——他们多半会希望自己没检成功。SAN 损失 1/1D10，获得疯狂洞见的人会回想起埃及的十灾及其降临顺序。
+
+排查与后勤——调查员一旦锁定蕾吉娜可能被带往的大致区域（收费高速出口），就应开始排查。由于孩子病情危急、琳赛打听过医疗设施，他们可能排查各类医疗设施。周四夜/周五凌晨开门的医院与医疗机构，没有任何小女孩呼吸窘迫的就诊记录。
+
+如果他们想到向当地执法查近几日的医疗或药房失窃案，会得知周五凌晨 4 点前后（打烊后），繁忙商业区一家兽医诊所被盗：门被砸开；有滥用价值的贵重药品留在原地，只偷走了特定类固醇（治疗蕾吉娜呼吸疾病的兽用制剂）与静脉注射器材（针头、管路、输液袋）。监控录像显示一个用外套蒙头的女人作案；第二台摄像头的录像还拍到她步行穿过停车场接近。这是个重要线索——它说明琳赛·皮尔必然就在附近：她不在租车里，也不在任何车里；而这发生在她被最近的出口收费员看见带着病童的凌晨。（守秘人信息：这与此前「绑匪不想伤害蕾吉娜」的证据一致。而且 Idea 判定——她的病情在逻辑上严重限制了她能被移动的范围；如果绑匪想让她活着又不惹人注意，在逻辑上只能就近落地藏身。）如果调查员需要推一把，这件事周六早间可能上匹兹堡本地新闻。
+
+在兽医诊所周边搜索，不难找到那辆租车：停在诊所对面商业街的停车场里，锁着、空的。商业街停车场有监控：周五凌晨 3 点左右，一个（外貌与撬诊所一致）女人下了车、步行离开。有趣的是，她没有卸任何行李、任何小女孩、任何物资。（Idea 判定）这意味着她必然把商店里买的全部物资和蕾吉娜，都在附近步行距离内的地方卸下了。调查员查不到绑匪的任何其他车辆；排查附近公交线路、出租车司机等一无所获。
+
+**English (verbatim)**
+
+An important part of running this scenario successfully is to sow as much doubt as possible in the minds of the investigators about whether the Balfours are actually dangerous, or just crackpot parents worried about their daughter. One of the most effective ways to do this is to give the investigators different amounts of firsthand information and gauge how much they trust each other. You should stage this set piece as the investigators travel down the Ohio Turnpike (I-80), en route to the rest stop where the rental car's GPS cut out, and/or to where the exit booth staff reports seeing Regina and Lindsay exit.
+
+The hail and lightning storm descends very quickly and without much warning. The weather report (and make sure that the investigators hear one) is for clear skies and no precipitation. Nonetheless, thunderheads form within minutes, the wind whips up, and a vicious microcell descends on the investigators' stretch of road. As described in Exodus, it is the worst hailstorm that the investigators (or later weather commentators) have ever seen, and lightning strikes several places along the road, including several cars.
+
+If the investigators do not pull over immediately (and there is nowhere to pull over except the shoulder), they are in serious danger. If they try to keep driving, allow the investigators a group Luck roll to avoid having their car struck by a freakishly massive lightning and hail strike, which destroys the car, sends them into a ditch, and (barring a successful Drive Automobile roll) causes 2D6 points of damage to everyone in the car (4D6 if they are not wearing their seatbelts). If they do stop and stay in the car, it gets struck by lightning and the windshield gets smashed out by softball sized hail, doing 1D6 damage to anyone in the front seat. SAN loss is 1/1D3 for this clearly unnatural event. If they get out of the car and try to run in the middle of the storm, you are within your rights to fry them or have them sucked up by a funnel cloud.
+
+If Mr. Balfour is tailing them, he can pick them out of their wrecked car and point out how nothing like this has been seen since Moses called down a hailstorm on Pharaoh. His car is strangely unharmed.
+
+The fun part is to be had as the investigators are just getting the sense as to how bad the storm is, when it starts to change from "ordinary hailstorm" to "clearly not natural." Presumably the driver has his eyes on the road, but ask the passengers for a Spot Hidden. They'll probably wish that they had failed, when they see the unmistakably angry face in the clouds, framed by cloudy black angel's wings, as the lightning that hits their car flashes from its eyes. SAN loss is 1/1D10, and anyone who gains an insane insight thinks back to the plagues of Egypt and the sequence in which they occurred.
+
+Once the investigators figure out the general area where Regina may have been taken (the Turnpike exit), they should try to canvass the area. Since she was in distress and Lindsay Peale was asking about medical facilities, they might try to canvass those types of facilities. No area hospitals or any medical facilities that would have been open in the middle of the night on Thursday night/Friday morning have any record of any little girls in respiratory distress.
+
+If they think to check with local law enforcement about any medical facility or pharmacy break-ins discovered in the past few days, they do learn that around 4 A.M. Friday morning, after closing hours, a veterinary clinic in a busy, built up commercial district was burglarized. The door was smashed open. Valuable drugs of potential abuse were left behind, and only certain steroids (the veterinary preparation of what is used to treat Regina's respiratory illness) and IV equipment (needles, tubing, bags) were taken. Security camera footage shows a woman with a coat over her head perpetrating the offense. Footage from a second camera also shows her approaching on foot through the parking lot.
+
+This is an important clue, as it suggests that Lindsay Peale must be close by. She is not in the rental car, nor any other car; and this occurs in the wee hours of the morning after she was seen at the nearest Turnpike exit booth with a sick child. (Keeper's information: this is consistent with the prior evidence suggesting that the abductors do not want to harm Regina. Also, her medical condition (Idea roll) would logically greatly limit the extent to which Regina could be moved without attracting attention; it would logically force the abductors to go to ground somewhere nearby, if they were trying to keep her alive and avoid notice).
+
+This incident might make the Pittsburgh local news on Sunday morning, if the investigators need a nudge.
+
+Searching the area around the veterinary clinic finds the rental car without too much trouble. It is parked across the road from the clinic in a strip mall parking lot. It is locked and empty.
+
+There is surveillance footage available for the strip mall parking lot, and a woman (matching the appearance of the one who breaks into the veterinary clinic) can be seen at about 3 A.M. Friday morning. Interestingly, she simply gets out of the car and leaves on foot. She does not unload any luggage, unload any little girls, or unload any supplies. This (Idea roll) means that she must have unloaded all of the supplies bought at the store, as well as Regina, somewhere nearby, within walking distance. The investigators cannot trace any other vehicle to the abductors, and canvassing nearby bus routes, taxi drivers, and the like comes up empty.
+
+::::
+
 
 ---
 
@@ -1593,33 +2035,116 @@ It is no accident that so many of the clues in the investigation tree involve se
 
 ::: card
 
-- **定位链**
-  - 步行圈内 motel 逐家问：预付＋现金＋代登记→Kevin Lang→**Ellie 一语破的**
-  - 兜底钟：周日本地新闻「兽医诊所失窃」报道
+- **旅馆形态**：
+  - 名叫五橡，附近却一棵橡树（任何树）都没有——两层 24 间的煤渣砖建筑，车位直对房门，办公室在尽头一端
+  - 坐落在繁忙郊区商业区的外缘：二线零售店、半旧的条形商场、寻常连锁餐馆之间
 
 ---
 
-- **结构**：23 号房，二楼倒数第二间
-  - 铁皮钉死两窗（后面可见）；柜子堵门+链锁
-  - 门框血符文（与避难所门框同款——调查员若见过后者，当场对上，约翰若在场会失语）
+- **23 号房**（离办公室倒数第二间、二楼）：
+  - 窗帘拉死；她费了大力气用螺丝把前窗和卫生间窗都钉上了铁皮——隔着前窗帘看不见，从楼后看得一清二楚
+  - 门把上挂着「请勿打扰」；门锁着、挂着链锁、再用一个五斗柜顶死
+  - 她能把五斗柜挪开一条缝从前门偷看外面——除非知道有人正盯着，否则紧张地不时瞄一眼
 
 ---
 
-- **情报手段**：热成像定位两人；抛物麦收音听到小声放着的动画片
+- **房间里**：
+  - 她用冷药让蕾吉娜大部分时间睡着；醒着的时候靠吓唬和便携播放机上的儿童 DVD 让她保持安静
+  - 她自己靠能量饮料撑着；听着警用频段扫描器；腿上横着一支上了膛的霰弹枪，手边还有一支备用的
+  - 再次强调：她的枪法致命地准
+  - 她无意在周三之前出这间房（除非出现极不寻常的状况，让她判断带蕾吉娜跑路更安全）
+  - 周三早上，她会不经伤害蕾吉娜地投降，或逃走后打电话告知警方蕾吉娜的位置
+
+---
+
+- **旅馆监控（值得调阅）**：
+  - 周四深夜：那个连帽衫女人开车到 23 号房前，卸下一个裹着毯子、睡着的小孩、几只行李箱、几袋食品杂货，以及出箱的两支霰弹枪
+  - 进房约一小时后，她用小刀和画笔在门外忙了约十分钟——那是在门框上刻符文（见下）
+  - 之后她外出一趟（就是撬兽医诊所那次）；离开约一小时，拎着一个塑料袋回来；此后再没出过门
+
+---
+
+- **定位链（找到这间房）**：
+  - 拿着琳赛的照片挨家排查旅馆会失败
+  - 改问「周四深夜预付房费、要求晚入住的客人」——缩到几家；再问「其中哪家还要求付现金」——就是五橡
+  - 州法规定即使付现金也须出示带照片的证件：她报名字「劳拉·琼斯」，用借记卡预付 23 号房到周三，特意要了二楼、且不在走廊尽头的房间
+  - 她的「旅伴」——19 岁、本地住址的凯文·朗（Kevin Lang）——周五一早取的钥匙；他住附近公寓、在隔壁炸鸡三明治店上班
+  - 一个哭了很多的女人给了他一张约 500 美元的预付借记卡，换他代为登记、把钥匙留在 23 号房门上
+  - 他能认出琳赛的照片；她是步行来的、正赶在打烊时分，没见到小女孩
+  - `Fast Talk`／`Charm`／恐吓／说服全部碰壁时——前台的小女儿、还在学步的埃莉·戴维森（Ellie Davidson）会自己开口：23 号房住着一个小女孩，门里老放小马宝莉；她敲门想找她玩，没人应
+
+---
+
+- **行动分寸（KP 运行注）**：
+  - 排查的隐蔽程度要记下——琳赛不时从门缝张望、监听警用与消防频段、盯着新闻
+  - 如果她断定自己已被围死，会开始准备最后一战
 
 ---
 
 - **对峙三路**：
-  - 谈判（见琳赛信任门）
-  - 强攻（95% 霰弹枪+几分钟才砸得开的门+谈判破裂杀孩子）
-  - 等（周三晨她自己开门——但周二日落先到）
+  - 谈判（见琳赛卡·信任门）
+  - 强攻——95% 霰弹枪、几分钟才砸得开的门、谈判破裂她会先杀孩子
+  - 等——周三晨她自己开门，但周二日落先到
 
 ---
 
-- **蝗群**在你们靠近时开始撞窗（见十灾钟）
-- **媒体战**（双钩都适用）：琳赛听警频看新闻——放假情报可钓她出门/放松；静默使她扣紧扳机
+- **媒体战**（双钩都适用）：
+  - 琳赛听警频、看新闻——放假情报可钓她出门或放松；无线电静默只会让她扣紧扳机
+
+---
+
+- **蝗群与门框**（约翰周一晚 `Entreat` 之后）：
+  - 停车场里蛰伏的蝗群会突然群起，带着明确目的撞向 23 号房的门窗——SAN 0/1D3
+  - 调查员恰在此时破门的话，琳赛因分神可获一先手（或幸运加成）
+  - 蝗群==不进门==，停在门槛：门框外侧有极浅的刻痕——变体长者之印，与贝尔福家避难所舱门缘的那圈同款
+  - 夜间有猎鬼待命——若门框符文被毁且灯灭
+
+![五橡汽车旅馆平面图（原书 p22 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png)
 
 :::
+
+:::: details 📖 原文留档：五橡旅馆、监控与定位链（原书 p22-23，中英双版）
+
+**中文（忠实全文）**
+
+调查员找到租车后会置身于一个大型、高度开发的郊区：一座大购物中心为锚，卫星条形商场沿各条来路辐射约一英里；间杂每家连锁品牌旅馆各一间、每家连锁餐馆各一间、许多连锁零售店，以及若干本地店铺。
+
+找旅馆就是跑腿加电话、配一点洞察。拿着琳赛·皮尔的照片排查失败。找「周四晚预付房费、要求晚入住」的客人，缩到几家；问其中哪家还要求付现金（避免留下纸痕），指向五橡汽车旅馆。
+
+五橡本周早些时候接到过一个电话，问客人能否预付现金；得到的答复是州法要求即使付现金也须出示带照片证件。对方于是报上「劳拉·琼斯」之名、用借记卡预付。劳拉·琼斯付了 23 号房到周三的房费，特意指定要二楼、不在走廊尽头。她那位（名义上的）旅伴——19 岁、本地住址的凯文·朗——周五一早取的钥匙。这些信息执法随手可得；其他人可能得靠声东击西或贿赂才能翻电脑登记簿。朗先生住附近公寓、在隔壁的炸鸡三明治店上班。某位哭得很厉害的女士给了他一张约 500 美元的预付借记卡，换他进旅馆代为登记、把钥匙留在 23 号房门上。他能认出琳赛·皮尔的照片就是那位女士；她是步行来的、正赶上餐馆打烊，没见到任何小女孩。
+
+如果调查员在 `Fast Talk`、`Charm`、恐吓或说服旅馆职员和／或朗先生时碰壁，职员还在学步的女儿埃莉·戴维森可能自己冒出一句：23 号房住着一个小女孩。隔着门她听见很多小马宝莉动画片的声音；她敲过门想找她玩，没人应。
+
+再次强调，调查员做这轮排查时多么隐蔽要记下。记住琳赛不时从门缝偷看、监听警用与消防频段、盯着新闻。如果她断定自己已被无可挽回地围死，她会准备最后一战。
+
+尽管名叫五橡，这片地产附近一棵橡树（或任何树）都没有。五橡汽车旅馆是两层 24 间的煤渣砖建筑，车位直对房门、办公室在尽头一端，坐落在繁忙郊区商业区外缘，四周是二线零售店、半旧的条形商场与寻常连锁餐馆。
+
+琳赛·皮尔藏身 23 号房——离办公室倒数第二间、二楼。窗帘拉死；她费了大力气把两扇窗（前窗与卫生间窗）都拧上了铁皮（隔着前窗帘看不见，从楼后一清二楚）。门把上挂着「请勿打扰」，门锁着、挂着链锁、并用一个五斗柜顶死。她能把五斗柜挪开一条缝从前门偷看，并紧张地时不时这么做——除非她知道正被人盯着。屋内，她用冷药让蕾吉娜大部分时间睡着，其余时候靠吓唬和便携播放机放儿童 DVD 让她安静。她自己靠能量饮料顶着；听着警用频段扫描器，腿上放一支上了膛的霰弹枪，手边还有一支备用。再次注意：她是致命精准的射手。她无意在周三之前出屋（除非她判断——在极不可能的情况下——她和蕾吉娜跑路更安全）。周三早上，她会不经伤害蕾吉娜地投降，或逃走后来电告知警方蕾吉娜的位置。
+
+复查旅馆监控是明智的：录像显示与撬兽医诊所同一人（连帽衫罩头）周四深夜开车抵达 23 号房。她卸下一个裹在毯子里、睡着的小孩、几只行李箱与几袋食品杂货，以及出箱的两支霰弹枪。她在房里待了约一小时，然后用小刀和画笔在门外忙了约十分钟。随后她外出（去洗劫附近的兽医诊所），离开约一小时，拎着一只塑料袋回来。此后再没出过门。
+
+**English (verbatim)**
+
+The investigators find themselves in a large, heavily developed suburban area anchored by a large shopping mall, with numerous satellite strip malls radiating out for a mile or so along every approaching road. Interspersed are representatives of each typical chain brand motel, one of each chain brand restaurant, many chain brand retail stores, as well as a number of more local establishments.
+
+Finding the motel is simply a matter of legwork or phone calls, coupled with a little insight. Canvassing the area with photos of Lindsay Peale fails. Looking for people who prepaid for their room, and asked for a late check in on Thursday night, narrows the field to several contenders. Asking the hotel desks whether any one of these had also asked to pay in cash (to avoid leaving a paper trail) leads to the Five Oaks Motel.
+
+The Five Oaks did have a telephone inquiry earlier this week as to whether a guest could pay in cash in advance. They were advised that state law requires picture identification to check in, even if cash is paid. The person then gave her name as Laura Jones and prepaid with a debit card. "Laura Jones" paid for Room 23 through Wednesday. She was specific that she wanted a room on the second floor, and not on an end. Her (alleged) travelling companion, a 19 year old named Kevin Lang with a local address, picked up the key early Friday morning. This information is readily available to law enforcement; others might have to resort to distraction and/or bribery to review the computerized guest register.
+
+Mr. Lang lives in a nearby apartment and works at a chicken sandwich restaurant next door. Some lady who had been crying a lot gave him a prepaid debit card with about $500 on it, in exchange for going into the motel, signing in for her and leaving the key in the door of Room 23. He can identify a picture of Lindsay Peale as the lady in question. She was on foot and came into his restaurant as it was closing. He did not see any little girls with her.
+
+If the investigators hit a roadblock in terms of Fast Talking, Charming, Intimidating or Persuading the hotel clerk and/or Mr. Lang, the clerk's toddler daughter, Ellie Davidson, might pipe up and volunteer that there is a little girl staying up in Room 23. She hears a lot of My Little Pony cartoons playing through the door. She knocked on the door to see if she wanted to play, but no one answered.
+
+Again, how subtly the investigators go about this inquiry is important to take note of. Remember that Lindsay is peering out the door occasionally, listening to the police and fire bands, and keeping an eye on the news coverage. If she concludes that she is hopelessly cornered, she will prepare for a final assault.
+
+Despite the name, there is not an oak tree, or any other sort of tree, anywhere near these premises. The Five Oaks Motel is a two story, 24 unit, cinder block construction motel with parking spots directly in front of the doors and an office unit at the end. It is situated on the outskirts of a busy, suburban commercial district amidst second-tier retail stores, slightly run down strip malls, and the usual assortment of chain restaurants.
+
+Lindsay Peale is holed up in Room 23, which is second from the far end from the office, and up on the second floor. The curtains are closed, and she has laboriously screwed pieces of sheet iron over both the front window and bathroom window. (This cannot be seen through the curtains in the front, but is plainly visible from the rear). The "Do Not Disturb" sign is hung on the doorknob, and the door is locked, chained and barricaded with a dresser. Lindsay can inch the dresser back a bit and peek out the front door, and nervously does so every now and then, unless she knows that she is being actively watched. Inside, she has kept Regina asleep most of the time through the judicious application of cold medicine, and quiet at other times through threats and showing her children's DVDs on a portable player. She herself is very amped up on energy drinks; she is listening to the police band scanner and keeps a loaded shotgun on her lap, with a backup shotgun at her side. Note again that she is a deadly accurate shot. She has no intention of venturing out of the room until Wednesday unless she decides (under a very unlikely set of circumstances) that she and Regina are better off running for it. On Wednesday morning, she simply surrenders without harming Regina, or flees and calls the police with Regina's whereabouts.
+
+Reviewing the motel's security cameras is wise, and it reveals the same woman as the one who broke into the veterinary (hoodie up) arriving at Room 23 by car circa very late Thursday evening. She unloads a sleeping small child wrapped up in a blanket, and several suitcases and bags of groceries, as well as two shotguns out of their cases. She is in the hotel room for about an hour, and then takes about ten minutes with a penknife and paintbrush, fiddling with the outside of the door. She then ventures out (to raid the nearby veterinary office). She is gone for about an hour, and comes back carrying one plastic bag. She has not ventured out since.
+
+::::
+
 
 ---
 
@@ -1632,23 +2157,77 @@ It is no accident that so many of the clues in the investigation tree involve se
 ::: card
 
 - **白天**：法庭令之战
-  - 救回后 4 小时收人；两地车程 2 小时——数学上「合法」赢的是父母
-  - 若蕾吉娜仍在调查员手——夫妇全部力量转向直接抢回
+  - 救回蕾吉娜后 4 小时法庭令来收人；两地车程 2 小时——数学上「合法」赢的是父母
+  - 蕾吉娜仍在调查员手上时，夫妇的全部力量转向直接抢回
 
 ---
 
-- **黄昏**：大停电（第九灾）
-  - 礼拜堂烛光；百名会众（多数不知情）
-  - 十武装核心就位；六炸弹车+街边预置首爆车
-  - 律师+两名无辜保安堵车道；新闻车在场
+- **撒拉的下午**（若蕾吉娜已无望找回）：
+  - 去工艺品店买麻布，回家给自己缝一件粗麻长袍；点着壁炉，把灰烬一捧捧运进礼拜堂，一边踩缝纫机一边唱赞美诗
+  - 整个周二她都忙个不停：后院烧烤坑烧大量的木；办公室里的 3D 打印机也可能嗡嗡响个不停
 
 ---
 
-- **日落礼拜**
-  - 赞美诗→感恩祷或追思祷→向天使祷告
-  - **天使在祭坛上方显形**→首爆车炸响（全镇窗碎）
-  - 武装信徒封门／自杀冲锋开路
-  - 献祭执行：蕾吉娜在则蕾吉娜，否则撒拉
+- **黄昏——大停电（第九灾）**：
+  - 日落前约半小时，贝尔福家所在街区大面积停电；赶上多云无月的夜，整片区域陷入彻底黑暗
+  - 夫妇对停电的准备异常充分：礼拜堂点起蜡烛；烧烤坑大概还烧着，提供一点光
+  - 调查员若不另外想法子照明：远程攻击与 `Spot Hidden` 判定 −20%，潜行 +20%
+
+---
+
+- **场地**（战术图见下方图版）：
+  - 这==不是==任何意义上的设防堡垒——约 100 名会众（男女老幼都有）绝大多数没有武装
+  - 若有人对会众搜过身——什么也搜不出，除非他们专门找藏在车架内、包裹得躲开警犬与蒸汽探测的简易爆炸物
+  - 至少一辆警车停在门外挡讨厌的记者（图上有标记）；至少一辆新闻车停在邻居家门前等能播的画面（同样有标记）
+
+---
+
+- **十人武装核心**（「零蛋」约翰尼领队）：
+  - 名下六辆汽车，全部可由手机遥控引爆；十人各持手机，任何一部都能引爆全部六辆
+  - 若 SWAT 盯得死：九人带着替换装备坐在五辆炸弹车里守在远处；第十人不带武装、独自开车来做礼拜——他周一早还把第二辆车（贝尔福家的）停在街边，藏点要拆到车骨架才查得出（C-4 密封缠裹、藏进车架与油箱内隔层），即图上的「首爆车」
+  - 盯得不死：他们就停在礼拜堂停车场、街边或贝尔福家车道上，找机会（也许直到大乱起来后）再从祭坛下取装备
+
+---
+
+- **祭坛下的暗格**：
+  - 自制燃烧瓶组件（酒瓶与发电机燃料）、战斗刀、自杀背心、3D 打印的自制土枪（单发、非金属）
+  - 自杀背心带死人开关：一旦上保险，佩戴者昏迷或松开拇指扳机即爆
+  - 只有认真而彻底的搜查才找得到
+  - 夫妇自己没有武装——除了那把祭刀：肯尼亚宣教岁月带回的异金合金古物，带微弱放射性，也藏在祭坛下
+
+---
+
+- **日落礼拜**：
+  - 到此刻为止他们不曾做过任何违法之事——礼拜照常开始，哪怕一队持枪联邦探员就站在礼拜堂里看着
+  - 流程与寻常教会礼拜无异：标准赞美诗
+    - 约翰献感恩祷（蕾吉娜获救）或追思祷（她已死）
+    - 然后鼓励全会起立、跟他一起向逾越节天使祷告
+  - 他身边很可能就站着律师、拿着允许礼拜继续的法院令；只有让他失去行动能力、或违令把他拖走，才能阻止礼拜推进
+  - 蕾吉娜（若回到他们控制下）身穿麻布坐在前排，怀里抱着一只==替代的瓢虫书包==；否则坐在那个位置上的就是撒拉
+
+---
+
+- **天使降临与献祭**：
+  - 祷告末尾，天使在祭坛上方显形——在场全体 SAN 1/1D10
+  - 同时首爆车引爆：整个街区的窗户震碎、一片汽车警报、堂内人群向大门狂奔踩踏
+  - 堂内武装信徒堵门（无执法在场时），或对堂内执法者发起自杀式袭击；守在远处的炸弹车几分钟内赶到，冲撞警群引爆、跳车杀平民逼警察分神、劫持人质——用一切办法把执法注意力从礼拜堂引开
+  - 约翰把蕾吉娜（或撒拉）引到祭坛前、放倒，高喊「主啊，我顺服你的旨意，求你饶过我的长子」——无论祭坛上躺的是谁——然后刺下
+  - 这个阶段还想阻拦的人，要面对的就是悬在半空的逾越节天使本身
+  - 注意：不必约翰亲手执刀——任何人刺下都算数，撒拉自己也可以。而她会
+
+---
+
+- **献祭完成时**：
+  - 天使膨胀、变形，黑风降临人间
+  - 蕾吉娜被献祭——黑风全力：地狱风暴从礼拜堂炸开，顺盛行风向犁出 20 英里长的锥形走廊，龙卷群、雷击火灾、洪水、蝗群，以及随后的大霍乱（特别凶的一株，`Medicine` 判定失败即死）
+  - 奇怪的是，破坏只杀头生子：老二老三总会莫名幸存——有的在地下室角落被发现、四周全是血；有的被风扔到一英里外、只带轻伤
+  - 死者数以万计（含头生的调查员与全部信徒——除非他们人在门框刻着变体长者之印的掩体里，如贝尔福家后院那座）；气象学家给不出合理解释
+  - 黑风起时，贝尔福夫妇会抱起蕾吉娜的尸体冲向自家掩体——来不来得及由你定；往那边跑的调查员同理
+  - 若作为长战役的一部分继续：黑风开启世界的不幸序列——瘟疫与天灾频发且加剧、神话活动显著抬升；那株霍乱以「克利夫兰流感」之名蔓延全球，此后数十年索命数以千计
+  - 撒拉替祭——风暴收在一英里级的龙卷内、死者以百计、世界还能给出合理解释
+  - 胆敢看外面乌云的人：闪电照亮云中巨大的有翼人影——SAN 1/1D8
+
+![贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png)
 
 :::
 
@@ -1809,6 +2388,9 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 ::::
 
 
+![到场简报原书图版（原书 p9）](https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing.jpg)
+
+
 ---
 
 ::: center
@@ -1947,6 +2529,23 @@ KJV：
 
 ::::
 
+
+---
+
+::: center
+
+### **乔治的告别信（Handout #4） ✉️**
+
+:::
+
+::: card
+
+- 周五下午五点左右邮件到达时，女儿妮可收到这封 George 生前寄出的信——与全部账单付清、猫托付邻居、电脑砸碎同属一个人的临行收拾
+- 原文为手写图版（下）：多半只与执法共享；盯着妮可的非执法调查员有机会干一票偷信
+
+![乔治的告别信（原书 p17 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter.jpg)
+
+:::
 
 ---
 
