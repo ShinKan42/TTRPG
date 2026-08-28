@@ -8,7 +8,7 @@ search: false
 
 ::: center
 
-### **🍄 腐化王朝 Reign of Rot**
+### **腐化王朝 Reign of Rot 🍄**
 
 末日幽暗地域 Vol.1 · 3~6 级 · 躯体感染恐怖 · 网团
 

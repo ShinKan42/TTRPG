@@ -8,13 +8,13 @@ search: false
 
 ::: center
 
-### **🍄 祖格莫伊之怒 Wrath of Zuggtmoy**
+### **祖格莫伊之怒 Wrath of Zuggtmoy 🍄**
 
 :::
 
 ---
 
-:::::: card
+:::: card
 
 ::: center
 
@@ -24,4 +24,4 @@ search: false
 
 腐化王朝直接续卷（官方 2024）——备团启动时本页落成正式案卷。
 
-::::::
+::::

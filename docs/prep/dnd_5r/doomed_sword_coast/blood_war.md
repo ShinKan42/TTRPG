@@ -8,13 +8,13 @@ search: false
 
 ::: center
 
-### **🩸 血战 Blood War**
+### **血战 Blood War 🩸**
 
 :::
 
 ---
 
-:::::: card
+:::: card
 
 ::: center
 
@@ -24,4 +24,4 @@ search: false
 
 投效地狱骑士的深渊战争（官方最新卷）——备团启动时本页落成正式案卷。
 
-::::::
+::::

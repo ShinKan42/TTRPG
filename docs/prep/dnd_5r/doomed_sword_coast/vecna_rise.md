@@ -8,13 +8,13 @@ search: false
 
 ::: center
 
-### **⚔️ 维克那的崛起 Vecna's Rise**
+### **维克那的崛起 Vecna's Rise ⚔️**
 
 :::
 
 ---
 
-:::::: card
+:::: card
 
 ::: center
 
@@ -24,4 +24,4 @@ search: false
 
 架构位已留——备团启动时本页落成正式案卷。
 
-::::::
+::::

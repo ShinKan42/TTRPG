@@ -8,7 +8,7 @@ search: false
 
 ::: center
 
-### **🏛️ 巨龙迷城 The Dragon Delves**
+### **巨龙迷城 The Dragon Delves 🏛️**
 
 短团集 · 十色龙选集 · 1~12 级
 
@@ -16,7 +16,7 @@ search: false
 
 ---
 
-:::::: card
+:::: card
 
 ::: center
 
@@ -27,6 +27,8 @@ search: false
 :::
 
 ---
+
+::: table
 
 | # | 龙 | 冒险 | 英文名 | 等级 | 状态 |
 |:-:|:--:|:-----|:--------|:----:|:----:|
@@ -41,10 +43,12 @@ search: false
 | 9 | 🟤 赤铜龙 | 一枚铜币换一首歌 | A Copper for a Song | 12 | 待录 |
 | 10 | 🔵 蓝龙 | 砂岩城之龙 | Dragons of the Sandstone City | 12 | 待录 |
 
+:::
+
 ::: center
 
 *官方名 The Dragon Delves（2025），D&D Beyond 已核。第 2/5/9 篇官方标注可单人团改编。*
 
 :::
 
-::::::
+::::

@@ -32,7 +32,11 @@ icon: "material-symbols:mail-outline"
 > *I am who I am.*
 > :::
 
+::: center
+
 ### **注意事项**
+
+:::
 
 请注意以下联系方式的各种应用条件，勿过度互相打扰
 

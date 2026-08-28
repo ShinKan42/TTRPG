@@ -29,11 +29,11 @@ createTime: 2026/08/23 21:00:00
 
 ---
 
-:::: center
+::: center
 
 ## **🧮 属性**
 
-::::
+:::
 
 ::: table
 
@@ -52,11 +52,11 @@ createTime: 2026/08/23 21:00:00
 
 ---
 
-:::: center
+::: center
 
 ## **🧮 派生数值**
 
-::::
+:::
 
 ::: table
 
@@ -75,11 +75,11 @@ createTime: 2026/08/23 21:00:00
 
 ---
 
-:::: center
+::: center
 
 ## **🎭 角色**
 
-::::
+:::
 
 ::: table
 
@@ -96,11 +96,11 @@ createTime: 2026/08/23 21:00:00
 
 ---
 
-:::: center
+::: center
 
 ## **🎲 检定**
 
-::::
+:::
 
 ::: table
 
@@ -124,11 +124,11 @@ createTime: 2026/08/23 21:00:00
 
 ---
 
-:::: center
+::: center
 
 ## **🌀 疯狂**
 
-::::
+:::
 
 ::: table
 
@@ -143,11 +143,11 @@ createTime: 2026/08/23 21:00:00
 
 ---
 
-:::: center
+::: center
 
 ## **📋 技能**
 
-::::
+:::
 
 ::: table
 
@@ -164,11 +164,11 @@ createTime: 2026/08/23 21:00:00
 
 ---
 
-:::: center
+::: center
 
 ## **📜 背景**
 
-::::
+:::
 
 ::: table
 
@@ -189,10 +189,10 @@ createTime: 2026/08/23 21:00:00
 :::: card
 
 
-::::: center
+::: center
 ### **深入阅读 🔗**
 
-:::::
+:::
 
 - 属性怎么生成 → [车卡指南](/rule/coc/guide/character_creation)
 - 检定怎么掷 → [常用骰法](/rule/coc/guide/quick_roll)

@@ -8,13 +8,13 @@ search: false
 
 ::: center
 
-### **💀 维克那的陨落 Vecna's Fall**
+### **维克那的陨落 Vecna's Fall 💀**
 
 :::
 
 ---
 
-:::::: card
+:::: card
 
 ::: center
 
@@ -24,4 +24,4 @@ search: false
 
 架构位已留——备团启动时本页落成正式案卷。
 
-::::::
+::::

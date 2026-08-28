@@ -8,7 +8,7 @@ search: false
 
 ::: center
 
-### **🔑 黄金宝库之钥 Keys from the Golden Vault**
+### **黄金宝库之钥 Keys from the Golden Vault 🔑**
 
 单元剧 · 劫盗冒险 · 1~11 级
 
@@ -16,7 +16,7 @@ search: false
 
 ---
 
-:::::: card
+:::: card
 
 ::: center
 
@@ -60,11 +60,11 @@ search: false
 
 :::
 
-::::::
+::::
 
 ---
 
-:::::: card
+:::: card
 
 ::: center
 
@@ -73,6 +73,8 @@ search: false
 :::
 
 ---
+
+::: table
 
 | # | 冒险 | 英文名 | 等级 | 状态 |
 |:-:|:-----|:-------|:----:|:----:|
@@ -88,10 +90,12 @@ search: false
 | 11 | 和谐号特快列车事件 | Affair on the Concordant Express | 9 | 待录 |
 | 13 | 火焰与黑暗 | Fire and Darkness | 11 | 待录 |
 
+:::
+
 ::: center
 
 *#2 冥河筹谋、#3 攀手星空、#4 13号囚犯、#12 帕丽赛特宫的宴会已录入（见上）；#1 黯沉泥沼的毒牙另页已录。*
 
 :::
 
-::::::
+::::

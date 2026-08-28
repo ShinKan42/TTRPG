@@ -123,7 +123,7 @@ ShinKan42
 
 :::
 
-:::: details 📖 经文原文：出 12:13, 21-23 羊血与灭命者（逾越节的本体）
+::: details 📖 经文原文：出 12:13, 21-23 羊血与灭命者（逾越节的本体）
 
 和合本：
 
@@ -145,7 +145,7 @@ KJV：
 >
 > 13 And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.
 
-::::
+:::
 
 
 ::: tip 十灾——神罚阶梯
@@ -181,7 +181,7 @@ KJV：
 
 :::
 
-:::: details 📖 经文原文：创 22:9-13 以撒献祭（天使拦刀与公羊）
+::: details 📖 经文原文：创 22:9-13 以撒献祭（天使拦刀与公羊）
 
 和合本：
 
@@ -207,7 +207,7 @@ KJV：
 >
 > 13 And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
 
-::::
+:::
 
 
 ::: details ✍️ 作者手记（评语 · 可跳过）
@@ -254,7 +254,7 @@ KJV：
 
 :::
 
-:::: card
+::: card
 
 - **中心思想（定案 a+b）**
   - 主轴是善与善的相撞
@@ -291,7 +291,7 @@ KJV：
 
 ---
 
-::::
+:::
 
 ::: center
 
@@ -470,7 +470,7 @@ KJV：
   - 玩家抢跑或拖堂，各阵营按自己的钟走
   - John 周一晚必 `Entreat`；撒拉周二下午必赴死线
 
-:::: details 📖 十灾经文对照（和合本＋KJV，展开即念）
+::: details 📖 十灾经文对照（和合本＋KJV，展开即念）
 
 **1 血灾——出 7:20-21**
 
@@ -618,7 +618,7 @@ KJV：
 >
 > 6 And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
 
-::::
+:::
 
 ::: center
 
@@ -657,7 +657,7 @@ KJV：
 
 :::
 
-:::: card
+::: card
 
 **调查员的介入，与开局已知（Involving the Investigators, and What Is Known at the Start）**
 
@@ -679,9 +679,9 @@ KJV：
 - 新闻摄制组可以通过收买执法系统的「线人」拿到同样的信息
 - 贝茨探员在调查员自己主案时是冗余且不必要的；否则她的数据卡见人物区
 
-::::
+:::
 
-:::: details 📖 原文留档：调查员的介入与开局已知（原书 p9，中英双版）
+::: details 📖 原文留档：调查员的介入与开局已知（原书 p9，中英双版）
 
 **中文（忠实全文）**
 
@@ -703,7 +703,7 @@ None of the investigators should be related to Regina Balfour, but they might ha
 
 Regina's kidnapping is all over the regional news within an hour of its occurrence, and the national news shortly thereafter. Law enforcement investigators, or those with official sanction, learn the information in Ladybug, Ladybug, Investigator Handout #1 at their initial briefing. News crews can get this same information by bribing a law enforcement "leak". If one of the investigators is an F.B.I. agent to assume charge of the investigation, this information comes from the local police who responded to the scene. Otherwise, it comes from an F.B.I. agent in charge, Lucy Bates, a career investigator with extensive experience in finding kidnapped children. Special Agent Bates is redundant and unnecessary if the investigators are in charge; otherwise, her statistics appear below.
 
-::::
+:::
 
 
 ::: center
@@ -897,7 +897,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 
 
-::::: details 数据卡：琳赛·皮尔
+:::: details 数据卡：琳赛·皮尔
 
 **琳赛·皮尔 Lindsay Peale**｜人类，29 岁，县儿童保护社工
 
@@ -947,9 +947,9 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 - 防御：无特殊
 - 学历：心理学学士（俄亥俄州立）＋社工硕士（克利夫兰州立）
 
-:::::
+::::
 
-:::: details 📖 原文留档：琳赛的心态——两年前的案子与一周前的录像（原书 p24-25，中英双版）
+::: details 📖 原文留档：琳赛的心态——两年前的案子与一周前的录像（原书 p24-25，中英双版）
 
 **中文（忠实全文）**
 
@@ -971,7 +971,7 @@ About a week ago, her uncle approached her again, with much the same story and a
 
 Lindsay initially still wanted to have nothing to do with the whole matter, but that changed over the course of the next forty-eight hours. Since seeing the video, she has been hallucinating. She has been seeing a dark, hooded, black-winged angel out of the corner of her eye at every turn. She keeps finding Bibles opened to Exodus 11-12 in inaccessible places, like hanging from her shower nozzle or on her pillow—including at the motel. Her dreams have been nightmares of ancient Egypt and Biblical plagues, and she has not slept well since. Her uncle warned her never to turn out the lights, and the one time that she did, for just a second, she saw a glimpse of something huge, winged and serpentine outside her window, headed straight for her. That was enough. She believes that something demonic is after her and little Regina, and that she needs to keep her safe until Wednesday or monsters will eat her. She is correct on both scores.
 
-::::
+:::
 
 
 ---
@@ -1010,7 +1010,7 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 
 :::
 
-:::: details 📖 台词出处：出 21:23-25 同态复仇律（约翰口头禅「Life for life, eye for eye」的原文）
+::: details 📖 台词出处：出 21:23-25 同态复仇律（约翰口头禅「Life for life, eye for eye」的原文）
 
 和合本：
 
@@ -1028,10 +1028,10 @@ KJV：
 >
 > 25 Burning for burning, wound for wound, stripe for stripe.
 
-::::
+:::
 
 
-::::: details 数据卡：约翰·贝尔福
+:::: details 数据卡：约翰·贝尔福
 
 **约翰·贝尔福 John Balfour**｜人类，33 岁，逾越节天使教会牧师
 
@@ -1085,7 +1085,7 @@ KJV：
 - 长期疯狂：种族灭绝狂
 - 学历：神学院
 
-:::::
+::::
 
 ---
 
@@ -1118,7 +1118,7 @@ KJV：
 
 :::
 
-:::: details 📖 台词出处：创 18:10-14 撒拉求子（「这孩子当年是我求来的」的典故原文）
+::: details 📖 台词出处：创 18:10-14 撒拉求子（「这孩子当年是我求来的」的典故原文）
 
 和合本：
 
@@ -1144,7 +1144,7 @@ KJV：
 >
 > 14 Is any thing too hard for the Lord? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
 
-::::
+:::
 
 
 ---
@@ -1176,7 +1176,7 @@ KJV：
 
 :::
 
-::::: details 数据卡：露西·贝茨
+:::: details 数据卡：露西·贝茨
 
 **露西·贝茨 Lucy Bates**｜FBI 探长，失踪与受剥削儿童工作组
 
@@ -1229,7 +1229,7 @@ KJV：
 - 「Stop interfering with my investigation!」
 - 「The only thing that matters is getting that little girl back to her mom and dad!」
 
-:::::
+::::
 
 ---
 
@@ -1312,7 +1312,7 @@ KJV：
 
 :::
 
-:::: details 📖 天使形貌经文库（和合本＋KJV）
+::: details 📖 天使形貌经文库（和合本＋KJV）
 
 **灭命之夜——出 12:29-30**
 
@@ -1388,10 +1388,10 @@ KJV：
 >
 > 4 Who maketh his angels spirits; his ministers a flaming fire:
 
-::::
+:::
 
 
-::::: details 数据卡：逾越节天使
+::: details 数据卡：逾越节天使
 
 **逾越节天使 The Passover Angel**｜奈亚拉托特普化身（犹死天使形态）
 
@@ -1437,9 +1437,9 @@ KP 任意指定至 99%
 - 见之：1/1D10
 - 被杀死：「黑风」当场释放
 
-:::::
+:::
 
-::::: details 数据卡：自杀信徒 ×10（「零蛋」约翰尼领队）
+:::: details 数据卡：自杀信徒 ×10（「零蛋」约翰尼领队）
 
 **自杀信徒 ×10**｜「零蛋」约翰尼 Johnny Zero 领队
 
@@ -1491,7 +1491,7 @@ KP 任意指定至 99%
 - 「Glory be to the Passover Angel!」
 - 「All unbelievers shall perish!」
 
-:::::
+::::
 
 ---
 
@@ -1576,7 +1576,7 @@ KP 任意指定至 99%
 :::
 
 
-:::: details 📖 第一灾经文：出 7:20-21 血水（和合本＋KJV）
+::: details 📖 第一灾经文：出 7:20-21 血水（和合本＋KJV）
 
 和合本：
 
@@ -1590,9 +1590,9 @@ KJV：
 >
 > 21 And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt.
 
-::::
+:::
 
-:::: details 📖 原文留档：监控摄像头主题（原书 p11，中英双版）
+::: details 📖 原文留档：监控摄像头主题（原书 p11，中英双版）
 
 **中文（忠实全文）**
 
@@ -1602,9 +1602,9 @@ KJV：
 
 It is no accident that so many of the clues in the investigation tree involve security cameras. Do not be subtle about this, either. If the investigators do not notice this on their own, have one of the Balfours point it out to them at some point. "Back in the days of the Egyptian Exodus, the Israelites were aware that the eyes of God were constantly upon them, judging their actions and their righteousness. The more things change, the more they stay the same, you know? God's judgment is coming. Be at peace with that fact."
 
-::::
+:::
 
-:::: details 📖 原文留档：案发现场与目击者访谈（原书 p15，中英双版）
+::: details 📖 原文留档：案发现场与目击者访谈（原书 p15，中英双版）
 
 **中文（忠实全文）**
 
@@ -1622,7 +1622,7 @@ Several people inside the store (including the greeter who was shot) can attest 
 
 The shooter committed suicide against an outside wall of the store (where no one else was likely to get hit by a through and through shot). When the investigators get there, the store crew will be wanting to clean up the mess; the shot went into the fish tank section, and dying fish lie amid bloody water. Make a point of allowing the investigators to see this.
 
-::::
+:::
 
 
 ---
@@ -1669,7 +1669,7 @@ The shooter committed suicide against an outside wall of the store (where no one
 
 :::
 
-:::: details 📖 原文留档：审讯贝尔福夫妇（原书 p15-16，中英双版）
+::: details 📖 原文留档：审讯贝尔福夫妇（原书 p15-16，中英双版）
 
 **中文（忠实全文）**
 
@@ -1699,7 +1699,7 @@ They also honestly have no idea, initially, who George Lewiston was. If they lea
 
 Likewise, if they are shown a picture of George Lewiston without his hat, sunglasses and added facial hair, they will recognize him as someone they know by the name of Zach Nowiski. He had joined their church about three years ago, and they trusted him. They may or may not confess to this (if they do not, a Psychology roll might suggest that they are withholding information). They will most certainly, however, neglect to mention that they trusted him enough to actually attend and participate in a ritual at which the Passover Angel appeared about a week ago, and that they have been trying without luck to find and silence him since he ran out of the service and abruptly stopped "coming to church" thereafter.
 
-::::
+:::
 
 
 ---
@@ -1801,7 +1801,7 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
 
 :::
 
-:::: details 📖 原文留档：George 的寓所、财务与蛋蛋盛宴（原书 p17-18，中英双版）
+::: details 📖 原文留档：George 的寓所、财务与蛋蛋盛宴（原书 p17-18，中英双版）
 
 **中文（忠实全文）**
 
@@ -1849,9 +1849,9 @@ George did not have a vehicle corresponding to the getaway car. His daughter is 
 
 When the mail arrives around 5 P.M. on Friday, his daughter receives a letter in the mail from George, which is reproduced below as Ladybug, Ladybug, Investigator Handout #4. This is likely shared with law enforcement only, although nosy non-law enforcement investigators who are staking the daughter out might have a chance to engage in some mail theft.
 
-::::
+:::
 
-:::: details 📖 原文留档：琳赛宅、记录与同事访谈（原书 p18-19，中英双版）
+::: details 📖 原文留档：琳赛宅、记录与同事访谈（原书 p18-19，中英双版）
 
 **中文（忠实全文）**
 
@@ -1885,9 +1885,9 @@ Lindsay had seemed extremely stressed and distracted lately, but had not shared 
 
 Her immediate supervisor, Roxanna Goldfarb, or her union representative, Jim Agostino, both know a little more. They were the only two people at her initial disciplinary proceeding. She did not appeal and simply quietly accepted the month's suspension without defending herself. Each agrees that, if she had had any prior negative work history, she might have been fired. At the end, she simply apologized and said that she did what she had to do, that they would not believe her if she explained her motivations, and that she would never do anything like this again. Except for this episode of rogue behavior, Lindsay was in all respects an exemplary social worker.
 
-::::
+:::
 
-:::: details 📖 原文留档：背景调查——医疗、法庭、联邦与教会网站（原书 p11-14，中英双版）
+::: details 📖 原文留档：背景调查——医疗、法庭、联邦与教会网站（原书 p11-14，中英双版）
 
 **中文（忠实全文）**
 
@@ -1969,7 +1969,7 @@ The website is a combination of whimsical and downright scary. The homepage is a
 
 There is nothing in any Mythos tomes or standard occult research sources implicating The Church of the Passover Angel in any occult or Mythos shenanigans. They are quite new and (except for John Balfour's periodic sojourns to unpleasant parts of Kenya) not a part of any "networks." However, optionally, there may be files in any occult-oriented government agencies or quasi-government conspiracies on Mr. Lewiston. If such conspiracies or agencies exist in your campaign, this will become apparent if and when the investigators sufficiently search George Lewiston's apartment. He was consulted for his expertise on militaristic cults on several occasions, although he was not an active "stringer" for any such groups.
 
-::::
+:::
 
 
 
@@ -2024,7 +2024,7 @@ There is nothing in any Mythos tomes or standard occult research sources implica
 
 :::
 
-:::: details 📖 原文留档：贝尔福宅——宅邸、礼拜堂与避难所（原书 p19-20，中英双版）
+::: details 📖 原文留档：贝尔福宅——宅邸、礼拜堂与避难所（原书 p19-20，中英双版）
 
 **中文（忠实全文）**
 
@@ -2056,7 +2056,7 @@ The bomb shelter is largely unremarkable, at least for a bomb shelter. It is ten
 
 There is something unusual about the bomb shelter, but one has to look for it specifically or get very lucky (Critical Spot Hidden). Around the lip of the hatch, visible from the outside there are very faint and subtle etchings in the metal rim, little more than scratches. Examining them reveals a number of symbols (Occult roll) common to Elizabethan era magical wards. One in particular, however, is clearly an Elder Sign (a Cthulhu Mythos roll or prior experience recognizes it). If asked about this, it came to Mr. Balfour in a revelation from the mighty Passover Angel, as a symbol with which to mark their doorposts to keep their children safe. (On Tuesday evening, they will paint the chapel and house's door posts with lamb's blood as well.)
 
-::::
+:::
 
 ---
 
@@ -2122,7 +2122,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 
 :::
 
-:::: details 📖 原文留档：找车、租车行、GPS 与收费站（原书 p19-20，中英双版）
+::: details 📖 原文留档：找车、租车行、GPS 与收费站（原书 p19-20，中英双版）
 
 **中文（忠实全文）**
 
@@ -2156,9 +2156,9 @@ Enough time reviewing video reveals that Lindsay Peale's car got off of the Turn
 
 Eventually, this call to law enforcement will happen anyway, once Regina's picture shows up on every television and the pertinent booth clerk notices it, but that will not be until Sunday or Monday.
 
-::::
+:::
 
-:::: details 📖 原文留档：雹暴、排查与兽医诊所（原书 p20-22，中英双版）
+::: details 📖 原文留档：雹暴、排查与兽医诊所（原书 p20-22，中英双版）
 
 **中文（忠实全文）**
 
@@ -2202,7 +2202,7 @@ Searching the area around the veterinary clinic finds the rental car without too
 
 There is surveillance footage available for the strip mall parking lot, and a woman (matching the appearance of the one who breaks into the veterinary clinic) can be seen at about 3 A.M. Friday morning. Interestingly, she simply gets out of the car and leaves on foot. She does not unload any luggage, unload any little girls, or unload any supplies. This (Idea roll) means that she must have unloaded all of the supplies bought at the store, as well as Regina, somewhere nearby, within walking distance. The investigators cannot trace any other vehicle to the abductors, and canvassing nearby bus routes, taxi drivers, and the like comes up empty.
 
-::::
+:::
 
 
 ---
@@ -2334,7 +2334,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 
 :::
 
-:::: details 📖 原文留档：五橡旅馆、监控与定位链（原书 p22-23，中英双版）
+::: details 📖 原文留档：五橡旅馆、监控与定位链（原书 p22-23，中英双版）
 
 **中文（忠实全文）**
 
@@ -2374,9 +2374,9 @@ Lindsay Peale is holed up in Room 23, which is second from the far end from the 
 
 Reviewing the motel's security cameras is wise, and it reveals the same woman as the one who broke into the veterinary (hoodie up) arriving at Room 23 by car circa very late Thursday evening. She unloads a sleeping small child wrapped up in a blanket, and several suitcases and bags of groceries, as well as two shotguns out of their cases. She is in the hotel room for about an hour, and then takes about ten minutes with a penknife and paintbrush, fiddling with the outside of the door. She then ventures out (to raid the nearby veterinary office). She is gone for about an hour, and comes back carrying one plastic bag. She has not ventured out since.
 
-::::
+:::
 
-:::: details 📖 原文留档：23 号房对峙（Showdown at Room 23，原书 p26-27，中英双版）
+::: details 📖 原文留档：23 号房对峙（Showdown at Room 23，原书 p26-27，中英双版）
 
 **中文（忠实全文）**
 
@@ -2418,9 +2418,9 @@ If Lindsay feels betrayed by hostage negotiators or is suddenly attacked, she sh
 
 If the investigators deface the subtle markings on the doorposts, they open the door (pardon the pun) for Nyarlathotep to possibly take a more direct hand in dealing with Lindsay. If the investigators also kill the power to the hotel (perhaps in an effort to exert pressure on Lindsay, or in preparation for a raid) all hell breaks loose. A Hunting Horror smashes its way through the roof in the darkness, and unless driven off by a lot of bright lights, scoops Lindsay up through a hail of shotgun fire and carries her off, never to be seen again. SAN loss is 1D3/1D10 for any such episode.
 
-::::
+:::
 
-:::: details 📖 原文留档：两次访谈与周二前的推进（原书 p27-28，中英双版）
+::: details 📖 原文留档：两次访谈与周二前的推进（原书 p27-28，中英双版）
 
 **中文（忠实全文）**
 
@@ -2482,7 +2482,7 @@ Come Tuesday
 
 If the Balfours do not have possession of Regina back by Tuesday afternoon, they will take every conceivable action to get her back, depending on what they know and where she is. If she has not been found by Monday, you might wish to advance the action (such as by having the toll booth operator come forward), to get the hostage standoff part of the scenario in play. Or, if the investigators are just not making progress on the clue trail, the Passover Angel might tell Mr. Balfour where she is, and he might tip the investigators to try and extract Regina. If Balfour notices the markings on the door frame of Room 23, he may well decry them as blasphemies against all that is holy and attempt to go up and deface them, having to be physically restrained. (Of course, if the investigators note that they are the same as are on his bomb shelter, he will be at a loss for words).
 
-::::
+:::
 
 
 
@@ -2571,7 +2571,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 :::
 
-::: card 终局三支线
+:::: card 终局三支线
+
+::: table
 
 | 支线 | 条件 | 结果 | SAN |
 |---|---|---|---|
@@ -2580,6 +2582,8 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 | 黑风降临 | 蕾吉娜被献祭 | 数万死；头生的尽灭（头生调查员同危，除非在 `Elder Sign` 标记的避难所内）；「克利夫兰流感」数十年 | -2D6 叠加；1/1D8（云中巨翼） |
 
 :::
+
+::::
 
 ::: card 头生调查员的五天
 
@@ -2651,7 +2655,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 :::
 
-:::: card
+::: card
 
 **玩家面实物件四张**
 
@@ -2665,7 +2669,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 - #3 索引卡或纸条（解谜成果感）
 - #4 不打印——DM 读出或投屏
 
-::::
+:::
 
 ::: center
 
@@ -2679,7 +2683,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 :::
 
-:::: card
+::: card
 
 **《瓢虫，瓢虫——到场时已知情报》**
 
@@ -2697,9 +2701,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 多年来夫妇二人被怀疑持有并囤积非法枪械（含机枪与爆炸物），但烟酒枪械管理局（ATF）的多次调查一无所获。教会网站公开回应这场「持续迫害」：「时机到来时，上帝与他的逾越节天使将像惩罚埃及那样惩罚华盛顿的恶人——以疮与血、蛙与蝗、虱与蝇、疫与暗；当对信众的迫害仍不停止，便以他们头生子的死亡。」
 
-::::
+:::
 
-:::: details 📖 原文留档：到场简报 Handout #1（原书 p10，中英双版）
+::: details 📖 原文留档：到场简报 Handout #1（原书 p10，中英双版）
 
 **中文（忠实全文）**
 
@@ -2737,7 +2741,7 @@ The Balfours have been suspected for years of possessing and stockpiling illegal
 
 The abductor had dyed his hair, was wearing a fake moustache, had recently obscured his fingerprints with acid, and was carrying no identification. However, by chance, his picture was promptly recognized when posted on the news by officials with A.T.F. His name was George Lewiston, and he was a retired A.T.F. investigator with experience investigating suspected domestic terror groups. However, he had no (known) prior connections to any investigation of the Church of the Passover Angel.
 
-::::
+:::
 
 
 ![到场简报原书图版（原书 p9）](https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing.jpg)
@@ -2764,7 +2768,7 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 :::
 
-:::: card
+::: card
 
 这是一本自费出版的廉价平装书，约 200 页，共四章。
 
@@ -2784,7 +2788,7 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 第四章是一组怪异的图画，作为《肯尼亚启示录》的附录：星图、以诺派图式、描绘巫术三角与魔法圆的费解示意图、复杂的数学公式——全部没有任何散文说明。
 
-::::
+:::
 
 ---
 
@@ -2810,7 +2814,7 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 :::
 
-:::: card
+::: card
 
 **破译后的讯息（替换密码：把数字序列替换成《耶利米书》的对应字母）**
 
@@ -2820,9 +2824,9 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 出埃及记说，这样的哀号必不会再有——像埃及头生子死去时的那声哀号。但在肯尼亚，我们知道这并不是真的。当群星就位、界墙变薄之时，逾越节的天使将从**黑风之山**降临，无信者的头生子将从地上消亡。故而我们祈祷：la! Narlato wagh'nag! iszkur boret'l! 天使乘风而来！
 
-::::
+:::
 
-:::: details 📖 破译讯息的经文底本：出 11:4-6（「这样的哀号必不会再有」句的原文）
+::: details 📖 破译讯息的经文底本：出 11:4-6（「这样的哀号必不会再有」句的原文）
 
 和合本：
 
@@ -2840,7 +2844,7 @@ KJV：
 >
 > 6 And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
 
-::::
+:::
 
 
 ---
@@ -2863,7 +2867,7 @@ KJV：
 
 :::
 
-:::: card
+::: card
 
 **家用摄像机，固定藏机位。礼拜堂内。**
 
@@ -2879,7 +2883,7 @@ KJV：
 
 ⑦ 画面剧烈晃动、奔逃、黑屏。录像结束。
 
-::::
+:::
 
 
 ---
@@ -2890,7 +2894,7 @@ KJV：
 
 :::
 
-::: card
+:::: card
 
 - 周五下午五点左右邮件到达时，女儿妮可收到这封 George 生前寄出的信——与全部账单付清、猫托付邻居、电脑砸碎同属一个人的临行收拾
 - 原文为手写图版（下）：多半只与执法共享；盯着妮可的非执法调查员有机会干一票偷信
@@ -2909,7 +2913,7 @@ KJV：
 >
 > 就算我告诉你原因你也不会信——可你要是这么做，后果就落在你自己头上。
 
-:::: details 📖 信文原文（手写图版转录，英文）
+::: details 📖 信文原文（手写图版转录，英文）
 
 > Nicole-
 > I'm sorry. By now I'm probably dead.
@@ -2918,11 +2922,11 @@ KJV：
 > Trust me. If you can't go home, then believe this: the Balfours are dangerous and insane, and you can't give their daughter back to them.
 > You wouldn't believe me if I told you why, but it's on your head if you do.
 
-::::
-
 :::
 
-:::: details 📖 原文留档：运行指南与结算（How Things Are Likely To Go, Keeper Hints & Rewards，原书 p31-33，中英双版）
+::::
+
+::: details 📖 原文留档：运行指南与结算（How Things Are Likely To Go, Keeper Hints & Rewards，原书 p31-33，中英双版）
 
 **中文（忠实全文）**
 
@@ -2988,7 +2992,7 @@ If the investigators are stymied, eventually, the toll booth attendant in Pennsy
 
 Rewards and Repercussions: Preventing the summoning of the Black Wind gains the investigators 2D6 SAN. If Regina is rescued without Lindsay Peale being killed, award 1D4 SAN. If Regina is killed, charge the investigators 1D4 SAN. If the Black Wind is summoned without Regina's sacrifice (the lesser catastrophe), charge the investigators 1D6 SAN on top of what they may suffer incident to what they see. It is at least possible to explain this away as a singularly awful tornadic incident. The horror of the Black Wind's full arrival—very difficult to explain away as a horrible tornadic incident—costs 2D6 SAN on top of other losses. Unless the investigators are not firstborn, or have taken shelter in a warded area, they are unlikely to survive being anywhere near a successful summoning of the Black Wind.
 
-::::
+:::
 
 
 ---

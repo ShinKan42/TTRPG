@@ -8,7 +8,7 @@ search: false
 
 ::: center
 
-### **💀 死亡之屋 Death's House**
+### **死亡之屋 Death's House 💀**
 
 :::
 

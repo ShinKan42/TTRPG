@@ -8,7 +8,7 @@ search: false
 
 ::: center
 
-### **🧛 施特拉德的诅咒 Curse of Strahd**
+### **施特拉德的诅咒 Curse of Strahd 🧛**
 
 :::
 

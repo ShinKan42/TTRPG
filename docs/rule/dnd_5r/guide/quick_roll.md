@@ -3,7 +3,7 @@ title: 🎲 常用骰法
 createTime: 2025/03/10 02:17:48
 ---
 
-::::: center
+:::: center
 
 ## **⚡ 快速跳转**
 
@@ -37,11 +37,11 @@ createTime: 2025/03/10 02:17:48
 
 :::
 
-:::::
+::::
 
 ---
 
-::: center
+::::: center
 
 ## **🎲 投骰方法**
 
@@ -104,7 +104,7 @@ DND 默认使用 D20 进行投骰
 
 :::
 
-::: center
+:::: center
 
 `稳定伤势` Stabilize = <Badge type="danger" text="感知检定（医药）" /> > 10
 
