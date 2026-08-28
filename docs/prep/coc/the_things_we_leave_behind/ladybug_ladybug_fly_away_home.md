@@ -12,6 +12,9 @@ search: false
 
 五日倒计时 · 双钩案卷
 
+![篇章图——十字与双翼（原书 p8 篇首图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings.png)
+
+
 :::
 
 ---
@@ -92,11 +95,13 @@ ShinKan42
 > Your children at home...
 > （瓢虫瓢虫飞回家，你的房子着火了，你的孩子还在家里……）
 
-- 它本来就不祥——「回家」唱给瓢虫听时，家正在烧
+- 它本来就不祥
+  - 「回家」唱给瓢虫听时，家正在烧
 - Regina 的瓢虫书包是案发唯一物证（「被留下之物」）
 - **桌上用法**：
   - 超市录像反复给书包特写
-  - Regina 获救后怀里抱的是替代品新书包——父母的「羊血替祭」心理同构
+  - Regina 获救后怀里抱的是替代品新书包——
+    - 父母的「羊血替祭」心理同构
 
 ---
 
@@ -113,7 +118,8 @@ ShinKan42
 
 ::: tip 逾越节 Passover——名字即剧透
 
-- 词面是「越过」——出处《出埃及记》第十灾：杀头生子之夜，门框涂羊血的人家，死亡天使**越过**那家门
+- 词面是「越过」
+  - 出处《出埃及记》第十灾：杀头生子之夜，门框涂羊血的人家，死亡天使**越过**那家门
 - 用满三层：
   - 教会名（逾越节天使教会）
   - Balfour 家地下避难所门框刻防护符文（自家的「羊血」）
@@ -152,11 +158,13 @@ KJV：
 
 - 出埃及时神降十灾逼法老放人：血、蛙、虱、蝇、畜疫、疮、雹、蝗、暗、杀头生子
   - 一灾比一灾重，第十灾，神亲自行走人间
-- 关键叙事：灾是**警告的阶梯**不是直接毁灭——每次灾后都留「悔改窗口」
+- 关键叙事：灾是**警告的阶梯**不是直接毁灭
+  - 每次灾后都留「悔改窗口」
 - 教会自我认同是新以色列人
   - 十灾倒计时在他们眼里是**怜悯**：给世界五天机会
 - **桌上用法**：
-  - 调查员眼中的「灾异应验」，在信徒眼中是「布道应验」——同一事件两种读法
+  - 调查员眼中的「灾异应验」，在信徒眼中是「布道应验」——
+    - 同一事件两种读法
 
 :::
 
@@ -220,23 +228,30 @@ KJV：
 
 - **ATF**（烟酒枪械爆炸物署）：管枪械与武装教派
   - 1993 韦科大卫教对峙的执法方
-  - George 的老东家——他查邪教一辈子的单位
+  - George 的老东家——
+    - 他查邪教一辈子的单位
 
 ---
 
 - **FBI**：跨州绑架自动介入（林德伯格法）。Bates 属「失踪与受剥削儿童工作组」。
+
+---
+
 - **地方警**：县/市两级，法庭记录在县。
-- 「失踪 48 小时才能立案」是影视作品造成的流行迷思——美国法律没有这条，未成年人失踪报案警方必须立即受理；玩家角色有 `Law` 技能的，判定成功即可当场说破这句推诿话术。
+- 「失踪 48 小时才能立案」是影视作品造成的流行迷思
+  - 美国法律没有这条，未成年人失踪报案警方必须立即受理；玩家角色有 `Law` 技能的，判定成功即可当场说破这句推诿话术。
 
 :::
 
 ::: tip 媒体生态
 
 - 病童失踪是全美新闻富矿
-  - GNS 主编原话转译：「我们要的不是绑架案，是小女孩的绑架案——最好是生病的，最好是金发的」
+  - GNS 主编原话转译：「我们要的不是绑架案，是小女孩的绑架案——
+    - 最好是生病的，最好是金发的」
 - 周六前全国铺开是**必然**，调查员的一切公开行动都在镜头下
 - **桌上用法**：
-  - 调查员的公开行动全在镜头下——越界瞬间即新闻素材
+  - 调查员的公开行动全在镜头下——
+    - 越界瞬间即新闻素材
 
 ---
 
@@ -267,7 +282,8 @@ KJV：
 
 - **战役主题——搁置**：
   - 选集名《我们搁置之事》；GNS 行规要你保密、别逞英雄
-  - 「哪个邪教被一帮拿枪的滥好人端了，只能说明他们还没到播出档期」——逞英雄就能破坏的降临，就是还没准备好的降临
+  - 「哪个邪教被一帮拿枪的滥好人端了，只能说明他们还没到播出档期」——
+    - 逞英雄就能破坏的降临，就是还没准备好的降临
   - 「帮凶」一句是这条主题在 GNS 侧的写法
 
 ---
@@ -285,7 +301,8 @@ KJV：
 - **魔改清单**（定案）
   - 十灾 #5 畜疫补位（宠物医院集体疫情新闻拍）
   - 双钩
-  - 其余照原文——美国背景保留、地名道具照原文
+  - 其余照原文——
+    - 美国背景保留、地名道具照原文
 - 撒拉·贝尔福挂信徒共通卡+注记「不参战，周二平行线主脑」（定案）。
 
 
@@ -309,6 +326,9 @@ KJV：
   - 旧约死亡天使皮相，经 John 肯尼亚传教学来的「祈祷」入场
   - 它是这场五日倒计时的**调度者**：撒十灾、给指点、做交易
   - 它要的是周二日落那一场按时献祭
+
+![逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_angel_light.jpg)
+
 
 ---
 
@@ -349,12 +369,14 @@ KJV：
 
 - **夫妇对琳赛——平行的追索**
   - 周一两人认出 George 就是教友 Zach，追索自此启动：教众满城找琳赛
-  - 约翰一直跟在调查员身后「帮忙」、兼收集进展——他一直在你身后
+  - 约翰一直跟在调查员身后「帮忙」、兼收集进展——
+    - 他一直在你身后
 
 ---
 
 - **约翰对调查员——情报寄生虫**
-  - 凑上来「帮忙」、街头布道、试探进度——每个现场都有他
+  - 凑上来「帮忙」、街头布道、试探进度——
+    - 每个现场都有他
 
 ---
 
@@ -377,14 +399,17 @@ KJV：
 ---
 
 - **天使对琳赛——恐吓施压**
-  - 梦魇（古埃及），翻开在出埃及记 11-12 的圣经摆在不可能的位置——挂在淋浴喷头上、放在枕头上、旅馆里也有；还有余光里的黑翼
-  - 门框符文挡得住实体，挡不住这些——琳赛的精神状态就是对峙戏的引信
+  - 梦魇（古埃及），翻开在出埃及记 11-12 的圣经摆在不可能的位置——
+    - 挂在淋浴喷头上、放在枕头上、旅馆里也有；还有余光里的黑翼
+  - 门框符文挡得住实体，挡不住这些——
+    - 琳赛的精神状态就是对峙戏的引信
 
 ---
 
 - **天使对约翰——交易**
   - 周一晚车中显形（SAN 1/1D10）：一条人命换一次指点
-  - 尾随他的调查员能看见全程——真相的裸露时刻
+  - 尾随他的调查员能看见全程——
+    - 真相的裸露时刻
 
 ---
 
@@ -423,7 +448,8 @@ KJV：
 - **拉扯绳索**
   - 程序正义 vs 先下手为强（Bates vs George 的路）
   - 父母的眼泪 vs 采购清单（爱 vs 祭）
-  - 头生 PC 的私人赌注：开场收出生顺位——头生的在名单上
+  - 头生 PC 的私人赌注：开场收出生顺位——
+    - 头生的在名单上
 
 ---
 
@@ -662,7 +688,8 @@ KJV：
 **调查员的介入，与开局已知（Involving the Investigators, and What Is Known at the Start）**
 
 - 无论以何种方式，调查员都会在绑架发生后很快——
-  - 几个小时内——介入其中；至少一人必须有合乎逻辑的理由，深度参与这起儿童失踪案的调查
+  - 几个小时内——
+    - 介入其中；至少一人必须有合乎逻辑的理由，深度参与这起儿童失踪案的调查
 - 最可能的安排：一人是负责侦破此案的执法人员，其余人以协助或跟踪调查的身份在场
 - 若无人是执法人员：有神秘学经验者可被执法部门聘为顾问——
   - 他们了解到的东西应当让他们要么插手这桩调查，要么自己开一条平行的调查线
@@ -722,7 +749,11 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 ---
 
 - **最可能的安排**：一人是负责侦破此案的执法人员，其余人以协助或跟踪调查的身份在场
-- 若无人是执法者：有神秘学经验者可被执法部门聘为顾问——他们了解到的东西应当让他们要么插手这桩调查，要么自己开一条平行的调查线
+- 若无人是执法者：有神秘学经验者可被执法部门聘为顾问
+  - 他们了解到的东西应当让他们要么插手这桩调查，要么自己开一条平行的调查线
+
+---
+
 - **最合逻辑的设置**：一名 FBI 外勤探员，被召来协助这桩明目张胆的儿童绑架案——可能还跨了州界
 
 ---
@@ -732,7 +763,8 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ---
 
-- 调查员不应与蕾吉娜·贝尔福有亲属关系；但可以与乔治·刘易斯顿有过往交集——若有，他们认识的他是一个好人、一名国内右翼邪教问题专家，一个没有极充分的理由绝不会单干出走的人
+- 调查员不应与蕾吉娜·贝尔福有亲属关系；但可以与乔治·刘易斯顿有过往交集
+  - 若有，他们认识的他是一个好人、一名国内右翼邪教问题专家，一个没有极充分的理由绝不会单干出走的人
 - 蕾吉娜的绑架在案发一小时内传遍地方新闻，不久之后登上全国新闻
 - 执法调查员或持官方授权者，在初次简报中得知「瓢虫、瓢虫」调查员手持材料 #1 中的信息
   - 若调查员中有 FBI 探员接管调查，信息来自到场的地方警察；否则来自负责此案的 FBI 探员露西·贝茨
@@ -744,9 +776,11 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 ---
 
 - **私家侦探变体（受雇于贝尔福家）**：
-  - 证据还是那些证据，拿到手的路径不同：没有执法证件，调不来财务记录——只能靠说服、贿赂、哄骗或潜入
+  - 证据还是那些证据，拿到手的路径不同：没有执法证件，调不来财务记录——
+    - 只能靠说服、贿赂、哄骗或潜入
   - 换来的好处：贝尔福夫妇对他们坦率得多，直到否认献祭蕾吉娜的意图为止
-  - 他们坚信逾越节天使是真的、不否认；但（诚实地）手里没有任何录像带——那会是渎神
+  - 他们坚信逾越节天使是真的、不否认；但（诚实地）手里没有任何录像带——
+    - 那会是渎神
 
 
 
@@ -768,7 +802,8 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 - **DM 暗线**（本篇不揭示，不入招募帖）：
   - Patel 是奈亚拉托特普化身，GNS 是他「温水煮社会」的长局
-  - 记者耳后有生物芯片——追踪/监视/肿瘤开关
+  - 记者耳后有生物芯片——
+    - 追踪/监视/肿瘤开关
   - 芯片的存在在玩家被招募时已发生，DM 知道即可
 
 ---
@@ -778,16 +813,20 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 ---
 
 - **三模板任选**（详见[玩家资料](/module/pl_ref/gns.html)）：
-  - 烦人精 Nosy Pest——`Fast Talk`（高，体裁标配）＋线人网＋警队朋友
-  - 狗仔 Paparazzi——摄影＋潜行＋装备流
-  - 塌房名人 Hot Mess——Charm ≥50，收视率毒药本人
+  - 烦人精 Nosy Pest——
+    - `Fast Talk`（高，体裁标配）＋线人网＋警队朋友
+  - 狗仔 Paparazzi——
+    - 摄影＋潜行＋装备流
+  - 塌房名人 Hot Mess——
+    - Charm ≥50，收视率毒药本人
 
 ---
 
 - **本篇任务简报**（Vince 派单口径）：跟着 FBI 的拐童案跑第二季 reel
   - 「拍教会一家的小品、拍末日倒计时的节目效果、抢在 FBI 前头拿到隔门专访」
   - 「直播对峙、拿到回家仪式的独家入场券」
-  - 原文：夫妇欢迎「友好的媒体」到场见证礼拜——这条入场机会只有记者团用得上
+  - 原文：夫妇欢迎「友好的媒体」到场见证礼拜——
+    - 这条入场机会只有记者团用得上
 
 ---
 
@@ -841,12 +880,16 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ### **<a id="npc-lindsay"></a> 琳赛·皮尔 Lindsay Peale（29，县儿童保护社工） 🛡️**
 
+
+![琳赛·皮尔（原书 p25 肖像图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_lindsay_portrait.jpg)
+
 :::
 
 ::: card
 
 - **暗流**：真目标，藏蕾吉娜到**周三早上**（预言过期）再放人自首
-  - 她不是杀手——「准备好了开枪」是装给自己看的
+  - 她不是杀手——
+    - 「准备好了开枪」是装给自己看的
   - 她见过真天使（George 的仪式录像+此后连日的梦魇与摆好的圣经），确信有恶魔在追她们
   - 她**是对的**
 - **立场**：父母是恶魔；自己是唯一的墙；执法系统两年前证明过一次没用
@@ -883,11 +926,13 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 ---
 
 - **新闻队走法（原文运行指南）**：
-  - 成败两把钥匙：`Fast Talk` 与贿赂——无权传唤、无权逼任何人开口，但「上电视」和大笔现金能让很多人愿意说
+  - 成败两把钥匙：`Fast Talk` 与贿赂——
+    - 无权传唤、无权逼任何人开口，但「上电视」和大笔现金能让很多人愿意说
   - 开场就让制作人把话挑明：这条新闻能做多大、「顾问费基金」有多厚
   - 以拍「B 卷素材」为掩护做调查；靠一条条更新与外围曝光把热度续住
   - 警方调查内部有一个贪财内鬼，收现金漏情报
-  - 新闻队会发现自己一路跟着贝茨跑——令她不胜其烦
+  - 新闻队会发现自己一路跟着贝茨跑——
+    - 令她不胜其烦
   - 花「悬赏」买「线索」能抢到执法前头：餐馆的人主动来卖独家（George 是常客）；
     - 收费员前脚报告贝茨、后脚就打给他们；
     - 租车行、兽医诊所、旅馆老板都可能为现钱先打给新闻队、再慢慢核实
@@ -979,6 +1024,9 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 ::: center
 
 ### **<a id="npc-john"></a> 约翰·贝尔福 John Balfour（33，逾越节天使教会牧师） ✝️**
+
+
+![约翰·贝尔福牧师（原书 p15 肖像图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_john_portrait.jpg)
 
 :::
 
@@ -1153,6 +1201,9 @@ KJV：
 
 ### **<a id="npc-bates"></a> 露西·贝茨 Lucy Bates（49，FBI 探长，失踪与受剥削儿童工作组） 👮**
 
+
+![露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_bates_portrait.jpg)
+
 :::
 
 ::: card
@@ -1237,6 +1288,9 @@ KJV：
 
 ### **<a id="npc-regina"></a> 蕾吉娜·贝尔福 Regina Balfour（5） 🐞**
 
+
+![蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_regina_photo.jpg)
+
 :::
 
 ::: card
@@ -1290,6 +1344,9 @@ KJV：
 ::: card
 
 - **皮相**：黑翼覆面的旧约死亡天使
+
+---
+
 - **唯一一句话**（仪式录像内容，观看者 SAN 0/1）
   - 对 George 的摄像机说过：「小人啊，你和那个小女人，什么都做不了。」
   - 这是它在本篇中对凡人说的唯一一句话
@@ -1565,6 +1622,9 @@ KP 任意指定至 99%
 - **关键实体**：
   - 瓢虫书包——静脉类固醇输液泵在里面；母亲当场抢下了它
   - 录像三段——卖场拉扯／出口装车／店内游荡与自尽（全文见物品区·到场简报条目）
+
+![大盒子商店监控视角——货架间的争夺（原书 p12 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv.jpg)
+
 
 ---
 
@@ -2106,6 +2166,9 @@ There is something unusual about the bomb shelter, but one has to look for it sp
   - 乘客 Spot Hidden（司机在看路）：云里那张脸——黑色的天使翼框着一张怒容分明的脸，击中他们车的闪电正是从那双眼打出来的；SAN 1/1D10，获得疯狂洞见的人会想起埃及十灾及其顺序
   - 若约翰尾随在场：他会把他们从残骸里捡出来，指出自摩西降雹于法老以来没人见过这种东西——**他的车毫发无伤**
 
+![圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）](https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel.jpg)
+
+
 ---
 
 - **兽医诊所与落脚圈**（向当地执法查近几日的失窃案）：
@@ -2234,6 +2297,9 @@ There is surveillance footage available for the strip mall parking lot, and a wo
   - 再次强调：她的枪法致命地准
   - 她无意在周三之前出这间房（除非出现极不寻常的状况，让她判断带蕾吉娜跑路更安全）
   - 周三早上，她会不经伤害蕾吉娜地投降，或逃走后打电话告知警方蕾吉娜的位置
+
+![五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room.jpg)
+
 
 ---
 
@@ -2554,6 +2620,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
   - 约翰把蕾吉娜（或撒拉）引到祭坛前、放倒，高喊「主啊，我顺服你的旨意，求你饶过我的长子」——无论祭坛上躺的是谁——然后刺下
   - 这个阶段还想阻拦的人，要面对的就是悬在半空的逾越节天使本身
   - 注意：不必约翰亲手执刀——任何人刺下都算数，撒拉自己也可以。而她会
+
+![礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell.jpg)
+
 
 ---
 
@@ -2941,6 +3010,69 @@ KJV：
 除非亲眼所见，贝茨探员不会相信任何超自然的东西。遗憾的是这很可能在某个时刻发生。五橡旅馆门前的蝗群会让她迟疑，开始更倚重调查员（到睁一只眼闭一只眼放过他们先前单干的地步）。若她见到露骨的超自然（逾越节天使、猎鬼叼走琳赛，或最可能的——琳赛那张召天使仪式的 DVD），她就让调查员来制定后续行动计划（在法律限度内）。
 
 用翻看监控录像、等银行出记录这类事务的必要耗时来给冒险配速，让调查员来得及在周二晚之前赶到五橡、与琳赛完成对峙、可能还来得及把蕾吉娜交还父母。但别强行推。蕾吉娜若救回得早、得以与父母团聚，调查员要做的艰难选择最多；但也可以完全顺着跑——也许全员死绝，也许琳赛的计划成功。顺其自然。
+
+:::: details 📖 原文留档：篇首总览与氛围指引（Introduction & Creepy Occurrences，原书 p8-9，中英双版）
+
+**中文（忠实全文）**
+
+**引言与总览**：《瓢虫，瓢虫，飞回家》设定于当代美国，但稍加改动即可搬到别的国家。文中提及的各执法机构均为其美国对应物，可自行替换。具体城市也不重要：故事将从一州人口稠密的郊区开始，转移到邻近一州的购物中心商圈，最后回到起点。为便于描述，起点定在俄亥俄州克利夫兰郊区，转移到宾夕法尼亚州匹兹堡郊区——但两处都不是必需的。
+
+一名患有严重健康问题的五岁女孩蕾吉娜·贝尔福，在光天化日之下、母亲暂时转身的空当，从郊区一家大盒子商店被绑走。留下的是她瓢虫形状的毛绒动物背包——里面装着她的静脉类固醇药泵。没有药她活不了几天，病情会迅速恶化。留下的还有商店监控拍下的绑架录像，以及至少两名绑匪之一的尸体。绑架发生在周四傍晚。这场戏——无论以哪种方式——将在次周二日落收场。
+
+已死的共谋者乔治·刘易斯顿留在商店，女同伙带着蕾吉娜逃走。他制造了一场吵闹但基本无害的骚乱作掩护，警察合围时开枪自尽。
+
+刘易斯顿将被查明是烟酒枪械管理局（ATF）退休探员，有调查国内恐怖组织、民兵团体与武装边缘宗教运动的历史。调查员会得知他早已长期调查蕾吉娜的家人。这次绑架是他第二次把侄女琳赛·皮尔拖进事件——琳赛是案发县儿童保护服务处的社会工作者，即第二名绑匪。
+
+乔治长期以来怀疑蕾吉娜的家人——那群由贝尔福夫妇在他们整洁的郊区住宅里带领的、古怪而表面极端基要派弥赛亚末日邪教：逾越节天使教会。表面上是基督徒，该教派相信世界末日将通过埃及十灾的重演降临，以所有不信者的头生之死收场，日期一改再改。
+
+乔治得知这家教会不是基督教，而是末日教。卧底之后，他亲眼看见他们在一周前的「彩排」中召出逾越节天使——奈亚拉托特普的一具化身、旧约死亡天使的形貌——并明白了蕾吉娜就是一件末日装置。当星象就位——周二日落——她将在贝尔福家后院的礼拜堂被献祭，逾越节天使将向大地降下瘟疫，重创世界、杀死全球所有不信的头生子女。
+
+时间紧迫、又没有任何罪行的硬证据，而琳赛因上次夺监护权失败已无法再申请临时保护安置——琳赛和乔治被迫单干。他们做了计划、等来机会、从商店抢走蕾吉娜；乔治牺牲自己制造混乱，琳赛带她脱身。
+
+琳赛给女孩下了镇静剂，藏在外州一家随机选定的旅馆房间里。可能的话她不打算伤害蕾吉娜，但为避免她父母在指定时刻——周二日落——杀她，必要时会亲手杀她。蕾吉娜的父母及其信徒想要回她，并将暗中跟随他们知晓的任何调查。
+
+若他们看起来无法及时要回蕾吉娜，整个教团仍会倾尽全力，在指定时刻以蕾吉娜的母亲顶替。结果远不如献祭他们长期培育的「容器」蕾吉娜那样毁灭性——但下风向数县的头生者仍将缓慢而痛苦地死去。
+
+为整件事再加一层复杂：蕾吉娜的父母并不认为仪式会真的伤害蕾吉娜。他们相信逾越节天使会放过头生的蕾吉娜、并作为对他们信心的奖赏让她复活。他们错了，但这个信念左右着他们的行动。他们认为让蕾吉娜活过预言末日的方式，就是把她要回来、然后杀掉。从没人说他们特别清醒——但他们是认真的。
+
+**氛围与怪事（Creepy Occurrences）**：氛围对跑好这场戏极其重要。神话弥漫在事件的每个角落——虽然结构上是一桩警察办案程序，但调查员应当非常早地就清楚地意识到：某种微妙而超自然的东西确实在发生。
+
+这场戏从周四开始，世界暂定于周二日落终结。若贝尔福夫妇在那之前要回女儿且未被阻止，事情就接近会那么发生。
+
+有两个主题元素应随调查员走线索树的全程织入叙事：依序降临的埃及十灾；以及无处不在的监控摄像头。
+
+**English (verbatim)**
+
+Ladybug, Ladybug, Fly Away Home is set in the modern-day United States, but can be moved to another country with minimal effort. The various law enforcement agencies discussed are their U.S. counterparts, but feel free to substitute appropriately. The precise city that it is set in is also unimportant; it will begin in a densely populated suburb in one state, shift to a shopping mall district in another nearby state, and end back where it started. For ease of description, things will start in suburban Cleveland, Ohio and move to suburban Pittsburgh, Pennsylvania, but neither location is necessary.
+
+A five-year old girl, Regina Balfour, with a serious health condition has been kidnapped in broad daylight from a big box store in the suburbs, while her mother's back was momentarily turned. Left behind was her ladybug shaped, stuffed animal backpack, which contained her intravenous steroid pump. She needs her medication to live more than a few days, and her condition will rapidly deteriorate without it. Also left behind was store surveillance footage of the abduction, and the body of one of at least two abductors. The abduction occurs on a Thursday evening. The scenario ends, one way or another, at sunset on the following Tuesday.
+
+The now-dead conspirator, George Lewiston, stayed behind at the store, while his female accomplice escaped with Regina. He went on a noisy but mostly harmless rampage as a distraction, and then fatally shot himself when the police closed in.
+
+Lewiston will be discovered to be a retired Bureau of Alcohol, Tobacco and Firearms agent with a history of investigating domestic terror cells, militia groups, and armed fringe religious movements. The investigators will learn that he has long been investigating Regina's family. The abduction is the second time that he has drawn his niece, Lindsay Peale, into the situation. Lindsay is a child protective services worker for the county where the abduction occurred, and is the second abductor.
+
+George has long had suspicions about Regina's family, concerned about the odd, apparently extreme Fundamentalist, messianic doomsday cult that they lead, the Church of the Passover Angel. Outwardly Christian, the cult professes a belief in the end of the world via a replication of the plagues of Egypt, culminating in the deaths of the firstborn of all non-believers, on a variety of shifting and recalculated dates.
+
+George learned that the Church of the Passover Angel, led by the Balfours from their tidy suburban home, was not Christian, but it was apocalyptic. After going undercover, he saw them summon up the Passover Angel—an avatar of Nyarlathotep in the form of an Old Testament angel of death—in a dry run last week, and understood that Regina is a doomsday device. When the stars were right—sunset on Tuesday—she would be sacrificed in the Balfour's backyard chapel, and the Passover Angel would rain down a plague on the Earth, decimating it and killing all non-believing firstborn children on the planet.
+
+Short of time, with no hard evidence of any crime, and with Lindsay being unable to intercede with a temporary protection placement because of a failed prior effort to take custody of Regina from her parents, Lindsay and George were forced to go rogue. They made plans, waited for an opportunity, snatched Regina from the store, and while George sacrificed himself to create a distraction, Lindsay whisked her away.
+
+Lindsay has sedated the girl and is hiding in a randomly selected hotel room in another state. She does not plan on harming Regina if possible, but will kill her if necessary to avoid having her parents kill her at the appointed time—sunset on Tuesday. Regina's parents and their minions would like her back, and will be shadowing any investigation of which they are aware.
+
+If it appears that they will fail to retrieve Regina in a timely fashion, the entire cult will nonetheless do their best, substituting Regina's mother at the appointed time. The results will be far less devastating than if they succeed in sacrificing their long-cultivated vessel, Regina. But death will nonetheless be slow and agonizing for the firstborn in the next several counties downwind.
+
+To add a layer of complication to the whole affair, Regina's parents do not think that Regina will actually be harmed by the ritual. They believe that the Passover Angel will spare Regina, their firstborn, and restore her to life as a reward for their faith. They are mistaken, but their belief colors their actions. They think that the way to keep Regina alive through their prophesied doomsday is to get her back and kill her. No one ever said that they were particularly sane, but they are earnest.
+
+Themes, Atmosphere, and Creepy Occurrences
+
+Atmosphere is extremely important to running this scenario effectively. The Mythos is redolent in what is going on, and while it is structured as a police procedural, the investigators should come to clearly understand, very early on, that something subtle but supernatural is definitely afoot.
+
+The scenario starts on Thursday and the world is tentatively scheduled to begin its end on Tuesday at sunset. And if the Balfours get their daughter back before then and are not otherwise stopped, something close to that is exactly what will happen.
+
+There are two thematic elements that should be worked into the narrative as the investigators move through the clue tree: the Biblical plagues of Egypt (in order); and the inescapable presence of security cameras.
+
+::::
+
 
 若强攻 23 号房，让贝茨探员成为被琳赛打中的一人对剧情有帮助：她的继任者会指望调查员中的执法人员来牵头。
 
