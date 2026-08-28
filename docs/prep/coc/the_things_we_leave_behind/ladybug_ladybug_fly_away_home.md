@@ -1239,6 +1239,16 @@ KJV：
 
 ---
 
+- **获救后访谈细目**（原文五条，供 DM 直取）：
+  - 琳赛「上次是好人、这次是坏人」：两年前被带走过几周，那次琳赛对她很好
+    - 这次凶、老喂感冒药、她害怕
+  - 爸爸的避难所嘱咐：世界末日来时要躲进后院避难所，待在里面等有人来找她
+  - 爸爸是传道人、妈妈在家陪她、他们非常信神；逾越节天使是一位会来拜访他们、告诉爸爸神要什么的特别天使——她从没见过他
+  - 全文（含以撒故事她亲口的讲法）见五橡节留档
+
+
+---
+
 - **律师墙**：夫妇会合法抗拒一切对蕾吉娜的问询、体检，周二越晚越激烈，最终拿法庭令
 
 :::
@@ -2134,6 +2144,57 @@ There is surveillance footage available for the strip mall parking lot, and a wo
   - 蝗群==不进门==，停在门槛：门框外侧有极浅的刻痕——变体长者之印，与贝尔福家避难所舱门缘的那圈同款
   - 夜间有猎鬼待命——若门框符文被毁且灯灭
 
+
+---
+
+- **对峙现场（Showdown at Room 23）**：
+  - 战术入口三处：正门被五斗柜顶死，不用炸药或破门锤要凿好几分钟
+  - 前窗与卫生间窗按设计只开一半——连小孩都钻不进，内侧还拧着铁皮（击穿按 HP10、护甲 10 处理）
+  - 屋顶与墙壁不是常规选项：想偷看屋内可以走光纤探头（潜行判定），硬砸则与砸门同一个难题
+  - 侦听与热像：抛物面麦克风能听到屋里小声放着的动画片、有人走动的动静
+  - 热成像能定位房内两人：琳赛不在忙别的时，就坐在蕾吉娜床边的椅子上
+  - 蕾吉娜去卫生间，她端着上膛的霰弹枪陪着——除非她不知道外面有人，才不带孩子离开视线
+
+---
+
+- **警方加戏（对峙升级时）**：
+  - 一旦发展成 SWAT 局面，地方警察不管怎么劝都要调狙击手
+  - 领头的奥特里斯·「OG」·格雷（Otis "OG" Grey）——改邪归正的街头混混出身，自认比谁都硬、总觉得「我一枪能解决」，不断鼓噪让他打
+  - 他的枪法没他自己以为的好：步枪 55%，雷明顿 700 型、.30-06 口径，2D6+4，基本射程 120 码
+
+---
+
+- **谈崩线细化**：
+  - 她感到被谈判代表出卖或遭突袭：先杀蕾吉娜再自尽——拼的是谁拔枪快、能否在她扣扳机前打瘫她
+  - 若判断来者人少：可能开枪打跑路（不太可能）
+  - 更可能：打伤一个够得着的人立威，让调查员领教她的枪法、劝退全面强攻
+  - 隔门射击的打法：把五斗柜挪开一条缝、链锁开门、贴着门缝开火（视线受限）——警告射击就是这么来的
+
+---
+
+- **两大雷区**：毁门框符文、断电
+  - 触发任意一件，她隔门哀求别这么干——「你们不知道自己在干什么」
+  - 绝不解释她怕什么，只要求停手「否则……」
+  - 两件事都做了：她迟疑一下，然后动手杀蕾吉娜和自己——她知道接下来来的是什么
+
+---
+
+- **最坏支线（符文被毁＋断电）**：
+  - 猎鬼摸黑砸穿屋顶，除非被大量强光逼退
+  - 否则顶着一片霰弹火把琳赛叼上天带走，从此下落不明
+  - 任何此类遭遇 SAN 1D3/1D10
+
+---
+
+- **推进行动的兜底（KP 杠杆）**：
+  - 玩家卡在找旅馆：收费亭职员自己站出来（周日/周一）
+  - 玩家卡在找蕾吉娜：逾越节天使直接告诉约翰她在哪，约翰反过来给调查员递线索——借刀夺女
+  - 约翰若注意到 23 号房门框的符文：斥为渎神、冲上去要抹掉，得被人架住
+  - 调查员若指出那圈符文与他家避难所舱门缘的一模一样——他一时语塞
+
+
+---
+
 ![五橡汽车旅馆平面图（原书 p22 图版）](https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png)
 
 :::
@@ -2179,6 +2240,115 @@ Lindsay Peale is holed up in Room 23, which is second from the far end from the 
 Reviewing the motel's security cameras is wise, and it reveals the same woman as the one who broke into the veterinary (hoodie up) arriving at Room 23 by car circa very late Thursday evening. She unloads a sleeping small child wrapped up in a blanket, and several suitcases and bags of groceries, as well as two shotguns out of their cases. She is in the hotel room for about an hour, and then takes about ten minutes with a penknife and paintbrush, fiddling with the outside of the door. She then ventures out (to raid the nearby veterinary office). She is gone for about an hour, and comes back carrying one plastic bag. She has not ventured out since.
 
 ::::
+
+:::: details 📖 原文留档：23 号房对峙（Showdown at Room 23，原书 p26-27，中英双版）
+
+**中文（忠实全文）**
+
+调查员逼近琳赛的旅馆房间时，再给他们来点更露骨的恐怖。先让一只巨大的蝗虫毫无预兆地拍在他们风挡上。然后又一只，然后好几只。很快蝗虫密到不停车就有出车祸的风险。蝗虫爬满他们的车、从通风口往里钻。它们像是从不知什么地方冒出来的，转眼无处不在。更糟的是，它们一看见调查员就停住不动、直勾勾地盯着——成千上万只小小复眼和咀嚼的口器。它们就那么僵住、盯着看。SAN 损失 0/1。它们不散去，也不攻击调查员、甚至不碰他们，只是赖在附近——盖满路面、车顶、屋顶和灯具，无声地看着。除调查员所在的这片全铺了砖的地方——人们最不可能找到一群饥饿蝗虫的地方——全城没有任何蝗虫目击报告。
+
+五橡旅馆的战术图见上方图版。有三个常规入口：正门、前窗（设计上只开一半，连小孩都钻不进）和卫生间窗（同上）。房门已被五斗柜堵死，除非动用大量炸药或破门锤，凿穿要好几分钟。窗户更脆弱，但琳赛在上面拧了铁皮（击穿按 HP 10、护甲 10 点处理）。屋顶和墙壁不是常规选项；也许可以悄悄引入一根光纤电缆（潜行）从孔里看一眼屋内，但砸穿它们与砸门、砸窗是同一类难题。
+
+热成像或抛物面麦克风是更实用的情报手段。麦克风能听到屋内小声播放的动画片，加上有人走动（比如去卫生间或拿吃的）的动静。热成像也能定位房内的人。琳赛只要不是在忙什么，就坐在紧挨蕾吉娜的椅子上；蕾吉娜只要不在卫生间，就躺在床上。琳赛端着上膛的霰弹枪陪蕾吉娜去卫生间。不过（除非她知道外面有人）她不会带蕾吉娜一起去卫生间。
+
+23 号房门框的木件上浅浅刻着、并用小笔刷蘸血描过一些奇怪的小符号。这些字符与贝尔福家避难所舱门缘的一圈一模一样。它们挡不住她一直在忍受的托梦与超自然骚灵，但确实挡得住逾越节天使本体，以及它那些更实体的爪牙（比如蝗群，或亲自下场的那只猎鬼）。
+
+这场几乎必然变成人质对峙／谈判／战术突袭的戏具体怎么走，只能靠演出来。琳赛自以为做好了为拯救世界枪杀蕾吉娜的准备，但她不是杀手。她会犹豫，愿意考虑不需要杀任何人的出路。（无论对错地）建立她的信任、想办法让她相信蕾吉娜至少周三之前不会被交还给父母，是争取她任何形式的配合、化解局面的关键。心理分析技能（让她平静下来、信任调查员）对此帮助很大。
+
+若发展成战术／SWAT 局面，地方警察会添乱：不管别人怎么劝，他们都要调狙击手——领头的名叫奥特里斯·「OG」·格雷（Otis "OG" Grey），一个改邪归正的街头混混出身的警察。他自认比周围任何人都硬，永远相信「他这一枪有戏」，不停鼓噪应该让他打。不过他的枪法没有他自己以为的那么好（步枪格斗 55%，雷明顿 700 型，.30-06 口径，2D6+4，基本射程 120 码，半速射速，4+1 弹容）。
+
+如果琳赛感到被人质谈判代表出卖、或遭到突袭，她会枪杀蕾吉娜然后自尽——局面归结为谁拔枪更快、以及调查员能否在她开枪前打瘫或吓住她。如果她认为来袭者人数少，她可能开枪打他们然后试着转移，但这不太可能。更可能的是她打伤一个自己够得着的人，以此劝退全面强攻——让调查员领教她的枪法有多好。
+
+如果调查员抹掉门框上那圈浅浅的记号，等于给奈亚拉托特普开了门（恕我双关），它可能亲自下场对付琳赛。如果调查员再把旅馆的电断掉（也许为了向琳赛施压，也许为了准备突袭），一切就塌了：一只猎鬼在黑暗中砸穿屋顶，除非被大量强光逼退，否则它顶着一片霰弹火力把琳赛叼上天带走，从此下落不明。任何此类遭遇 SAN 损失 1D3/1D10。
+
+**English (verbatim)**
+
+As the investigators close in on Lindsay's hotel room, throw some more overt horror at them. Begin by having a huge locust splat on their windshield without warning. Then another, then several. Before long, the locusts are so thick that they are at risk for an automobile accident if they do not stop. Locusts swarm all over their car, crawling in through the air vents. They come from seemingly nowhere, and then they are everywhere. If this were not bad enough, when they catch sight of the investigators, they stop moving and just stare at them, thousands and thousands of faceted little eyes and chewing mandibles. They just freeze and stare. SAN loss 0/1.
+
+They do not disperse, and do not attack the investigators or even touch them. They simply linger nearby, covering the pavement, the cars, the roof, and the light fixtures, and silently watch. No reports of any locust sightings are made except in the thoroughly paved over part of town where the investigators are—the last place one would expect to find a bunch of hungry grasshoppers.
+
+A tactical map of the Five Oaks motel is nearby. There are three conventional access points: the front door, the front window (which only opens partway by design, not enough to let even a small child crawl through) and the bathroom window (ditto). The door to the hotel room has been barricaded with a dresser, and barring a large amount of explosives or a battering ram, it takes several minutes to batter through it. The windows are more vulnerable, although Lindsay has screwed sheet steel over them (treat as HP 10, 10 points of armor to knock through).
+
+The roof or walls are not conventional options; it might be possible to quietly introduce a fiber optic cable (Stealth) to get a look at the inside through a hole in either, but smashing through them carries the same sorts of problems as smashing through the door and/or windows.
+
+Thermal imaging or parabolic microphones are more practical intelligence gathering alternatives. The microphone may detect the sounds of cartoons playing quietly inside, plus movement if someone moves (say to go to the bathroom or fetch some food). Thermal imaging can also pinpoint the whereabouts of the people in the room. Unless Lindsay is about some task, she is sitting in a chair immediately next to Regina, and unless Regina is in the bathroom, she is lying in bed. Lindsay accompanies Regina to the bathroom, with a loaded shotgun. However, she does not (unless she is aware that people are outside) take Regina with her to the bathroom.
+
+There are tiny, strange symbols faintly carved (and painted with a small brush in blood) into the woodwork around the door of Room 23. These glyphs are identical to those around the rim of the Balfour's bomb shelter. While they do not keep out the dream sendings or supernatural poltergeist shenanigans that she has been enduring, they do fend off the Passover Angel itself, as well as his more physical minions (like the locusts, or the stray Hunting Horror if he takes a direct hand).
+
+Precisely how what will almost certainly turn into a hostage standoff/negotiation/tactical raid session goes down will simply have to be role-played out. Lindsay thinks that she is prepared to shoot Regina to save the world, but she is not a killer. She will hesitate and be willing to consider ways out that do not require her to kill anyone. Building her trust (rightly or wrongly) and somehow convincing her that Regina will not be given back to her parents until Wednesday is critical to gaining her cooperation in any way or defusing the situation. Psychoanalysis skill (to get her to calm down and trust the investigators) would be very helpful to such an effort.
+
+If a tactical/SWAT team situation develops, the local police create problems. They summon snipers no matter how much they are argued with, led by a blow-hard, "reformed" street tough turned cop named Otis "OG" Grey. He considers himself tougher than anyone around, is always convinced that "he has a shot", and constantly agitates that he be allowed to take it. He's not a good a sniper as he believes that he is, however: (Fighting (Rifle) 55%, Remington Model 700 in .30-06 caliber, 2d6+4, base range 120 yards, 1/2 rate of fire, 4+1 capacity).
+
+If Lindsay feels betrayed by hostage negotiators or is suddenly attacked, she shoots Regina and then herself, and matters will come down to who is quicker on the draw and whether the investigators can stun or surprise her long enough to disable her before she shoots. If she thinks that she is dealing with a small number of assailants, she may shoot them and try to relocate, but that is unlikely. More likely is that she will wing someone that she has a shot at, in an effort to discourage an all-out assault, impressing upon the investigators how good of a shot that she is.
+
+If the investigators deface the subtle markings on the doorposts, they open the door (pardon the pun) for Nyarlathotep to possibly take a more direct hand in dealing with Lindsay. If the investigators also kill the power to the hotel (perhaps in an effort to exert pressure on Lindsay, or in preparation for a raid) all hell breaks loose. A Hunting Horror smashes its way through the roof in the darkness, and unless driven off by a lot of bright lights, scoops Lindsay up through a hail of shotgun fire and carries her off, never to be seen again. SAN loss is 1D3/1D10 for any such episode.
+
+::::
+
+:::: details 📖 原文留档：两次访谈与周二前的推进（原书 p27-28，中英双版）
+
+**中文（忠实全文）**
+
+访谈：琳赛·皮尔（大概率隔门喊话、通电话，或她被捕后）——化解局面需要大量的说服、信任构建、心理分析，以及最重要的：令人信服的承诺——蕾吉娜至少周三之前不会回到她父母身边。琳赛有充分理由确信：把蕾吉娜及时交还父母、赶上周二晚的仪式，结局就是末日。
+
+如果能赢得她的信任（这应当极其困难），她会不顾一切地把她知道的一切倒出来，拼命想让某个人把蕾吉娜挡在她父母之外。她的行李里有一份逾越节天使仪式的录像拷贝当保险——装在一只儿童 DVD 盒里，就是一张和盒子对不上的空白盘。看录像 SAN 损失 0/1，看过的人从此进入逾越节天使的注视（承受与琳赛同款的托梦和骚灵，直到周二夜灾难之后）。
+
+无法赢得信任的话，琳赛对大多数试探一概不理，最多回以威胁，或者（如果隔着工事够得着目标）一声警告射击。她能把五斗柜挪开一条缝、用链锁开门、贴着门缝开火（视线受限）。
+
+两件事必定引起她的注意：毁门框记号、断电。这会让她隔着门开始哀求——别这么做，调查员们根本不知道自己在干什么。她不会解释自己在怕什么，只会要求他们住手，「否则……」。如果门框被毁、电也被断了，她会迟疑，然后动手杀死蕾吉娜和自己——她知道接下来来的是什么。她是成功、失败、还是被猎鬼吃掉，由你决定。
+
+访谈：蕾吉娜·贝尔福（获救后）——蕾吉娜·贝尔福是个健康状况脆弱的五岁小女孩。智力中等，而且（出人意料地）心理健全。她父母（虽然相当疯狂）的那种疯狂是真诚持有、信念导向的类型，让他们多少能正常过日子。他们对蕾吉娜很好，她爱他们，而且她从没见过任何怪物、黑天使之类的东西。换句话说，蕾吉娜完全无辜。
+
+蕾吉娜对事情的看法如下。注意：贝尔福夫妇会（通过律师等合法手段）竭力抗拒让蕾吉娜接受访谈、送医院观察之类的事，能挡就挡；随着周二天色渐晚，他们会越来越强硬、越来越好讼（最终跑到法院拿法庭令）。
+
+- 妈妈爸爸对她很好，是这个凶巴巴的琳赛阿姨把她绑走的。琳赛没伤害她，但她把她从爸爸妈妈身边带走了，她现在想回家。
+- 琳赛有枪，还很凶。琳赛老用感冒药让她犯困，她很害怕。琳赛以前也把她从爸爸妈妈身边带走过一次——那时候她还小，去了几个星期。她记得那次琳赛人很好，但这次很凶。
+- 爸爸是传道人。妈妈在家陪她。他们非常信神，也告诉她应该信。爸爸妈妈经常说起逾越节天使——那是一位会来拜访他们、告诉爸爸神要什么的特别的天使。不过她从来没见过他。
+- 爸爸常说世界末日的事。他说世界末日的时候，她要躲进后院的避难所，待在里面等有人来找她。
+- 她记得在商店里从妈妈身边把她抢走的那个坏人。他来过他们家几次，是爸爸教会的一员——
+  - 虽然那时他头发颜色不一样、也没留胡子。他以前对她挺好的。（守秘人注：这是条重要线索。它说明琳赛和乔治的行动可能有事实依据；而且，如果贝尔福夫妇尚未坦白认识乔治·刘易斯顿，他们对调查员有所保留这件事现在就露馅了。）
+- 如果调查员访谈做得非常好（心理分析判定，或问对了路子的问题），蕾吉娜可能会讲起她最喜欢的圣经故事
+  - 她知道很多圣经故事，但爸爸几乎每天都给她讲一个关于献以撒（the Binding of Isaac）的故事
+    - 以撒是亚伯拉罕的儿子，亚伯拉罕非常爱他；神应许过以撒会有很多孩子
+    - 以撒有点游手好闲，还没安定下来、也没孩子
+    - 神为了考验亚伯拉罕的信心，命令他把以撒绑在石头上、用一把魔法刀杀了他
+      - 不过这只是考验；神绝不会让以撒受到伤害，一位特别的天使出现、拦住了以撒被伤害
+      - 神奖赏了亚伯拉罕有这么大的信心——甚至相信神会让以撒从死里复活
+  - 爸爸说，这个故事的意思是：我们永远要听神的话，哪怕听起来很疯狂，因为我们猜不透神的想法，而祂永远奖赏有信心的人
+
+周二来临（推进杠杆）——如果到周二下午贝尔福夫妇还没把蕾吉娜拿回来，他们会根据自己知道什么、她在哪里，采取一切想得到的行动把她弄回来。如果到周一还没找到她，你可以考虑推进剧情（比如让收费亭职员站出来），把人质对峙部分拉上场。或者，如果调查员实在在线索链上没有进展，逾越节天使可能会告诉贝尔福先生她在哪里，而他可能会给调查员递话、试图借刀夺回蕾吉娜。如果贝尔福注意到 23 号房门框上的记号，他很可能会斥其为渎神、冲上去要抹掉，得被人架住。（当然，如果调查员指出那些记号和他家避难所上的一模一样，他会一时语塞。）
+
+**English (verbatim)**
+
+Interview, Lindsay Peale (Probably Shouted Through The Door Or Over The Phone, Or If She is Apprehended)
+
+It will take a significant amount of Persuasion, trust building, Psychoanalysis, and most especially, convincing promises that Regina will not go back to her parents until at least Wednesday to defuse the situation. Lindsay is rightly convinced that giving Regina back to her parents in time for the Tuesday evening ritual will result in an Apocalypse.
+
+If her trust can somehow be gained, which should be extremely difficult, she will desperately spill her guts about everything that she knows, in an effort to convince someone to keep Regina away from her parents. She has a copy of the Passover Angel ritual video recording as an insurance policy among her belongings, in one of the children's DVD boxes. It is simply on a blank disk that does not match the box. SAN loss is 0/1 for the video, and watching it puts the investigators under the Passover Angel's scrutiny (with similar dream sendings and poltergeist shenanigans to those suffered by Lindsay, until after the Tuesday night disaster).
+
+Failing to gain her trust will result in Lindsay completely ignoring most overtures, or at best, responding with threats and perhaps (if she has a target through her barricades) a warning shot. She can inch the dresser barricade back, open the door on its chain, and shoot out the crack (with a limited line of sight).
+
+Two things that will definitely get her attention are attempting to deface the doorposts and/or kill the power. These will get her to start pleading through the door not to do that—the investigators have no idea what they are doing. She will not explain what she is afraid of, but will demand that they stop "or else." If the door is defaced and the power is cut off, she will hesitate, but then move to kill both Regina and herself, since she knows what is coming. Whether she succeeds, fails, or is eaten by a Hunting Horror is up to you.
+
+Interview, Regina Balfour (Post Rescue)
+
+Regina Balfour is a five year old little girl in fragile health. She is of average intelligence and (surprisingly) psychologically well-adjusted. Her parents (while quite insane) partake of a flavor of sincerely held, belief-oriented insanity that allows them to muddle through life somewhat normally. They are good to Regina, she loves them, and she has never seen any monsters, dark angels or other weird things. In other word, Regina is utterly innocent.
+
+Regina's perspective on matters is as follows. Note that the Balfours will be resisting (through legal means, including lawyers) having Regina interviewed, taken to a hospital for observation, or the like to the extent they can. They will be especially demanding and litigious (ultimately running to court for a court order) as the day gets later on Tuesday.
+
+- Her mommy and daddy are nice to her and this mean Lindsay lady kidnapped her. She did not hurt her, but she took her away from mommy and daddy and she wants to go home now.
+- Lindsay had a gun and was crabby. Lindsay kept her sleepy with cold medicine and she was afraid. Lindsay took her away from her mommy and daddy before, for a few weeks, when she was littler. She remembers that Lindsay was nice that time, but she was mean this time.
+- Daddy is a preacher. Mommy stays at home with her. They believe in God a lot and tell her that she should too. Daddy and Mommy talk a lot about the Passover Angel, who is a special angel who visits them and tells Daddy what God wants. She's never seen him though.
+- Daddy talks a lot about the end of the world. He says that when the world ends, she needs to go to the bomb shelter in her back yard and stay there until someone comes to find her.
+- She remembers the mean man who grabbed her from mommy in the store. He was at their house a few times; he was one of Daddy's church members, although he had differently colored hair and no moustache then. He used to be nice to her. (Keeper's note: this is an important clue. It suggests that Lindsay and George may have had some factual basis for their actions. Also, if the Balfours have not come clean about knowing George Lewiston, the fact that they have been less than completely forthright with the investigators will now be apparent.)
+- If the investigators do a very good job of interviewing her (Psychoanalysis roll or asking the right sort of questions), Regina might talk about her favorite Bible story. She knows lot of Bible stories, but her Daddy tells her one about the Binding of Isaac almost every day. Isaac was the son of Abraham and Abraham loved him a lot. God had promised that Isaac would have a lot of children, but Isaac was kind of a goof off and had not settled down yet and had kids. God tested Abraham's faith by ordering him to tie Isaac to a rock and kill him with a magic knife. This was just a test though; God would never let Isaac be hurt and a special angel appeared and stopped Isaac from getting hurt. God rewarded Abraham for having that much faith, even believing that God would bring Isaac back from the dead. Daddy says that this story means that we should always do what God says, even if it sounds crazy, because we cannot understand what God is thinking and he always rewards the faithful.
+
+Come Tuesday
+
+If the Balfours do not have possession of Regina back by Tuesday afternoon, they will take every conceivable action to get her back, depending on what they know and where she is. If she has not been found by Monday, you might wish to advance the action (such as by having the toll booth operator come forward), to get the hostage standoff part of the scenario in play. Or, if the investigators are just not making progress on the clue trail, the Passover Angel might tell Mr. Balfour where she is, and he might tip the investigators to try and extract Regina. If Balfour notices the markings on the door frame of Room 23, he may well decry them as blasphemies against all that is holy and attempt to go up and deface them, having to be physically restrained. (Of course, if the investigators note that they are the same as are on his bomb shelter, he will be at a loss for words).
+
+::::
+
 
 
 ---
