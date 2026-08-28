@@ -3,7 +3,11 @@ title: 📖 术语表
 createTime: 2026/08/23 21:00:00
 ---
 
+
+::: center
 ## **⚡ 用法**
+
+:::
 
 正文中带反引号的缩写（如 `SAN`、`KP`）都是系统术语
 
@@ -163,7 +167,11 @@ createTime: 2026/08/23 21:00:00
 
 :::: card
 
-### **🔗 深入阅读**
+
+::::: center
+### **深入阅读 🔗**
+
+:::::
 
 - 属性怎么生成 → [车卡指南](/rule/coc/guide/character_creation)
 - 检定怎么掷 → [常用骰法](/rule/coc/guide/quick_roll)
