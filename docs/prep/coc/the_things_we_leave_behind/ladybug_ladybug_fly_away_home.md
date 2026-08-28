@@ -64,6 +64,124 @@ B 记者——落魄记者团（狗仔/烦人精/塌房名人任选），你是�
 女孩的父母是善良虔诚的人。医生说，五年来他们的每一笔医药费都是现金。
 教会的网站上挂着一行倒计时：世界将在下周二，日落时结束。
 
+:::: card
+
+**调查员的介入，与开局已知（Involving the Investigators, and What Is Known at the Start）**
+
+- 无论以何种方式，调查员都会在绑架发生后很快——几个小时内——介入其中；至少一人必须有合乎逻辑的理由，深度参与这起儿童失踪案的调查
+- 最可能的安排：一人是负责侦破此案的执法人员，其余人以协助或跟踪调查的身份在场
+- 若无人是执法人员：有神秘学经验者可被执法部门聘为顾问——他们了解到的东西应当让他们要么插手这桩调查，要么自己开一条平行的调查线
+- 最合逻辑的设置：一名联邦调查局（FBI）外勤探员，被召来协助这桩看起来明目张胆的儿童绑架案——可能还跨越了州界
+- 另一种开局：一支过度热情的新闻摄制组，跟踪调查、试着自己破案（或者至少拿到最好的素材、抢在同行前头发出独家）——可行，但需要大量角色扮演，尤其是与那些试图管控媒体信息流的执法人员打交道的时候
+- 调查员不应与蕾吉娜·贝尔福（Regina Balfour）有亲属关系；但可以与乔治·刘易斯顿（George Lewiston）有过往交集——若有，他们认识的他是一个好人、一名国内右翼邪教问题的专家，一个没有极充分的理由绝不会单干出走的人
+- 蕾吉娜的绑架在案发一小时内传遍地方新闻，不久之后登上全国新闻
+- 执法人员调查员或持官方授权者：初次简报中得知「瓢虫、瓢虫」调查员手持材料 #1（Investigator Handout #1）中的信息——若调查员中有 FBI 探员接管调查，信息来自到场的地方警察；否则来自负责此案的 FBI 探员露西·贝茨（Lucy Bates）
+- 新闻摄制组可以通过收买执法系统的「线人」拿到同样的信息
+- 贝茨探员在调查员自己主案时是冗余且不必要的；否则她的数据卡见人物区
+
+::::: details 📖 原文留档：调查员的介入与开局已知（原书 p9，中英双版）
+
+**中文（忠实全文）**
+
+无论以何种方式，调查员都会在绑架发生后很快——几个小时内——介入其中。至少一名调查员必须有合乎逻辑的理由，深度参与一起儿童失踪案的调查。最可能的情况是其中一人是负责侦破此案的执法人员；其余人可以是在协助或跟踪调查的人。如果没有人是执法人员，那么其中有神秘学经验的任何一人都可以被执法部门聘为顾问，而他们了解到的东西应当让他们要么插手这桩调查，要么自己开一条平行的调查线。最合乎逻辑的安排是：一名调查员是联邦调查局（FBI）的外勤探员，被召来协助一桩看起来明目张胆的儿童绑架案——可能还跨越了州界。
+
+另一种选择：他们可以是一支过度热情的新闻摄制组，决定跟踪调查、试着自己破案（或者至少拿到最好的素材、抢在同行前头发出独家）。最后这个选项可行，但需要大量角色扮演，尤其是在与那些试图管控媒体信息流的执法人员打交道的时候。
+
+任何调查员都不应与蕾吉娜·贝尔福（Regina Balfour）有亲属关系，但他们可能与乔治·刘易斯顿（George Lewiston）有过往交集。若有，他们应当认识他这个人——一个好人、一名国内右翼邪教问题的专家，一个没有极充分的理由绝不会单干出走的人。
+
+蕾吉娜的绑架在案发一小时内传遍地方新闻，不久之后登上全国新闻。执法人员调查员，或有官方授权的人，在初次简报中得知「瓢虫、瓢虫」调查员手持材料 #1（Investigator Handout #1）中的信息。新闻摄制组可以通过收买执法系统的「线人」拿到同样的信息。如果调查员中有一名 FBI 探员接管调查，这些信息来自到场的地方警察；否则，信息来自负责此案的 FBI 探员露西·贝茨（Lucy Bates）——一位在寻找被绑架儿童方面经验丰富的职业调查员。若调查员们自己主案，贝茨探员就是冗余且不必要的；否则她的数据见下文。
+
+**English (verbatim)**
+
+The investigators will be involved, one way or another, very shortly after the abduction—within a few hours. At least one of the investigators has to have a logical reason to be intimately involved in the investigation of a child disappearance. Most likely, one of them will be a law enforcement officer charged with solving the crime; the others can be persons who might be assisting with or following the investigation. If none of them are law enforcement officers, then any of them with experience in the occult could be brought in as consultants by law enforcement, and what they learn should cause them to either nose into the investigation or start a parallel one of their own. Most logically, one investigator would be a field agent with the Federal Bureau of Investigation, who will be called into assist with what appears to be a case of brazen child abduction, possibly across state lines.
+
+Alternatively, they might be an overzealous news crew who decide to follow the investigation, and try to solve the crime themselves (or, at least, get the best footage and scoop the competition). This last option can work but requires considerable roleplaying, particularly when trying to interact with the law enforcement officials who are trying to control what information gets into the media.
+
+None of the investigators should be related to Regina Balfour, but they might have a prior connection to George Lewiston. If so, they should know him as a good person and an expert on domestic, right-wing cults, someone who was unlikely to go rogue without an excellent reason.
+
+Regina's kidnapping is all over the regional news within an hour of its occurrence, and the national news shortly thereafter. Law enforcement investigators, or those with official sanction, learn the information in Ladybug, Ladybug, Investigator Handout #1 at their initial briefing. News crews can get this same information by bribing a law enforcement "leak". If one of the investigators is an F.B.I. agent to assume charge of the investigation, this information comes from the local police who responded to the scene. Otherwise, it comes from an F.B.I. agent in charge, Lucy Bates, a career investigator with extensive experience in finding kidnapped children. Special Agent Bates is redundant and unnecessary if the investigators are in charge; otherwise, her statistics appear below.
+
+:::::
+
+::::
+
+:::: card
+
+**到场简报：调查员手持材料 #1——到场已知（Investigator Handout #1 – What Is Known On Arrival）**
+
+- 蕾吉娜·贝尔福（Regina Balfour），5 岁白人女童，今天傍晚 6:30 在一家大型商超内被人从购物车上抱走——当时母亲撒拉就站在三英尺外，背对着她
+- 绑架全程被监控录像拍下：一个高大年长的白人男子，戴棒球帽和墨镜，径直走向购物车，用藏在身上的电击枪电倒母亲，把女孩从车里抱出来快步走向出口；他一度走出镜头又折返——为了取蕾吉娜身边那只瓢虫形状的毛绒背包；母亲挣扎着抓住背包，短暂拉扯后绑匪一脚踹在她脸上，在旁人试图介入时弃包带人逃离，十秒后商场警卫追出画面
+- 出口处第二台监控拍到更多：绑匪撞倒门口的制服迎宾员（蕾吉娜明显在挣扎尖叫），把她扔进一辆等候的旧款棕褐色福特金牛（Ford Taurus）后座，车随即疾驰而去；绑匪则拔出手枪走回店内，路过时一枪打中迎宾员的膝盖
+- 此后多路监控拍到他在店内游荡：手持枪械推倒货架、对顾客挥枪、制造全场恐慌，顾客蜂拥挤向出口；约三十分钟后 SWAT 到场，穿防弹衣的重装警察进入画面——他一看见他们，立刻举枪自尽（SAN 损失 0/1）
+- 贝尔福夫妇（父亲名叫约翰）心急如焚，正在地方警局；他们否认认识绑匪
+- 贝尔福夫妇在 FBI 激进分子／国内恐怖主义观察名单上：他们是边缘宗教运动「逾越节天使教会」（Church of the Passover Angel）的领袖，运营着一个激烈批评美国政府的网站（称之为「假蛇之首」），鼓吹（非暴力地）推翻政府、以「只遵循上帝的律法和他的传令官逾越节天使的律法」的原教旨神权取而代之
+- 多年来他们被怀疑持有并囤积非法枪械——直到机枪与炸弹级别——但烟酒枪械爆炸物管理局（ATF）的反复调查一无所获；教会网站公开评论这场「持续迫害」：「时候到了，上帝和他的逾越节天使将像他击打埃及那样击打华盛顿的恶人——以疮与血、蛙与蝗、虱与蝇、疫与暗；当对信众的迫害持续不止，再加上他们头生子的死亡。」
+- 绑匪染了头发、戴着假胡子、近期用酸蚀掉了自己的指纹、身上没有任何身份证件——但 ATF 人员在新闻公布的照片里一眼认出了他：乔治·刘易斯顿（George Lewiston），退休 ATF 调查员，有调查国内疑似恐怖组织的经验；（据已知）他与此前的任何一场逾越节天使教会调查都没有关联
+
+::::: details 📖 原文留档：调查员手持材料 #1（原书 p10，中英双版）
+
+**中文（忠实全文）**
+
+蕾吉娜·贝尔福，五岁白人女童，今天傍晚 6:30 与母亲撒拉同行时被绑架。绑架发生在一间大型连锁商超内，当时蕾吉娜正坐在购物车里，她母亲站在三英尺外，背对着她。
+
+绑架被录像带全程拍下。录像显示一个高大年长的白人男子，戴棒球帽与墨镜，肆无忌惮、目标明确地走向购物车，用一支藏在身上的电击枪电倒母亲，把女孩从车里一把抱出，快步走向出口。他短暂离开镜头范围，随后抱着女孩折返——为了取回购物车里蕾吉娜身边的一只背包。背包做成瓢虫毛绒玩具的样子。蕾吉娜的母亲撒拉·贝尔福挣扎着起身抓住瓢虫背包，短暂的拉锯战随之而来。绑匪一脚踹在撒拉脸上，但在一名旁观者试图介入时松开了背包。随后他带着蕾吉娜逃出镜头；十秒后一名商场保安穿过画面追了出去。
+
+商店出口的第二台监控摄像头拍到更多内容。绑匪撞倒一名制服迎宾员——蕾吉娜明显在挣扎尖叫。他把蕾吉娜扔进一辆等候中的车后座——一辆旧款的棕褐色福特金牛——车辆随即疾驰而去。绑匪随后拔出手枪走回店内，进门时一枪打中迎宾员的膝盖。
+
+此后绑匪出现在多路监控画面里。他在店内游荡，手持枪械，推倒货架陈列，朝顾客挥枪，制造大面积恐慌。顾客向出口蜂拥挤踏。约三十分钟后，SWAT 小队到场，身穿防弹衣的重装警察进入监控画面。他一看见他们，立刻举枪击中自己的头部。SAN 损失 0/1。
+
+贝尔福夫妇（父亲姓名：约翰）心急如焚，正在地方警局。他们否认认识绑匪。
+
+贝尔福夫妇在 FBI 激进分子／国内恐怖主义观察名单上。他们是一场名为「逾越节天使教会」的边缘宗教运动的领袖。他们运营一个强烈批评美国政府的网站，称其为「假蛇之首」，鼓吹（非暴力地）推翻政府，代之以「只遵循上帝的律法和他的传令官、逾越节天使的律法」的原教旨神权政体。
+
+多年以来，他们一直被怀疑持有并囤积非法枪械——最高到机枪与炸弹级别——但烟酒枪械爆炸物管理局（ATF）的反复调查一无所获。教会网站公开评论这场「持续迫害」：「时候到了，上帝和他的逾越节天使将像他击打埃及那样击打华盛顿的恶人——以疮与血、蛙与蝗、虱与蝇、疫与暗；当对信众的迫害持续不止，再加上他们头生子的死亡。」
+
+绑匪染过头发，戴着假胡子，近期用酸蚀去了指纹，身上没有携带任何身份证件。然而纯属偶然，照片一经新闻公布，ATF 的人员立刻认出了他。他叫乔治·刘易斯顿（George Lewiston），是一名退休的 ATF 调查员，有调查国内疑似恐怖组织的经验。不过（据已知）他与此前的任何一场对逾越节天使教会的调查都无关联。
+
+**English (verbatim)**
+
+Regina Balfour, a five-year old Caucasian female, was abducted at 6:30 P.M. earlier today while in the company of her mother, Sarah. The abduction occurred in a "big box" retail store while Regina was sitting in a shopping cart. Her mother was standing three feet away with her back turned.
+
+The abduction was caught on videotape. The videotape shows a large, older Caucasian man in a baseball hat and sunglasses walk brazenly and with purpose up to the cart, Taser the mother with a hidden stun gun, grab the girl out of the cart, and walk quickly for the exit. He momentarily leaves camera range, then comes back into range carrying the girl in an effort to retrieve a backpack that had been sitting next to Regina in the shopping cart. The backpack is shaped like a stuffed animal ladybug. Regina's mother, Sarah Balfour, manages to rouse herself enough to grab onto the ladybug backpack, and a brief tug-of-war ensues. The abductor kicks Sarah in the face, but lets the backpack go as a bystander tries to intervene. He then flees out of camera range with Regina; a security guard runs through the frame ten seconds later in pursuit.
+
+A second security camera at the exit of the store shows more. The abductor knocks over a uniformed greeter with Regina obviously struggling and screaming. He throws Regina into the back seat of a waiting car, a late model tan Ford Taurus, which speeds off. The abductor then pulls out a handgun and marches back into the store, shooting the greeter in the kneecap as he goes.
+
+The abductor can be seen on several different video feeds thereafter. He wanders through the store, gun in hand, toppling displays, brandishing his firearm at customers, and generally causing a panic. Shoppers stampede toward the exit. After about thirty minutes, a SWAT team arrives and heavily armed policemen wearing body armor appear in camera range. When he sees them, the abductor promptly shoots himself in the head. SAN loss 0/1.
+
+The Balfours (father's name: John) are frantic and at the local police station. They deny knowing the abductor.
+
+The Balfours are on an F.B.I. radicals/domestic terrorist watch list. They are the leaders of a fringe religious movement known as the Church of the Passover Angel. They run a website that is highly critical of the U.S. government, calling it the "head of the false serpent." They advocate the government's (non-violent) overthrow and replacement with a fundamentalist theocracy "following only God's law and that of his herald, the Passover Angel."
+
+The Balfours have been suspected for years of possessing and stockpiling illegal firearms, up to and including machine guns and bombs, but repeated Bureau of Alcohol, Tobacco and Firearms (A.T.F.) investigations have turned up nothing. The Church's website openly comments on this "ongoing persecution", saying that "when the time is right, God and his Passover Angel will smite the wicked in Washington as he did Egypt, with boils and blood, frogs and locusts, lice and flies, pestilence and darkness, and when the persecution of the Faithful persists, with the deaths of their firstborn."
+
+The abductor had dyed his hair, was wearing a fake moustache, had recently obscured his fingerprints with acid, and was carrying no identification. However, by chance, his picture was promptly recognized when posted on the news by officials with A.T.F. His name was George Lewiston, and he was a retired A.T.F. investigator with experience investigating suspected domestic terror groups. However, he had no (known) prior connections to any investigation of the Church of the Passover Angel.
+
+:::::
+
+::::
+
+:::: card
+
+**主题元素：监控摄像头（Security Cameras）**
+
+- 线索树里这么多线索都牵涉监控摄像头，绝非偶然——这一点也绝不要含蓄处理
+- 调查员若自己没有察觉，让贝尔福夫妇中的一人在某个时点向他们点破——点破台词（原文直引）：「回到埃及人出埃及的年代，以色列人知道上帝的眼睛时刻注视着他们，审判他们的行为与他们的义。世事越是变迁，越是一成不变，你明白吗？上帝的审判就要来了。安然接受这个事实吧。」
+
+::::: details 📖 原文留档：监控摄像头（原书 p11，中英双版）
+
+**中文（忠实全文）**
+
+调查线索树中如此多的线索都涉及监控摄像头，这绝非偶然。这一点也不要含蓄处理。如果调查员自己没有注意到，就让贝尔福夫妇中的一人在某个时刻向他们点破：「回到埃及人出埃及的年代，以色列人知道上帝的眼睛时刻注视着他们，审判他们的行为与他们的义。世事越是变迁，越是一成不变，你明白吗？上帝的审判就要来了。安然接受这个事实吧。」
+
+**English (verbatim)**
+
+It is no accident that so many of the clues in the investigation tree involve security cameras. Do not be subtle about this, either. If the investigators do not notice this on their own, have one of the Balfours point it out to them at some point. "Back in the days of the Egyptian Exodus, the Israelites were aware that the eyes of God were constantly upon them, judging their actions and their righteousness. The more things change, the more they stay the same, you know? God's judgment is coming. Be at peace with that fact."
+
+:::::
+
+::::
+
+
 角色塑造问题：
 1、（战役题）有些故事追到手才发现，播出去就是帮凶
 2、当每个人都确信自己是对的，你听谁的？
@@ -552,6 +670,27 @@ KJV：
 
 ::::
 
+:::: card
+
+**🚗 车程时间表（时间就是这场团的命脉）**
+
+::: table
+
+| 路段 | 车程 | 档 · 出处 |
+|---|---|---|
+| 租车点 → 俄亥俄收费高速入口 | 约 30 分钟 | 实证·原书 p20（琳赛租车后约半小时上高速东行） |
+| 收费高速出口 → 最近医院 | 20 英里，约 30 分钟 | 实证·原书 p20（问路所得） |
+| 收费高速出口 → 五橡旅馆 | 一英里出头，数分钟 | 实证·原书 p23（两条次级州道交叉口） |
+| 五橡旅馆 → 贝尔福家 | 约 2 小时 | 实证·原书 p28 |
+| 克利夫兰 → 收费高速出口区（俄-宾州界） | 约 2-2.5 小时 | 推定（I-80 东行约 150-180 英里 ÷ 高速均速；原文只给方向链） |
+| 案发超市 ↔ 贝尔福家 | 原文未载明 | 未载明档——同城郊区就近处理 |
+| 礼拜堂 ↔ 贝尔福住宅 | 同一地产，步行即达 | 实证（周二晚两处门框涂血） |
+
+:::
+
+::::
+
+
 
 
 ---
@@ -733,13 +872,17 @@ KJV：
 |---|---|---|---|---|---|---|---|---|---|
 | 55 | 70 | 60 | 65 | 65 | 90 | 65 | 70 | 45 | 13 |
 
-| 伤害加值 | 体格 | MOV |
-|---|---|---|
-| 无 | 0 | 8 |
-
 :::
 
-**武器**
+---
+
+**伤害加值** 无　**体格** 0　**MOV** 8
+
+---
+
+---
+
+**——武器——**
 
 ::: table
 
@@ -749,7 +892,9 @@ KJV：
 
 :::
 
-**技能**
+---
+
+**——技能——**
 
 ::: table
 
@@ -764,14 +909,16 @@ KJV：
 
 :::
 
-**法术**
+---
 
+**——法术——**
 - 标记门柱（`Elder Sign` 变体）
   - 效果：门槛防护符文，实体退避
   - 不挡梦魇与施压——天使对琳赛的隔门恐吓照走
 
-**杂项**
+---
 
+**——杂项——**
 - 防御：无特殊
 - 学历：心理学学士（俄亥俄州立）＋社工硕士（克利夫兰州立）
 
@@ -838,13 +985,17 @@ KJV：
 |---|---|---|---|---|---|---|---|---|---|
 | 70 | 75 | 70 | 75 | 90 | 65 | 75 | 70 | 0 | 14 |
 
-| 伤害加值 | 体格 | MOV |
-|---|---|---|
-| +1D4 | 1 | 8 |
-
 :::
 
-**攻击与物品**
+---
+
+**伤害加值** +1D4　**体格** 1　**MOV** 8
+
+---
+
+---
+
+**——攻击与物品——**
 
 ::: table
 
@@ -854,7 +1005,9 @@ KJV：
 
 :::
 
-**技能**
+---
+
+**——技能——**
 
 ::: table
 
@@ -870,8 +1023,9 @@ KJV：
 
 :::
 
-**法术**
+---
 
+**——法术——**
 - 恳求逾越节天使（`Contact Nyarlathotep`，天使形态）
   - 效果：天使应祷显形、开价交易——周一晚车中 `Entreat` 的引擎
 - 标记门柱（`Elder Sign`）
@@ -879,8 +1033,9 @@ KJV：
 - 预备天使之路（`Call Nyarlathotep`，黑风形态）
   - 效果：为「黑风」降临开门——终局最坏支线的引信
 
-**杂项**
+---
 
+**——杂项——**
 - 防御：无特殊
 - 长期疯狂：种族灭绝狂
 - 学历：神学院
@@ -976,13 +1131,17 @@ KJV：
 |---|---|---|---|---|---|---|---|---|---|
 | 55 | 70 | 60 | 80 | 70 | 60 | 55 | 70 | 62 | 14 |
 
-| 伤害加值 | 体格 | MOV |
-|---|---|---|
-| 无 | 0 | 8 |
-
 :::
 
-**武器**
+---
+
+**伤害加值** 无　**体格** 0　**MOV** 8
+
+---
+
+---
+
+**——武器——**
 
 ::: table
 
@@ -993,7 +1152,9 @@ KJV：
 
 :::
 
-**技能**
+---
+
+**——技能——**
 
 ::: table
 
@@ -1007,8 +1168,9 @@ KJV：
 
 :::
 
-**杂项**
+---
 
+**——杂项——**
 - 防御：无特殊；可穿防弹背心
 
 :::::
@@ -1156,11 +1318,13 @@ KJV：
 |---|---|---|---|---|---|---|
 | 95 | 110 | 90 | 100 | 110 | 115 | 14 |
 
-| 伤害加值 | 体格 | MOV |
-|---|---|---|
-| +1D6 | 2 | 10/20（飞行） |
-
 :::
+
+---
+
+**伤害加值** +1D6　**体格** 2　**MOV** 10/20（飞行）
+
+---
 
 **攻击**
 
@@ -1180,8 +1344,9 @@ KJV：
 - 惧 `Elder Sign`（退避）
 - 受针对奈亚拉托特普的驱逐系法术影响
 
-**法术**
+---
 
+**——法术——**
 - 任意
 - 可于黑暗中召唤猎鬼（平均数据）
 
@@ -1200,13 +1365,17 @@ KJV：
 |---|---|---|---|---|---|---|---|---|---|
 | 70 | 75 | 70 | 50 | 55 | 65 | 50 | 50 | 0 | 14 |
 
-| 伤害加值 | 体格 | MOV |
-|---|---|---|
-| +1D4 | 1 | 8 |
-
 :::
 
-**武器**
+---
+
+**伤害加值** +1D4　**体格** 1　**MOV** 8
+
+---
+
+---
+
+**——武器——**
 
 ::: table
 
@@ -1220,7 +1389,9 @@ KJV：
 
 :::
 
-**技能**
+---
+
+**——技能——**
 
 ::: table
 
