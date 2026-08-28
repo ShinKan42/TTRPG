@@ -124,6 +124,25 @@ ShinKan42
 
 :::
 
+:::: details 📖 经文原文：出 12:13, 21-23 羊血与灭命者（逾越节的本体）
+
+和合本：
+
+> 21 于是，摩西召了以色列的众长老来，对他们说：「你们要按着家口取出羊羔，把这逾越节的羊羔宰了。
+> 22 拿一把牛膝草，蘸盆里的血，打在门楣上和左右的门框上。你们谁也不可出自己的房门，直到早晨。
+> 23 因为耶和华要巡行击杀埃及人，他看见血在门楣上和左右的门框上，就必越过那门，不容灭命的进你们的房屋，击杀你们。
+> 13 这血要在你们所住的房屋上作记号；我一见这血，就越过你们去。我击杀埃及地头生的时候，灾殃必不临到你们身上灭你们。」
+
+KJV：
+
+> 21 Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.
+> 22 And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning.
+> 23 For the Lord will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the Lord will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you.
+> 13 And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.
+
+::::
+
+
 ::: tip 十灾——神罚阶梯
 
 - 出埃及时神降十灾逼法老放人：血→蛙→虱→蝇→畜疫→疮→雹→蝗→暗→杀头生子
@@ -156,6 +175,27 @@ ShinKan42
 - **桌上用法**：采访 Regina 的床边故事环节，就是全场最冷的一拍
 
 :::
+
+:::: details 📖 经文原文：创 22:9-13 以撒献祭（天使拦刀与公羊）
+
+和合本：
+
+> 9 他们到了神所指示的地方，亚伯拉罕在那里筑坛，把柴摆好，捆绑他的儿子以撒，放在坛的柴上。
+> 10 亚伯拉罕就伸手拿刀，要杀他的儿子。
+> 11 耶和华的使者从天上呼叫他说：「亚伯拉罕！亚伯拉罕！」他说：「我在这里。」
+> 12 天使说：「你不可在这童子身上下手。一点不可害他！现在我知道你是敬畏神的了；因为你没有将你的儿子，就是你独生的儿子，留下不给我。」
+> 13 亚伯拉罕举目观看，不料，有一只公羊，两角扣在稠密的小树中。亚伯拉罕就取了那只公羊来，献为燔祭，代替他的儿子。
+
+KJV：
+
+> 9 And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.
+> 10 And Abraham stretched forth his hand, and took the knife to slay his son.
+> 11 And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.
+> 12 And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.
+> 13 And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
+
+::::
+
 
 ::: details ✍️ 作者手记（评语 · 可跳过）
 
@@ -375,6 +415,143 @@ ShinKan42
 - 时历推进原则：表是态势不是轨道
   - 玩家抢跑或拖堂，各阵营按自己的钟走
   - John 周一晚必 `Entreat`；撒拉周二下午必赴死线
+
+:::: details 📖 十灾经文对照（和合本＋KJV，展开即念）
+
+**1 血灾——出 7:20-21**
+
+和合本：
+
+> 20 摩西、亚伦就照耶和华所吩咐的行。亚伦在法老和臣仆眼前举杖击打河里的水，河里的水都变作血了。
+> 21 河里的鱼死了，河也腥臭了，埃及人就不能吃这河里的水；埃及遍地都有了血。
+
+KJV：
+
+> 20 And Moses and Aaron did so, as the Lord commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood.
+> 21 And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt.
+
+---
+
+**2 蛙灾——出 8:6**
+
+和合本：
+
+> 6 亚伦便伸杖在埃及的诸水以上，青蛙就上来，遮满了埃及地。
+
+KJV：
+
+> 6 And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.
+
+---
+
+**3 虱灾——出 8:17**
+
+和合本：
+
+> 17 他们就这样行。亚伦伸杖击打地上的尘土，就在人身上和牲畜身上有了虱子；埃及遍地的尘土都变成虱子了。
+
+KJV：
+
+> 17 And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.
+
+---
+
+**4 蝇灾——出 8:24**
+
+和合本：
+
+> 24 耶和华就这样行。苍蝇成了大群，进入法老的宫殿，和他臣仆的房屋；埃及遍地就因这成群的苍蝇败坏了。
+
+KJV：
+
+> 24 And the Lord did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies.
+
+---
+
+**5 畜疫——出 9:6**
+
+和合本：
+
+> 6 第二天，耶和华就行这事。埃及的牲畜几乎都死了，只是以色列人的牲畜，一个都没有死。
+
+KJV：
+
+> 6 And the Lord did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.
+
+---
+
+**6 疮灾——出 9:10-11**
+
+和合本：
+
+> 10 摩西、亚伦取了炉灰，站在法老面前。摩西向天扬起来，就在人身上和牲畜身上成了起泡的疮。
+> 11 行法术的在摩西面前站立不住，因为在他们身上和一切埃及人身上都有这疮。
+
+KJV：
+
+> 10 And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast.
+> 11 And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.
+
+---
+
+**7 雹灾——出 9:23-25**
+
+和合本：
+
+> 23 摩西向天伸杖，耶和华就打雷下雹，有火闪到地上；耶和华下雹在埃及地上。
+> 24 那时，雹与火搀杂，甚是厉害，自从埃及成国以来，遍地没有这样的。
+> 25 在埃及遍地，雹击打了田间所有的人和牲畜，并一切的菜蔬，又打坏田间一切的树木。
+
+KJV：
+
+> 23 And Moses stretched forth his rod toward heaven: and the Lord sent thunder and hail, and the fire ran along upon the ground; and the Lord rained hail upon the land of Egypt.
+> 24 So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.
+> 25 And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.
+
+---
+
+**8 蝗灾——出 10:14-15**
+
+和合本：
+
+> 14 蝗虫上来，落在埃及的四境，甚是厉害；以前没有这样的，以后也必没有。
+> 15 因为这蝗虫遮满地面，甚至地都黑暗了，又吃地上一切的菜蔬和冰雹所剩树上的果子。埃及遍地，无论是树木，是田间的菜蔬，连一点青的也没有留下。
+
+KJV：
+
+> 14 And the locusts went up over all the land of Egypt, and rested in all the coasts of Egypt: very grievous were they; before them there were no such locusts as they, neither after them shall be such.
+> 15 For they covered the face of the whole earth, so that the land was darkened; and they did eat every herb of the land, and all the fruit of the trees which the hail had left: and there remained not any green thing in the trees, or in the herbs of the field, through all the land of Egypt.
+
+---
+
+**9 暗灾——出 10:22**
+
+和合本：
+
+> 22 摩西向天伸杖，埃及遍地就乌黑了三天。
+
+KJV：
+
+> 22 And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:
+
+---
+
+**10 杀头生——出 11:4-6**
+
+和合本：
+
+> 4 摩西说：「耶和华这样说：『约到半夜，我必出去巡行埃及遍地。
+> 5 凡在埃及地，从坐宝座的法老直到磨子后的婢女所有的长子，以及一切头生的牲畜，都必死。
+> 6 埃及遍地必有大哀号；从前没有这样的，后来也必没有。
+
+KJV：
+
+> 4 And Moses said, Thus saith the Lord, About midnight will I go out into the midst of Egypt:
+> 5 And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts.
+> 6 And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
+
+::::
+
 
 
 ---
@@ -636,6 +813,23 @@ ShinKan42
 
 :::
 
+:::: details 📖 台词出处：出 21:23-25 同态复仇律（约翰口头禅「Life for life, eye for eye」的原文）
+
+和合本：
+
+> 23 若有别害，就要以命偿命，
+> 24 以眼还眼，以牙还牙，以手还手，以脚还脚，
+> 25 以烙还烙，以伤还伤，以打还打。
+
+KJV：
+
+> 23 And if any mischief follow, then thou shalt give life for life,
+> 24 Eye for eye, tooth for tooth, hand for hand, foot for foot,
+> 25 Burning for burning, wound for wound, stripe for stripe.
+
+::::
+
+
 ::::: details 数据卡：约翰·贝尔福
 
 ::: table
@@ -723,6 +917,27 @@ ShinKan42
 - **数据卡**：挂信徒共通卡（定案），注记——不参战，无武装，周二平行线主脑
 
 :::
+
+:::: details 📖 台词出处：创 18:10-14 撒拉求子（「这孩子当年是我求来的」的典故原文）
+
+和合本：
+
+> 10 三人中有一位说：「到明年这时候，我必要回到你这里；你的妻子撒拉必生一个儿子。」撒拉在那人后边的帐棚门口也听见了这话。
+> 11 亚伯拉罕和撒拉年纪老迈，撒拉的月经已断绝了。
+> 12 撒拉心里暗笑，说：「我既已衰败，我主也老迈，岂能有这喜事呢？」
+> 13 耶和华对亚伯拉罕说：「撒拉为甚么暗笑，说：『我既已年老，果真能生养吗？』
+> 14 耶和华岂有难成的事吗？到了日期，明年这时候，我必回到你这里，撒拉必生一个儿子。」
+
+KJV：
+
+> 10 And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard it in the tent door, which was behind him.
+> 11 Now Abraham and Sarah were old and well stricken in age; and it ceased to be with Sarah after the manner of women.
+> 12 Therefore Sarah laughed within herself, saying, After I am waxed old shall I have pleasure, my lord being old also?
+> 13 And the Lord said unto Abraham, Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old?
+> 14 Is any thing too hard for the Lord? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
+
+::::
+
 
 ---
 
@@ -861,6 +1076,77 @@ ShinKan42
   - 杀死天使是最坏的「胜利」
 
 :::
+
+:::: details 📖 天使形貌经文库（和合本＋KJV）
+
+**灭命之夜——出 12:29-30**
+
+和合本：
+
+> 29 到了半夜，耶和华把埃及地所有的长子，就是从坐宝座的法老，直到被掳囚在监里之人的长子，以及一切头生的牲畜，尽都杀了。
+> 30 法老和一切臣仆，并埃及众人，夜间都起来了。在埃及有大哀号，无一家不死一个人的。
+
+KJV：
+
+> 29 And it came to pass, that at midnight the Lord smote all the firstborn in the land of Egypt, from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon; and all the firstborn of cattle.
+> 30 And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for there was not a house where there was not one dead.
+
+---
+
+**一夜十八万五千——王下 19:35**
+
+和合本：
+
+> 35 当夜，耶和华的使者出去，在亚述营中杀了十八万五千人。清早有人起来，一看，都是死尸了。
+
+KJV：
+
+> 35 And it came to pass that night, that the angel of the Lord went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses.
+
+---
+
+**降灾的使者——诗 78:49-51**
+
+和合本：
+
+> 49 他使猛烈的怒气和忿怒、恼恨、苦难成了一群降灾的使者，临到他们。
+> 50 他为自己的怒气修平了路，将他们交给瘟疫，使他们死亡，
+> 51 在埃及击杀一切长子，在含的帐棚中击杀他们强壮时头生的。
+
+KJV：
+
+> 49 He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.
+> 50 He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;
+> 51 And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:
+
+---
+
+**二翼遮脸（覆面意象）——赛 6:2**
+
+和合本：
+
+> 2 其上有撒拉弗侍立，各有六个翅膀：用两个翅膀遮脸，两个翅膀遮脚，两个翅膀飞翔；
+
+KJV：
+
+> 2 Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
+
+---
+
+**以风为使者（「天使乘风而来」的底本）——诗 104:3-4**
+
+和合本：
+
+> 3 在水中立楼阁的栋梁，用云彩为车辇，藉着风的翅膀而行，
+> 4 以风为使者，以火焰为仆役，
+
+KJV：
+
+> 3 Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:
+> 4 Who maketh his angels spirits; his ministers a flaming fire:
+
+::::
+
 
 ::::: details 数据卡：逾越节天使
 
@@ -1417,6 +1703,23 @@ ShinKan42
 出埃及记说，这样的哀号必不会再有——像埃及头生子死去时的那声哀号。但在肯尼亚，我们知道这并不是真的。当群星就位、界墙变薄之时，逾越节的天使将从**黑风之山**降临，无信者的头生子将从地上消亡。故而我们祈祷：la! Narlato wagh'nag! iszkur boret'l! 天使乘风而来！
 
 ::::
+
+:::: details 📖 破译讯息的经文底本：出 11:4-6（「这样的哀号必不会再有」句的原文）
+
+和合本：
+
+> 4 摩西说：「耶和华这样说：『约到半夜，我必出去巡行埃及遍地。
+> 5 凡在埃及地，从坐宝座的法老直到磨子后的婢女所有的长子，以及一切头生的牲畜，都必死。
+> 6 埃及遍地必有大哀号；从前没有这样的，后来也必没有。
+
+KJV：
+
+> 4 And Moses said, Thus saith the Lord, About midnight will I go out into the midst of Egypt:
+> 5 And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts.
+> 6 And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
+
+::::
+
 
 ---
 
