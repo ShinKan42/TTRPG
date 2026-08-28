@@ -21,6 +21,7 @@ createTime: 2026/08/23 21:00:00
 | 派生数值 | [#🧮 派生数值](#🧮-派生数值) |
 | 角色与人员 | [#🎭 角色](#🎭-角色) |
 | 检定与骰法 | [#🎲 检定](#🎲-检定) |
+| 疯狂 | [#🌀 疯狂](#🌀-疯狂) |
 | 技能 | [#📋 技能](#📋-技能) |
 | 背景与经济 | [#📜 背景](#📜-背景) |
 
@@ -63,7 +64,7 @@ createTime: 2026/08/23 21:00:00
 |---|---|---|---|
 | 生命值 | Hit Points | `HP` | 归零濒死 |
 | 魔法值 | Magic Points | `MP` | 施展法术的资源 |
-| 理智 | Sanity | `SAN` | 面对恐怖的忍耐 |
+| 理智值 | Sanity Points | `SAN` | 面对恐怖的忍耐 |
 | 伤害加值 | Damage Bonus | `DB` | 近战追加伤害 |
 | 体格 | Build | — | 战技与追逐用 |
 | 移动速度 | Movement rate | `MOV` | 一轮 `MOV`×5 米 |
@@ -114,9 +115,29 @@ createTime: 2026/08/23 21:00:00
 | 奖励骰 | Bonus Dice | 掷两个十位取更好 |
 | 惩罚骰 | Penalty Dice | 掷两个十位取更差 |
 | 孤注一掷 | Push | 换方法重试，失败更糟 |
+| 贯穿 | Impale | 极限成功的近战追加伤害 |
 | 对抗检定 | Opposed Check | 双方各掷比成功等级 |
 | 灵感检定 | Idea Roll | `INT` 检定，卡关时找线索 |
 | 知识检定 | Know Roll | `EDU` 检定，回忆信息 |
+
+:::
+
+---
+
+:::: center
+
+## **🌀 疯狂**
+
+::::
+
+::: table
+
+| 中文 | 英文 | 是什么 |
+|---|---|---|
+| 临时性疯狂 | Temporarily Insane | 目睹单次恐怖的打击，持续 1D10 小时 |
+| 不定性疯狂 | Indefinite Insanity | 理智单次大失后的长期状态 |
+| 永久性疯狂 | Permanent Insane | 理智归零，无法恢复 |
+| 疯狂潜伏期 | Underlying insanity | 不定性疯狂的第二阶段，表面如常 |
 
 :::
 
@@ -176,6 +197,6 @@ createTime: 2026/08/23 21:00:00
 - 属性怎么生成 → [车卡指南](/rule/coc/guide/character_creation)
 - 检定怎么掷 → [常用骰法](/rule/coc/guide/quick_roll)
 - 理智怎么运作 → [理智与疯狂](/rule/coc/guide/sanity)
-- 技能全表 → [技能表](/rule/coc/guide/skills_table)
+- 技能全表（中英对照） → [技能表](/rule/coc/guide/skills_table)
 
 ::::
