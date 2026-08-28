@@ -67,7 +67,7 @@ createTime: 2026/08/23 21:00:00
 | 理智值 | Sanity Points | `SAN` | 面对恐怖的忍耐 |
 | 伤害加值 | Damage Bonus | `DB` | 近战追加伤害 |
 | 体格 | Build | — | 战技与追逐用 |
-| 移动速度 | Movement rate | `MOV` | 一轮 `MOV`×5 米 |
+| 移动速度 | Movement rate | `MOV` | 一轮移动速度 `MOV`×5 米 |
 | 幸运 | Luck | — | 环境与命运的裁决 |
 | 信用评级 | Credit Rating | `CR` | 财产与社会地位 |
 
@@ -88,7 +88,7 @@ createTime: 2026/08/23 21:00:00
 | 守秘人 | Keeper | `KP` | 游戏主持人 |
 | 调查员 | Investigator | — | 玩家角色 |
 | 玩家 | Player | `PL` | 参与者本人 |
-| 非玩家角色 | Non-Player Character | `NPC` | `KP` 扮演的角色 |
+| 非玩家角色 | Non-Player Character | `NPC` | 守秘人 `KP` 扮演的角色 |
 | 模组 | Scenario | — | 主持人使用的剧本 |
 | 跑团 | Session | — | 一次游戏聚会 |
 
@@ -117,8 +117,8 @@ createTime: 2026/08/23 21:00:00
 | 孤注一掷 | Push | 换方法重试，失败更糟 |
 | 贯穿 | Impale | 极限成功的近战追加伤害 |
 | 对抗检定 | Opposed Check | 双方各掷比成功等级 |
-| 灵感检定 | Idea Roll | `INT` 检定，卡关时找线索 |
-| 知识检定 | Know Roll | `EDU` 检定，回忆信息 |
+| 灵感检定 | Idea Roll | 智力 `INT` 检定，卡关时找线索 |
+| 知识检定 | Know Roll | 教育 `EDU` 检定，回忆信息 |
 
 :::
 
@@ -154,7 +154,7 @@ createTime: 2026/08/23 21:00:00
 | 中文 | 英文 | 是什么 |
 |---|---|---|
 | 本职技能 | Occupation Skills | 职业给点数的技能 |
-| 兴趣技能 | Personal Interests | `INT`×2 自由分配 |
+| 兴趣技能 | Personal Interests | 智力 `INT`×2 自由分配 |
 | 技能专攻 | Specialization | 大技能下的分项 |
 | 成长标记 | Experience Check | 成功后打的勾 |
 | 半值/五分之一值 | Half / Fifth Value | 困难/极难成功线 |
@@ -176,10 +176,10 @@ createTime: 2026/08/23 21:00:00
 |---|---|---|
 | 背景条目 | Backstory Entry | 形象/信念/重要之人等 |
 | 关键连接 | Bond | 最重要的一条，标星 |
-| 经历包 | Background Package | 可选规则：`SAN` 换技能 |
+| 经历包 | Background Package | 可选规则：理智值 `SAN` 换技能 |
 | 恐惧症 | Phobia | 对特定事物的恐惧 |
 | 躁狂症 | Mania | 对特定事物的执迷 |
-| 生活水平 | Standard of Living | `CR` 决定的生活档位 |
+| 生活水平 | Standard of Living | 信用评级 `CR` 决定的生活档位 |
 | 现金/资产 | Cash / Assets | 手头的钱/需变现的财产 |
 
 :::

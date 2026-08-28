@@ -743,6 +743,15 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ---
 
+- **私家侦探变体（受雇于贝尔福家）**：
+  - 证据还是那些证据，拿到手的路径不同：没有执法证件，调不来财务记录——只能靠说服、贿赂、哄骗或潜入
+  - 换来的好处：贝尔福夫妇对他们坦率得多，直到否认献祭蕾吉娜的意图为止
+  - 他们坚信逾越节天使是真的、不否认；但（诚实地）手里没有任何录像带——那会是渎神
+
+
+
+---
+
 ::: center
 
 ### **GNS 记者团钩 📰**
@@ -870,6 +879,23 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
   - 若符文已失效又断电，**猎鬼（Hunting Horror）破顶而入把她抓走**（SAN 1D3/1D10），蕾吉娜独自留在黑暗里
 
 :::
+
+---
+
+- **新闻队走法（原文运行指南）**：
+  - 成败两把钥匙：`Fast Talk` 与贿赂——无权传唤、无权逼任何人开口，但「上电视」和大笔现金能让很多人愿意说
+  - 开场就让制作人把话挑明：这条新闻能做多大、「顾问费基金」有多厚
+  - 以拍「B 卷素材」为掩护做调查；靠一条条更新与外围曝光把热度续住
+  - 警方调查内部有一个贪财内鬼，收现金漏情报
+  - 新闻队会发现自己一路跟着贝茨跑——令她不胜其烦
+  - 花「悬赏」买「线索」能抢到执法前头：餐馆的人主动来卖独家（George 是常客）；
+    - 收费员前脚报告贝茨、后脚就打给他们；
+    - 租车行、兽医诊所、旅馆老板都可能为现钱先打给新闻队、再慢慢核实
+  - 想象贝茨从某个煽动民粹的电视名嘴嘴里得知重要情报时的怒火
+  - 原文自评：最虚无主义的跑法、编排最费劲，但远比其他跑法好玩
+  - 夫妇乐意邀请「友好的」媒体见证礼拜；会众可能高喊「全世界都在看」把干涉的执法挡回去
+
+
 
 ::::: details 数据卡：琳赛·皮尔
 
@@ -2489,6 +2515,18 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 ## **📦 物品与 Handout**
 
+---
+
+- **结算（Rewards & Repercussions）**：
+  - 阻止黑风的召唤：+2D6 SAN
+  - 蕾吉娜获救且琳赛未被杀：再 +1D4
+  - 蕾吉娜被杀：−1D4
+  - 未献蕾吉娜的黑风（较小灾难）：在所见损失之外再 −1D6——至少还能勉强解释成一场格外可怕的龙卷风
+  - 黑风全临：在其余损失之外再 −2D6——很难再用龙卷风解释过去
+  - 头生调查员若不在受符文庇护的掩体里，几乎不可能在黑风成功降临的现场幸存
+
+
+
 :::
 
 ::: table
@@ -2774,6 +2812,92 @@ KJV：
 ::::
 
 :::
+
+:::: details 📖 原文留档：运行指南与结算（How Things Are Likely To Go, Keeper Hints & Rewards，原书 p31-33，中英双版）
+
+**中文（忠实全文）**
+
+开团前先确立：每位调查员有几个兄弟姐妹、排行第几。头生调查员在本篇中有特殊的死亡风险，给他们的头生身份一点实质内容是很有意思的——多发圣经十灾与古埃及之灾的梦，或让他们余光里瞥见带翼之物。
+
+每一处对应埃及之灾的小场景，都要仔细而完整地描述出来。这能帮调查员聚焦主题的递进、拉高张力，并促使他们去做研究。
+
+如果至少有一名调查员是合适的主管绑架案的执法人员，本篇可以直截了当地跑：调查员和任何「外聘顾问」应被放手去追各条线索。
+
+更可能的情况是，调查员因邪教办案经验被召来。露西·贝茨探员主管调查、做他们的联络人。把她演成一个照章办事、有点自負的职业调查员：她心怀善意、尊重调查员的意见，但坚持按「正确的方式」办事——申请搜查令耗时耗力、审讯中途尊重律师到场要求、没有迫在眉睫危险的明确证据就绝不容忍破门而入。不过她会接受调查员对「该申请什么搜查令」的建议，也允许持证执法探员在她麾下办案。她既是阻碍也是助力，应当给调查员留出走捷径、「单干」的机会。
+
+除非亲眼所见，贝茨探员不会相信任何超自然的东西。遗憾的是这很可能在某个时刻发生。五橡旅馆门前的蝗群会让她迟疑，开始更倚重调查员（到睁一只眼闭一只眼放过他们先前单干的地步）。若她见到露骨的超自然（逾越节天使、猎鬼叼走琳赛，或最可能的——琳赛那张召天使仪式的 DVD），她就让调查员来制定后续行动计划（在法律限度内）。
+
+用翻看监控录像、等银行出记录这类事务的必要耗时来给冒险配速，让调查员来得及在周二晚之前赶到五橡、与琳赛完成对峙、可能还来得及把蕾吉娜交还父母。但别强行推。蕾吉娜若救回得早、得以与父母团聚，调查员要做的艰难选择最多；但也可以完全顺着跑——也许全员死绝，也许琳赛的计划成功。顺其自然。
+
+若强攻 23 号房，让贝茨探员成为被琳赛打中的一人对剧情有帮助：她的继任者会指望调查员中的执法人员来牵头。
+
+如果调查员是贝尔福家雇的私家侦探：证据还是那些证据，但拿到手的路径好坏参半。他们没有执法证件，调不来财务记录，只能靠说服、贿赂、哄骗或潜入去拿。另一面，贝尔福夫妇对他们坦率得多——直到否认有献祭蕾吉娜的意图为止。他们坚信逾越节天使是真的、也不否认；但他们（诚实地）没有任何录像带——那会是渎神。
+
+不要排除私家侦探与贝茨探员做信息交易的可能。成功的交易往往发生在他们先被欺负、被以妨碍司法相威胁、被拉去问话之后；但只要他们足够快地承认贝茨主管调查、（听起来可信地）承诺不碍她的事，信息交换就能达成。
+
+本篇完全可以在调查员毫无官方授权的情况下跑——一支调查新闻队，全球新闻社或其他机构派出。这种局面成功的钥匙是快速谈话与「贿赂」。他们无权向私人调取信息、无权强迫任何人开口，但很多人可能更愿意换一段上电视的机会或一大笔现金。开场就让制作人把话说明白：这条新闻能做多大、他们的「顾问费基金」有多厚。鼓励他们以拍「B 卷素材」为名做调查，靠一条条更新和外围曝光把新闻热度续住。警方调查内部还应有一个贪财的内鬼，收现金漏情报给他们。新闻队会发现自己一路跟着贝茨探员跑——令她不胜其烦。
+
+新闻队靠愿意付「悬赏」买「线索」，真能抢到执法前头：餐馆的人可能主动联系他们（指望卖个「独家」），报告乔治·刘易斯顿是常客、前几天还来过；收费员可能前脚向贝茨报告怀疑、后脚就打给他们。租车行职员、兽医诊所老板、旅馆老板这类人（外加无数假线索），很可能被大笔现金驱动，宁可先把拿不准的消息打给新闻队、再慢慢核实或报告执法。想象一下贝茨探员从某个煽风点火的电视名嘴嘴里得知重要情报时的怒火。这是最虚无主义的跑法、编排起来也最费劲，但远比其他跑法好玩。
+
+贝尔福夫妇以他们的疯狂，乐意邀请「友好的」媒体见证他们的礼拜；到场的教众很可能高喊「全世界都在看」，把想干涉的执法挡回去。
+
+确保你处理乔治·刘易斯顿行踪追查的方式，让调查员找得到那张预付借记卡的线索——无论是合法途径，还是在餐馆的暗中打探。
+
+如果调查员一筹莫展，宾州那名收费员最终会报告见过蕾吉娜和琳赛，把调查员朝找到租车的方向推一把。
+
+结算（Rewards and Repercussions）：阻止黑风的召唤，调查员得 2D6 SAN。蕾吉娜获救且琳赛·皮尔未被杀，再得 1D4。蕾吉娜被杀，扣 1D4。未献蕾吉娜的黑风被召出（较小灾难），在所见造成的损失之外再扣 1D6——这至少还可能勉强解释成一场格外可怕的龙卷风。黑风全临——很难再用可怕的龙卷风事故解释过去——在其余损失之外再扣 2D6。除非调查员不是头生、或已躲进带符文庇护的掩体，否则几乎不可能在黑风成功降临的现场附近幸存。
+
+**English (verbatim)**
+
+Establish prior to beginning this scenario how many siblings each investigator has, and what their birth rank is. Firstborn investigators are at special risk of not surviving this scenario, and it is fun to offer a little substance to their firstborn status. Favor them with dreams of Biblical plagues and ancient Egypt, or fleeting glimpses out of the corner of their eyes of things with wings.
+
+Make a point of carefully and fully describing each of the vignettes that is reflective of one of the plagues of Egypt. This helps focus the investigators on the thematic progression, heightens the tension, and will prompt them to do research.
+
+If at least one of the investigators is an appropriate law enforcement official who might be in charge of the kidnapping investigation, this scenario can be run straightforwardly. The investigators and any "outside consultants" should be allowed free rein to pursue the various leads.
+
+More likely, the investigators will be called in for their experience with cults. Agent Lucy Bates will be in charge of the investigation and will be their point of contact. Play her as a "by the book", somewhat full of herself, career investigator. She is well-intentioned and will respect the investigators' opinions, but insist on doing things the "right way", which means time consuming applications for search warrants, honoring requests for lawyers in the middle of interrogations, and zero sanction for breaking and entering absent clear proof of imminent danger. She will, however, accept investigator suggestions as to what kind of warrants ought to be pursued, and allow properly credentialed law enforcement agents to work the investigation under her. She is both a hindrance and a help, and the investigators should be offered opportunities to take shortcuts and "go rogue."
+
+Agent Bates will not believe that anything supernatural is afoot, unless she sees it with her own two eyes. Sadly, this is likely to occur at some point. The locust swarm out in front of the Five Oaks Motel will give her pause, and she will start to defer to the investigators more (to the point of overlooking any prior rogue activity on their part). If she sees something overtly supernatural (the Passover Angel, a Hunting Horror haul off Lindsay Peale, or, most likely, Lindsay Peale's DVD of the Passover Angel summoning ritual), she allows the investigators to make the plans for further action (within the limits of the law).
+
+Use the amount of time necessary to review camera footage, get records back from banks, etc. to pace the adventure and get the investigators to the Five Oaks Motel in sufficient time to have a confrontation with Lindsay, have it resolve, and potentially get Regina released to her parents before Tuesday evening. But do not force things. If Regina is rescued early enough to be reunited with her parents, this maximizes the number of hard choices that the investigators must make. But you can also just run it organically, and maybe everyone dies, or maybe Lindsay's scheme works. Que sera, sera.
+
+If there is a raid on Room 23, it is helpful to the plot to have Agent Bates be one of the ones who gets shot by Lindsay Peale. Agent Bates' replacement will look to any law enforcement agents among the investigators for leadership going forward.
+
+If the investigators are private investigators hired by the Balfours, the evidence is still what it is, but their access to it will be different, both for the better and for the worse. They will lack law enforcement credentials, and as a result, not have the ability to subpoena financial records. They will have to rely on persuasion, bribery, trickery or subterfuge to get at those sorts of records. On the other hand, the Balfours are much more forthcoming, up to the point where they deny any intention to sacrifice Regina. They firmly believe that the Passover Angel is real and will not deny that, but they (honestly) do not have any videotapes—that would be sacrilege.
+
+Do not rule out the possibility that private investigators might try to broker information trades with Agent Bates. Successful trade brokering may well only occur after the investigators have been bullied, threatened with obstruction of justice charges and/or hauled in for questioning. But as long as the investigators agree quickly enough that Agent Bates is in charge of the investigation and promise (plausibly enough) to stay out of her way, information exchanges can be achieved.
+
+It is possible to run this scenario with the investigators having no sanction whatsoever, in the form of an investigative news crew dispatched either by the Global News Service, or otherwise. The keys to success in this situation are Fast Talk and "bribery." They cannot subpoena information from private parties, or force people to talk to them, but many people might be more willing to talk in exchange for being on television and/or large sums of cash. Make this clear to them right up front, by having their producer make clear to them how big of a story this could be, and how big of a "consulting fee fund" they have. Encourage them to do research in the guise of shooting "B roll", and through the need to have as many updates and ancillary exposes as possible, to keep the news fresh. There should also be a greedy mole within the police investigation, who will leak them information in exchange for cash. The news crew will find itself in the position of following Agent Bates around, much to her annoyance.
+
+A news crew can actually get a leg up on law enforcement through their willingness to pay "rewards" for "information." The crew at the diner may contact them (in the hope of getting paid for an "exclusive") to report that George Lewiston ate there regularly, including a few days earlier. The toll booth operator may call them right after she reports her suspicions to Agent Bates. People like the rental car agent, the owner of the veterinary clinic, and the motel operator (in addition to numerous false leads) might well be motivated by the promise of large amounts of cash to err on the side of calling a news crew with tentative information before they verify it or call law enforcement with it. Bear in mind Agent Bates' fury at learning important information from some rabble-rousing, pro-vigilante talking head on a news program. This is a horribly nihilistic approach and somewhat difficult to orchestrate, but can by far be the most fun.
+
+The Balfours, in their insanity, are happy to invite a "friendly" member of the media to witness their religious service; the assembled cultists may well try to fend off interfering law enforcement, concerned about what they might try to do, with chants of "the whole world is watching"!
+
+Make sure that you handle the pursuit of George Lewiston's movements in a way that the investigators find the trail of his prepaid debit card, either legitimately or via surreptitious snooping at the diner.
+
+If the investigators are stymied, eventually, the toll booth attendant in Pennsylvania will report seeing Regina and Lindsay, and that will nudge the investigators along toward locating the rental car.
+
+Rewards and Repercussions: Preventing the summoning of the Black Wind gains the investigators 2D6 SAN. If Regina is rescued without Lindsay Peale being killed, award 1D4 SAN. If Regina is killed, charge the investigators 1D4 SAN. If the Black Wind is summoned without Regina's sacrifice (the lesser catastrophe), charge the investigators 1D6 SAN on top of what they may suffer incident to what they see. It is at least possible to explain this away as a singularly awful tornadic incident. The horror of the Black Wind's full arrival—very difficult to explain away as a horrible tornadic incident—costs 2D6 SAN on top of other losses. Unless the investigators are not firstborn, or have taken shelter in a warded area, they are unlikely to survive being anywhere near a successful summoning of the Black Wind.
+
+::::
+
+
+---
+
+- **开团先收头生情报**：开团前确立每位调查员的兄弟姐妹数与出生顺位——头生调查员本场有特殊的死亡风险
+  - 给头生身份一点实质：多发圣经十灾与古埃及的梦，或余光里带翼之物的闪影
+
+---
+
+- **十灾小场要全描**：每一处对应埃及之灾的小场景都仔细、完整地描述出来
+  - 这帮调查员聚焦主题递进、拉高张力，并促使他们去做研究
+
+---
+
+- **节奏控制**：用翻看录像、等银行回单这类事务的必要耗时来配速——让调查员来得及在周二晚前赶到五橡、完成对峙
+  - 但别硬推：蕾吉娜救回得越早、越可能交还父母，调查员要做的艰难选择就越多；也可以完全顺着跑——也许全灭，也许琳赛的计划成功，顺其自然
+
+
 
 ---
 
