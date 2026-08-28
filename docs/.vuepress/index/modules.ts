@@ -18,13 +18,5 @@ export default defineCollection({
 			collapsed: false,
 			items: ['coc'],
 		},
-		{
-			text: '📡 玩家资料',
-			collapsed: false,
-			items: [
-				{ text: '全球新闻社', link: 'pl_ref/gns' },
-				{ text: '瓢虫，瓢虫，飞回家', link: 'pl_ref/ladybug' },
-			],
-		},
 	],
 });

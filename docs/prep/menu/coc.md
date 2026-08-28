@@ -62,6 +62,6 @@ search: false
 
 ::: note 玩家资料
 
-GNS 玩家简介与三模板车卡：[📰 全球新闻社（玩家资料）](/module/pl_ref/gns.html)；本表首篇前瞻：[🐞 瓢虫，瓢虫，飞回家](/module/pl_ref/ladybug.html)
+GNS 玩家简介与三模板车卡：[📰 全球新闻社（玩家资料）](/module/pl_ref/gns.html)；首篇玩家面：[🐞 瓢虫 · 选集卡](/module/coc.html#我们搁置之事📦)
 
 :::
