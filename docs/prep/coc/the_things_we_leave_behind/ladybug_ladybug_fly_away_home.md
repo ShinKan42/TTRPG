@@ -12,11 +12,12 @@ search: false
 
 五日倒计时 · 双钩案卷
 
-::: details 篇章图——十字与双翼（原书 p8 篇首图版）
+<details>
+<summary>篇章图——十字与双翼（原书 p8 篇首图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings.png" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings.png" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 
@@ -332,11 +333,12 @@ KJV：
   - 它是这场五日倒计时的**调度者**：撒十灾、给指点、做交易
   - 它要的是周二日落那一场按时献祭
 
-::: details 逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）
+<details>
+<summary>逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_angel_light.jpg" alt="逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_angel_light.jpg" alt="逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 
@@ -891,11 +893,12 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 ### **<a id="npc-lindsay"></a> 琳赛·皮尔 Lindsay Peale（29，县儿童保护社工） 🛡️**
 
 
-::: details 琳赛·皮尔（原书 p25 肖像图版）
+<details>
+<summary>琳赛·皮尔（原书 p25 肖像图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_lindsay_portrait.jpg" alt="琳赛·皮尔（原书 p25 肖像图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_lindsay_portrait.jpg" alt="琳赛·皮尔（原书 p25 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 :::
@@ -1041,11 +1044,12 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 ### **<a id="npc-john"></a> 约翰·贝尔福 John Balfour（33，逾越节天使教会牧师） ✝️**
 
 
-::: details 约翰·贝尔福牧师（原书 p15 肖像图版）
+<details>
+<summary>约翰·贝尔福牧师（原书 p15 肖像图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_john_portrait.jpg" alt="约翰·贝尔福牧师（原书 p15 肖像图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_john_portrait.jpg" alt="约翰·贝尔福牧师（原书 p15 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 :::
@@ -1222,11 +1226,12 @@ KJV：
 ### **<a id="npc-bates"></a> 露西·贝茨 Lucy Bates（49，FBI 探长，失踪与受剥削儿童工作组） 👮**
 
 
-::: details 露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）
+<details>
+<summary>露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_bates_portrait.jpg" alt="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_bates_portrait.jpg" alt="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 :::
@@ -1314,11 +1319,12 @@ KJV：
 ### **<a id="npc-regina"></a> 蕾吉娜·贝尔福 Regina Balfour（5） 🐞**
 
 
-::: details 蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）
+<details>
+<summary>蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_regina_photo.jpg" alt="蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_regina_photo.jpg" alt="蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 :::
@@ -1653,11 +1659,12 @@ KP 任意指定至 99%
   - 瓢虫书包——静脉类固醇输液泵在里面；母亲当场抢下了它
   - 录像三段——卖场拉扯／出口装车／店内游荡与自尽（全文见物品区·到场简报条目）
 
-::: details 大盒子商店监控视角——货架间的争夺（原书 p12 图版）
+<details>
+<summary>大盒子商店监控视角——货架间的争夺（原书 p12 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv.jpg" alt="大盒子商店监控视角——货架间的争夺（原书 p12 图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv.jpg" alt="大盒子商店监控视角——货架间的争夺（原书 p12 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 
@@ -2201,11 +2208,12 @@ There is something unusual about the bomb shelter, but one has to look for it sp
   - 乘客 Spot Hidden（司机在看路）：云里那张脸——黑色的天使翼框着一张怒容分明的脸，击中他们车的闪电正是从那双眼打出来的；SAN 1/1D10，获得疯狂洞见的人会想起埃及十灾及其顺序
   - 若约翰尾随在场：他会把他们从残骸里捡出来，指出自摩西降雹于法老以来没人见过这种东西——**他的车毫发无伤**
 
-::: details 圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）
+<details>
+<summary>圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel.jpg" alt="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel.jpg" alt="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 
@@ -2221,7 +2229,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 
 
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 :::
 
@@ -2338,11 +2346,12 @@ There is surveillance footage available for the strip mall parking lot, and a wo
   - 她无意在周三之前出这间房（除非出现极不寻常的状况，让她判断带蕾吉娜跑路更安全）
   - 周三早上，她会不经伤害蕾吉娜地投降，或逃走后打电话告知警方蕾吉娜的位置
 
-::: details 五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）
+<details>
+<summary>五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 
@@ -2441,7 +2450,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 
 ---
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图（原书 p22 图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图（原书 p22 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 :::
 
@@ -2666,11 +2675,12 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
   - 这个阶段还想阻拦的人，要面对的就是悬在半空的逾越节天使本身
   - 注意：不必约翰亲手执刀——任何人刺下都算数，撒拉自己也可以。而她会
 
-::: details 礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）
+<details>
+<summary>礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 
@@ -2686,7 +2696,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
   - 撒拉替祭——风暴收在一英里级的龙卷内、死者以百计、世界还能给出合理解释
   - 胆敢看外面乌云的人：闪电照亮云中巨大的有翼人影——SAN 1/1D8
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 :::
 
@@ -2863,11 +2873,12 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 :::
 
 
-::: details 到场简报原书图版（原书 p9）
+<details>
+<summary>到场简报原书图版（原书 p9）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing.jpg" alt="到场简报原书图版（原书 p9）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing.jpg" alt="到场简报原书图版（原书 p9）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 
@@ -3023,11 +3034,12 @@ KJV：
 - 周五下午五点左右邮件到达时，女儿妮可收到这封 George 生前寄出的信——与全部账单付清、猫托付邻居、电脑砸碎同属一个人的临行收拾
 - 原文为手写图版（下）：多半只与执法共享；盯着妮可的非执法调查员有机会干一票偷信
 
-::: details 乔治的告别信（原书 p17 图版）
+<details>
+<summary>乔治的告别信（原书 p17 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter.jpg" alt="乔治的告别信（原书 p17 图版）" style="max-width:512px;max-height:512px">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter.jpg" alt="乔治的告别信（原书 p17 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
-:::
+</details>
 
 
 **信文（中文直译）**
