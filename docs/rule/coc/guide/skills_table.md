@@ -261,7 +261,18 @@ COC 7e 的技能全部使用 ==百分比==：掷 `D100` ==低于技能值即成�
 | 读唇 | 01% | Read Lips | 看懂别人说什么 |
 | 艺术和手艺（专攻） | 05% | Art and Craft | 见下方分项 |
 
-艺术和手艺分项：表演 Acting / 美术 Fine Art / 伪造文书 Forgery / 摄影 Photography 等，每项 05%
+艺术和手艺分项（每项 05%，另有涂鸦 Painting、写作 Writing 等）：
+
+::: table
+
+| 分项 | 英文 |
+|---|---|
+| 表演 | Acting |
+| 美术 | Fine Art |
+| 伪造文书 | Forgery |
+| 摄影 | Photography |
+
+:::
 
 
 :::
