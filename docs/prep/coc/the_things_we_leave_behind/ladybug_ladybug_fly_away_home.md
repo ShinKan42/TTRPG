@@ -1712,24 +1712,48 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
 
 ::: card
 
-- **医疗线**：诊治医生但丁（Dr. Dante）——慢性肺梗阻，静脉类固醇依赖，离开输液泵大约一周内衰竭；五年来每一笔医药费都是全额现金
+- **医疗线**：诊治医生但丁（Dr. Dante）——病历厚厚一摞，一长串慢性病里最重的是慢性肺梗阻
+  - 需持续静脉给类固醇才能有效呼吸；离开药泵或呼吸机，会渐渐滑入致命的缺氧——大约撑一周（泵就在那只瓢虫书包里）
+  - 五年来唯一像虐童的记录轻得不足信：数周前因头虱就诊（第三灾呼应）
+  - 相反，父母带她看的一直是对症且昂贵的治疗，短短一生已花数十万美元
+  - 夫妇没有医保——至少从没用过：每一笔都是全额现金
 
 ---
 
-- **法庭线**：密封卷宗「In re R.B.」——两年前琳赛的紧急监护申请；
-  - 法官当庭痛斥、申请驳回、琳赛停职一个月；
-  - 申请时间落在教会上一次末日预言前一周
+- **法庭线**：密封卷宗「In re R.B.」，只按姓名缩写索引——没有贝尔福夫妇的配合起初很难找到；两人没有任何刑事定罪，记录干净得发亮
+  - 两年前琳赛带一队地方警察上门，送达虐童指控文书——夫妇完全不知道她在说什么，她也不解释
+  - 指控全文：长于「危险家庭」的修辞、短于细节，一切基于不具名的「保密线源」；签发申请的正是琳赛
+  - 蕾吉娜（时年三岁）被紧急临时寄养在县立庇护所；县里连续申请延期，把首次听证拖了六周
+  - 听证会上县检察官（不顾琳赛反对）撤诉，蕾吉娜归还父母
+  - 法官以「完全没有任何虐童证据」当庭质疑申请动机，威胁再犯就办琳赛藐视法庭
+  - 卷宗时间线对上《逾越节天使之书》：监护申请与蕾吉娜被带走，正落在教会上一次末日预言前一周（原文注明：这不是巧合）
 
 ---
 
-- **联邦线**：ATF 屡查无获；
-  - IRS 记录年均数百万美元捐款（极端组织＋大企业）；
-  - 国务院档案——约翰频繁赴肯尼亚、登记为「红喇叭」政治团体成员、Blood Tongue 线查无实证
+- **联邦线**：几乎每个联邦执法机构都有贝尔福家与教会的档案
+  - ATF：夫妇合法购枪寥寥数支，十年间数次清查非法武器，次次空手
+  - 但已知会众里有一批白人至上主义者、「民兵」与生存主义者，多有涉枪前科
+  - 反复出现的关联人名：约翰·「零蛋约翰尼」·兹沃维奇（John "Johnny Zero" Zivovich）——生存主义者、长期高调反政府抗议、无重大刑案记录；周二夜十人武装核心的领队就是他
+  - IRS 常年审计：教会年均收数百万美元捐款，来路全是边缘运动——种族仇恨团体、极右政治团体，甚至一些大企业（KP 工具：可随手点名玩家认得的神话腐化大企业）
+  - 奇怪的是，夫妇从未就种族议题或社会热点发过声——他们只关心末日，与「在那之前与神和好」：尊荣神、遵行五经教导
+  - 国务院小档案：约翰频繁赴肯尼亚，涉嫌向「红喇叭」（Red Trumpet，肯尼亚内陆不受政府实际控制的族群隔离政治团体）提供物质支持——约 15 年前他大学时代在那内陆做过一年基要派传教
+  - 神话判定或对口研究可联想到血舌崇拜（Cult of the Bloody Tongue，崇拜奈亚拉托特普一化身）的活动区域——但依然全是有烟无火
 
 ---
 
-- **文本线**：教会网站挂着指向周二日落的倒计时钟、首页动画青蛙；《逾越节天使之书》速读 4 小时——见物品区条目
+- **文本线**：教会网站古怪又吓人——首页是可爱的动画青蛙泼面，配一句「趁大灾难未来先与神和好」；倒计时钟指向本周二日落
+  - 教会自述：无宗派基要主义教会，「献身于完全顺服神与祂的传令官逾越节天使的旨意」
+  - 他们不认《约翰启示录》的末日剧本——信的是旧约式复仇的神：将把埃及十灾原样重降世界，只饶过最忠信者
+  - 此前已预言过数次审判日：约五年前一次、约两年前一次——都平安无事；第三次就是下周二
+  - 教会联络地址就是贝尔福家的地址；不提供聚会时间地点
+  - 捐 29.95 美元即寄一本解释教义的书（收 PayPal）——网购到货赶不上周二
+  - 《逾越节天使之书》到手途径：夫妇可给（伴随大量「你们怎么不去找我女儿」的抱怨）、华盛顿 ATF、各神秘学调查机构、George 寓所——速读 4 小时见物品区条目
 
+
+---
+
+- **神话研究线**：任何神话典籍与常规神秘学资料里都查不到逾越节天使教会——他们太新，也不入任何「网络」（约翰的肯尼亚之行是唯一例外）
+  - 可选设定：战役中若存在神秘学取向的政府机构或准政府阴谋集团，其档案里可能有关于 Lewiston 的卷宗——他多次被咨询军事化邪教问题，但不是任何此类组织的活跃线人
 ---
 
 - **蛋蛋盛宴！Eggstravaganza!**（全案钥匙的出处）：
@@ -1862,6 +1886,91 @@ Lindsay had seemed extremely stressed and distracted lately, but had not shared 
 Her immediate supervisor, Roxanna Goldfarb, or her union representative, Jim Agostino, both know a little more. They were the only two people at her initial disciplinary proceeding. She did not appeal and simply quietly accepted the month's suspension without defending herself. Each agrees that, if she had had any prior negative work history, she might have been fired. At the end, she simply apologized and said that she did what she had to do, that they would not believe her if she explained her motivations, and that she would never do anything like this again. Except for this episode of rogue behavior, Lindsay was in all respects an exemplary social worker.
 
 ::::
+
+:::: details 📖 原文留档：背景调查——医疗、法庭、联邦与教会网站（原书 p11-14，中英双版）
+
+**中文（忠实全文）**
+
+**蕾吉娜·贝尔福的病历**：病历厚厚一摞。蕾吉娜·贝尔福患有一长串慢性病，最重的是慢性肺梗阻。她的任何一位医生（包括主治医师吕西安·但丁 Lucien Dante）都能告诉调查员：她需要持续静脉给类固醇才能有效呼吸。没有药物或呼吸机，她会呼吸困难，逐渐滑入重度乃至致命的缺氧。离开药泵（就在她的瓢虫书包里）她大约能活一周。
+
+- 五年人生里唯一一处像可能的虐待、而且轻飘飘不足信的记录：数周前因头虱就诊。相反，父母带她接受的一直是对症且昂贵的治疗——短短一生花了数十万美元。
+- 贝尔福家没有医疗保险；至少没用它付过治疗费。他们从来都是付现金。
+
+**贝尔福家的地方法庭记录**：起初没有夫妇配合很难找到——卷宗已封存、只按姓名缩写索引（案卷名为「In re: R.B., a juvenile」）。两位贝尔福都没有刑事定罪；这方面他们干净得发亮。
+
+- 调查员凭直觉可能会想：以贝尔福家这么古怪、还上着国内恐怖观察名单，儿童保护服务机构有没有插过手？也可以小心地问夫妇本人（比如「有没有谁特别跟你们过不去」）。
+  - 他们对多年来吃的搜查令、入户检查满腹牢骚，但儿童保护的话题一出现，他们对一名叫琳赛·皮尔的县儿童福利调查员格外愤怒。皮尔女士约三年前开始出现、对蕾吉娜做了一系列骚扰性的「福利检查」，持续约一年、相安无事。
+  - 然后约两年前，她带着一队地方警察突至门前，送达指控他们虐童的文书。他们完全不知道她在说什么，她也不解释。
+- 虐童指控的法庭记录（可凭父母或执法的许可在工作日从法院调取，或从县里/贝尔福家自取）印证了夫妇的说法：这是两年前的一宗非刑事控告，指控忽视与虐待，旨在把蕾吉娜送进寄养家庭并终止贝尔福夫妇的亲权。
+  - 控告长于「危险家庭」的修辞、短于细节，一切基于不具名的「保密线源」。启动程序的宣誓书由琳赛·皮尔签署。蕾吉娜（时年三岁）因此被紧急临时寄养在县立庇护所。县里连获数次延期，把首次听证（贝尔福家第一次有机会自辩）拖了六周。
+  - 听证会上，县检察官（不顾皮尔女士反对）撤回控告，蕾吉娜交还父母。法官公开质疑此案的申请动机——「完全没有任何虐童证据」——并威胁皮尔女士再犯就办她藐视法庭。
+- 如果调查员读了《逾越节天使之书》并把上一次落空的末日预言与儿童保护行动对照：监护申请的提出、蕾吉娜被带离父母，正落在预言的审判日前约一周。（这不是巧合。）
+- 皮尔女士家中找不到人（详见下文），手机自绑架案发当早就关机、无人接听。
+
+**主流联邦执法档案里的贝尔福家**：几乎每个联邦执法机构的档案里都有贝尔福家与教会的卷宗。
+
+- ATF 注意到贝尔福家（合法）购买过少量枪支，过去十年里数次调查他们有无非法武器，次次空手。但教会已知会众里有一批公认的白人至上主义者、「民兵」成员与生存主义者——其中许多人有涉枪前科。
+  - 一个反复作为贝尔福家关联人出现的名字是约翰·「零蛋约翰尼」·兹沃维奇（John "Johnny Zero" Zivovich）：生存主义者，长期高调反政府抗议，无重大刑事记录。
+- IRS 频繁审计他们的税务。教会收到大量慈善捐款（年均数百万美元），来自形形色色的边缘运动——种族仇恨团体、极右政治团体，甚至一些大企业。（尽管点名任何玩家认得的神话腐化大企业。
+  - ）奇怪的是，从未听到贝尔福夫妇就种族议题或热点社会议题发表过任何评论。他们满脑子都是末日、以及在那之前与神和好——也就是尊荣神、遵行五经的教导。
+
+**国务院关于约翰·贝尔福的档案**：美国国务院有一份关于约翰·贝尔福的小档案。他频繁赴肯尼亚，涉嫌向一个名为「红喇叭」的肯尼亚政治团体提供物质支持。红喇叭是肯尼亚内陆一个不受肯尼亚政府实际控制的本土族群隔离团体。约 15 年前，贝尔福代表一家基要派基督教会在那里做过一年宗教外展宣教，当时他还在读大学。克苏鲁神话判定或对口研究可提示：该区域与血舌崇拜（据传崇拜奈亚拉托特普的一具化身）之间可能存在关联。但同样，全是有烟无火。
+
+**逾越节天使教会网站**：网站是古灵精怪与彻头彻尾吓人的结合体。首页是可爱的动画青蛙，配上「趁大灾难来临前与神和好」的警告。把这个指给调查员。倒计时钟目前预测末日将于本周二日落降临。
+
+- 教会的联络地址与贝尔福家住址相同。网站不提供聚会时间或地点的任何信息。
+- 网站自述教会是「一家无宗派的基要主义教会，献身于完全顺服神与祂的传令官逾越节天使的旨意」。
+- 按网站说法，教会相信圣经末日近了，且神将在被提时恢复世界的公义——但他们不认同这会像《约翰启示录》预言的那样发生；他们信的是一位复仇的旧约式神，将把埃及十灾（上文概述过）重新降于世界，只饶过最忠信的人。
+- 他们此前已预言过数个审判日，每一个都平安度过：大约五年前一次、大约两年前一次——以及这次的下周二。
+- 教会乐于以 29.95 美元的捐款回赠一本解释其教义的书。他们收 PayPal。
+
+**神秘学研究**：任何神话典籍或常规神秘学研究资料中，都没有把逾越节天使教会牵进任何神秘学或神话勾当的内容。他们非常新，而且（除了约翰·贝尔福定期赴肯尼亚不愉快地区的旅行）不属于任何「网络」。不过，可选地，各神秘学取向的政府机构或准政府阴谋集团手里可能有关于刘易斯顿先生的档案。如果你的战役里存在此类机构或阴谋集团——只要调查员把乔治·刘易斯顿的寓所查得够透，这一点就会显现。他多次因其军事化邪教专长被咨询，但不是任何此类组织的活跃「线人」。
+
+**English (verbatim)**
+
+**Medical records for Regina Balfour**
+
+There is a ream of them. Regina Balfour suffers from a litany of chronic illnesses, the most serious of which is chronic pulmonary obstruction. Any of her doctors, including her primary physician, Lucien Dante, can tell the investigators that she requires constant, intravenous steroid medication to breathe effectively. Without them, or a ventilator, she will have trouble breathing, and she will gradually slip into severe and ultimately fatal oxygen deficit. She can live maybe a week without her medication pump (which was in her ladybug backpack).
+
+- There is only one whiff of anything that sounds like possible mistreatment over the five years of her life, and that is slight and unconvincing: she was seen by the doctor for head lice a few weeks ago. On the contrary, she has been taken for appropriate (and expensive) medical treatment by her parents, hundreds of thousands of dollars' worth over her short life.
+- The Balfours do not have medical insurance; at least, they did not use it to pay for her treatment. They always paid cash.
+
+**Local court records on the Balfours**
+
+These are difficult to find initially without the Balfours' cooperation, because they are sealed and indexed only with respect to initials (the file is called "In re: R.B., a juvenile"). Neither Balfour has any criminal convictions; they are squeaky, squeaky clean in that regard.
+
+- The investigators might, on a hunch, wonder if there were not efforts by children's protective services to intervene, given how weird the Balfours are and their presence on domestic terror watch lists. Alternatively, they might ask the Balfours about this in a careful way (such as wondering who, if anyone, especially had it in for them). They are frustrated by all the search warrants, home inspections, and the like that they have been subjected to over the years, but if the subject of child protective services comes up, they are especially angry with a county child welfare investigator named Lindsay Peale. Ms. Peale started showing up and conducting a series of harassing "welfare checks" on Regina about three years ago. They were polite to her and nothing came of it for about a year. Then, Ms. Peale surprised them about two years ago, showing up on their doorstep with a cadre of local police officers. She served them with papers accusing them of child abuse. They had no idea what she was talking about, and she would not explain it to them.
+- The court records about the child abuse claim (which can be obtained from either the courthouse with the parents' or law enforcement's permission during weekday business hours, or from the county or Balfours themselves) bear out the Balfours' side of the story. It is a non-criminal complaint from two years ago, alleging child neglect and abuse, aimed at moving Regina into foster care and terminating the Balfours' parental rights. The complaint is long on rhetoric about a dangerous household but short on details, and everything is based on an unnamed "confidential source." Lindsay Peale signed the affidavit that began the process of removing Regina (then 3) from their care. This resulted in Regina being put in emergency temporary foster care at a county-operated shelter. The county obtained several continuances and managed to drag the initial court hearing (at which the Balfours had their first chance to defend themselves) out for six weeks. At the court hearing, the county attorney dismissed the complaint (over objection from Ms. Peale) and Regina was returned to her parents. The judge openly questioned the motivation for the petition in the first place given "the utter lack of any evidence of abuse." The judge threatened to hold Ms. Peale in contempt of court if she ever tried anything like this again.
+- If the investigators review the Book of the Passover Angel and correlate the last missed doomsday prediction with the child protective services action, it was filed, and Regina removed from her parents, about a week before the predicted doomsday. (This is not a coincidence).
+- Ms. Peale cannot be located at her home (more details below) and she does not answer her cell phone, which has been turned off since the morning of the abduction.
+
+**Mainstream Federal Law Enforcement Investigatory Records on the Balfours**
+
+There are files on the Balfours and their church in just about every Federal law enforcement agency's records.
+
+- A.T.F. has noted that the Balfours have (legally) purchased a small number of firearms and has investigated them on several occasions in the past decade to see if they have any illegal ones. Each time they have come up empty. However, the Balfours' known church membership includes a cadre of known white supremacists, "militia" members, and survivalists, many of whom have illegal firearms related convictions. One name that keeps coming up as a connection and known associate of the Balfours is John "Johnny Zero" Zivovich, a survivalist with a long history of vocal anti-government protests but no major criminal record.
+- The I.R.S. frequently audits their tax records. Their Church receives large charitable donations (averaging a few million dollars per year) from a wide variety of fringe movements, including (again) racial hate groups, extreme right wing political groups, and even some major corporations. (Feel free to name drop any Mythos-corrupted corporations that your players might recognize). Strangely, the Balfours themselves have never been heard to comment on racial matters or hot button social issues. They are all about doomsday and getting right with God before then, which means honoring God and following the teachings of the Pentateuch.
+
+**Dept. of State records on John Balfour**
+
+The U.S. Dept. of State has a small file on John Balfour. Mr. Balfour makes frequent trips to Kenya. He is under suspicion for providing material support to a Kenyan based political group known as the Red Trumpet. The Red Trumpet is an indigenous ethnic isolate, in an interior part of Kenya that is not under the effective control of the Kenyan government. Balfour spent a year there on a religious outreach mission on behalf of a fundamentalist Christian church about 15 years ago, when he was in college. A Cthulhu Mythos roll or appropriate research might suggest a connection between this area and the Cult of the Bloody Tongue, said to worship an avatar of Nyarlathotep. Again, however, it is all smoke and no fire.
+
+**Church of the Passover Angel website**
+
+The website is a combination of whimsical and downright scary. The homepage is a splash of cute animated frogs and a warning to get right with God before the Apocalypse comes. Point this out. A countdown clock currently predicts the End Times to arrive this coming Tuesday, at sunset.
+
+- The contact address for the Church is the same as the Balfours' home address. No information is provided about Church meeting times or places.
+- The website professes that the Church is a "non-denominational, fundamentalist Church devoted to total submission to the will of God and his herald, the Passover Angel."
+- According to their website, the Church believes that the Biblical End Times are near, and that righteousness will be restored to the world by God at the Rapture. They disagree that this will happen as predicted in the Apocalypse of John; rather, they believe in a vengeful, Old Testament style of God who will re-inflict the plagues of Egypt (summarized above) on the world, sparing only the most faithful.
+- They have previously predicted several Days of Judgment, each of which came to pass without incident. These have been a little over five years ago, roughly two years ago, and currently next Tuesday.
+- The Church will happily send you a book explaining their orthodoxy in exchange for a donation of $29.95. They accept PayPal.
+
+**Occult and Mythos Research**
+
+There is nothing in any Mythos tomes or standard occult research sources implicating The Church of the Passover Angel in any occult or Mythos shenanigans. They are quite new and (except for John Balfour's periodic sojourns to unpleasant parts of Kenya) not a part of any "networks." However, optionally, there may be files in any occult-oriented government agencies or quasi-government conspiracies on Mr. Lewiston. If such conspiracies or agencies exist in your campaign, this will become apparent if and when the investigators sufficiently search George Lewiston's apartment. He was consulted for his expertise on militaristic cults on several occasions, although he was not an active "stringer" for any such groups.
+
+::::
+
 
 
 ---
