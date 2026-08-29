@@ -15,7 +15,7 @@ search: false
 <details class="hint-container details">
 <summary>📷 篇章图——十字与双翼（原书 p8 篇首图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings_nat.jpg" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="篇章图——十字与双翼（原书 p8 篇首图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings.png" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="篇章图——十字与双翼（原书 p8 篇首图版）">
 
 </details>
 
@@ -335,7 +335,7 @@ ShinKan42
   - 父亲亲口讲的版本：以撒是「有点混不吝没定性的年轻人」
   - 神只是考验，天使一定会拦
 - 这是父母的心理框架：献祭不是杀死，献祭是通过考试后领回女儿
-  - 夫妻名 John+Sarah 正是旧约那对（亚伯拉罕与撒拉）
+  - 夫妻名约翰与撒拉（John+Sarah）正是旧约那对（亚伯拉罕与撒拉）
 
 ---
 
@@ -393,7 +393,7 @@ KJV：
 
 - **地方警**：县/市两级，法庭记录在县。
 - 「失踪 48 小时才能立案」是影视作品造成的流行迷思
-  - 美国法律没有这条，未成年人失踪报案警方必须立即受理；玩家角色有 `Law` 技能的，判定成功即可当场说破这句推诿话术。
+  - 美国法律没有这条，未成年人失踪报案警方必须立即受理；玩家角色有法律（`Law`）技能的，判定成功即可当场说破这句推诿话术。
 
 :::
 
@@ -477,7 +477,7 @@ KJV：
 :::
 
 - **奈亚拉托特普·逾越节天使形态**
-  - 旧约死亡天使皮相，经 John 肯尼亚传教学来的「祈祷」入场
+  - 旧约死亡天使皮相，经约翰肯尼亚传教学来的「祈祷」入场
   - 它是这场五日倒计时的**调度者**：撒十灾、给指点、做交易
   - 它要的是周二日落那一场按时献祭
 
@@ -582,7 +582,7 @@ KJV：
 
 | NPC | 胃口 | 第一下 |
 |---|---|---|
-| John | 要回女儿，任何代价 | 主动凑上来「帮忙」——热情得让人不适 |
+| 约翰 | 要回女儿，任何代价 | 主动凑上来「帮忙」——热情得让人不适 |
 | Lindsay | 要一句承诺：**不把她交回去，至少到周三** | 第一声警笛她就上膛，隔门喊话 |
 | Bates | 要按程序的破案 | 开场简报会点名协作，之后每次挡你闯线 |
 | 撒拉 | 要确定性 | 电话线里的哭腔；信徒开始聚集 |
@@ -635,10 +635,10 @@ KJV：
 | 周五 | 教会网站；书到手；审讯室戏 | 2 蛙／4 蝇 | 出 8:1-15／出 8:20-32 | 网站首页动画青蛙；审讯室苍蝇绕着父母打转 | — |
 | 周五-六 | 医疗/法庭/联邦档案三线 | 3 虱 | 出 8:16-19 | Regina 病历：数周前头虱就诊 | — |
 | 周六 | **#5 畜疫补位（魔改）**：本地新闻拍——郊区宠物医院候诊室犬猫集体病倒，兽医困惑，无解释 | 5 畜疫 | 出 9:1-7 | 新闻可闻位；爱宠 NPC 调查员可加私人拍 | — |
-| 周六一 | Turnpike 追踪：预付卡起，一路追过租车行、收费站、兽医诊所，直到五橡旅馆 | 7 雹 | 出 9:13-35 | 晴空雹暴雷暴，云中有脸（`Spot Hidden` 撞见） | 1/1D3（暴）；1/1D10（脸） |
+| 周六一 | Turnpike 追踪：预付卡起，一路追过租车行、收费站、兽医诊所，直到五橡旅馆 | 7 雹 | 出 9:13-35 | 晴空雹暴雷暴，云中有脸——侦查（`Spot Hidden`）撞见 | 1/1D3（暴）；1/1D10（脸） |
 | 周日晨 | Lindsay 的 Taurus 在租车行对面被本地警发现 | — | — | 玩家卡住时的兜底钟 | — |
 | 周一 | 夫妇认出 George 就是教友 Zach，平行搜寻自此启动 | — | — | 信息层转折点 | — |
-| 周一晚 | John 车中 `Entreat` 显形求指点 | — | — | 尾随可见 | 1/1D10 |
+| 周一晚 | 约翰车中恳求（`Entreat`）显形求指点 | — | — | 尾随可见 | 1/1D10 |
 | 周二白天 | 撒拉备替祭袍/焚灰；十武装核心+六炸弹车就位 | — | — | 后院黑烟 | — |
 | 周二黄昏 | 大停电 | 9 暗 | 出 10:21-29 | 多云无月+停电=漆黑 | — |
 | 周二日落 | 礼拜+献祭时刻 | 8 蝗（Five Oaks 对峙用）／10 头生 | 出 10:1-20／出 11:1-12:36 | 见终局节 | 全表见终局节 |
@@ -653,7 +653,7 @@ KJV：
     - 对记者团来说，这就是「独家就在这个街区」的信号
 - 时历推进原则：表是态势不是轨道
   - 玩家抢跑或拖堂，各阵营按自己的钟走
-  - John 周一晚必 `Entreat`；撒拉周二下午必赴死线
+  - 约翰周一晚必恳求（`Entreat`）；撒拉周二下午必赴死线
 
 ::: details 📖 十灾经文对照（和合本＋KJV，展开即念）
 
@@ -1091,7 +1091,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
   - 能量饮料罐堆着，霰弹枪横在膝上，警频扫描仪嘶嘶响
   - 隔门声音沙哑但措辞清楚，像一个把最后一句台词排练了一百遍的人
 - **人味**：
-  - 给蕾吉娜放 My Little Pony
+  - 给蕾吉娜放小马宝莉（My Little Pony）
   - 陪她上厕所也带着枪
   - 门上的符文每天检查一遍
 - **锚点台词**（原文）：
@@ -1246,7 +1246,7 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 
 ---
 
-- **周一晚 `Entreat`**：
+- **周一晚恳求（`Entreat`）**：
   - 若周一晚他知道蕾吉娜下落但抢人无望，会驶到一英里外的僻静处祷告；天使坐进副驾（SAN 1/1D10）
   - 代价是一条人命——他会用后备箱的刀杀第一个能无声杀掉的人
   - 定案：周日上午新闻边栏一条无名流浪汉陈尸巷中，不点名不展开——约翰的罪有回声
@@ -1318,7 +1318,7 @@ KJV：
 
 **——法术——**
 
-- 恳求逾越节天使（`Contact Nyarlathotep`，天使形态）：天使应祷显形、开价交易——周一晚车中 `Entreat` 的引擎
+- 恳求逾越节天使（`Contact Nyarlathotep`，天使形态）：天使应祷显形、开价交易——周一晚车中恳求（`Entreat`）的引擎
 - 标记门柱（`Elder Sign`）：门槛防护符文，实体退避；不挡梦魇与施压
 - 预备天使之路（`Call Nyarlathotep`，黑风形态）：为「黑风」降临开门——终局最坏支线的引信
 
@@ -1688,7 +1688,7 @@ KP 任意指定至 99%
 **——护甲——**
 
 - 无护甲数值，但非附魔物理攻击无法伤害它
-- 惧 `Elder Sign`（退避）；受针对奈亚拉托特普的驱逐系法术影响
+- 惧旧印（`Elder Sign`，退避）；受针对奈亚拉托特普的驱逐系法术影响
 
 ---
 
@@ -2195,7 +2195,7 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
   - 答录机里堆着周四周五单位打来的电话——人在哪、为什么不接手机
   - 壁炉台上是一排飞靶射击奖杯——大学全国级射击赛事的前列名次；屋内有枪柜，登记在她名下的几支霰弹枪里少了两支
   - 工作邮箱依法留存七年：近期与贝尔福一家相关的邮件一片空白——只有三年前 George 用他的常用邮箱发来的一封：「琳赛，我需要和你谈谈一个需要帮助的孩子。你听说过逾越节天使教会吗？说来你不会信。一起吃个午饭吧。乔治叔叔。」
-  - 邮件空白这件事本身就不正常（法律（`Law`） 判定成功或问同事可点破）：两年前她推动把蕾吉娜送进寄养家庭时，按理该有大量她与上司、县检察官之间的往来邮件——这与贝尔福家抱怨的「福利检查瘟疫」开始时间正好对上
+  - 邮件空白这件事本身就不正常（法律（`Law`）判定成功或问同事可点破）：两年前她推动把蕾吉娜送进寄养家庭时，按理该有大量她与上司、县检察官之间的往来邮件——这与贝尔福家抱怨的「福利检查瘟疫」开始时间正好对上
 
 ---
 
@@ -2428,8 +2428,8 @@ There is nothing in any Mythos tomes or standard occult research sources implica
     - 舱门金属外缘有一圈极淡极细的刻痕
       - 细看是一组伊丽莎白时代魔法结界常见的符号
         - 神秘学（`Occult`）判定
-  - **其中一个符号清晰是==长者之印==**
-    - Elder Sign——克苏鲁神话（`Cthulhu Mythos`）判定或先前经验识别
+  - **其中一个符号清晰是==旧印==**
+    - 旧印（`Elder Sign`）——克苏鲁神话（`Cthulhu Mythos`）判定或先前经验识别
   - **问起来历**
     - 那是逾越节天使给约翰的启示，一个用来标记门框、保孩子平安的符号
   - **周二晚上**
@@ -2451,7 +2451,7 @@ There is nothing in any Mythos tomes or standard occult research sources implica
 
 掩体大体平常，至少对一座掩体而言。混凝土竖井下十英尺，壁内嵌着的梯子是唯一入口，舱门极坚固、从内上锁。里面有供三人用的生存物资与行军床、一个化学马桶，还有一台警频扫描器与一台民用波段电台，以及数册《逾越节天使之书》。枪柜里还有六支 12 号霰弹枪，带弹药——全部登记在贝尔福先生名下，完全合法。
 
-掩体有一样不寻常的东西，但必须特意去找或非常走运才能发现（Spot Hidden 大成功）。舱门的金属外缘、从外面可见处，有一圈极淡极细的蚀刻，比划痕深不了多少。细看会发现一组伊丽莎白时代魔法结界常见的符号（Occult 判定）。但其中一个，清晰地是一个长者之印（Elder Sign；克苏鲁神话判定或先前经验可识别）。若被问起，这是大能的逾越节天使给贝尔福先生的启示——一个用来标记门框、保他们孩子平安的符号。（周二晚上，他们还会把礼拜堂与住宅的门框涂上羊血。）
+掩体有一样不寻常的东西，但必须特意去找或非常走运才能发现（Spot Hidden 大成功）。舱门的金属外缘、从外面可见处，有一圈极淡极细的蚀刻，比划痕深不了多少。细看会发现一组伊丽莎白时代魔法结界常见的符号（Occult 判定）。但其中一个，清晰地是一个旧印（Elder Sign；克苏鲁神话判定或先前经验可识别）。若被问起，这是大能的逾越节天使给贝尔福先生的启示——一个用来标记门框、保他们孩子平安的符号。（周二晚上，他们还会把礼拜堂与住宅的门框涂上羊血。）
 
 **English (verbatim)**
 
@@ -2513,7 +2513,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 
 - **雹暴**（周六-一，追至出口区途中）：
   - 天气预报（务必让调查员听到一份）是晴天无降水——几分钟内雷暴云压顶、狂风骤起，一个猛烈的风暴胞罩住调查员那一段路：棒球大的冰雹、多处落雷、闪电劈中沿路多辆车——他们见过（或后来听气象评论员说）的最狠的一场雹灾
-  - 不立刻靠边（除了路肩无处可停）就是 serious danger：硬开——全组幸运判定躲过雷击冰雹；躲不过则车毁、翻进沟里，驾驶判定成功才免伤，否则车内每人 2D6（未系安全带 4D6）
+  - 不立刻靠边（除了路肩无处可停）就是真正的危险（serious danger）：硬开——全组幸运判定躲过雷击冰雹；躲不过则车毁、翻进沟里，驾驶判定成功才免伤，否则车内每人 2D6（未系安全带 4D6）
   - 靠边留在车里——车遭雷击、风挡被垒球大的冰雹砸穿，前座每人 1D6；这明显不是自然天气，SAN 1/1D3
   - 下车在暴风里跑——KP 完全有权限让雷劈了他们、或让漏斗云把他们卷走
   - 乘客 侦查（`Spot Hidden`）（司机在看路）：云里那张脸——黑色的天使翼框着一张怒容分明的脸，击中他们车的闪电正是从那双眼打出来的；SAN 1/1D10，获得疯狂洞见的人会想起埃及十灾及其顺序
@@ -2533,7 +2533,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 - **兽医诊所与落脚圈**（向当地执法查近几日的失窃案）：
   - 周五凌晨 4 点前后（打烊后），繁忙商业区一家兽医诊所被撬：门被砸开；有滥用价值的贵重药品一样没少，只拿走了特定类固醇（治疗蕾吉娜呼吸疾病的那种兽用制剂）和静脉注射器材（针头、管路、输液袋）
   - 监控：一个用外套蒙头的女人作的案；另一台摄像头拍到她是步行穿过停车场接近的
-  - **关键推理**（原文标注 important clue）：琳赛就在附近——不在租车里、也不在任何车里；Idea 判定——蕾吉娜的病情严重限制了带她移动的范围，绑匪若想保她活着又不惹眼，只能就近落脚藏身
+  - **关键推理**（原文标注 important clue）：琳赛就在附近——不在租车里、也不在任何车里；灵感（`Idea`）判定——蕾吉娜的病情严重限制了带她移动的范围，绑匪若想保她活着又不惹眼，只能就近落脚藏身
   - 兜底：这件事周六早间可能上匹兹堡本地新闻
   - 诊所对面的商业街停车场里能找到那辆租车：锁着、空的
   - 商场监控（周五凌晨 3 点）：那个女人下车、步行离开——什么都没卸下。也就是说，商店采购的全部物资和蕾吉娜，都已在步行范围内某处卸下；周边公交与出租车司机全部排查无果——绑匪没有第二辆车
@@ -2541,9 +2541,9 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 
 
 <details class="hint-container details">
-<summary>📷 琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）</summary>
+<summary>📷 琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p16 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p16 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p16 图版）">
 
 </details>
 
@@ -2709,10 +2709,10 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 
 ---
 
-- **蝗群与门框**（约翰周一晚 `Entreat` 之后）：
+- **蝗群与门框**（约翰周一晚恳求（`Entreat`）之后）：
   - 停车场里蛰伏的蝗群会突然群起，带着明确目的撞向 23 号房的门窗——SAN 0/1D3
   - 调查员恰在此时破门的话，琳赛因分神可获一先手（或幸运加成）
-  - 蝗群==不进门==，停在门槛：门框外侧有极浅的刻痕——变体长者之印，与贝尔福家避难所舱门缘的那圈同款
+  - 蝗群==不进门==，停在门槛：门框外侧有极浅的刻痕——变体旧印，与贝尔福家避难所舱门缘的那圈同款
   - 夜间有猎鬼待命——若门框符文被毁且灯灭
 
 
@@ -2767,9 +2767,9 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 ---
 
 <details class="hint-container details">
-<summary>📷 五橡汽车旅馆平面图（原书 p22 图版）</summary>
+<summary>📷 五橡汽车旅馆平面图（原书 p23 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图（原书 p22 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡汽车旅馆平面图（原书 p22 图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图（原书 p23 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡汽车旅馆平面图（原书 p23 图版）">
 
 </details>
 
@@ -2952,7 +2952,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 - **黄昏——大停电（第九灾）**：
   - 日落前约半小时，贝尔福家所在街区大面积停电；赶上多云无月的夜，整片区域陷入彻底黑暗
   - 夫妇对停电的准备异常充分：礼拜堂点起蜡烛；烧烤坑大概还烧着，提供一点光
-  - 调查员若不另外想法子照明：远程攻击与 `Spot Hidden` 判定 −20%，潜行 +20%
+  - 调查员若不另外想法子照明：远程攻击与侦查（`Spot Hidden`）判定 −20%，潜行 +20%
 
 ---
 
@@ -3009,18 +3009,18 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 - **献祭完成时**：
   - 天使膨胀、变形，黑风降临人间
-  - 蕾吉娜被献祭——黑风全力：地狱风暴从礼拜堂炸开，顺盛行风向犁出 20 英里长的锥形走廊，龙卷群、雷击火灾、洪水、蝗群，以及随后的大霍乱（特别凶的一株，`Medicine` 判定失败即死）
+  - 蕾吉娜被献祭——黑风全力：地狱风暴从礼拜堂炸开，顺盛行风向犁出 20 英里长的锥形走廊，龙卷群、雷击火灾、洪水、蝗群，以及随后的大霍乱（特别凶的一株，医学（`Medicine`）判定失败即死）
   - 奇怪的是，破坏只杀头生子：老二老三总会莫名幸存——有的在地下室角落被发现、四周全是血；有的被风扔到一英里外、只带轻伤
-  - 死者数以万计（含头生的调查员与全部信徒——除非他们人在门框刻着变体长者之印的掩体里，如贝尔福家后院那座）；气象学家给不出合理解释
+  - 死者数以万计（含头生的调查员与全部信徒——除非他们人在门框刻着变体旧印的掩体里，如贝尔福家后院那座）；气象学家给不出合理解释
   - 黑风起时，贝尔福夫妇会抱起蕾吉娜的尸体冲向自家掩体——来不来得及由你定；往那边跑的调查员同理
   - 若作为长战役的一部分继续：黑风开启世界的不幸序列——瘟疫与天灾频发且加剧、神话活动显著抬升；那株霍乱以「克利夫兰流感」之名蔓延全球，此后数十年索命数以千计
   - 撒拉替祭——风暴收在一英里级的龙卷内、死者以百计、世界还能给出合理解释
   - 胆敢看外面乌云的人：闪电照亮云中巨大的有翼人影——SAN 1/1D8
 
 <details class="hint-container details">
-<summary>📷 贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）</summary>
+<summary>📷 贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p28 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p28 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p28 图版）">
 
 </details>
 
@@ -3034,7 +3034,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 |---|---|---|---|
 | 阻止 | 礼拜被打断/蕾吉娜不在场且约翰被制服 | 无事发生——但教会残余仍在（续团钩） | +2D6 |
 | 小灾难 | 撒拉替祭 | 一英里级龙卷风破坏，数百死；**可被世界合理解释** | 目击另计，-1D6 |
-| 黑风降临 | 蕾吉娜被献祭 | 数万死；头生的尽灭（头生调查员同危，除非在 `Elder Sign` 标记的避难所内）；「克利夫兰流感」数十年 | -2D6 叠加；1/1D8（云中巨翼） |
+| 黑风降临 | 蕾吉娜被献祭 | 数万死；头生的尽灭（头生调查员同危，除非在旧印标记的避难所内）；「克利夫兰流感」数十年 | -2D6 叠加；1/1D8（云中巨翼） |
 
 :::
 
@@ -3063,7 +3063,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 | 云中天使脸 | 1/1D10 |
 | 蝗群凝视 | 0/1 |
 | 蝗群撞 23 号房 | 0/1D3 |
-| John 车中显形 | 1/1D10 |
+| 约翰车中显形 | 1/1D10 |
 | 仪式录像 | 0/1（观看者此后承受梦魇/闹鬼至周二后） |
 | 猎鬼抓走琳赛 | 1D3/1D10 |
 | 天使显形（礼拜） | 1/1D10 |
@@ -3199,9 +3199,9 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 :::
 
 
-::: details 📷 到场简报原书图版（原书 p9）
+::: details 📷 到场简报原书图版（原书 p10）
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing_nat.jpg" alt="到场简报原书图版（原书 p9）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="到场简报原书图版（原书 p9）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing_nat.jpg" alt="到场简报原书图版（原书 p10）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="到场简报原书图版（原书 p10）">
 
 :::
 
@@ -3359,9 +3359,9 @@ KJV：
 - 周五下午五点左右邮件到达时，女儿妮可收到这封 George 生前寄出的信——与全部账单付清、猫托付邻居、电脑砸碎同属一个人的临行收拾
 - 原文为手写图版（下）：多半只与执法共享；盯着妮可的非执法调查员有机会干一票偷信
 
-::: details 📷 乔治的告别信（原书 p17 图版）
+::: details 📷 乔治的告别信（原书 p18 图版）
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter_nat.jpg" alt="乔治的告别信（原书 p17 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="乔治的告别信（原书 p17 图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter_nat.jpg" alt="乔治的告别信（原书 p18 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="乔治的告别信（原书 p18 图版）">
 
 :::
 
