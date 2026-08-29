@@ -173,6 +173,18 @@ badge: 🐙
 
 ---
 
+::: details 🎵 童谣原声：Ladybird, Ladybird, Fly Away Home（可选播放）
+
+模组名即这首英语传统童谣——瓢虫瓢虫飞回家，你的房子着火了，你的孩子还在家里。桌上引用前听一遍，口吻更有底。
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IARQDNSsUuQ" title="Ladybird Ladybird Fly Away Home nursery rhyme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+加载不出来时直链自取：https://www.youtube.com/watch?v=IARQDNSsUuQ （Sing and Learn with Vicky 频道）
+
+:::
+
+---
+
 ::: info ✍️ 创作理念（作者序言摘录）
 
 - **书名即主旨**：每篇故事都从「被人留下的东西」开始
