@@ -135,29 +135,177 @@ ShinKan42
 
 :::
 
-::: details 📖 经文原文：出 12:13, 21-23 羊血与灭命者（逾越节的本体）
+::: details 📖 经文原文：《出埃及记》11–12 全章中英双版——羊血与灭命者（逾越节的本体）
 
-和合本：
+==灭命者==（出 12:23「不容灭命的进你们的房屋」）即模组「逾越节天使」的圣经原型——琳赛在不可能之处翻到的、摆在淋浴喷头上和枕头上的，就是这两章。
 
-> 21 于是，摩西召了以色列的众长老来，对他们说：「你们要按着家口取出羊羔，把这逾越节的羊羔宰了。
->
-> 22 拿一把牛膝草，蘸盆里的血，打在门楣上和左右的门框上。你们谁也不可出自己的房门，直到早晨。
->
-> 23 因为耶和华要巡行击杀埃及人，他看见血在门楣上和左右的门框上，就必越过那门，不容灭命的进你们的房屋，击杀你们。
->
-> 13 这血要在你们所住的房屋上作记号；我一见这血，就越过你们去。我击杀埃及地头生的时候，灾殃必不临到你们身上灭你们。」
+**中文（和合本）· 出埃及记 11——以末次之灾警告法老**
 
-KJV：
+> **11:1** 耶和华对摩西说：「我再使一样的灾殃临到法老和埃及，然后他必容你们离开这地。他容你们去的时候，总要催逼你们都从这地出去。
+> **11:2** 你要传于百姓的耳中，叫他们男女各人向邻舍要金器银器。」
+> **11:3** 耶和华叫百姓在埃及人眼前蒙恩，并且摩西在埃及地、法老臣仆和百姓的眼中看为极大。
+> **11:4** 摩西说：「耶和华这样说：『约到半夜，我必出去巡行埃及遍地，
+> **11:5** 凡在埃及地，从坐宝座的法老直到磨子后的婢女所有的长子，以及一切头生的牲畜，都必死。
+> **11:6** 埃及遍地必有大哀号，从前没有这样的，后来也必没有。
+> **11:7** 至于以色列中，无论是人是牲畜，连狗也不敢向他们摇舌，好叫你们知道耶和华是将埃及人和以色列人分别出来。』
+> **11:8** 你这一切臣仆都要俯伏来见我，说：『求你和跟从你的百姓都出去』，然后我要出去。」于是，摩西气愤愤地离开法老，出去了。
+> **11:9** 耶和华对摩西说：「法老必不听你们，使我的奇事在埃及地多起来。」
+> **11:10** 摩西、亚伦在法老面前行了这一切奇事，耶和华使法老的心刚硬，不容以色列人出离他的地。
 
-> 21 Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.
->
-> 22 And ye shall take a bunch of hyssop, and dip it in the blood that is in the bason, and strike the lintel and the two side posts with the blood that is in the bason; and none of you shall go out at the door of his house until the morning.
->
-> 23 For the Lord will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the Lord will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you.
->
-> 13 And the blood shall be to you for a token upon the houses where ye are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.
+**中文（和合本）· 出埃及记 12——定逾越节之礼**
 
-:::
+**定逾越节之礼**
+
+> **12:1** 耶和华在埃及地晓谕摩西、亚伦说：
+> **12:2** 「你们要以本月为正月，为一年之首。
+> **12:3** 你们吩咐以色列全会众说：本月初十日，各人要按着父家取羊羔，一家一只。
+> **12:4** 若是一家的人太少，吃不了一只羊羔，本人就要和他隔壁的邻舍共取一只。你们预备羊羔，要按着人数和饭量计算。
+> **12:5** 要无残疾、一岁的公羊羔，你们或从绵羊里取，或从山羊里取，都可以。
+> **12:6** 要留到本月十四日，在黄昏的时候，以色列全会众把羊羔宰了。
+> **12:7** 各家要取点血，涂在吃羊羔的房屋左右的门框上和门楣上。
+> **12:8** 当夜要吃羊羔的肉，用火烤了，与无酵饼和苦菜同吃。
+> **12:9** 不可吃生的，断不可吃水煮的，要带着头、腿、五脏，用火烤了吃。
+> **12:10** 不可剩下一点留到早晨，若留到早晨，要用火烧了。
+> **12:11** 你们吃羊羔当腰间束带，脚上穿鞋，手中拿杖，赶紧地吃。这是耶和华的逾越节。
+> **12:12** 因为那夜我要巡行埃及地，把埃及地一切头生的，无论是人是牲畜，都击杀了，又要败坏埃及一切的神。我是耶和华。
+> **12:13** 这血要在你们所住的房屋上做记号，我一见这血，就越过你们去，我击杀埃及地头生的时候，灾殃必不临到你们身上灭你们。
+> **12:14** 你们要记念这日，守为耶和华的节，作为你们世世代代永远的定例。」
+
+**无酵节**
+
+> **12:15** 「你们要吃无酵饼七日。头一日要把酵从你们各家中除去，因为从头一日起，到第七日为止，凡吃有酵之饼的，必从以色列中剪除。
+> **12:16** 头一日你们当有圣会，第七日也当有圣会。这两日之内，除了预备各人所要吃的以外，无论何工都不可做。
+> **12:17** 你们要守无酵节，因为我正当这日把你们的军队从埃及地领出来。所以你们要守这日，作为世世代代永远的定例。
+> **12:18** 从正月十四日晚上，直到二十一日晚上，你们要吃无酵饼。
+> **12:19** 在你们各家中，七日之内不可有酵，因为凡吃有酵之物的，无论是寄居的是本地的，必从以色列的会中剪除。
+> **12:20** 有酵的物，你们都不可吃，在你们一切住处要吃无酵饼。」
+
+**摩西传逾越节之礼**
+
+> **12:21** 于是，摩西召了以色列的众长老来，对他们说：「你们要按着家口取出羊羔，把这逾越节的羊羔宰了。
+> **12:22** 拿一把牛膝草，蘸盆里的血，打在门楣上和左右的门框上。你们谁也不可出自己的房门，直到早晨。
+> **12:23** 因为耶和华要巡行击杀埃及人，他看见血在门楣上和左右的门框上，就必越过那门，不容灭命的进你们的房屋，击杀你们。
+> **12:24** 这例你们要守着，作为你们和你们子孙永远的定例。
+> **12:25** 日后，你们到了耶和华按着所应许赐给你们的那地，就要守这礼。
+> **12:26** 你们的儿女问你们说：『行这礼是什么意思？』
+> **12:27** 你们就说：『这是献给耶和华逾越节的祭，当以色列人在埃及的时候，他击杀埃及人，越过以色列人的房屋，救了我们各家。』」于是百姓低头下拜。
+> **12:28** 耶和华怎样吩咐摩西、亚伦，以色列人就怎样行。
+
+**耶和华击杀埃及长子**
+
+> **12:29** 到了半夜，耶和华把埃及地所有的长子，就是从坐宝座的法老，直到被掳囚在监里之人的长子，以及一切头生的牲畜，尽都杀了。
+> **12:30** 法老和一切臣仆，并埃及众人，夜间都起来了。在埃及有大哀号，无一家不死一个人的。
+> **12:31** 夜间，法老召了摩西、亚伦来，说：「起来！连你们带以色列人从我民中出去，依你们所说的去侍奉耶和华吧！
+> **12:32** 也依你们所说的，连羊群牛群带着走吧！并要为我祝福。」
+> **12:33** 埃及人催促百姓，打发他们快快出离那地，因为埃及人说：「我们都要死了。」
+> **12:34** 百姓就拿着没有酵的生面，把抟面盆包在衣服中，扛在肩头上。
+> **12:35** 以色列人照着摩西的话行，向埃及人要金器银器和衣裳。
+> **12:36** 耶和华叫百姓在埃及人眼前蒙恩，以致埃及人给他们所要的。他们就把埃及人的财物夺去了。
+
+**以色列人出埃及**
+
+> **12:37** 以色列人从兰塞起行，往疏割去，除了妇人孩子，步行的男人约有六十万。
+> **12:38** 又有许多闲杂人，并有羊群牛群，和他们一同上去。
+> **12:39** 他们用埃及带出来的生面烤成无酵饼，这生面原没有发起，因为他们被催逼离开埃及，不能耽延，也没有为自己预备什么食物。
+> **12:40** 以色列人住在埃及共有四百三十年。
+> **12:41** 正满了四百三十年的那一天，耶和华的军队都从埃及地出来了。
+> **12:42** 这夜是耶和华的夜，因耶和华领他们出了埃及地，所以当向耶和华谨守，是以色列众人世世代代该谨守的。
+
+**申明逾越节例**
+
+> **12:43** 耶和华对摩西、亚伦说：「逾越节的例是这样：外邦人都不可吃这羊羔，
+> **12:44** 但各人用银子买的奴仆，既受了割礼就可以吃。
+> **12:45** 寄居的和雇工人都不可吃。
+> **12:46** 应当在一个房子里吃，不可把一点肉从房子里带到外头去。羊羔的骨头一根也不可折断。
+> **12:47** 以色列全会众都要守这礼。
+> **12:48** 若有外人寄居在你们中间，愿向耶和华守逾越节，他所有的男子务要受割礼，然后才容他前来遵守，他也就像本地人一样。但未受割礼的，都不可吃这羊羔。
+> **12:49** 本地人和寄居在你们中间的外人同归一例。」
+> **12:50** 耶和华怎样吩咐摩西、亚伦，以色列众人就怎样行了。
+> **12:51** 正当那日，耶和华将以色列人按着他们的军队，从埃及地领出来。
+
+**English (BSB) · Exodus 11 — The Plague on the Firstborn Foretold**
+
+> **11:1** Then the LORD said to Moses, "I will bring upon Pharaoh and Egypt one more plague. After that, he will allow you to leave this place. And when he lets you go, he will drive you out completely.
+> **11:2** Now announce to the people that men and women alike should ask their neighbors for articles of silver and gold."
+> **11:3** And the LORD gave the people favor in the sight of the Egyptians. Moreover, Moses himself was highly regarded in Egypt by Pharaoh's officials and by the people.
+> **11:4** So Moses declared, "This is what the LORD says: 'About midnight I will go throughout Egypt,
+> **11:5** and every firstborn son in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne, to the firstborn of the servant girl behind the hand mill, as well as the firstborn of all the cattle.
+> **11:6** Then a great cry will go out over all the land of Egypt. Such an outcry has never been heard before and will never be heard again.
+> **11:7** But among all the Israelites, not even a dog will snarl at man or beast.' Then you will know that the LORD makes a distinction between Egypt and Israel.
+> **11:8** And all these officials of yours will come and bow before me, saying, 'Go, you and all the people who follow you!' After that, I will depart." And hot with anger, Moses left Pharaoh's presence.
+> **11:9** The LORD said to Moses, "Pharaoh will not listen to you, so that My wonders may be multiplied in the land of Egypt."
+> **11:10** Moses and Aaron did all these wonders before Pharaoh, but the LORD hardened Pharaoh's heart so that he would not let the Israelites go out of his land.
+
+**English (BSB) · Exodus 12 — The First Passover**
+
+**The First Passover**
+
+> **12:1** Now the LORD said to Moses and Aaron in the land of Egypt,
+> **12:2** "This month is the beginning of months for you; it shall be the first month of your year.
+> **12:3** Tell the whole congregation of Israel that on the tenth day of this month each man must select a lamb for his family, one per household.
+> **12:4** If the household is too small for a whole lamb, they are to share with the nearest neighbor based on the number of people, and apportion the lamb accordingly.
+> **12:5** Your lamb must be an unblemished year-old male, and you may take it from the sheep or the goats.
+> **12:6** You must keep it until the fourteenth day of the month, when the whole assembly of the congregation of Israel will slaughter the animals at twilight.
+> **12:7** They are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs.
+> **12:8** They are to eat the meat that night, roasted over the fire, along with unleavened bread and bitter herbs.
+> **12:9** Do not eat any of the meat raw or cooked in boiling water, but only roasted over the fire—its head and legs and inner parts.
+> **12:10** Do not leave any of it until morning; before the morning you must burn up any part that is left over.
+> **12:11** This is how you are to eat it: You must be fully dressed for travel, with your sandals on your feet and your staff in your hand. You are to eat in haste; it is the LORD's Passover.
+> **12:12** On that night I will pass through the land of Egypt and strike down every firstborn male, both man and beast, and I will execute judgment against all the gods of Egypt. I am the LORD.
+> **12:13** The blood on the houses where you are staying will be a sign; when I see the blood, I will pass over you. No plague will fall on you to destroy you when I strike the land of Egypt.
+
+**The Feast of Unleavened Bread**
+
+> **12:14** And this day will be a memorial for you, and you are to celebrate it as a feast to the LORD, as a permanent statute for the generations to come.
+> **12:15** For seven days you must eat unleavened bread. On the first day you are to remove the leaven from your houses. Whoever eats anything leavened from the first day through the seventh must be cut off from Israel.
+> **12:16** On the first day you are to hold a sacred assembly, and another on the seventh day. You must not do any work on those days, except to prepare the meals—that is all you may do.
+> **12:17** So you are to keep the Feast of Unleavened Bread, for on this very day I brought your divisions out of the land of Egypt. You must keep this day as a permanent statute for the generations to come.
+> **12:18** In the first month you are to eat unleavened bread, from the evening of the fourteenth day until the evening of the twenty-first day.
+> **12:19** For seven days there must be no leaven found in your houses. If anyone eats something leavened, that person, whether a foreigner or native of the land, must be cut off from the congregation of Israel.
+> **12:20** You are not to eat anything leavened; eat unleavened bread in all your homes."
+
+> **12:21** Then Moses summoned all the elders of Israel and told them, "Go at once and select for yourselves a lamb for each family, and slaughter the Passover lamb.
+> **12:22** Take a cluster of hyssop, dip it into the blood in the basin, and brush the blood on the top and sides of the doorframe. None of you shall go out the door of his house until morning.
+> **12:23** When the LORD passes through to strike down the Egyptians, He will see the blood on the top and sides of the doorframe and will pass over that doorway; so He will not allow the destroyer to enter your houses and strike you down.
+> **12:24** And you are to keep this command as a permanent statute for you and your descendants.
+> **12:25** When you enter the land that the LORD will give you as He promised, you are to keep this service.
+> **12:26** When your children ask you, 'What does this service mean to you?'
+> **12:27** you are to reply, 'It is the Passover sacrifice to the LORD, who passed over the houses of the Israelites in Egypt when He struck down the Egyptians and spared our homes.'" Then the people bowed down and worshiped.
+> **12:28** And the Israelites went and did just what the LORD had commanded Moses and Aaron.
+
+**The Tenth Plague: Death of the Firstborn**
+
+> **12:29** Now at midnight the LORD struck down every firstborn male in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, as well as all the firstborn among the livestock.
+> **12:30** During the night Pharaoh got up—he and all his officials and all the Egyptians—and there was loud wailing in Egypt; for there was no house without someone dead.
+
+**The Exodus Begins**
+
+> **12:31** Then Pharaoh summoned Moses and Aaron by night and said, "Get up, leave my people, both you and the Israelites! Go, worship the LORD as you have requested.
+> **12:32** Take your flocks and herds as well, just as you have said, and depart! And bless me also."
+> **12:33** And in order to send them out of the land quickly, the Egyptians urged the people on. "For otherwise," they said, "we are all going to die!"
+> **12:34** So the people took their dough before it was leavened, carrying it on their shoulders in kneading bowls wrapped in clothing.
+> **12:35** Furthermore, the Israelites acted on Moses' word and asked the Egyptians for articles of silver and gold, and for clothing.
+> **12:36** And the LORD gave the people such favor in the sight of the Egyptians that they granted their request. In this way they plundered the Egyptians.
+> **12:37** The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot, besides women and children.
+> **12:38** And a mixed multitude also went up with them, along with great droves of livestock, both flocks and herds.
+> **12:39** Since their dough had no leaven, the people baked what they had brought out of Egypt into unleavened loaves. For when they had been driven out of Egypt, they could not delay and had not prepared any provisions for themselves.
+> **12:40** Now the duration of the Israelites' stay in Egypt was 430 years.
+> **12:41** At the end of the 430 years, to the very day, all the LORD's divisions went out of the land of Egypt.
+> **12:42** Because the LORD kept a vigil that night to bring them out of the land of Egypt, this same night is to be a vigil to the LORD, to be observed by all the Israelites for the generations to come.
+
+**Instructions for the Passover**
+
+> **12:43** And the LORD said to Moses and Aaron, "This is the statute of the Passover: No foreigner is to eat of it.
+> **12:44** But any slave who has been purchased may eat of it, after you have circumcised him.
+> **12:45** A temporary resident or hired hand shall not eat the Passover.
+> **12:46** It must be eaten inside one house. You are not to take any of the meat outside the house, and you may not break any of the bones.
+> **12:47** The whole congregation of Israel must celebrate it.
+> **12:48** If a foreigner resides with you and wants to celebrate the LORD's Passover, all the males in the household must be circumcised; then he may come near to celebrate it, and he shall be like a native of the land. But no uncircumcised man may eat of it.
+> **12:49** The same law shall apply to both the native and the foreigner who resides among you."
+> **12:50** Then all the Israelites did this—they did just as the LORD had commanded Moses and Aaron.
+> **12:51** And on that very day the LORD brought the Israelites out of the land of Egypt by their divisions.
+
+::::
 
 
 ::: tip 十灾——神罚阶梯
@@ -830,7 +978,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
   - 狗仔 Paparazzi——
     - 摄影＋潜行＋装备流
   - 塌房名人 Hot Mess——
-    - Charm ≥50，收视率毒药本人
+    - 魅惑（`Charm`） ≥50，收视率毒药本人
 
 ---
 
