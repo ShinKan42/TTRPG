@@ -1007,7 +1007,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ::: center
 
-## **👥 人物**
+## **👥 人物速查**
 
 :::
 
@@ -1055,7 +1055,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ::: center
 
-### **<a id="npc-core"></a> 人物-核心 ⭐**
+## **<a id="npc-core"></a> 人物-核心 ⭐**
 
 :::
 
@@ -1063,7 +1063,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ::: center
 
-#### **<a id="npc-lindsay"></a> 琳赛·皮尔 Lindsay Peale（29，县儿童保护社工） 🛡️**
+### **<a id="npc-lindsay"></a> 琳赛·皮尔 Lindsay Peale（29，县儿童保护社工） 🛡️**
 
 
 <details class="hint-container details">
@@ -1214,7 +1214,7 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 
 ::: center
 
-#### **<a id="npc-john"></a> 约翰·贝尔福 John Balfour（33，逾越节天使教会牧师） ✝️**
+### **<a id="npc-john"></a> 约翰·贝尔福 John Balfour（33，逾越节天使教会牧师） ✝️**
 
 
 <details class="hint-container details">
@@ -1336,7 +1336,7 @@ KJV：
 
 ::: center
 
-#### **<a id="npc-sarah"></a> 撒拉·贝尔福 Sarah Balfour 🧵**
+### **<a id="npc-sarah"></a> 撒拉·贝尔福 Sarah Balfour 🧵**
 
 :::
 
@@ -1396,7 +1396,7 @@ KJV：
 
 ::: center
 
-#### **<a id="npc-bates"></a> 露西·贝茨 Lucy Bates（49，FBI 探长，失踪与受剥削儿童工作组） 👮**
+### **<a id="npc-bates"></a> 露西·贝茨 Lucy Bates（49，FBI 探长，失踪与受剥削儿童工作组） 👮**
 
 
 <details class="hint-container details">
@@ -1489,7 +1489,7 @@ KJV：
 
 ::: center
 
-#### **<a id="npc-regina"></a> 蕾吉娜·贝尔福 Regina Balfour（5） 🐞**
+### **<a id="npc-regina"></a> 蕾吉娜·贝尔福 Regina Balfour（5） 🐞**
 
 
 <details class="hint-container details">
@@ -1546,7 +1546,7 @@ KJV：
 
 ::: center
 
-#### **<a id="npc-angel"></a> 逾越节天使 Passover Angel 👼**
+### **<a id="npc-angel"></a> 逾越节天使 Passover Angel 👼**
 
 :::
 
@@ -1763,7 +1763,7 @@ KP 任意指定至 99%
 
 ::: center
 
-#### **<a id="npc-george"></a> 乔治·刘易斯顿 George Lewiston（殁，前 ATF） 🎖️**
+### **<a id="npc-george"></a> 乔治·刘易斯顿 George Lewiston（殁，前 ATF） 🎖️**
 
 :::
 
@@ -1780,20 +1780,20 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-xianbi"></a> 人物-闲笔 🌿**
+## **<a id="npc-xianbi"></a> 人物-闲笔 🌿**
 
 :::
 
 ::: card
 
-#### <a id="npc-nicole"></a>Nicole（克利夫兰，乔治的女儿）
+### <a id="npc-nicole"></a>Nicole（克利夫兰，乔治的女儿）
 
 - 持有父亲公寓的钥匙；周五下午五点左右，父亲生前定时发出的告别信邮件到达她邮箱
 - 她比任何人都想知道父亲为什么——访谈她拿到的是乔治「这个人」的坐标
 
 ---
 
-#### <a id="npc-cat-neighbor"></a>托猫邻居
+### <a id="npc-cat-neighbor"></a>托猫邻居
 
 - 乔治把猫托给这位邻居；猫满身疖肿——第六灾在他家先到
 - 桌上用法：从猫的状态，玩家可提前嗅到灾的顺序
@@ -1804,7 +1804,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-beixuan"></a> 人物-备选 🎭**
+## **<a id="npc-beixuan"></a> 人物-备选 🎭**
 
 :::
 
@@ -1812,14 +1812,14 @@ KP 任意指定至 99%
 
 **案发一线**
 
-#### <a id="npc-greeter"></a>中枪迎宾员（大盒子商店门口）
+### <a id="npc-greeter"></a>中枪迎宾员（大盒子商店门口）
 
 - 伤愈可访谈：枪手本可干净脱身，却故意折返、故意不杀人——他是回来制造喧哗的
 - 停车场目击者补充：年轻白人女性开车接应；女孩挣扎喊救命；无人记下车牌
 
 ---
 
-#### <a id="npc-deputy"></a>出警县警（第一批现场警员）
+### <a id="npc-deputy"></a>出警县警（第一批现场警员）
 
 - 录像三段与停车场证词的官方持有者；移交 FBI 前的一切现场细节经他们的手
 - 审讯室里的苍蝇——「这不正常」的第一批见证人
@@ -1828,21 +1828,21 @@ KP 任意指定至 99%
 
 ---
 
-#### <a id="npc-trooper"></a>州警（Turnpike 巡逻）
+### <a id="npc-trooper"></a>州警（Turnpike 巡逻）
 
 - 与县警分属不同辖区：收费站摄像头与出口记录在州警手里
 - 跨辖区调档要走官僚流程——或者绕
 
 ---
 
-#### <a id="npc-rental"></a>租车行店员（Akron，大行门店）
+### <a id="npc-rental"></a>租车行店员（Akron，大行门店）
 
 - 门店极忙，对「上周四现金租车的女人」印象模糊
 - 预付借记卡＋现金的租单，翻起来费劲
 
 ---
 
-#### <a id="npc-vet"></a>兽医诊所（夜间闯入现场）
+### <a id="npc-vet"></a>兽医诊所（夜间闯入现场）
 
 - 只偷了特定类固醇——兽医制剂
 - 诊所的人记得撬痕与丢失清单，不记得见过谁
@@ -1851,20 +1851,20 @@ KP 任意指定至 99%
 
 ---
 
-#### <a id="npc-diner"></a>蛋蛋盛宴！店员（Eggstravaganza!，克利夫兰市中心破败街区的餐馆）
+### <a id="npc-diner"></a>蛋蛋盛宴！店员（Eggstravaganza!，克利夫兰市中心破败街区的餐馆）
 
 - 乔治吃早餐的老地方，店员都认得他；最后一笔账用一张新借记卡结清
 - 新闻队钩：店员们会主动联系记者，指望上电视
 
 ---
 
-#### <a id="npc-sebastian"></a>Sebastian（蛋蛋盛宴！收银）
+### <a id="npc-sebastian"></a>Sebastian（蛋蛋盛宴！收银）
 
 - 爆料换钱，新闻队的天然线人
 
 ---
 
-#### <a id="npc-goldfarb"></a>Roxanna Goldfarb（琳赛直属上司）与 Jim Agostino（工会代表）
+### <a id="npc-goldfarb"></a>Roxanna Goldfarb（琳赛直属上司）与 Jim Agostino（工会代表）
 
 - 纪律听证会仅有的两名在场人
 - 琳赛没申辩，沉默接受停职一个月
@@ -1874,14 +1874,14 @@ KP 任意指定至 99%
 
 ---
 
-#### <a id="npc-kevin"></a>Kevin Lang（19，炸鸡店男孩）
+### <a id="npc-kevin"></a>Kevin Lang（19，炸鸡店男孩）
 
 - 500 美元代开 23 号房——「有个一直在哭的女士」
 - 他还没意识到自己参与了绑架
 
 ---
 
-#### <a id="npc-ellie"></a>Ellie Davidson（五橡店主幼女，还在学步）
+### <a id="npc-ellie"></a>Ellie Davidson（五橡店主幼女，还在学步）
 
 - 一句话点破全场——「23 号房住着个小女孩，我听见门里放小马宝莉。」
 
@@ -1891,33 +1891,33 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-jixing"></a> 人物-即兴 🎲**
+## **<a id="npc-jixing"></a> 人物-即兴 🎲**
 
 :::
 
 ::: card
 
-#### <a id="npc-leak"></a>新闻泄密源（执法队伍内部）
+### <a id="npc-leak"></a>新闻泄密源（执法队伍内部）
 
 - 新闻队用贿赂能从「泄密源」拿到与到场简报同款的信息
 - KP 可安插在任何官方接触点
 
 ---
 
-#### <a id="npc-fbi"></a>FBI 特遣组探员（贝茨的团队）
+### <a id="npc-fbi"></a>FBI 特遣组探员（贝茨的团队）
 
 - 调查员接管案件时贝茨冗余，但团队仍在背景里跑线索——官方信息的一问即得接口
 
 ---
 
-#### <a id="npc-front-family"></a>信徒门面家庭（教会一般会众）
+### <a id="npc-front-family"></a>信徒门面家庭（教会一般会众）
 
 - 十人武装核心之外的普通会众：合法持枪，白人至上／民兵／生存主义背景者混在其中
 - 按需出现在教会联络、街头盯梢、周二外围——他们自己不知道周二意味着什么
 
 ---
 
-#### <a id="npc-coworker"></a>琳赛的社工同事（县儿童保护服务处）
+### <a id="npc-coworker"></a>琳赛的社工同事（县儿童保护服务处）
 
 - 法律（`Law`）判定成功或问对了人可点破：两年前那桩案子按理该有大动静，她的邮箱却干干净净
 
