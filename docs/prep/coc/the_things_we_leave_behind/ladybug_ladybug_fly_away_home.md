@@ -15,7 +15,7 @@ search: false
 <details class="hint-container details">
 <summary>📷 篇章图——十字与双翼（原书 p8 篇首图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings_v2.png" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings_nat.jpg" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="篇章图——十字与双翼（原书 p8 篇首图版）">
 
 </details>
 
@@ -483,7 +483,7 @@ KJV：
 
 ::: details 📷 逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_angel_light.jpg" alt="逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_angel_light.jpg" alt="逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）">
 
 :::
 
@@ -973,11 +973,11 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 - **三模板任选**（详见[玩家资料](/module/pl_ref/gns.html)）：
   - 烦人精 Nosy Pest——
-    - `Fast Talk`（高，体裁标配）＋线人网＋警队朋友
+    - 话术（`Fast Talk`，高，体裁标配）＋线人网＋警队朋友
   - 狗仔 Paparazzi——
     - 摄影＋潜行＋装备流
   - 塌房名人 Hot Mess——
-    - 魅惑（`Charm`） ≥50，收视率毒药本人
+    - 取悦（`Charm`）≥50，收视率毒药本人
 
 ---
 
@@ -1019,19 +1019,43 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ::: table
 
-| 条目 | 一句话 | 锚 |
+| 条目 | 一句话 | 跳转链接 |
 |---|---|---|
-| 琳赛·皮尔 Lindsay Peale | 藏起世界的绑匪，等一句承诺 | npc-lindsay |
-| 约翰·贝尔福 John Balfour | 真诚的疯牧师，合法地走向献祭 | npc-john |
-| 撒拉·贝尔福 Sarah Balfour | 替祭备胎，周二平行线主脑 | npc-sarah |
-| 露西·贝茨 Lucy Bates | 程序正义，目标即灾难 | npc-bates |
-| 蕾吉娜·贝尔福 Regina Balfour | 五岁，爱父母，每天听以撒故事 | npc-regina |
-| 逾越节天使 Passover Angel | 调度者，要那一场按时；对调查员全程沉默（DM 定案：不与蚂蚁对话） | npc-angel |
-| 乔治·刘易斯顿 George Lewiston | 殁。遗物在场：猫/粉碎电脑/草稿箱 | npc-george |
+| **核心** | | |
+| 琳赛·皮尔 Lindsay Peale | 藏起世界的绑匪，等一句承诺 | [琳赛·皮尔 Lindsay Peale](#npc-lindsay) |
+| 约翰·贝尔福 John Balfour | 真诚的疯牧师，合法地走向献祭 | [约翰·贝尔福 John Balfour](#npc-john) |
+| 撒拉·贝尔福 Sarah Balfour | 替祭备胎，周二平行线主脑 | [撒拉·贝尔福 Sarah Balfour](#npc-sarah) |
+| 露西·贝茨 Lucy Bates | 程序正义，目标即灾难 | [露西·贝茨 Lucy Bates](#npc-bates) |
+| 蕾吉娜·贝尔福 Regina Balfour | 五岁，爱父母，每天听以撒故事 | [蕾吉娜·贝尔福 Regina Balfour](#npc-regina) |
+| 逾越节天使 Passover Angel | 调度者，要那一场按时；对调查员全程沉默（DM 定案：不与蚂蚁对话） | [逾越节天使 Passover Angel](#npc-angel) |
+| 乔治·刘易斯顿 George Lewiston | 殁。遗物在场：猫/粉碎电脑/草稿箱 | [乔治·刘易斯顿 George Lewiston](#npc-george) |
 | 「零蛋」约翰尼 Johnny Zero | 武装核心头目（挂信徒共通卡，无独立卡） | — |
-| 人物-闲笔 | Nicole／托猫邻居 | npc-xianbi |
-| 人物-备选 | 迎宾员／县警／州警／租车行／兽医诊所／蛋蛋盛宴店员／Roxanna＆Jim／Kevin／Ellie／Sebastian | npc-beixuan |
-| 人物-即兴 | 泄密源／FBI 特遣组／信徒门面家庭／社工同事 | npc-jixing |
+| **闲笔** | | |
+| Nicole（克利夫兰） | 乔治的女儿，收定时告别信 | [Nicole（克利夫兰）](#npc-nicole) |
+| 托猫邻居 | 猫满身疖肿——第六灾先到 | [托猫邻居](#npc-cat-neighbor) |
+| **备选** | | |
+| 中枪迎宾员 | 故意折返制造喧哗的伤者 | [中枪迎宾员](#npc-greeter) |
+| 出警县警 | 录像三段与现场证词持有者 | [出警县警](#npc-deputy) |
+| 巡逻州警 | 收费站记录在州警手里 | [巡逻州警](#npc-trooper) |
+| 租车行店员 | 现金租单，印象模糊 | [租车行店员](#npc-rental) |
+| 兽医诊所 | 只失窃特定类固醇与输液器材 | [兽医诊所](#npc-vet) |
+| 蛋蛋盛宴！店员 | 主动联系记者换上镜 | [蛋蛋盛宴！店员](#npc-diner) |
+| Sebastian | 收银，爆料换钱 | [Sebastian](#npc-sebastian) |
+| Roxanna＆Jim | 听证会仅有的两名在场人 | [Roxanna＆Jim](#npc-goldfarb) |
+| Kevin Lang | 500 美元代开 23 号房 | [Kevin Lang](#npc-kevin) |
+| Ellie Davidson | 一句话点破全场 | [Ellie Davidson](#npc-ellie) |
+| **即兴** | | |
+| 新闻泄密源 | 贿赂可得的执法内线 | [新闻泄密源](#npc-leak) |
+| FBI 特遣组探员 | 官方信息一问即得接口 | [FBI 特遣组探员](#npc-fbi) |
+| 信徒门面家庭 | 不知情的合法持枪会众 | [信徒门面家庭](#npc-front-family) |
+| 琳赛的社工同事 | 邮箱干净的可疑点破口 | [琳赛的社工同事](#npc-coworker) |
+:::
+
+---
+
+::: center
+
+### **<a id="npc-core"></a> 人物-核心 ⭐**
 
 :::
 
@@ -1039,13 +1063,13 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ::: center
 
-### **<a id="npc-lindsay"></a> 琳赛·皮尔 Lindsay Peale（29，县儿童保护社工） 🛡️**
+#### **<a id="npc-lindsay"></a> 琳赛·皮尔 Lindsay Peale（29，县儿童保护社工） 🛡️**
 
 
 <details class="hint-container details">
 <summary>📷 琳赛·皮尔（原书 p25 肖像图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_lindsay_portrait.jpg" alt="琳赛·皮尔（原书 p25 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_lindsay_portrait_nat.jpg" alt="琳赛·皮尔（原书 p25 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛·皮尔（原书 p25 肖像图版）">
 
 </details>
 
@@ -1093,7 +1117,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 ---
 
 - **新闻队走法（原文运行指南）**：
-  - 成败两把钥匙：`Fast Talk` 与贿赂——
+  - 成败两把钥匙：话术（`Fast Talk`）与贿赂——
     - 无权传唤、无权逼任何人开口，但「上电视」和大笔现金能让很多人愿意说
   - 开场就让制作人把话挑明：这条新闻能做多大、「顾问费基金」有多厚
   - 以拍「B 卷素材」为掩护做调查；靠一条条更新与外围曝光把热度续住
@@ -1190,13 +1214,13 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 
 ::: center
 
-### **<a id="npc-john"></a> 约翰·贝尔福 John Balfour（33，逾越节天使教会牧师） ✝️**
+#### **<a id="npc-john"></a> 约翰·贝尔福 John Balfour（33，逾越节天使教会牧师） ✝️**
 
 
 <details class="hint-container details">
 <summary>📷 约翰·贝尔福牧师（原书 p15 肖像图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_john_portrait.jpg" alt="约翰·贝尔福牧师（原书 p15 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_john_portrait.jpg" alt="约翰·贝尔福牧师（原书 p15 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="约翰·贝尔福牧师（原书 p15 肖像图版）">
 
 </details>
 
@@ -1312,7 +1336,7 @@ KJV：
 
 ::: center
 
-### **<a id="npc-sarah"></a> 撒拉·贝尔福 Sarah Balfour 🧵**
+#### **<a id="npc-sarah"></a> 撒拉·贝尔福 Sarah Balfour 🧵**
 
 :::
 
@@ -1372,13 +1396,13 @@ KJV：
 
 ::: center
 
-### **<a id="npc-bates"></a> 露西·贝茨 Lucy Bates（49，FBI 探长，失踪与受剥削儿童工作组） 👮**
+#### **<a id="npc-bates"></a> 露西·贝茨 Lucy Bates（49，FBI 探长，失踪与受剥削儿童工作组） 👮**
 
 
 <details class="hint-container details">
 <summary>📷 露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_bates_portrait.jpg" alt="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_bates_portrait.jpg" alt="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）">
 
 </details>
 
@@ -1465,13 +1489,13 @@ KJV：
 
 ::: center
 
-### **<a id="npc-regina"></a> 蕾吉娜·贝尔福 Regina Balfour（5） 🐞**
+#### **<a id="npc-regina"></a> 蕾吉娜·贝尔福 Regina Balfour（5） 🐞**
 
 
 <details class="hint-container details">
 <summary>📷 蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_regina_photo.jpg" alt="蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_regina_photo.jpg" alt="蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）">
 
 </details>
 
@@ -1522,7 +1546,7 @@ KJV：
 
 ::: center
 
-### **<a id="npc-angel"></a> 逾越节天使 Passover Angel 👼**
+#### **<a id="npc-angel"></a> 逾越节天使 Passover Angel 👼**
 
 :::
 
@@ -1739,7 +1763,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-george"></a> 乔治·刘易斯顿 George Lewiston（殁，前 ATF） 🎖️**
+#### **<a id="npc-george"></a> 乔治·刘易斯顿 George Lewiston（殁，前 ATF） 🎖️**
 
 :::
 
@@ -1762,15 +1786,17 @@ KP 任意指定至 99%
 
 ::: card
 
-- **Nicole（克利夫兰，乔治的女儿）**
-  - 持有父亲公寓的钥匙；周五下午五点左右，父亲生前定时发出的告别信邮件到达她邮箱
-  - 她比任何人都想知道父亲为什么——访谈她拿到的是乔治「这个人」的坐标
+#### <a id="npc-nicole"></a>Nicole（克利夫兰，乔治的女儿）
+
+- 持有父亲公寓的钥匙；周五下午五点左右，父亲生前定时发出的告别信邮件到达她邮箱
+- 她比任何人都想知道父亲为什么——访谈她拿到的是乔治「这个人」的坐标
 
 ---
 
-- **托猫邻居**
-  - 乔治把猫托给这位邻居；猫满身疖肿——第六灾在他家先到
-  - 桌上用法：从猫的状态，玩家可提前嗅到灾的顺序
+#### <a id="npc-cat-neighbor"></a>托猫邻居
+
+- 乔治把猫托给这位邻居；猫满身疖肿——第六灾在他家先到
+- 桌上用法：从猫的状态，玩家可提前嗅到灾的顺序
 
 :::
 
@@ -1786,67 +1812,78 @@ KP 任意指定至 99%
 
 **案发一线**
 
-- **中枪迎宾员（大盒子商店门口）**
-  - 伤愈可访谈：枪手本可干净脱身，却故意折返、故意不杀人——他是回来制造喧哗的
-  - 停车场目击者补充：年轻白人女性开车接应；女孩挣扎喊救命；无人记下车牌
+#### <a id="npc-greeter"></a>中枪迎宾员（大盒子商店门口）
+
+- 伤愈可访谈：枪手本可干净脱身，却故意折返、故意不杀人——他是回来制造喧哗的
+- 停车场目击者补充：年轻白人女性开车接应；女孩挣扎喊救命；无人记下车牌
 
 ---
 
-- **出警县警（第一批现场警员）**
-  - 录像三段与停车场证词的官方持有者；移交 FBI 前的一切现场细节经他们的手
-  - 审讯室里的苍蝇——「这不正常」的第一批见证人
+#### <a id="npc-deputy"></a>出警县警（第一批现场警员）
+
+- 录像三段与停车场证词的官方持有者；移交 FBI 前的一切现场细节经他们的手
+- 审讯室里的苍蝇——「这不正常」的第一批见证人
 
 **追踪一线**
 
 ---
 
-- **州警（Turnpike 巡逻）**
-  - 与县警分属不同辖区：收费站摄像头与出口记录在州警手里
-  - 跨辖区调档要走官僚流程——或者绕
+#### <a id="npc-trooper"></a>州警（Turnpike 巡逻）
+
+- 与县警分属不同辖区：收费站摄像头与出口记录在州警手里
+- 跨辖区调档要走官僚流程——或者绕
 
 ---
 
-- **租车行店员（Akron，大行门店）**
-  - 门店极忙，对「上周四现金租车的女人」印象模糊
-  - 预付借记卡＋现金的租单，翻起来费劲
+#### <a id="npc-rental"></a>租车行店员（Akron，大行门店）
+
+- 门店极忙，对「上周四现金租车的女人」印象模糊
+- 预付借记卡＋现金的租单，翻起来费劲
 
 ---
 
-- **兽医诊所（夜间闯入现场）**
-  - 只偷了特定类固醇——兽医制剂
-  - 诊所的人记得撬痕与丢失清单，不记得见过谁
+#### <a id="npc-vet"></a>兽医诊所（夜间闯入现场）
+
+- 只偷了特定类固醇——兽医制剂
+- 诊所的人记得撬痕与丢失清单，不记得见过谁
 
 **城市一线**
 
 ---
 
-- **蛋蛋盛宴！店员（Eggstravaganza!，克利夫兰市中心破败街区的餐馆）**
-  - 乔治吃早餐的老地方，店员都认得他；最后一笔账用一张新借记卡结清
-  - 新闻队钩：店员们会主动联系记者，指望上电视
+#### <a id="npc-diner"></a>蛋蛋盛宴！店员（Eggstravaganza!，克利夫兰市中心破败街区的餐馆）
+
+- 乔治吃早餐的老地方，店员都认得他；最后一笔账用一张新借记卡结清
+- 新闻队钩：店员们会主动联系记者，指望上电视
 
 ---
 
-- **Sebastian（蛋蛋盛宴！收银）**：爆料换钱，新闻队的天然线人
+#### <a id="npc-sebastian"></a>Sebastian（蛋蛋盛宴！收银）
+
+- 爆料换钱，新闻队的天然线人
 
 ---
 
-- **Roxanna Goldfarb（琳赛直属上司）与 Jim Agostino（工会代表）**
-  - 纪律听证会仅有的两名在场人
-  - 琳赛没申辩，沉默接受停职一个月
-  - 只留一句：「做了必须做的事——解释了你们也不会信」
+#### <a id="npc-goldfarb"></a>Roxanna Goldfarb（琳赛直属上司）与 Jim Agostino（工会代表）
+
+- 纪律听证会仅有的两名在场人
+- 琳赛没申辩，沉默接受停职一个月
+- 只留一句：「做了必须做的事——解释了你们也不会信」
 
 **五橡一线**
 
 ---
 
-- **Kevin Lang（19，炸鸡店男孩）**
-  - 500 美元代开 23 号房——「有个一直在哭的女士」
-  - 他还没意识到自己参与了绑架
+#### <a id="npc-kevin"></a>Kevin Lang（19，炸鸡店男孩）
+
+- 500 美元代开 23 号房——「有个一直在哭的女士」
+- 他还没意识到自己参与了绑架
 
 ---
 
-- **Ellie Davidson（五橡店主幼女，还在学步）**
-  - 一句话点破全场——「23 号房住着个小女孩，我听见门里放小马宝莉。」
+#### <a id="npc-ellie"></a>Ellie Davidson（五橡店主幼女，还在学步）
+
+- 一句话点破全场——「23 号房住着个小女孩，我听见门里放小马宝莉。」
 
 :::
 
@@ -1860,25 +1897,29 @@ KP 任意指定至 99%
 
 ::: card
 
-- **新闻泄密源（执法队伍内部）**
-  - 新闻队用贿赂能从「泄密源」拿到与到场简报同款的信息
-  - KP 可安插在任何官方接触点
+#### <a id="npc-leak"></a>新闻泄密源（执法队伍内部）
+
+- 新闻队用贿赂能从「泄密源」拿到与到场简报同款的信息
+- KP 可安插在任何官方接触点
 
 ---
 
-- **FBI 特遣组探员（贝茨的团队）**
-  - 调查员接管案件时贝茨冗余，但团队仍在背景里跑线索——官方信息的一问即得接口
+#### <a id="npc-fbi"></a>FBI 特遣组探员（贝茨的团队）
+
+- 调查员接管案件时贝茨冗余，但团队仍在背景里跑线索——官方信息的一问即得接口
 
 ---
 
-- **信徒门面家庭（教会一般会众）**
-  - 十人武装核心之外的普通会众：合法持枪，白人至上／民兵／生存主义背景者混在其中
-  - 按需出现在教会联络、街头盯梢、周二外围——他们自己不知道周二意味着什么
+#### <a id="npc-front-family"></a>信徒门面家庭（教会一般会众）
+
+- 十人武装核心之外的普通会众：合法持枪，白人至上／民兵／生存主义背景者混在其中
+- 按需出现在教会联络、街头盯梢、周二外围——他们自己不知道周二意味着什么
 
 ---
 
-- **琳赛的社工同事（县儿童保护服务处）**
-  - 法律（`Law`）判定成功或问对了人可点破：两年前那桩案子按理该有大动静，她的邮箱却干干净净
+#### <a id="npc-coworker"></a>琳赛的社工同事（县儿童保护服务处）
+
+- 法律（`Law`）判定成功或问对了人可点破：两年前那桩案子按理该有大动静，她的邮箱却干干净净
 
 :::
 
@@ -1924,7 +1965,7 @@ KP 任意指定至 99%
 <details class="hint-container details">
 <summary>📷 大盒子商店监控视角——货架间的争夺（原书 p12 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv.jpg" alt="大盒子商店监控视角——货架间的争夺（原书 p12 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv_nat.jpg" alt="大盒子商店监控视角——货架间的争夺（原书 p12 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="大盒子商店监控视角——货架间的争夺（原书 p12 图版）">
 
 </details>
 
@@ -2481,7 +2522,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 <details class="hint-container details">
 <summary>📷 圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel_v2.png" alt="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel_nat.jpg" alt="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）">
 
 </details>
 
@@ -2502,7 +2543,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 <details class="hint-container details">
 <summary>📷 琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p15 图版）">
 
 </details>
 
@@ -2624,7 +2665,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 <details class="hint-container details">
 <summary>📷 五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room_v2.png" alt="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room_nat.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）">
 
 </details>
 
@@ -2646,7 +2687,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
   - 她的「旅伴」——19 岁、本地住址的凯文·朗（Kevin Lang）——周五一早取的钥匙；他住附近公寓、在隔壁炸鸡三明治店上班
   - 一个哭了很多的女人给了他一张约 500 美元的预付借记卡，换他代为登记、把钥匙留在 23 号房门上
   - 他能认出琳赛的照片；她是步行来的、正赶在打烊时分，没见到小女孩
-  - `Fast Talk`／`Charm`／恐吓／说服全部碰壁时——前台的小女儿、还在学步的埃莉·戴维森（Ellie Davidson）会自己开口：23 号房住着一个小女孩，门里老放小马宝莉；她敲门想找她玩，没人应
+  - 话术（`Fast Talk`）／取悦（`Charm`）／恐吓／说服全部碰壁时——前台的小女儿、还在学步的埃莉·戴维森（Ellie Davidson）会自己开口：23 号房住着一个小女孩，门里老放小马宝莉；她敲门想找她玩，没人应
 
 ---
 
@@ -2728,7 +2769,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 <details class="hint-container details">
 <summary>📷 五橡汽车旅馆平面图（原书 p22 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图（原书 p22 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图（原书 p22 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡汽车旅馆平面图（原书 p22 图版）">
 
 </details>
 
@@ -2744,7 +2785,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 
 五橡本周早些时候接到过一个电话，问客人能否预付现金；得到的答复是州法要求即使付现金也须出示带照片证件。对方于是报上「劳拉·琼斯」之名、用借记卡预付。劳拉·琼斯付了 23 号房到周三的房费，特意指定要二楼、不在走廊尽头。她那位（名义上的）旅伴——19 岁、本地住址的凯文·朗——周五一早取的钥匙。这些信息执法随手可得；其他人可能得靠声东击西或贿赂才能翻电脑登记簿。朗先生住附近公寓、在隔壁的炸鸡三明治店上班。某位哭得很厉害的女士给了他一张约 500 美元的预付借记卡，换他进旅馆代为登记、把钥匙留在 23 号房门上。他能认出琳赛·皮尔的照片就是那位女士；她是步行来的、正赶上餐馆打烊，没见到任何小女孩。
 
-如果调查员在 `Fast Talk`、`Charm`、恐吓或说服旅馆职员和／或朗先生时碰壁，职员还在学步的女儿埃莉·戴维森可能自己冒出一句：23 号房住着一个小女孩。隔着门她听见很多小马宝莉动画片的声音；她敲过门想找她玩，没人应。
+如果调查员在话术（`Fast Talk`）、取悦（`Charm`）、恐吓或说服旅馆职员和／或朗先生时碰壁，职员还在学步的女儿埃莉·戴维森可能自己冒出一句：23 号房住着一个小女孩。隔着门她听见很多小马宝莉动画片的声音；她敲过门想找她玩，没人应。
 
 再次强调，调查员做这轮排查时多么隐蔽要记下。记住琳赛不时从门缝偷看、监听警用与消防频段、盯着新闻。如果她断定自己已被无可挽回地围死，她会准备最后一战。
 
@@ -2958,7 +2999,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 <details class="hint-container details">
 <summary>📷 礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell_v2.png" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell_nat.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）">
 
 </details>
 
@@ -2979,7 +3020,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 <details class="hint-container details">
 <summary>📷 贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p27 图版）">
 
 </details>
 
@@ -3160,7 +3201,7 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 ::: details 📷 到场简报原书图版（原书 p9）
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing_v2.png" alt="到场简报原书图版（原书 p9）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing_nat.jpg" alt="到场简报原书图版（原书 p9）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="到场简报原书图版（原书 p9）">
 
 :::
 
@@ -3320,7 +3361,7 @@ KJV：
 
 ::: details 📷 乔治的告别信（原书 p17 图版）
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter_v2.png" alt="乔治的告别信（原书 p17 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter_nat.jpg" alt="乔治的告别信（原书 p17 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="乔治的告别信（原书 p17 图版）">
 
 :::
 
