@@ -457,7 +457,7 @@ KJV：
   - 双钩
   - 其余照原文——
     - 美国背景保留、地名道具照原文
-- 撒拉·贝尔福挂信徒共通卡+注记「不参战，周二平行线主脑」（定案）。
+- 撒拉·贝尔福挂[信徒共通卡](#npc-cultists)+注记「不参战，周二平行线主脑」（定案）。
 
 
 ---
@@ -1029,7 +1029,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 | 蕾吉娜·贝尔福 Regina Balfour | 五岁，爱父母，每天听以撒故事 | [蕾吉娜·贝尔福 Regina Balfour](#npc-regina) |
 | 逾越节天使 Passover Angel | 调度者，要那一场按时；对调查员全程沉默（DM 定案：不与蚂蚁对话） | [逾越节天使 Passover Angel](#npc-angel) |
 | 乔治·刘易斯顿 George Lewiston | 殁。遗物在场：猫/粉碎电脑/草稿箱 | [乔治·刘易斯顿 George Lewiston](#npc-george) |
-| 「零蛋」约翰尼 Johnny Zero | 武装核心头目（挂信徒共通卡，无独立卡） | — |
+| 「零蛋」约翰尼 Johnny Zero | 武装核心头目（挂信徒共通卡） | [自杀信徒 ×10](#npc-cultists) |
 | **闲笔** | | |
 | Nicole（克利夫兰） | 乔治的女儿，收定时告别信 | [Nicole（克利夫兰）](#npc-nicole) |
 | 托猫邻居 | 猫满身疖肿——第六灾先到 | [托猫邻居](#npc-cat-neighbor) |
@@ -1359,7 +1359,7 @@ KJV：
 
 ---
 
-- **数据卡**：挂信徒共通卡（定案），注记——不参战，无武装，周二平行线主脑
+- **数据卡**：挂[信徒共通卡](#npc-cultists)（定案），注记——不参战，无武装，周二平行线主脑
 
 :::
 
@@ -1702,6 +1702,12 @@ KP 任意指定至 99%
 
 - 见之：1/1D10
 - 被杀死：「黑风」当场释放
+
+:::
+
+::: center
+
+### **<a id="npc-cultists"></a> 「零蛋」约翰尼 Johnny Zero（自杀信徒 ×10 领队）🎯**
 
 :::
 
