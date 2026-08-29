@@ -15,7 +15,7 @@ search: false
 <details open>
 <summary>📷 篇章图——十字与双翼（原书 p8 篇首图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings.png" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings_v2.png" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 </details>
 
@@ -2482,7 +2482,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 <details open>
 <summary>📷 圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel.jpg" alt="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel_v2.png" alt="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 </details>
 
@@ -2620,7 +2620,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 <details open>
 <summary>📷 五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room_v2.png" alt="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 </details>
 
@@ -2949,7 +2949,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 <details open>
 <summary>📷 礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell_v2.png" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 </details>
 
@@ -3147,7 +3147,7 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 <details open>
 <summary>📷 到场简报原书图版（原书 p9）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing.jpg" alt="到场简报原书图版（原书 p9）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing_v2.png" alt="到场简报原书图版（原书 p9）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 </details>
 
@@ -3308,7 +3308,7 @@ KJV：
 <details open>
 <summary>📷 乔治的告别信（原书 p17 图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter.jpg" alt="乔治的告别信（原书 p17 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter_v2.png" alt="乔治的告别信（原书 p17 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto">
 
 </details>
 
