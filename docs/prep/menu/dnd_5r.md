@@ -79,6 +79,8 @@ search: false
 
 [末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/) —— 系列三部曲 · 3~6 级
 
+[湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/) —— 串烧长团 · 1~20 级
+
 ::::
 
 :::::
@@ -134,6 +136,18 @@ search: false
 [坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/)
 
 阿斯蒙蒂斯之链🔗 —— 🚧 备案中
+
+::::
+
+:::: card
+
+::: center
+
+**💀 维克那主题**
+
+:::
+
+[湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
 ::::
 
