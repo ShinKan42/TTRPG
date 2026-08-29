@@ -52,6 +52,8 @@ sitemap: false
 
 [末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/) —— 系列三部曲 · 3~6 级
 
+[湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/) —— 串烧战役 · 1~20 级
+
 ::::
 
 :::: card
