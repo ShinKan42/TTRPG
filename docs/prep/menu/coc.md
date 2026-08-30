@@ -21,6 +21,20 @@ search: false
 
 ---
 
+::::: card-grid
+
+:::: card
+
+::: center
+
+**🎬 战役框架**
+
+:::
+
+[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html) —— 记者开局组织底盘 · 通用战役框架
+
+::::
+
 :::: card
 
 ::: center
@@ -31,9 +45,9 @@ search: false
 
 [我们搁置之事📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇 · 双钩制
 
-框架：[全球新闻社 GNS](/prep/coc/the_things_we_leave_behind/global_news_service.html) —— 记者开局组织底盘 · 本集官方战役框架
-
 ::::
+
+:::::
 
 ---
 

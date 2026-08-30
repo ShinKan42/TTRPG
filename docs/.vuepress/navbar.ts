@@ -310,8 +310,18 @@ export const navbar = defineNavbarConfig([
 				text: '📋 主持备团',
 				items: [
 					{ text: '案卷总索引 📋', link: '/prep/menu/', activeMatch: '^/prep/menu/$' },
-					{ text: '龙与地下城 5 版 2024 🔮', link: '/prep/menu/dnd_5r', activeMatch: '^/prep/menu/dnd_5r' },
-					{ text: '克苏鲁的呼唤 🐙', link: '/prep/menu/coc', activeMatch: '^/prep/menu/coc' },
+					{
+						text: '🐉 奇幻类',
+						items: [
+							{ text: '龙与地下城 5 版 2024 🔮', link: '/prep/menu/dnd_5r', activeMatch: '^/prep/menu/dnd_5r' },
+						],
+					},
+					{
+						text: '🐙 恐怖类',
+						items: [
+							{ text: '克苏鲁的呼唤 🐙', link: '/prep/menu/coc', activeMatch: '^/prep/menu/coc' },
+						],
+					},
 				],
 			},
 		],
