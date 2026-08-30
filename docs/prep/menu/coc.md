@@ -45,18 +45,6 @@ search: false
 
 :::: card
 
-**🎬 战役框架**
-
-::: card
-
-[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html)
-
-:::
-
-::::
-
-:::: card
-
 **📚 短团集**
 
 ::: card
@@ -71,25 +59,29 @@ search: false
 
 ---
 
-::: center
+:::: center
 
-## **🎬 战役框架**
+#### **🎬 长团**
 
-:::
+::: card
 
----
-
-:::: card
-
-::: center
-
-### **[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html)**
+（暂无）
 
 :::
 
+::::
+
 ---
 
-`通用战役框架` · 记者开局组织底盘
+:::: center
+
+#### **🎬 战役框架**
+
+::: card
+
+[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html)
+
+:::
 
 ::::
 
@@ -114,5 +106,29 @@ search: false
 ---
 
 `现代美国` · 六篇 · 双钩制
+
+::::
+
+---
+
+::: center
+
+## **🎬 战役框架**
+
+:::
+
+---
+
+:::: card
+
+::: center
+
+### **[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html)**
+
+:::
+
+---
+
+`通用战役框架` · 记者开局组织底盘
 
 ::::
