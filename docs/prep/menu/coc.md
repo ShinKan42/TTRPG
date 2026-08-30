@@ -21,29 +21,49 @@ search: false
 
 ---
 
+::: center
+
+## **📋 跳转目录**
+
+:::
+
+---
+
 ::::: card-grid
 
 :::: card
 
-::: center
+**📏 短团**
 
-**🎬 战役框架**
+::: card
+
+（暂无）
 
 :::
-
-[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html) —— 记者开局组织底盘 · 通用战役框架
 
 ::::
 
 :::: card
 
-::: center
+**🎬 战役框架**
 
-**📚 短团集**
+::: card
+
+[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html)
 
 :::
 
-[我们搁置之事📦](/prep/coc/the_things_we_leave_behind/) —— 现代美国 · 六篇 · 双钩制
+::::
+
+:::: card
+
+**📚 短团集**
+
+::: card
+
+[我们搁置之事📦](/prep/coc/the_things_we_leave_behind/)
+
+:::
 
 ::::
 
@@ -53,29 +73,46 @@ search: false
 
 ::: center
 
-## **📖 六篇总览（官方跑序）**
+## **🎬 战役框架**
 
 :::
 
 ---
 
-::: table
+:::: card
 
-| 序 | 篇 | 一句话 | 敏感点 |
-|:--|:--|:-------|:-------|
-| 1 | 瓢虫，瓢虫，飞回家 | 善与善的相撞——五日灭世倒计时里的拐童案 | 儿童绑架与重病、邪教与宗教极端、自杀、自杀式袭击、末日灭世 |
-| 2 | 德州地狱 | 教会鬼屋里的连环引爆 | 宗教极端、同性恋与堕胎议题、校园枪击、连环自杀 |
-| 3 | 亲密接触 | 「脂吸杀手」与换体外星客 | 约炮网站、连环死亡、身体恐怖、核爆威胁 |
-| 4 | 根系 | 寻生母的少女与森林母系邪教镇 | 性仪式与性暴力、未成年人性化、食人 |
-| 5 | 夜季 | 科幻剧女王的现实扭曲力 | 青少年性侵（回溯）、非自愿绝育、现实扭曲谋杀 |
-| 6 | 勿忘我 | 失忆摄制组的自救倒计时（战役收官位） | 寄生侵体、集体失忆、身体恐怖 |
+::: center
+
+### **[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html)**
 
 :::
 
 ---
 
-::: note 玩家资料
+`通用战役框架` · 记者开局组织底盘
 
-GNS 玩家简介与三模板车卡：[📰 全球新闻社（玩家资料）](/module/pl_ref/gns.html)；首篇玩家面：[🐞 瓢虫 · 选集卡](/module/coc.html#我们搁置之事📦)
+::::
+
+---
+
+::: center
+
+## **📚 短团集**
 
 :::
+
+---
+
+:::: card
+
+::: center
+
+### **[我们搁置之事📦](/prep/coc/the_things_we_leave_behind/)**
+
+:::
+
+---
+
+`现代美国` · 六篇 · 双钩制
+
+::::

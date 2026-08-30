@@ -23,7 +23,7 @@ search: false
 
 ::: center
 
-## **📊 按时长**
+## **📋 跳转目录**
 
 :::
 
@@ -41,8 +41,6 @@ search: false
 
 [死亡之屋💀](/prep/dnd_5r/deaths_house/)
 
-吸血鬼主题前传导入 · 3 级 · 1 次跑完
-
 ::::
 
 :::: card
@@ -55,11 +53,7 @@ search: false
 
 [巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
 
-十色龙 · 1~12 级 · 10 篇
-
 [黄金宝库之钥🔑](/prep/dnd_5r/kftgv/)
-
-劫盗冒险 · 1~11 级 · 13 篇
 
 ::::
 
@@ -71,15 +65,15 @@ search: false
 
 :::
 
-[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/) —— 1~3 级
+[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
 
-[施特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/) —— 3~11 级
+[施特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
 
-[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/) —— 3~13 级
+[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/)
 
-[末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/) —— 系列三部曲 · 3~6 级
+[末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/)
 
-[湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/) —— 串烧长团 · 1~20 级
+[湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
 ::::
 
@@ -89,7 +83,7 @@ search: false
 
 ::: center
 
-## **🎨 按主题**
+## **📋 跳转目录 · 主题**
 
 :::
 
