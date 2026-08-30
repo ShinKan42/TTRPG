@@ -110,7 +110,7 @@ createTime: 2026/08/23 21:00:00
 | 百分比骰 | Percentile Dice (`D100`) | 两个十面骰拼 1–100 |
 | 常规成功 | Regular Success | ≤ 技能值 |
 | 困难成功 | Hard Success | ≤ 半值 |
-| 极难成功 | Extreme Success | ≤ 五分之一值 |
+| 极限成功 | Extreme Success | ≤ 五分之一值 |
 | 大成功 | Critical | 掷出 01 |
 | 大失败 | Fumble | 96–00 间的高值 |
 | 奖励骰 | Bonus Dice | 掷两个十位取更好 |
@@ -158,7 +158,7 @@ createTime: 2026/08/23 21:00:00
 | 兴趣技能 | Personal Interests | 智力 `INT`×2 自由分配 |
 | 技能专攻 | Specialization | 大技能下的分项 |
 | 成长标记 | Experience Check | 成功后打的勾 |
-| 半值/五分之一值 | Half / Fifth Value | 困难/极难成功线 |
+| 半值/五分之一值 | Half / Fifth Value | 困难/极限成功线 |
 | 克苏鲁神话 | Cthulhu Mythos (`CM`) | 神话知识，开局为零 |
 
 :::
