@@ -101,6 +101,7 @@ export const navbar = defineNavbarConfig([
 					{ text: '车卡指南 📖', link: '/rule/dagger_heart/guide/character_creation', activeMatch: '^/rule/dagger_heart/guide/character_creation' },
 					{ text: '常用骰法 🎲', link: '/rule/dagger_heart/guide/quick_roll', activeMatch: '^/rule/dagger_heart/guide/quick_roll' },
 					{ text: '基础规则 📚', link: '/rule/dagger_heart/guide/general_rule', activeMatch: '^/rule/dagger_heart/guide/general_rule' },
+					{ text: '战斗规则 ⚔️', link: '/rule/dagger_heart/guide/combat', activeMatch: '^/rule/dagger_heart/guide/combat' },
 					{ text: '扮演 🎭', link: '/rule/dagger_heart/guide/roleplay', activeMatch: '^/rule/dagger_heart/guide/roleplay' },
 					{ text: '常见问题 ❓', link: '/rule/dagger_heart/guide/faq', activeMatch: '^/rule/dagger_heart/guide/faq' },
 				],
