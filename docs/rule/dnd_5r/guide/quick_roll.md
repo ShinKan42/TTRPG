@@ -43,6 +43,7 @@ createTime: 2025/03/10 02:17:48
 
 ::::: center
 
+<a id="投骰方法"></a>
 ## **🎲 投骰方法**
 
 DND 默认使用 D20 进行投骰
@@ -55,10 +56,12 @@ DND 默认使用 D20 进行投骰
 
 `优势` 与 `劣势` 可互相抵消，但不会与自身叠加累计
 
+<a id="力竭"></a>
 ### **力竭 😰**
 
 `力竭`：Exhaustion，`属性检定`、`攻击检定`、`豁免检定` 都会减去 <Badge type="warning" text="力竭层数 * 2" />
 
+<a id="大成功大失败"></a>
 ### **大成功 / 大失败 🎉**
 
 `攻击检定` D20 = 20 为 大成功，必定命中且可能造成`重击`
@@ -79,6 +82,7 @@ DND 默认使用 D20 进行投骰
 
 ::: center
 
+<a id="角色数据"></a>
 ## **📋 角色数据**
 
 `熟练加值` Proficiency Bonus = <Badge type="warning" text="2 + 向下取整((角色等级 - 1) / 4)" />（1-4 级 =2，5-8 级 =3，9-12 级 =4，13-16 级 =5，17-20 级 =6）
@@ -111,6 +115,7 @@ DND 默认使用 D20 进行投骰
 `治疗药水` Potion of Healing Tier 1-4 = <Badge type="danger" text="2d4 + 2" /> / <Badge type="danger" text="4d4 +4" /> / <Badge type="danger" text="8d4 + 8" /> / <Badge type="danger" text="10d4 + 20" />
 
 
+<a id="属性"></a>
 ### **属性 📈**
 
 `属性检定` Ability Check = <Badge type="danger" text="D20 + （熟练加值） + 属性调整值" />
@@ -119,14 +124,17 @@ DND 默认使用 D20 进行投骰
 
 ---
 
+<a id="扮演骰点"></a>
 ## **🎭 扮演骰点**
 
+<a id="技能"></a>
 ### **技能 🛠️**
 
 `技能检定` Skill = <Badge type="danger" text="D20 + （熟练加值） + 属性调整值" />
 
 （实际上，`技能检定` 属于 `属性检定`）
 
+<a id="负重"></a>
 ### **负重 🎒**
 
 ::: table
@@ -153,6 +161,7 @@ DND 默认使用 D20 进行投骰
 
 `先攻判定` Roll Initiative = <Badge type="danger" text="D20 + 先攻加值" />
 
+<a id="物理攻击"></a>
 ### **物理攻击 🗡️**
 
 `近战攻击` Melee Attack = <Badge type="danger" text="D20 + （熟练加值) + （力量）调整值" /> VS `护甲等级`
@@ -161,12 +170,14 @@ DND 默认使用 D20 进行投骰
 
 `擒抱` / `推撞` Grapple / Shove = <Badge type="warning" text="8 + 熟练加值 + 力量调整值" /> VS `力量` / `敏捷` `豁免检定`
 
+<a id="法术攻击"></a>
 ### **法术攻击 🔮**
 
 `法术攻击` Spell Attack = <Badge type="danger" text="D20 + 熟练加值 + 施法属性调整值" /> VS `护甲等级`
 
 `豁免难度` Difficulty Class（`DC`） = <Badge type="warning" text="8 + 熟练加值 + 施法属性调整值" /> VS `豁免检定`
 
+<a id="防御"></a>
 ### **防御 🛡️**
 
 `护甲等级` Armor Class（`AC`） = <Badge type="warning" text="10 + 防具加值 + 敏捷调整值" />
@@ -177,6 +188,7 @@ DND 默认使用 D20 进行投骰
 
 `维持专注` Concentration = <Badge type="warning" text="10" /> / <Badge type="warning" text="伤害 / 2" /> (Max = <Badge type="warning" text="30" />)
 
+<a id="伤害"></a>
 ### **伤害 💥**
 
 `非法术伤害` Damage = <Badge type="danger" text="伤害骰 + （属性调整值）" />（情况复杂，请当下判断）
@@ -185,6 +197,7 @@ DND 默认使用 D20 进行投骰
 
 `燃烧` Burn = <Badge type="danger" text="1d4" /> / `回合`
 
+<a id="跳高跳远"></a>
 ### **跳高 / 跳远 🏃**
 
 `跳高` High Jump = 10 ft 助跑 <Badge type="warning" text="3 + 力量调整值" /> ft；无助跑减半；伸手触及 + (1.5 x 身高)
