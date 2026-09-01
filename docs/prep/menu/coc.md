@@ -29,11 +29,17 @@ search: false
 
 ---
 
+:::::: center
+
 ::::: card-grid
 
 :::: card
 
+::: center
+
 **📏 短团**
+
+:::
 
 ::: card
 
@@ -45,7 +51,11 @@ search: false
 
 :::: card
 
+::: center
+
 **📚 短团集**
+
+:::
 
 ::: card
 
@@ -56,6 +66,8 @@ search: false
 ::::
 
 :::::
+
+::::::
 
 ---
 
@@ -105,7 +117,11 @@ search: false
 
 ---
 
+::: center
+
 `现代美国` · 六篇 · 双钩制
+
+:::
 
 ::::
 
@@ -129,6 +145,10 @@ search: false
 
 ---
 
+::: center
+
 `通用战役框架` · 记者开局组织底盘
+
+:::
 
 ::::
