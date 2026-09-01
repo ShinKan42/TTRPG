@@ -1013,7 +1013,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ::: center
 
-### **人物速查表 📇**
+### **核心速查 ⭐**
 
 :::
 
@@ -1021,22 +1021,51 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 | 条目 | 一句话 | 跳转链接 |
 |---|---|---|
-| **核心** | | |
-| 琳赛·皮尔 Lindsay Peale | 藏起世界的绑匪，等一句承诺 | [琳赛·皮尔 Lindsay Peale](#npc-lindsay) |
+| **贝尔福家** | | |
 | 约翰·贝尔福 John Balfour | 真诚的疯牧师，合法地走向献祭 | [约翰·贝尔福 John Balfour](#npc-john) |
 | 撒拉·贝尔福 Sarah Balfour | 替祭备胎，周二平行线主脑 | [撒拉·贝尔福 Sarah Balfour](#npc-sarah) |
-| 露西·贝茨 Lucy Bates | 程序正义，目标即灾难 | [露西·贝茨 Lucy Bates](#npc-bates) |
 | 蕾吉娜·贝尔福 Regina Balfour | 五岁，爱父母，每天听以撒故事 | [蕾吉娜·贝尔福 Regina Balfour](#npc-regina) |
-| 逾越节天使 Passover Angel | 调度者，要那一场按时；对调查员全程沉默（DM 定案：不与蚂蚁对话） | [逾越节天使 Passover Angel](#npc-angel) |
 | 乔治·刘易斯顿 George Lewiston | 殁。遗物在场：猫/粉碎电脑/草稿箱 | [乔治·刘易斯顿 George Lewiston](#npc-george) |
+| **执法** | | |
+| 露西·贝茨 Lucy Bates | 程序正义，目标即灾难 | [露西·贝茨 Lucy Bates](#npc-bates) |
+| **教会与超自然** | | |
+| 逾越节天使 Passover Angel | 调度者，要那一场按时；对调查员全程沉默（DM 定案：不与蚂蚁对话） | [逾越节天使 Passover Angel](#npc-angel) |
 | 「零蛋」约翰尼 Johnny Zero | 武装核心头目（挂信徒共通卡） | [自杀信徒 ×10](#npc-cultists) |
-| **闲笔** | | |
+| **绑匪** | | |
+| 琳赛·皮尔 Lindsay Peale | 藏起世界的绑匪，等一句承诺 | [琳赛·皮尔 Lindsay Peale](#npc-lindsay) |
+
+:::
+
+::: center
+
+### **闲笔速查 🌿**
+
+:::
+
+::: table
+
+| 条目 | 一句话 | 跳转链接 |
+|---|---|---|
 | Nicole（克利夫兰） | 乔治的女儿，收定时告别信 | [Nicole（克利夫兰）](#npc-nicole) |
 | 托猫邻居 | 猫满身疖肿——第六灾先到 | [托猫邻居](#npc-cat-neighbor) |
-| **备选** | | |
+
+:::
+
+::: center
+
+### **备选速查 🎭**
+
+:::
+
+::: table
+
+| 条目 | 一句话 | 跳转链接 |
+|---|---|---|
+| **现场与执法** | | |
 | 中枪迎宾员 | 故意折返制造喧哗的伤者 | [中枪迎宾员](#npc-greeter) |
 | 出警县警 | 录像三段与现场证词持有者 | [出警县警](#npc-deputy) |
 | 巡逻州警 | 收费站记录在州警手里 | [巡逻州警](#npc-trooper) |
+| **店面与人** | | |
 | 租车行店员 | 现金租单，印象模糊 | [租车行店员](#npc-rental) |
 | 兽医诊所 | 只失窃特定类固醇与输液器材 | [兽医诊所](#npc-vet) |
 | 蛋蛋盛宴！店员 | 主动联系记者换上镜 | [蛋蛋盛宴！店员](#npc-diner) |
@@ -1044,12 +1073,26 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 | Roxanna＆Jim | 听证会仅有的两名在场人 | [Roxanna＆Jim](#npc-goldfarb) |
 | Kevin Lang | 500 美元代开 23 号房 | [Kevin Lang](#npc-kevin) |
 | Ellie Davidson | 一句话点破全场 | [Ellie Davidson](#npc-ellie) |
-| **即兴** | | |
+
+:::
+
+::: center
+
+### **即兴速查 🎲**
+
+:::
+
+::: table
+
+| 条目 | 一句话 | 跳转链接 |
+|---|---|---|
 | 新闻泄密源 | 贿赂可得的执法内线 | [新闻泄密源](#npc-leak) |
 | FBI 特遣组探员 | 官方信息一问即得接口 | [FBI 特遣组探员](#npc-fbi) |
 | 信徒门面家庭 | 不知情的合法持枪会众 | [信徒门面家庭](#npc-front-family) |
 | 琳赛的社工同事 | 邮箱干净的可疑点破口 | [琳赛的社工同事](#npc-coworker) |
+
 :::
+
 
 ---
 
@@ -1059,7 +1102,13 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 :::
 
----
+::::: card
+
+
+:::
+
+::: card
+
 
 ::: center
 
@@ -1210,7 +1259,10 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 :::
 
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -1332,7 +1384,10 @@ KJV：
 
 ::::
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -1392,7 +1447,10 @@ KJV：
 :::
 
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -1485,7 +1543,10 @@ KJV：
 
 ::::
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -1542,7 +1603,10 @@ KJV：
 
 :::
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -1765,7 +1829,10 @@ KP 任意指定至 99%
 
 ::::
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -1785,6 +1852,8 @@ KP 任意指定至 99%
 :::
 
 ::: center
+
+:::::
 
 ## **🌿 <a id="npc-xianbi"></a> 人物-闲笔**
 
@@ -1814,6 +1883,9 @@ KP 任意指定至 99%
 
 :::
 
+::::: card
+
+
 ::: card
 
 **案发一线**
@@ -1823,7 +1895,10 @@ KP 任意指定至 99%
 - 伤愈可访谈：枪手本可干净脱身，却故意折返、故意不杀人——他是回来制造喧哗的
 - 停车场目击者补充：年轻白人女性开车接应；女孩挣扎喊救命；无人记下车牌
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-deputy"></a>出警县警（第一批现场警员）
 
@@ -1832,21 +1907,30 @@ KP 任意指定至 99%
 
 **追踪一线**
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-trooper"></a>州警（Turnpike 巡逻）
 
 - 与县警分属不同辖区：收费站摄像头与出口记录在州警手里
 - 跨辖区调档要走官僚流程——或者绕
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-rental"></a>租车行店员（Akron，大行门店）
 
 - 门店极忙，对「上周四现金租车的女人」印象模糊
 - 预付借记卡＋现金的租单，翻起来费劲
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-vet"></a>兽医诊所（夜间闯入现场）
 
@@ -1855,20 +1939,29 @@ KP 任意指定至 99%
 
 **城市一线**
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-diner"></a>蛋蛋盛宴！店员（Eggstravaganza!，克利夫兰市中心破败街区的餐馆）
 
 - 乔治吃早餐的老地方，店员都认得他；最后一笔账用一张新借记卡结清
 - 新闻队钩：店员们会主动联系记者，指望上电视
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-sebastian"></a>Sebastian（蛋蛋盛宴！收银）
 
 - 爆料换钱，新闻队的天然线人
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-goldfarb"></a>Roxanna Goldfarb（琳赛直属上司）与 Jim Agostino（工会代表）
 
@@ -1878,20 +1971,28 @@ KP 任意指定至 99%
 
 **五橡一线**
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-kevin"></a>Kevin Lang（19，炸鸡店男孩）
 
 - 500 美元代开 23 号房——「有个一直在哭的女士」
 - 他还没意识到自己参与了绑架
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-ellie"></a>Ellie Davidson（五橡店主幼女，还在学步）
 
 - 一句话点破全场——「23 号房住着个小女孩，我听见门里放小马宝莉。」
 
 :::
+
+:::::
 
 ---
 
@@ -1901,27 +2002,40 @@ KP 任意指定至 99%
 
 :::
 
+::::: card
+
+
 ::: card
+
 
 ### <a id="npc-leak"></a>新闻泄密源（执法队伍内部）
 
 - 新闻队用贿赂能从「泄密源」拿到与到场简报同款的信息
 - KP 可安插在任何官方接触点
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-fbi"></a>FBI 特遣组探员（贝茨的团队）
 
 - 调查员接管案件时贝茨冗余，但团队仍在背景里跑线索——官方信息的一问即得接口
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-front-family"></a>信徒门面家庭（教会一般会众）
 
 - 十人武装核心之外的普通会众：合法持枪，白人至上／民兵／生存主义背景者混在其中
 - 按需出现在教会联络、街头盯梢、周二外围——他们自己不知道周二意味着什么
 
----
+:::
+
+::: card
+
 
 ### <a id="npc-coworker"></a>琳赛的社工同事（县儿童保护服务处）
 
@@ -1930,6 +2044,8 @@ KP 任意指定至 99%
 :::
 
 
+:::::
+
 ---
 
 ::: center
@@ -1937,6 +2053,9 @@ KP 任意指定至 99%
 ## **🗺️ 场景**
 
 :::
+
+::::: card
+
 
 ::: center
 
@@ -2036,7 +2155,10 @@ The shooter committed suicide against an outside wall of the store (where no one
 :::
 
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -2113,7 +2235,10 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
 :::
 
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -2384,7 +2509,10 @@ There is nothing in any Mythos tomes or standard occult research sources implica
 
 
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -2477,7 +2605,10 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 
 :::
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -2638,7 +2769,10 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 :::
 
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -2933,7 +3067,10 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -3052,7 +3189,10 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 :::
 
----
+:::
+
+::: card
+
 
 ::: center
 
@@ -3082,6 +3222,8 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 :::
 
+
+:::::
 
 ---
 

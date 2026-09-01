@@ -15,7 +15,9 @@ search: false
 
 ::: tip 联动
 
-本页为==主持面==案卷索引；玩家面的规则介绍与选模组指引见 [🔮 龙与地下城（模组一览）](/module/dnd_5r.html)
+本页为==主持面==案卷索引
+
+玩家面的规则介绍与选模组指引见 [🔮 龙与地下城（模组一览）](/module/dnd_5r.html)
 
 :::
 
@@ -79,9 +81,9 @@ search: false
 
 [末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/)
 
-==湮灭之墓×毁灭前夜==💀 —— ==官方双书串烧== · 1 ~ 20 级
+==湮灭之墓×毁灭前夜==💀 —— ==官方双书串烧== · ==1 ~ 20 级==
 
-[/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
+[湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
 :::
 
