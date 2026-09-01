@@ -3,7 +3,7 @@ title: 🎲 常用骰法
 createTime: 2025/03/10 02:17:48
 ---
 
-:::: center
+::::: center
 
 ## **⚡ 快速跳转**
 
@@ -17,17 +17,62 @@ createTime: 2025/03/10 02:17:48
 
 **本页**
 
+
+
+:::: card-grid
+
 ::: card
 
-[投骰方法](#🎲-投骰方法)
+**🎲 投骰方法**
 
-[角色数据](#📋-角色数据)
+[优势 / 劣势 ⬆️](#优势-劣势-⬆️)
 
-[扮演骰点](#🎭-扮演骰点)
+[力竭 😰](#力竭)
 
-[战斗骰点](#⚔️-战斗骰点)
+[大成功 / 大失败 🎉](#大成功大失败)
 
 :::
+
+::: card
+
+**📋 角色数据**
+
+[生命 ❤️](#生命-❤️)
+
+[属性 📈](#属性)
+
+:::
+
+::: card
+
+**🎭 扮演骰点**
+
+[技能 🛠️](#技能)
+
+[负重 🎒](#负重)
+
+:::
+
+::: card
+
+**⚔️ 战斗骰点**
+
+[先攻 ⚡](#先攻-⚡)
+
+[物理攻击 🗡️](#物理攻击)
+
+[法术攻击 🔮](#法术攻击)
+
+[防御 🛡️](#防御)
+
+[伤害 💥](#伤害)
+
+[跳高 / 跳远 🏃](#跳高跳远)
+
+:::
+
+::::
+
 
 **下一步**
 
@@ -37,7 +82,7 @@ createTime: 2025/03/10 02:17:48
 
 :::
 
-::::
+:::::
 
 ---
 
@@ -85,15 +130,15 @@ DND 默认使用 ==D20== 进行投骰
 <a id="角色数据"></a>
 ## **📋 角色数据**
 
-`熟练加值` Proficiency Bonus = <Badge type="warning" text="2 + 向下取整((角色等级 - 1) / 4)" />（1-4 级 =2，5-8 级 =3，9-12 级 =4，13-16 级 =5，17-20 级 =6）
+==`熟练加值`== Proficiency Bonus = <Badge type="warning" text="2 + 向下取整((角色等级 - 1) / 4)" />（1-4 级 =2，5-8 级 =3，9-12 级 =4，13-16 级 =5，17-20 级 =6）
 
 ### **生命 ❤️**
 
-`生命` Health Point = <Badge type="warning" text="角色等级 * 体质调整值" /> + <Badge type="danger" text="职业生命骰 * 职业等级" />
+==`生命`== Health Point = <Badge type="warning" text="角色等级 * 体质调整值" /> + <Badge type="danger" text="职业生命骰 * 职业等级" />
 
-`生命骰` Health Dice = <Badge type="danger" text="(职业生命骰 + 体质调整值) * 消耗个数" />
+==`生命骰`== Health Dice = <Badge type="danger" text="(职业生命骰 + 体质调整值) * 消耗个数" />
 
-`死亡豁免` Death Saving Throw = <Badge type="danger" text="D20" />
+==`死亡豁免`== Death Saving Throw = <Badge type="danger" text="D20" />
 
 :::
 
@@ -112,15 +157,15 @@ DND 默认使用 ==D20== 进行投骰
 
 `稳定伤势` Stabilize = <Badge type="danger" text="感知检定（医药）" /> > ==10==
 
-`治疗药水` Potion of Healing Tier 1-4 = <Badge type="danger" text="2d4 + 2" /> / <Badge type="danger" text="4d4 +4" /> / <Badge type="danger" text="8d4 + 8" /> / <Badge type="danger" text="10d4 + 20" />
+==`治疗药水`== Potion of Healing Tier 1-4 = <Badge type="danger" text="2d4 + 2" /> / <Badge type="danger" text="4d4 +4" /> / <Badge type="danger" text="8d4 + 8" /> / <Badge type="danger" text="10d4 + 20" />
 
 
 <a id="属性"></a>
 ### **属性 📈**
 
-`属性检定` Ability Check = <Badge type="danger" text="D20 + （熟练加值） + 属性调整值" />
+==`属性检定`== Ability Check = <Badge type="danger" text="D20 + （熟练加值） + 属性调整值" />
 
-`豁免检定` Saving Throw = <Badge type="danger" text="D20 + （熟练加值） + 属性调整值" />
+==`豁免检定`== Saving Throw = <Badge type="danger" text="D20 + （熟练加值） + 属性调整值" />
 
 ---
 
@@ -130,7 +175,7 @@ DND 默认使用 ==D20== 进行投骰
 <a id="技能"></a>
 ### **技能 🛠️**
 
-`技能检定` Skill = <Badge type="danger" text="D20 + （熟练加值） + 属性调整值" />
+==`技能检定`== Skill = <Badge type="danger" text="D20 + （熟练加值） + 属性调整值" />
 
 （实际上，`技能检定` ==属于 `属性检定`==）
 
@@ -157,14 +202,14 @@ DND 默认使用 ==D20== 进行投骰
 
 ### **先攻 ⚡**
 
-`先攻加值` Initiative Modifier = <Badge type="warning" text="敏捷调整值" />
+==`先攻加值`== Initiative Modifier = <Badge type="warning" text="敏捷调整值" />
 
-`先攻判定` Roll Initiative = <Badge type="danger" text="D20 + 先攻加值" />
+==`先攻判定`== Roll Initiative = <Badge type="danger" text="D20 + 先攻加值" />
 
 <a id="物理攻击"></a>
 ### **物理攻击 🗡️**
 
-`近战攻击` Melee Attack = <Badge type="danger" text="D20 + （熟练加值) + （力量）调整值" /> VS `护甲等级`
+==`近战攻击`== Melee Attack = <Badge type="danger" text="D20 + （熟练加值) + （力量）调整值" /> VS `护甲等级`
 
 `远程攻击` Ranged Attack = <Badge type="danger" text="D20 + （熟练加值) + （敏捷）调整值" />（投掷则为 `力量`） VS `护甲等级`
 
@@ -200,8 +245,14 @@ DND 默认使用 ==D20== 进行投骰
 <a id="跳高跳远"></a>
 ### **跳高 / 跳远 🏃**
 
-`跳高` High Jump = 10 ft 助跑 <Badge type="warning" text="3 + 力量调整值" /> ft；无助跑减半；伸手触及 + (1.5 x 身高)
+`跳高` High Jump = 10 ft 助跑 <Badge type="warning" text="3 + 力量调整值" /> ft；  
+无助跑减半；  
+伸手触及 + (1.5 x 身高)
 
-`跳远`Long Jump = 10 ft 助跑 <Badge type="warning" text="力量属性值" /> ft；无助跑减半
+`跳远`Long Jump = 10 ft 助跑 <Badge type="warning" text="力量属性值" /> ft；  
+无助跑减半
 
 :::
+
+::::
+:::::
