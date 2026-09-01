@@ -8,6 +8,7 @@ export default defineCollection({
 		{
 			text: '湮灭之墓',
 			items: [
+				{ text: '全局规则', link: 'toa_rules' },
 				{ text: '第1章 · 南扎路港', link: 'toa_1' },
 				{ text: '第2章 · 楚尔特大地', link: 'toa_2' },
 				{ text: '第3章 · 禁城栖居者', link: 'toa_3' },
