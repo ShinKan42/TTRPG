@@ -47,13 +47,15 @@ sitemap: false
 
 ::::
 
-:::: card
+:::::
 
-::: center
+---
 
-**🎬 长团**
+:::: center
 
-:::
+#### **🎬 长团**
+
+::: card
 
 [风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
 
@@ -65,9 +67,9 @@ sitemap: false
 
 [湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
-::::
+:::
 
-:::::
+::::
 
 ---
 
@@ -76,18 +78,6 @@ sitemap: false
 ---
 
 ::::: card-grid
-
-:::: card
-
-::: center
-
-**🎬 战役框架**
-
-:::
-
-[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html)
-
-::::
 
 :::: card
 
@@ -102,3 +92,17 @@ sitemap: false
 ::::
 
 :::::
+
+---
+
+:::: center
+
+#### **🎬 战役框架**
+
+::: card
+
+[全球新闻社 GNS📰](/prep/coc/the_things_we_leave_behind/global_news_service.html)
+
+:::
+
+::::

@@ -57,13 +57,15 @@ search: false
 
 ::::
 
-:::: card
+:::::
 
-::: center
+---
 
-**🎬 长团**
+:::: center
 
-:::
+#### **🎬 长团**
+
+::: card
 
 [风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
 
@@ -75,9 +77,9 @@ search: false
 
 [湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
-::::
+:::
 
-:::::
+::::
 
 ---
 
