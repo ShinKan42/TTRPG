@@ -15,6 +15,7 @@ export default defineCollection({
 				'character_creation',
 				'quick_roll',
 				'general_rule',
+				'combat',
 				'roleplay',
 				'faq',
 			],
