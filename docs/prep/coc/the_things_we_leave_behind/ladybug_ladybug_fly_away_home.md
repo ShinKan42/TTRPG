@@ -1055,7 +1055,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ::: center
 
-## **<a id="npc-core"></a> 人物-核心 ⭐**
+## **⭐ <a id="npc-core"></a> 人物-核心**
 
 :::
 
@@ -1786,7 +1786,7 @@ KP 任意指定至 99%
 
 ::: center
 
-## **<a id="npc-xianbi"></a> 人物-闲笔 🌿**
+## **🌿 <a id="npc-xianbi"></a> 人物-闲笔**
 
 :::
 
@@ -1810,7 +1810,7 @@ KP 任意指定至 99%
 
 ::: center
 
-## **<a id="npc-beixuan"></a> 人物-备选 🎭**
+## **🎭 <a id="npc-beixuan"></a> 人物-备选**
 
 :::
 
@@ -1897,7 +1897,7 @@ KP 任意指定至 99%
 
 ::: center
 
-## **<a id="npc-jixing"></a> 人物-即兴 🎲**
+## **🎲 <a id="npc-jixing"></a> 人物-即兴**
 
 :::
 
