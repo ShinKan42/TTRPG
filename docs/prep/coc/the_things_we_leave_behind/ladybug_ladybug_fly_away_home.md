@@ -135,6 +135,8 @@ ShinKan42
 
 :::
 
+<a id="quote-ex1112"></a>
+
 ::: details 📖 经文原文：《出埃及记》11–12 全章中英双版——羊血与灭命者（逾越节的本体）
 
 ==灭命者==（出 12:23「不容灭命的进你们的房屋」）即模组「逾越节天使」的圣经原型——琳赛在不可能之处翻到的、摆在淋浴喷头上和枕头上的，就是这两章。
@@ -342,6 +344,8 @@ ShinKan42
 - **桌上用法**：采访 Regina 的床边故事环节，就是全场最冷的一拍
 
 :::
+
+<a id="quote-yisa"></a>
 
 ::: details 📖 经文原文：创 22:9-13 以撒献祭（天使拦刀与公羊）
 
@@ -654,6 +658,8 @@ KJV：
 - 时历推进原则：表是态势不是轨道
   - 玩家抢跑或拖堂，各阵营按自己的钟走
   - 约翰周一晚必恳求（`Entreat`）；撒拉周二下午必赴死线
+
+<a id="quote-shizai"></a>
 
 ::: details 📖 十灾经文对照（和合本＋KJV，展开即念）
 
@@ -1224,6 +1230,9 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
   - 定案：周日上午新闻边栏一条无名流浪汉陈尸巷中，不点名不展开——约翰的罪有回声
   - 之后 Nyarlathotep 落子：蝗群开始撞 23 号房门窗（SAN 0/1D3），夜间有猎鬼待命（条件同琳赛红线）
   - 尾随他的调查员能看见全程——**他绝不会承认**，酷刑下也不
+
+<a id="quote-chu21"></a>
+
 ::: details 📖 台词出处：出 21:23-25 同态复仇律（约翰口头禅「Life for life, eye for eye」的原文）
 和合本：
 > 23 若有别害，就要以命偿命，
@@ -1293,6 +1302,9 @@ KJV：
     - 说这话时她是平静的——周二下午电话线里就是这种平静
 ---
 - **数据卡**：挂[信徒共通卡](#npc-cultists)（定案），注记——不参战，无武装，周二平行线主脑
+
+<a id="quote-chuang18"></a>
+
 ::: details 📖 台词出处：创 18:10-14 撒拉求子（「这孩子当年是我求来的」的典故原文）
 和合本：
 > 10 三人中有一位说：「到明年这时候，我必要回到你这里；你的妻子撒拉必生一个儿子。」撒拉在那人后边的帐棚门口也听见了这话。
@@ -1432,6 +1444,9 @@ KJV：
   - 周二礼拜在祭坛上方显形（SAN 1/1D10）
   - **被杀死就是黑风当场释放**
   - 杀死天使是最坏的「胜利」
+
+<a id="quote-tianshi"></a>
+
 ::: details 📖 天使形貌经文库（和合本＋KJV）
 **灭命之夜——出 12:29-30**
 和合本：
@@ -1773,6 +1788,9 @@ KP 任意指定至 99%
   - 执法调查员走简报自动到场
   - 平民调查员走贿赂泄密线人
   - 新闻队走官方通稿＋现场残机位
+
+<a id="quote-xueshui"></a>
+
 ::: details 📖 第一灾经文：出 7:20-21 血水（和合本＋KJV）
 和合本：
 > 20 摩西、亚伦就照耶和华所吩咐的行。亚伦在法老和臣仆眼前举杖击打河里的水，河里的水都变作血了。
@@ -2519,7 +2537,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 ::: center
 
-### **到场简报（Handout #1） 📄**
+### **<a id="quote-jianbao"></a> 到场简报（Handout #1） 📄**
 
 :::
 
@@ -2677,6 +2695,8 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 :::
 
+<a id="quote-poyi"></a>
+
 ::: details 📖 破译讯息的经文底本：出 11:4-6（「这样的哀号必不会再有」句的原文）
 
 和合本：
@@ -2741,7 +2761,7 @@ KJV：
 
 ::: center
 
-### **乔治的告别信（Handout #4） ✉️**
+### **<a id="quote-gaobie"></a> 乔治的告别信（Handout #4） ✉️**
 
 :::
 
@@ -2936,9 +2956,27 @@ There are two thematic elements that should be worked into the narrative as the 
 
 ::: center
 
-## **🗃️ 文件与查阅入口**
+## **📖 <a id="sec-yinyong"></a> 引用**
 
 :::
 
-- 原文：主书《The Things We Leave Behind》瓢虫篇 p7-31
-- GNS 框架册：《We Have Been, We Are, We Will Be》
+==在玩家面前读出来的重要稿件==——经文、书信、简报，全文各在使用位；本区一张总表清点，点开即达。
+
+::: table
+
+| 文本 | 场合 | 怎么用 |
+|---|---|---|
+| [到场简报（Handout #1）](#quote-jianbao) | 初次简报 | 递给玩家，或照读 |
+| [《出埃及记》11–12 · 灭命者与羊血](#quote-ex1112) | 琳赛线：不可能之处翻开的圣经 | 玩家翻看或查「逾越节天使」之名——照读对应节 |
+| [出 7:20-21 · 血水](#quote-xueshui) | 第一灾现场：那一枪打进鱼缸区 | 到场即景——照读 |
+| [天使形貌经文库](#quote-tianshi) | 一切带翼异象：仪式录像、雹暴的云中脸、窗外一瞥 | 异象呈现时念对应形貌段 |
+| [十灾经文对照](#quote-shizai) | 十灾钟灾象应验当刻 | 展开对应灾==照读== |
+| [创 22:9-13 · 以撒献祭](#quote-yisa) | 蕾吉娜被问「最喜欢的圣经故事」 | 问对或心理分析成功——照读 |
+| [出 21:23-25 · 同态复仇律](#quote-chu21) | 约翰口头禅「Life for life, eye for eye」 | 玩家追问出处——照读 |
+| [创 18:10-14 · 撒拉求子](#quote-chuang18) | 撒拉「这孩子当年是我求来的」 | 玩家追问典故——照读 |
+| [破译底本 · 出 11:4-6](#quote-poyi) | 《逾越节天使之书》密文破译成功 | 揭出「这样的哀号必不会再有」的原文 |
+| [乔治的告别信（Handout #4）](#quote-gaobie) | 周五 17:00 邮件到妮可邮箱 | ==递给玩家==——图版与信文转录都在 |
+
+:::
+
+- **底本**：主书《The Things We Leave Behind》瓢虫篇 p7-31；GNS 框架册《We Have Been, We Are, We Will Be》
