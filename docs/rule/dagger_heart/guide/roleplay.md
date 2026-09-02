@@ -3,7 +3,7 @@ title: 扮演 🎭
 createTime: 2026/07/29 21:43:38
 ---
 
-:::: center
+::::: center
 
 ## **⚡ 快速跳转**
 
@@ -17,17 +17,35 @@ createTime: 2026/07/29 21:43:38
 
 **本页**
 
+
+:::: card-grid
+
 ::: card
 
-[属性与经历](#attributes-experience)
-
-[难度](#difficulty)
-
-[压力](#stress)
-
-[希望点](#hope)
+[🧭 属性与经历](#attributes-experience)
 
 :::
+
+::: card
+
+[🎯 难度](#difficulty)
+
+:::
+
+::: card
+
+[🌊 压力](#stress)
+
+:::
+
+::: card
+
+[💡 希望点](#hope)
+
+:::
+
+::::
+
 
 **下一步**
 
@@ -37,7 +55,7 @@ createTime: 2026/07/29 21:43:38
 
 :::
 
-::::
+:::::
 
 ---
 
