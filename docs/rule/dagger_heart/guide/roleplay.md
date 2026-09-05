@@ -11,41 +11,23 @@ createTime: 2026/07/29 21:43:38
 
 ::: card
 
-[战斗规则](./combat)
+[战斗](./combat)
 
 :::
 
 **本页**
 
-
-:::: card-grid
-
 ::: card
 
-[🧭 属性与经历](#attributes-experience)
+[属性与经历](#attributes-experience)
+
+[难度](#difficulty)
+
+[压力](#stress)
+
+[希望点](#hope)
 
 :::
-
-::: card
-
-[🎯 难度](#difficulty)
-
-:::
-
-::: card
-
-[🌊 压力](#stress)
-
-:::
-
-::: card
-
-[💡 希望点](#hope)
-
-:::
-
-::::
-
 
 **下一步**
 

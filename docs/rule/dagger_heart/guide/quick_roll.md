@@ -17,79 +17,25 @@ createTime: 2025/10/30 11:45:07
 
 **本页**
 
-
-:::: card-grid
-
 ::: card
 
-**🎲 动作掷骰**
+[动作掷骰](#action-roll)
 
-[经历 📖](#experience)
+[掷骰结果](#roll-results)
 
-[优势 / 劣势 ⬆️](#adv-dis)
+[协作掷骰](#group-rolls)
 
-:::
+[防守与状态](#defense-status)
 
-::: card
-
-**🎯 掷骰结果**
-
-[关键成功 ✨](#关键成功-✨)
-
-[希望成功 🌅](#希望成功)
-
-[恐惧成功 🌑](#恐惧成功)
-
-[希望失败 💡](#希望失败)
-
-[恐惧失败 🌊](#恐惧失败)
+[休整](#rest)
 
 :::
-
-::: card
-
-**🤝 协作掷骰**
-
-[帮助盟友 🫱](#help-ally)
-
-[团队动作 ⚔️](#group-action)
-
-[反应掷骰 🔄](#reaction-roll)
-
-[接力掷骰 🔥](#relay-roll)
-
-:::
-
-::: card
-
-**🛡️ 防守与状态**
-
-[护甲槽 🪖](#armor-slots)
-
-[三状态 ⚠️](#conditions)
-
-:::
-
-::: card
-
-**🏕️ 休整**
-
-[位阶速查 📊](#位阶速查)
-
-[短休 ⛺](#short-rest)
-
-[长休 🌙](#long-rest)
-
-:::
-
-::::
-
 
 **下一步**
 
 ::: card
 
-[基础规则](./general_rule)
+[通用规则](./general_rule)
 
 :::
 

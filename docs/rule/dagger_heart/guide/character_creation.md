@@ -11,67 +11,29 @@ createTime: 2026/07/29 21:43:38
 
 ::: card
 
-[匕首之心怎么玩](./about)
+[怎么玩](./about)
 
 :::
 
 **本页**
 
-
-:::: card-grid
-
 ::: card
 
-**📋 流程**
+[流程](#process)
 
-[主题定调 🎨](#主题定调)
+[团卡](#team-sheet)
 
-[游戏数据 📊](#游戏数据)
+[主题定调](#theme)
 
-:::
-
-::: card
-
-[📄 团卡](#team-sheet)
+[游戏数据](#game-stats)
 
 :::
-
-::: card
-
-**🎨 主题定调**
-
-[种族 🧝](#ancestry)
-
-[社群 🏘️](#community)
-
-[经历 📖](#experience)
-
-[职业 🗡️](#class)
-
-:::
-
-::: card
-
-**📊 游戏数据**
-
-[属性 📈](#attributes)
-
-[领域 📜](#domain)
-
-[数据 🧮](#vitals)
-
-[装备 ⚔️](#gear)
-
-:::
-
-::::
-
 
 **下一步**
 
 ::: card
 
-[常用骰法](./quick_roll)
+[常用投骰](./quick_roll)
 
 :::
 
