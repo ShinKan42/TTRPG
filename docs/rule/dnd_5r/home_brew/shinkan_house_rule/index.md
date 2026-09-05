@@ -9,6 +9,8 @@ createTime: 2025/09/18 02:24:22
 homebrew 规则集
 :::
 
+:::: card
+
 ::: table
 
 | 村规 | 内容 | 状态 |
@@ -18,3 +20,5 @@ homebrew 规则集
 | [🍳 Dungeon Meshi](./dungeon_meshi.md) | 迷宫饭村规 | 空壳 |
 
 :::
+
+::::
