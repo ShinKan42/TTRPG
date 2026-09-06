@@ -113,7 +113,7 @@ createTime: 2026/08/23 21:00:00
 | 移动速度 | Movement rate | `MOV` | 谨慎一轮 `MOV` 米；全速 `MOV`×5 米 |
 | 幸运 | Luck | — | 环境与命运的裁决 |
 | 信用评级 | Credit Rating | `CR` | 财产与社会地位 |
-| 护甲 | Armor | — | 减伤值，从所受伤害中先扣<br>天生/穿着/掩体）→ [战斗指南](/rule/coc/guide/combat#护甲与减伤) |
+| 护甲 | Armor | — | 减伤值，从所受伤害中先扣<br>（天生/穿着/掩体）→ [战斗指南](/rule/coc/guide/combat#护甲与减伤) |
 
 :::
 
