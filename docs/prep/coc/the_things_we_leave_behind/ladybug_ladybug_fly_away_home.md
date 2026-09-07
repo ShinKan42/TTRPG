@@ -13,9 +13,9 @@ search: false
 五日倒计时 · 双钩案卷
 
 <details class="hint-container details">
-<summary>📷 篇章图——十字与双翼（原书 p8 篇首图版）</summary>
+<summary>📷 篇章图——十字与双翼</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings.png" alt="篇章图——十字与双翼（原书 p8 篇首图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="篇章图——十字与双翼（原书 p8 篇首图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_cross_wings.png" alt="篇章图——十字与双翼" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="篇章图——十字与双翼">
 
 </details>
 
@@ -488,9 +488,9 @@ KJV：
   - 它是这场五日倒计时的**调度者**：撒十灾、给指点、做交易
   - 它要的是==周二日落==那一场按时献祭
 
-::: details 📷 逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）
+::: details 📷 逾越节天使——自黑风之山降临的死亡天使形貌
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_angel_light.jpg" alt="逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="逾越节天使——自黑风之山降临的死亡天使形貌（原书 p8 图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_angel_light.jpg" alt="逾越节天使——自黑风之山降临的死亡天使形貌" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="逾越节天使——自黑风之山降临的死亡天使形貌">
 
 :::
 
@@ -828,10 +828,10 @@ KJV：
 
 | 路段 | 车程 | 档 · 出处 |
 |---|---|---|
-| 租车点至俄亥俄收费高速入口 | 约 30 分钟 | 实证·原书 p20（琳赛租车后约半小时上高速东行） |
-| 收费高速出口至最近医院 | 20 英里，约 30 分钟 | 实证·原书 p20（问路所得） |
-| 收费高速出口至五橡旅馆 | 一英里出头，数分钟 | 实证·原书 p23（两条次级州道交叉口） |
-| 五橡旅馆至贝尔福家 | 约 2 小时 | 实证·原书 p28 |
+| 租车点至俄亥俄收费高速入口 | 约 30 分钟 | 实证（琳赛租车后约半小时上高速东行） |
+| 收费高速出口至最近医院 | 20 英里，约 30 分钟 | 实证（问路所得） |
+| 收费高速出口至五橡旅馆 | 一英里出头，数分钟 | 实证（两条次级州道交叉口） |
+| 五橡旅馆至贝尔福家 | 约 2 小时 | 实证 |
 | 克利夫兰至收费高速出口区（俄-宾州界） | 约 2-2.5 小时 | 推定（I-80 东行约 150-180 英里 ÷ 高速均速；原文只给方向链） |
 | 案发超市 ↔ 贝尔福家 | 原文未载明 | 未载明档——同城郊区就近处理 |
 | 礼拜堂 ↔ 贝尔福住宅 | 同一地产，步行即达 | 实证（周二晚两处门框涂血） |
@@ -876,7 +876,7 @@ KJV：
 
 :::
 
-::: details 📖 原文留档：调查员的介入与开局已知（原书 p9，中英双版）
+::: details 📖 原文留档：调查员的介入与开局已知
 
 **中文（忠实全文）**
 
@@ -1130,8 +1130,8 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 ### **<a id="npc-lindsay"></a> 琳赛·皮尔 Lindsay Peale（29，县儿童保护社工） 🛡️**
 
 <details class="hint-container details">
-<summary>📷 琳赛·皮尔（原书 p25 肖像图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_lindsay_portrait_nat.jpg" alt="琳赛·皮尔（原书 p25 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛·皮尔（原书 p25 肖像图版）">
+<summary>📷 琳赛·皮尔</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_lindsay_portrait_nat.jpg" alt="琳赛·皮尔" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛·皮尔">
 </details>
 - **暗流**：真目标，藏蕾吉娜到**周三早上**（预言过期）再放人自首
   - 她不是杀手——
@@ -1204,7 +1204,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 - 防御：无特殊
 - 学历：心理学学士（俄亥俄州立）＋社工硕士（克利夫兰州立）
 ::::
-::: details 📖 原文留档：琳赛的心态——两年前的案子与一周前的录像（原书 p24-25，中英双版）
+::: details 📖 原文留档：琳赛的心态——两年前的案子与一周前的录像
 **中文（忠实全文）**
 琳赛的心态如下：几年前，她被叔叔乔治劝动，对贝尔福一家提出「需救助儿童」（基于虐童指控的临时寄养）申请。
 她与叔叔非常亲近，知道他是退休 ATF 探员、长年调查右翼邪教。
@@ -1254,8 +1254,8 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 ### **<a id="npc-john"></a> 约翰·贝尔福 John Balfour（33，逾越节天使教会牧师） ✝️**
 
 <details class="hint-container details">
-<summary>📷 约翰·贝尔福牧师（原书 p15 肖像图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_john_portrait.jpg" alt="约翰·贝尔福牧师（原书 p15 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="约翰·贝尔福牧师（原书 p15 肖像图版）">
+<summary>📷 约翰·贝尔福牧师</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_john_portrait.jpg" alt="约翰·贝尔福牧师" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="约翰·贝尔福牧师">
 </details>
 - **暗流**：真诚相信献祭就是领回（以撒框架）
   - 周二前**一切合法**：律师、法庭令、隐私权、信仰自由——他把程序用成武器
@@ -1381,8 +1381,8 @@ KJV：
 ### **<a id="npc-bates"></a> 露西·贝茨 Lucy Bates（49，FBI 探长，失踪与受剥削儿童工作组） 👮**
 
 <details class="hint-container details">
-<summary>📷 露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_bates_portrait.jpg" alt="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组（原书 p11 肖像图版）">
+<summary>📷 露西·贝茨探员——FBI 失踪与受剥削儿童特遣组</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_bates_portrait.jpg" alt="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组">
 </details>
 - **暗流**：传统钩 a 的挡路者+资源位双职能
   - 程序正义人格：搜查令、律师权、零闯入
@@ -1437,8 +1437,8 @@ KJV：
 ### **<a id="npc-regina"></a> 蕾吉娜·贝尔福 Regina Balfour（5） 🐞**
 
 <details class="hint-container details">
-<summary>📷 蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_regina_photo.jpg" alt="蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="蕾吉娜·贝尔福——被留下的瓢虫书包的主人（原书 p10 照片图版）">
+<summary>📷 蕾吉娜·贝尔福——被留下的瓢虫书包的主人</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_regina_photo.jpg" alt="蕾吉娜·贝尔福——被留下的瓢虫书包的主人" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="蕾吉娜·贝尔福——被留下的瓢虫书包的主人">
 </details>
 - **暗流**：纯真、爱父母、心理健全得反常——父母的疯狂是「信念型」的，家庭功能正常
 - **立场**：五岁孩子眼里的世界：爸爸妈妈是好的，「琳赛阿姨」是从超市把她抢走的坏人；超市里那个「坏人叔叔」以前还对她挺好的
@@ -1808,7 +1808,7 @@ KP 任意指定至 99%
 
 ### **案发现场——大盒子商店 🛒**
 
-- **现场能查到什么**（录像之外，原书 p15）：
+- **现场能查到什么**（录像之外）：
   - 停车场几位目击者记得：接应车手是一个年轻的白人女性；
     - 小女孩被扔进后座时挣扎着喊救命；
     - 没人记住车牌号
@@ -1826,8 +1826,8 @@ KP 任意指定至 99%
   - 瓢虫书包——静脉类固醇输液泵在里面；母亲当场抢下了它
   - 录像三段——卖场拉扯／出口装车／店内游荡与自尽（全文见物品区·到场简报条目）
 <details class="hint-container details">
-<summary>📷 大盒子商店监控视角——货架间的争夺（原书 p12 图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv_nat.jpg" alt="大盒子商店监控视角——货架间的争夺（原书 p12 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="大盒子商店监控视角——货架间的争夺（原书 p12 图版）">
+<summary>📷 大盒子商店监控视角——货架间的争夺</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv_nat.jpg" alt="大盒子商店监控视角——货架间的争夺" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="大盒子商店监控视角——货架间的争夺">
 </details>
 ---
 - **到达途径**：
@@ -1847,7 +1847,7 @@ KJV：
 >
 > 21 And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt.
 :::
-::: details 📖 原文留档：监控摄像头主题（原书 p11，中英双版）
+::: details 📖 原文留档：监控摄像头主题
 **中文（忠实全文）**
 调查线索树中如此多的线索都涉及监控摄像头，这绝非偶然。
 这一点也不要含蓄处理。
@@ -1858,7 +1858,7 @@ KJV：
 **English (verbatim)**
 It is no accident that so many of the clues in the investigation tree involve security cameras. Do not be subtle about this, either. If the investigators do not notice this on their own, have one of the Balfours point it out to them at some point. "Back in the days of the Egyptian Exodus, the Israelites were aware that the eyes of God were constantly upon them, judging their actions and their righteousness. The more things change, the more they stay the same, you know? God's judgment is coming. Be at peace with that fact."
 :::
-::: details 📖 原文留档：案发现场与目击者访谈（原书 p15，中英双版）
+::: details 📖 原文留档：案发现场与目击者访谈
 **中文（忠实全文）**
 大盒子商店里，除了录像带上的内容，只有一点额外的证据可挖，但访谈和现场复查能把事情放进上下文。
 停车场有几个人相信，开车接应的是一个年轻的白人女性。
@@ -1882,7 +1882,7 @@ The shooter committed suicide against an outside wall of the store (where no one
 
 ### **警局审讯——Balfour 夫妇 🚓**
 
-- **现场**（周五凌晨回家前都在警局，原书 p15-16）：
+- **现场**（周五凌晨回家前都在警局）：
   - 夫妇由悲伤辅导员陪伴，接受各路执法人员的问询；他们心急如焚
   - 撒拉在流泪——黑眼眶、鼻骨骨折（被绑匪当脸踢的），濒临精神崩溃
   - 约翰是压着怒气的平静：看起来在控制怒火，但随时可能无端爆发
@@ -1907,7 +1907,7 @@ The shooter committed suicide against an outside wall of the store (where no one
   - 出示 George 无伪装照片：认出「教友 Zach Nowiski」——约三年前入教、被信任过
   - 他们可能坦白也可能不坦白（心理学判定可提示隐瞒）
   - 绝不会主动提：一周前亲历过天使显形的仪式；George 从仪式中途跑掉后一直在找他、想让他闭嘴
-::: details 📖 原文留档：审讯贝尔福夫妇（原书 p15-16，中英双版）
+::: details 📖 原文留档：审讯贝尔福夫妇
 **中文（忠实全文）**
 贝尔福夫妇（直到周五凌晨回家睡觉前）都在地方警局，由悲伤辅导员陪伴，接受各路执法人员的问询。
 基于他们开局所知与所信，把初次访谈演出来。
@@ -2020,7 +2020,7 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
   - 两年前无薪停职一个月的事所有人都知道个大概：她凭一个「匿名线报」绕过全部常规核查程序，哄着县检察官凭空洞含糊的虐童指控立刻行动；案子被法官当庭戳穿并痛斥时，她一句自辩都没有
   - 近来极度紧张恍惚，但没对人说过原因；本周早些时候有同事撞见她在洗手间崩溃大哭，被她挥手挡开
   - 直属上司戈德法布（Goldfarb）与工会代表阿戈斯蒂诺（Agostino）知道得更多——他们是那次纪律听证会上仅有的另外两人：她不申诉、安静接受停职，最后只道了歉，说自己做了必须做的事、动机说出来他们也不会信、以后再也不会这样了。除这一件事外，她是各方面都无可挑剔的模范社工
-::: details 📖 原文留档：George 的寓所、财务与蛋蛋盛宴（原书 p17-18，中英双版）
+::: details 📖 原文留档：George 的寓所、财务与蛋蛋盛宴
 **中文（忠实全文）**
 乔治·刘易斯顿已退休、离婚多年、独居。
 他有一个女儿妮可，住在克利夫兰。
@@ -2084,7 +2084,7 @@ Review of his bank or normal credit card records provides other valuable clues. 
 George did not have a vehicle corresponding to the getaway car. His daughter is aware that Lindsay does, however: a 2008 tan Ford Taurus. George's only car is in its garage. The points are that George planned carefully and knew that he was not coming back; and, he was planning on taking care of a five year old girl for several days.
 When the mail arrives around 5 P.M. on Friday, his daughter receives a letter in the mail from George, which is reproduced below as Ladybug, Ladybug, Investigator Handout #4. This is likely shared with law enforcement only, although nosy non-law enforcement investigators who are staking the daughter out might have a chance to engage in some mail theft.
 :::
-::: details 📖 原文留档：琳赛宅、记录与同事访谈（原书 p18-19，中英双版）
+::: details 📖 原文留档：琳赛宅、记录与同事访谈
 **中文（忠实全文）**
 琳赛·皮尔的房子相当平常。
 她独居。
@@ -2125,7 +2125,7 @@ As soon as any of Lindsay Peale's friends or co-workers hear that the investigat
 Lindsay had seemed extremely stressed and distracted lately, but had not shared why. One of her co-workers found her distraught and sobbing in the restroom earlier this week, but Lindsay waved her off.
 Her immediate supervisor, Roxanna Goldfarb, or her union representative, Jim Agostino, both know a little more. They were the only two people at her initial disciplinary proceeding. She did not appeal and simply quietly accepted the month's suspension without defending herself. Each agrees that, if she had had any prior negative work history, she might have been fired. At the end, she simply apologized and said that she did what she had to do, that they would not believe her if she explained her motivations, and that she would never do anything like this again. Except for this episode of rogue behavior, Lindsay was in all respects an exemplary social worker.
 :::
-::: details 📖 原文留档：背景调查——医疗、法庭、联邦与教会网站（原书 p11-14，中英双版）
+::: details 📖 原文留档：背景调查——医疗、法庭、联邦与教会网站
 **中文（忠实全文）**
 **蕾吉娜·贝尔福的病历**：病历厚厚一摞。
 蕾吉娜·贝尔福患有一长串慢性病，最重的是慢性肺梗阻。
@@ -2222,7 +2222,7 @@ There is nothing in any Mythos tomes or standard occult research sources implica
   - 唯一怪处：他确信这件事就发生在周二晚上
   - 会众被号召在自家门框上做记号，以避那晚逾越节天使之怒
 ---
-- **避难所**（礼拜堂后林中，原书 p19）：
+- **避难所**（礼拜堂后林中）：
   - 查旧执法记录（多为 ATF 档案）可知林中藏着一座掩体；夫妇不主动提，执法点名要看时耸耸肩放行
   - 混凝土竖井下十英尺，壁内嵌梯子是唯一入口；极坚固的舱门从内上锁
   - 里面：三人的生存物资与行军床、化学马桶、警频扫描器与民用波段电台、《逾越节天使之书》数册
@@ -2242,7 +2242,7 @@ There is nothing in any Mythos tomes or standard occult research sources implica
     - 那是逾越节天使给约翰的启示，一个用来标记门框、保孩子平安的符号
   - **周二晚上**
     - 他们还会把礼拜堂和住宅的门框涂上羊血
-::: details 📖 原文留档：贝尔福宅——宅邸、礼拜堂与避难所（原书 p19-20，中英双版）
+::: details 📖 原文留档：贝尔福宅——宅邸、礼拜堂与避难所
 **中文（忠实全文）**
 贝尔福家的房子在克利夫兰西侧一块大型郊区地块上，属上中产街区。
 尽管教会财务记录显示年均数百万美元捐款，记录同样显示他们只领取微薄的薪水，房子也几乎看不出什么。
@@ -2326,8 +2326,8 @@ There is something unusual about the bomb shelter, but one has to look for it sp
   - 乘客 侦查（`Spot Hidden`）（司机在看路）：云里那张脸——黑色的天使翼框着一张怒容分明的脸，击中他们车的闪电正是从那双眼打出来的；SAN 1/1D10，获得疯狂洞见的人会想起埃及十灾及其顺序
   - 若约翰尾随在场：他会把他们从残骸里捡出来，指出自摩西降雹于法老以来没人见过这种东西——**他的车毫发无伤**
 <details class="hint-container details">
-<summary>📷 圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel_nat.jpg" alt="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="圣经级比例的风暴——云中带翼者（原书 p21 图版「A storm of biblical proportions」）">
+<summary>📷 圣经级比例的风暴——云中带翼者</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel_nat.jpg" alt="圣经级比例的风暴——云中带翼者" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="圣经级比例的风暴——云中带翼者">
 </details>
 ---
 - **兽医诊所与落脚圈**（向当地执法查近几日的失窃案）：
@@ -2338,10 +2338,10 @@ There is something unusual about the bomb shelter, but one has to look for it sp
   - 诊所对面的商业街停车场里能找到那辆租车：锁着、空的
   - 商场监控（周五凌晨 3 点）：那个女人下车、步行离开——什么都没卸下。也就是说，商店采购的全部物资和蕾吉娜，都已在步行范围内某处卸下；周边公交与出租车司机全部排查无果——绑匪没有第二辆车
 <details class="hint-container details">
-<summary>📷 琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p16 图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p16 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点（原书 p16 图版）">
+<summary>📷 琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点">
 </details>
-::: details 📖 原文留档：找车、租车行、GPS 与收费站（原书 p19-20，中英双版）
+::: details 📖 原文留档：找车、租车行、GPS 与收费站
 **中文（忠实全文）**
 琳赛的棕褐色福特金牛停在租车行对面的旅馆停车场里，靠近阿克隆/坎顿机场。
 调查员找到租车行后就能轻松找到它——它独自停着，尽量靠近街边。
@@ -2383,7 +2383,7 @@ The Turnpike entries and exits all have security cameras that log cars getting o
 Enough time reviewing video reveals that Lindsay Peale's car got off of the Turnpike at the first exit over the state border between Ohio and Pennsylvania. This review should take a considerable amount of time, as there are about a dozen exits between where she got on and off to laboriously review. If the investigators have a flash of inspiration, or go very public in the media with their search, they might call or track down the attendants and canvass them with pictures, or they might get a call from the pertinent exit booth. If they call or publicize their interest in hearing from exit booths about a black Ford Focus with a sick and/or unruly little girl, they are rewarded with a call from the pertinent exit booth. The toll booth attendant can identify pictures of both Lindsay Peale and Regina. Regina was coughing, wheezing, and in obvious respiratory distress. Lindsay was crying and looked very worried. She asked where the nearest hospital was, and was given directions to one about 20 miles away.
 Eventually, this call to law enforcement will happen anyway, once Regina's picture shows up on every television and the pertinent booth clerk notices it, but that will not be until Sunday or Monday.
 :::
-::: details 📖 原文留档：雹暴、排查与兽医诊所（原书 p20-22，中英双版）
+::: details 📖 原文留档：雹暴、排查与兽医诊所
 **中文（忠实全文）**
 成功开好这场团的重要一环，是在调查员心里尽量播下怀疑——贝尔福家到底是真危险，还是只是担心女儿的神经质父母。
 最有效的办法之一，是让调查员拿到数量不一的第一手信息，看他们彼此信任到什么程度。
@@ -2458,8 +2458,8 @@ There is surveillance footage available for the strip mall parking lot, and a wo
   - 她无意在周三之前出这间房（除非出现极不寻常的状况，让她判断带蕾吉娜跑路更安全）
   - 周三早上，她会不经伤害蕾吉娜地投降，或逃走后打电话告知警方蕾吉娜的位置
 <details class="hint-container details">
-<summary>📷 五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room_nat.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡旅馆室内——床、柜与门缝里的守望（原书 p24 图版）">
+<summary>📷 五橡旅馆室内——床、柜与门缝里的守望</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room_nat.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡旅馆室内——床、柜与门缝里的守望">
 </details>
 ---
 - **旅馆监控（值得调阅）**：
@@ -2530,10 +2530,10 @@ There is surveillance footage available for the strip mall parking lot, and a wo
   - 调查员若指出那圈符文与他家避难所舱门缘的一模一样——他一时语塞
 ---
 <details class="hint-container details">
-<summary>📷 五橡汽车旅馆平面图（原书 p23 图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图（原书 p23 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡汽车旅馆平面图（原书 p23 图版）">
+<summary>📷 五橡汽车旅馆平面图</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡汽车旅馆平面图">
 </details>
-::: details 📖 原文留档：五橡旅馆、监控与定位链（原书 p22-23，中英双版）
+::: details 📖 原文留档：五橡旅馆、监控与定位链
 **中文（忠实全文）**
 调查员找到租车后会置身于一个大型、高度开发的郊区：一座大购物中心为锚，卫星条形商场沿各条来路辐射约一英里；
 间杂每家连锁品牌旅馆各一间、每家连锁餐馆各一间、许多连锁零售店，以及若干本地店铺。
@@ -2587,7 +2587,7 @@ Despite the name, there is not an oak tree, or any other sort of tree, anywhere 
 Lindsay Peale is holed up in Room 23, which is second from the far end from the office, and up on the second floor. The curtains are closed, and she has laboriously screwed pieces of sheet iron over both the front window and bathroom window. (This cannot be seen through the curtains in the front, but is plainly visible from the rear). The "Do Not Disturb" sign is hung on the doorknob, and the door is locked, chained and barricaded with a dresser. Lindsay can inch the dresser back a bit and peek out the front door, and nervously does so every now and then, unless she knows that she is being actively watched. Inside, she has kept Regina asleep most of the time through the judicious application of cold medicine, and quiet at other times through threats and showing her children's DVDs on a portable player. She herself is very amped up on energy drinks; she is listening to the police band scanner and keeps a loaded shotgun on her lap, with a backup shotgun at her side. Note again that she is a deadly accurate shot. She has no intention of venturing out of the room until Wednesday unless she decides (under a very unlikely set of circumstances) that she and Regina are better off running for it. On Wednesday morning, she simply surrenders without harming Regina, or flees and calls the police with Regina's whereabouts.
 Reviewing the motel's security cameras is wise, and it reveals the same woman as the one who broke into the veterinary (hoodie up) arriving at Room 23 by car circa very late Thursday evening. She unloads a sleeping small child wrapped up in a blanket, and several suitcases and bags of groceries, as well as two shotguns out of their cases. She is in the hotel room for about an hour, and then takes about ten minutes with a penknife and paintbrush, fiddling with the outside of the door. She then ventures out (to raid the nearby veterinary office). She is gone for about an hour, and comes back carrying one plastic bag. She has not ventured out since.
 :::
-::: details 📖 原文留档：23 号房对峙（Showdown at Room 23，原书 p26-27，中英双版）
+::: details 📖 原文留档：23 号房对峙（Showdown at Room 23，中英双版）
 **中文（忠实全文）**
 调查员逼近琳赛的旅馆房间时，再给他们来点更露骨的恐怖。
 先让一只巨大的蝗虫毫无预兆地拍在他们风挡上。
@@ -2642,7 +2642,7 @@ If a tactical/SWAT team situation develops, the local police create problems. Th
 If Lindsay feels betrayed by hostage negotiators or is suddenly attacked, she shoots Regina and then herself, and matters will come down to who is quicker on the draw and whether the investigators can stun or surprise her long enough to disable her before she shoots. If she thinks that she is dealing with a small number of assailants, she may shoot them and try to relocate, but that is unlikely. More likely is that she will wing someone that she has a shot at, in an effort to discourage an all-out assault, impressing upon the investigators how good of a shot that she is.
 If the investigators deface the subtle markings on the doorposts, they open the door (pardon the pun) for Nyarlathotep to possibly take a more direct hand in dealing with Lindsay. If the investigators also kill the power to the hotel (perhaps in an effort to exert pressure on Lindsay, or in preparation for a raid) all hell breaks loose. A Hunting Horror smashes its way through the roof in the darkness, and unless driven off by a lot of bright lights, scoops Lindsay up through a hail of shotgun fire and carries her off, never to be seen again. SAN loss is 1D3/1D10 for any such episode.
 :::
-::: details 📖 原文留档：两次访谈与周二前的推进（原书 p27-28，中英双版）
+::: details 📖 原文留档：两次访谈与周二前的推进
 **中文（忠实全文）**
 访谈：琳赛·皮尔（大概率隔门喊话、通电话，或她被捕后）——化解局面需要大量的说服、信任构建、心理分析，以及最重要的：令人信服的承诺——蕾吉娜至少周三之前不会回到她父母身边。
 琳赛有充分理由确信：把蕾吉娜及时交还父母、赶上周二晚的仪式，结局就是末日。
@@ -2753,8 +2753,8 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
   - 这个阶段还想阻拦的人，要面对的就是悬在半空的逾越节天使本身
   - 注意：不必约翰亲手执刀——任何人刺下都算数，撒拉自己也可以。而她会
 <details class="hint-container details">
-<summary>📷 礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell_nat.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="礼拜之夜——锁链缠身的有翼之物悬于会众之上（原书 p31 图版）">
+<summary>📷 礼拜之夜——锁链缠身的有翼之物悬于会众之上</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell_nat.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="礼拜之夜——锁链缠身的有翼之物悬于会众之上">
 </details>
 ---
 - **献祭完成时**：
@@ -2767,8 +2767,8 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
   - 撒拉替祭——风暴收在一英里级的龙卷内、死者以百计、世界还能给出合理解释
   - 胆敢看外面乌云的人：闪电照亮云中巨大的有翼人影——SAN 1/1D8
 <details class="hint-container details">
-<summary>📷 贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p28 图版）</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p28 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位（原书 p28 图版）">
+<summary>📷 贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位</summary>
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位">
 </details>
 :::: card 终局三支线
 ::: table
@@ -2911,7 +2911,7 @@ b 钩买通警队线人拿到同款）。
 
 :::
 
-::: details 📖 原文留档：到场简报 Handout #1（原书 p10，中英双版）
+::: details 📖 原文留档：到场简报 Handout #1
 
 **中文（忠实全文）**
 
@@ -2976,9 +2976,9 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 :::
 
 
-::: details 📷 到场简报原书图版（原书 p10）
+::: details 📷 到场简报原书图版
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing_nat.jpg" alt="到场简报原书图版（原书 p10）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="到场简报原书图版（原书 p10）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout1_briefing_nat.jpg" alt="到场简报原书图版" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="到场简报原书图版">
 
 :::
 
@@ -3042,7 +3042,7 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 - **未破译前不发**——那时玩家手里只有 #2
 - 保真备注：本卡自原版 p15 图像件 OCR 提取，装饰字体致两处存疑
   - 首惊叹词读作 la!（疑为 Lovecraft 式 Iä!）
-  - 咒文行收尾 boret'l——打印前可对原书 p15 校一眼
+  - 咒文行收尾 boret'l——打印前可对原书校一眼
 - 咒文行为音译咒语，保留原文不译
 - 推理链位置：
   - ①「黑风之山」是 Black Wind 名号首次进入玩家视野（案卷 S 层双神结构的伏笔）
@@ -3144,9 +3144,9 @@ KJV：
 - 周五下午五点左右邮件到达时，女儿妮可收到这封 George 生前寄出的信——与全部账单付清、猫托付邻居、电脑砸碎同属一个人的临行收拾
 - 原文为手写图版（下）：多半只与执法共享；盯着妮可的非执法调查员有机会干一票偷信
 
-::: details 📷 乔治的告别信（原书 p18 图版）
+::: details 📷 乔治的告别信
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter_nat.jpg" alt="乔治的告别信（原书 p18 图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="乔治的告别信（原书 p18 图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/handout4_george_letter_nat.jpg" alt="乔治的告别信" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="乔治的告别信">
 
 :::
 
@@ -3176,7 +3176,7 @@ KJV：
 
 ::::
 
-:::: details 📖 原文留档：运行指南与结算（How Things Are Likely To Go, Keeper Hints & Rewards，原书 p31-33，中英双版）
+:::: details 📖 原文留档：运行指南与结算（How Things Are Likely To Go, Keeper Hints & Rewards，中英双版）
 
 **中文（忠实全文）**
 
@@ -3280,7 +3280,7 @@ Rewards and Repercussions: Preventing the summoning of the Black Wind gains the 
 
 ::::
 
-::: details 📖 原文留档：篇首总览与氛围指引（Introduction & Creepy Occurrences，原书 p8-9，中英双版）
+::: details 📖 原文留档：篇首总览与氛围指引（Introduction & Creepy Occurrences，中英双版）
 
 **中文（忠实全文）**
 

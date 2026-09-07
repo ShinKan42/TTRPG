@@ -765,5 +765,5 @@ STR 4(-3) | DEX 16(+3) | CON 12(+1) | INT 16(+3) | WIS 16(+3) | CHA 16(+3)
 
 ## **🗃️ 文件与查阅入口**
 
-- [灰机 wiki·黄金宝库之钥（中文全书页）](https://dnd.huijiwiki.com/wiki/金色金库的钥匙)——本篇=第三篇 攀手星空（原书 p.40-53）
+- [灰机 wiki·黄金宝库之钥（中文全书页）](https://dnd.huijiwiki.com/wiki/金色金库的钥匙)——本篇=第三篇 攀手星空
 - [5etools·Keys from the Golden Vault（英文原书）](https://5e.tools/adventure.html#kftgv)——Ch3 Reach for the Stars

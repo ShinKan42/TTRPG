@@ -13,9 +13,9 @@ search: false
 末日幽暗地域 Vol.1 · 3~6 级 · 躯体感染恐怖 · 网团
 
 <details class="hint-container details">
-<summary>📷 篇章图——绿色深渊（原书 p39·第六章题图）</summary>
+<summary>📷 篇章图——绿色深渊</summary>
 
-<img src="https://bed.shinkan42.art/prep/dnd_5r/doomed_sword_coast/art_ch6_title.jpg" alt="篇章图——绿色深渊（原书 p39·第六章题图）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="篇章图——绿色深渊（原书 p39·第六章题图）">
+<img src="https://bed.shinkan42.art/prep/dnd_5r/doomed_sword_coast/art_ch6_title.jpg" alt="篇章图——绿色深渊" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="篇章图——绿色深渊">
 
 </details>
 
