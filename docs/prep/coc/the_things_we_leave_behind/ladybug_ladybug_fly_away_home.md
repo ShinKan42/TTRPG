@@ -1330,7 +1330,7 @@ KJV：
 
 :::::
 
-::::: card
+:::: card
 
 ### **<a id="npc-sarah"></a> 撒拉·贝尔福 Sarah Balfour 🧵**
 
@@ -1374,7 +1374,7 @@ KJV：
 > 14 Is any thing too hard for the Lord? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
 :::
 
-:::::
+::::
 
 ::::: card
 
@@ -1469,7 +1469,7 @@ KJV：
 
 :::::
 
-::::: card
+:::: card
 
 ### **<a id="npc-angel"></a> 逾越节天使 Passover Angel 👼**
 
@@ -1566,7 +1566,7 @@ KP 任意指定至 99%
 - 被杀死：「黑风」当场释放
 :::
 
-:::::
+::::
 
 ::::: card
 
@@ -1626,7 +1626,7 @@ KP 任意指定至 99%
 ## **🌿 <a id="npc-xianbi"></a> 人物-闲笔**
 
 :::
-::::: card
+:::: card
 
 ::: card
 
@@ -1646,14 +1646,14 @@ KP 任意指定至 99%
 
 :::
 
-:::::
+::::
 
 ::: center
 
 ## **🎭 <a id="npc-beixuan"></a> 人物-备选**
 
 :::
-::::: card
+:::: card
 
 ::: card
 
@@ -1752,14 +1752,14 @@ KP 任意指定至 99%
 
 :::
 
-:::::
+::::
 
 ::: center
 
 ## **🎲 <a id="npc-jixing"></a> 人物-即兴**
 
 :::
-::::: card
+:::: card
 
 ::: card
 
@@ -1795,7 +1795,7 @@ KP 任意指定至 99%
 
 :::
 
-:::::
+::::
 
 ::: center
 
@@ -1804,7 +1804,7 @@ KP 任意指定至 99%
 :::
 :::::: card
 
-::::: card
+:::: card
 
 ### **案发现场——大盒子商店 🛒**
 
@@ -1876,9 +1876,9 @@ Several people inside the store (including the greeter who was shot) can attest 
 The shooter committed suicide against an outside wall of the store (where no one else was likely to get hit by a through and through shot). When the investigators get there, the store crew will be wanting to clean up the mess; the shot went into the fish tank section, and dying fish lie amid bloody water. Make a point of allowing the investigators to see this.
 :::
 
-:::::
+::::
 
-::::: card
+:::: card
 
 ### **警局审讯——Balfour 夫妇 🚓**
 
@@ -1946,9 +1946,9 @@ They also honestly have no idea, initially, who George Lewiston was. If they lea
 Likewise, if they are shown a picture of George Lewiston without his hat, sunglasses and added facial hair, they will recognize him as someone they know by the name of Zach Nowiski. He had joined their church about three years ago, and they trusted him. They may or may not confess to this (if they do not, a Psychology roll might suggest that they are withholding information). They will most certainly, however, neglect to mention that they trusted him enough to actually attend and participate in a ritual at which the Passover Angel appeared about a week ago, and that they have been trying without luck to find and silence him since he ran out of the service and abruptly stopped "coming to church" thereafter.
 :::
 
-:::::
+::::
 
-::::: card
+:::: card
 
 ### **城市调查群（档案与访谈） 🗃️**
 
@@ -2198,9 +2198,9 @@ The website is a combination of whimsical and downright scary. The homepage is a
 There is nothing in any Mythos tomes or standard occult research sources implicating The Church of the Passover Angel in any occult or Mythos shenanigans. They are quite new and (except for John Balfour's periodic sojourns to unpleasant parts of Kenya) not a part of any "networks." However, optionally, there may be files in any occult-oriented government agencies or quasi-government conspiracies on Mr. Lewiston. If such conspiracies or agencies exist in your campaign, this will become apparent if and when the investigators sufficiently search George Lewiston's apartment. He was consulted for his expertise on militaristic cults on several occasions, although he was not an active "stringer" for any such groups.
 :::
 
-:::::
+::::
 
-::::: card
+:::: card
 
 ### **贝尔福宅——宅邸、礼拜堂与避难所 🏡**
 
@@ -2288,9 +2288,9 @@ The bomb shelter is largely unremarkable, at least for a bomb shelter. It is ten
 There is something unusual about the bomb shelter, but one has to look for it specifically or get very lucky (Critical Spot Hidden). Around the lip of the hatch, visible from the outside there are very faint and subtle etchings in the metal rim, little more than scratches. Examining them reveals a number of symbols (Occult roll) common to Elizabethan era magical wards. One in particular, however, is clearly an Elder Sign (a Cthulhu Mythos roll or prior experience recognizes it). If asked about this, it came to Mr. Balfour in a revelation from the mighty Passover Angel, as a symbol with which to mark their doorposts to keep their children safe. (On Tuesday evening, they will paint the chapel and house's door posts with lamb's blood as well.)
 :::
 
-:::::
+::::
 
-::::: card
+:::: card
 
 ### **追踪——Turnpike 与雹暴 🛣️**
 
@@ -2436,9 +2436,9 @@ Searching the area around the veterinary clinic finds the rental car without too
 There is surveillance footage available for the strip mall parking lot, and a woman (matching the appearance of the one who breaks into the veterinary clinic) can be seen at about 3 A.M. Friday morning. Interestingly, she simply gets out of the car and leaves on foot. She does not unload any luggage, unload any little girls, or unload any supplies. This (Idea roll) means that she must have unloaded all of the supplies bought at the store, as well as Regina, somewhere nearby, within walking distance. The investigators cannot trace any other vehicle to the abductors, and canvassing nearby bus routes, taxi drivers, and the like comes up empty.
 :::
 
-:::::
+::::
 
-::::: card
+:::: card
 
 ### **五橡汽车旅馆——对峙 🏨**
 
@@ -2702,7 +2702,7 @@ Come Tuesday
 If the Balfours do not have possession of Regina back by Tuesday afternoon, they will take every conceivable action to get her back, depending on what they know and where she is. If she has not been found by Monday, you might wish to advance the action (such as by having the toll booth operator come forward), to get the hostage standoff part of the scenario in play. Or, if the investigators are just not making progress on the clue trail, the Passover Angel might tell Mr. Balfour where she is, and he might tip the investigators to try and extract Regina. If Balfour notices the markings on the door frame of Room 23, he may well decry them as blasphemies against all that is holy and attempt to go up and deface them, having to be physically restrained. (Of course, if the investigators note that they are the same as are on his bomb shelter, he will be at a loss for words).
 :::
 
-:::::
+::::
 
 ::::: card
 
@@ -2785,7 +2785,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 :::::
 
-::::: card
+:::: card
 
 ### **SAN 全表 🧠**
 
@@ -2809,7 +2809,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 | 惩罚：黑风全面降临 | -2D6 |
 :::
 
-:::::
+::::
 
 ::::::
 
