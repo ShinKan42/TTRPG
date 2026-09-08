@@ -9,6 +9,7 @@ import Avatar_Legend from './rule/avatar_legend.ts';
 import Modules from './modules.ts';
 import Prep from './prep.ts';
 import PrepDragonDelves from './prep_dragon_delves.ts';
+import PrepTombVecna from './prep_tomb_vecna.ts';
 import PrepKftgv from './prep_kftgv.ts';
 import PrepStormwrack from './prep_stormwrack.ts';
 import PrepDeathsHouse from './prep_deaths_house.ts';
@@ -33,6 +34,7 @@ export default defineCollections([
 	Modules,
 	Prep,
 	PrepDragonDelves,
+	PrepTombVecna,
 	PrepKftgv,
 	PrepStormwrack,
 	PrepDeathsHouse,
