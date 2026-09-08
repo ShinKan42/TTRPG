@@ -21,9 +21,10 @@ export default defineCollection({
 			],
 		},
 		{
-			text: '🔗 资料站跳转 🚧',
-			collapsed: false,
+			text: '📚 资料站 🚧',
+			collapsed: true,
 			items: [
+				{ text: '简介推荐 ⭐', link: '/rule/dagger_heart/brief_ref/' },
 				{ text: '规则速查 ⚡', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A7%84%E5%88%99%E9%80%9F%E6%9F%A5' },
 				{ text: '职业 🗡️', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E8%81%8C%E4%B8%9A' },
 				{ text: '种族 🧝', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A7%8D%E6%97%8F' },
