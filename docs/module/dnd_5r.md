@@ -1105,7 +1105,6 @@ badge: 🔮
 
 - 长团：20+ 次
 - 前半《湮灭之墓》+后半《维克那：毁灭前夜》
-- 备团案卷：[湮灭之墓×毁灭前夜 · 战役总览](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
 ---
 

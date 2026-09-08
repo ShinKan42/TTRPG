@@ -81,8 +81,6 @@ search: false
 
 [末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/)
 
-[湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
-
 :::
 
 ::::
@@ -143,17 +141,6 @@ search: false
 
 ::::
 
-:::: card
-
-::: center
-
-**💀 维克那主题**
-
-:::
-
-[湮灭之墓×毁灭前夜💀](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
-
-::::
 
 :::::
 

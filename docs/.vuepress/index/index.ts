@@ -18,7 +18,6 @@ import PrepDoomedSwordCoast from './prep_doomed_sword_coast.ts';
 import PrepCoc from './prep_coc.ts';
 import PlRef from './pl_ref.ts';
 import PrepCocTtwlb from './prep_coc_ttwlb.ts';
-import PrepTombVecna from './prep_tomb_vecna.ts';
 
 import About from './about.ts';
 
@@ -42,7 +41,6 @@ export default defineCollections([
 	PrepDoomedSwordCoast,
 	PrepCoc,
 	PrepCocTtwlb,
-	PrepTombVecna,
 	PlRef,
 	Log,
 	About,
