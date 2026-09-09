@@ -1154,6 +1154,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 <summary>📷 琳赛·皮尔</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_lindsay_portrait_nat.jpg" alt="琳赛·皮尔" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛·皮尔">
 </details>
+
 - **暗流**：==真目标==，藏蕾吉娜到**周三早上**（预言过期）再放人自首
   - 她不是杀手——
     - 「准备好了开枪」是==装给自己看的==
@@ -1286,6 +1287,7 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 <summary>📷 约翰·贝尔福牧师</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_john_portrait.jpg" alt="约翰·贝尔福牧师" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="约翰·贝尔福牧师">
 </details>
+
 - **暗流**：真诚相信献祭就是领回（==以撒框架==）
   - 周二前**一切合法**：==律师、法庭令、隐私权、信仰自由==
     - 他把==程序用成武器==
@@ -1427,6 +1429,7 @@ KJV：
 <summary>📷 露西·贝茨探员——FBI 失踪与受剥削儿童特遣组</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_bates_portrait.jpg" alt="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="露西·贝茨探员——FBI 失踪与受剥削儿童特遣组">
 </details>
+
 - **暗流**：传统钩 a 的==挡路者+资源位==双职能
   - ==程序正义人格==：搜查令、律师权、零闯入
   - **她的目标就是灾难本身**
@@ -1486,6 +1489,7 @@ KJV：
 <summary>📷 蕾吉娜·贝尔福——被留下的瓢虫书包的主人</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_regina_photo.jpg" alt="蕾吉娜·贝尔福——被留下的瓢虫书包的主人" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="蕾吉娜·贝尔福——被留下的瓢虫书包的主人">
 </details>
+
 - **暗流**：纯真、爱父母、==心理健全得反常==
   - 父母的疯狂是「==信念型==」的，家庭功能正常
 - **立场**：五岁孩子眼里的世界
@@ -1929,6 +1933,7 @@ KP 任意指定至 99%
 <summary>📷 大盒子商店监控视角——货架间的争夺</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv_nat.jpg" alt="大盒子商店监控视角——货架间的争夺" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="大盒子商店监控视角——货架间的争夺">
 </details>
+
 ---
 - **到达途径**：
   - 执法调查员走简报自动到场
@@ -2137,7 +2142,7 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
     - 执法开口即给，其他人付一笔合适的费用也行
     - 因为是新卡，==连有效期和安全码都一并记下了==
   - 有人愿意在电话里冒充持卡人、或动用黑客手段，就能「查询」这张卡的余额与其他消费
-    - 这就是推动全案的那把钥匙，**原文明示 vital clue：==宁可放宽也要让调查员查到它==**
+    - 这就是推动全案的那把钥匙，**原文明示 vital clue**：==宁可放宽也要让调查员查到它==
   - 这张卡本周早些时候在本地一家药房用现金购入
   - George 周二从银行取了==2000 美元现金==
     - 其中 1000 美元买了这张卡
@@ -2422,7 +2427,7 @@ There is nothing in any Mythos tomes or standard occult research sources implica
     - 舱门金属外缘有==一圈极淡极细的刻痕==
       - 细看是一组==伊丽莎白时代魔法结界==常见的符号
         - 神秘学（`Occult`）判定
-  - **其中一个符号清晰是==旧印==**
+  - 其中一个符号清晰是==旧印==
     - 旧印（`Elder Sign`）
       - 克苏鲁神话（`Cthulhu Mythos`）判定或先前经验识别
   - **问起来历**
@@ -2543,6 +2548,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 <summary>📷 圣经级比例的风暴——云中带翼者</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel_nat.jpg" alt="圣经级比例的风暴——云中带翼者" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="圣经级比例的风暴——云中带翼者">
 </details>
+
 ---
 - **兽医诊所与落脚圈**（向当地执法查近几日的失窃案）：
   - 周五凌晨 4 点前后（打烊后），繁忙商业区一家兽医诊所被撬
@@ -2567,6 +2573,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 <summary>📷 琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_lindsays_trail.png" alt="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="琳赛的踪迹——克利夫兰至匹兹堡路线图，标注九处兴趣点">
 </details>
+
 ::: details 📖 原文留档：找车、租车行、GPS 与收费站
 **中文（忠实全文）**
 琳赛的棕褐色福特金牛停在租车行对面的旅馆停车场里，靠近阿克隆/坎顿机场。
@@ -2695,6 +2702,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 <summary>📷 五橡旅馆室内——床、柜与门缝里的守望</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room_nat.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡旅馆室内——床、柜与门缝里的守望">
 </details>
+
 ---
 - **旅馆监控（值得调阅）**：
   - 周四深夜：那个连帽衫女人开车到 23 号房前，卸下一个==裹着毯子、睡着的小孩==、几只行李箱、几袋食品杂货，以及出箱的两支霰弹枪
@@ -2797,6 +2805,7 @@ There is surveillance footage available for the strip mall parking lot, and a wo
 <summary>📷 五橡汽车旅馆平面图</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_five_oaks.png" alt="五橡汽车旅馆平面图" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡汽车旅馆平面图">
 </details>
+
 ::: details 📖 原文留档：五橡旅馆、监控与定位链
 **中文（忠实全文）**
 调查员找到租车后会置身于一个大型、高度开发的郊区：一座大购物中心为锚，卫星条形商场沿各条来路辐射约一英里；
@@ -3051,6 +3060,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 <summary>📷 礼拜之夜——锁链缠身的有翼之物悬于会众之上</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell_nat.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="礼拜之夜——锁链缠身的有翼之物悬于会众之上">
 </details>
+
 ---
 - **献祭完成时**：
   - 天使膨胀、变形，黑风降临人间
@@ -3079,6 +3089,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 <summary>📷 贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位</summary>
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位">
 </details>
+
 :::: card 终局三支线
 ::: table
 | 支线 | 条件 | 结果 | SAN |
