@@ -75,7 +75,7 @@ search: false
 
 [风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
 
-[施特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
+[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
 
 [坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/)
 
@@ -123,7 +123,7 @@ search: false
 
 [死亡之屋💀](/prep/dnd_5r/deaths_house/)
 
-[施特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
+[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
 
 ::::
 
