@@ -107,7 +107,7 @@ export const navbar = defineNavbarConfig([
 				],
 			},
 			{
-				text: '📚 简介推荐',
+				text: '📚 简介推荐 ⭐',
 				link: '/rule/dagger_heart/brief_ref/',
 				activeMatch: '^/rule/dagger_heart/brief_ref/',
 			},

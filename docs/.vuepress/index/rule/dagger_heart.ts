@@ -2,12 +2,12 @@ import { defineCollection } from 'vuepress-theme-plume';
 
 export default defineCollection({
 	type: 'doc',
-	title: '匕首之心',
+	title: '匕首之心 🚧',
 	linkPrefix: '/rule/dagger_heart/',
 	dir: 'rule/dagger_heart',
 	sidebar: [
 		{
-			text: '新手指南',
+			text: '📖 新手指南',
 			prefix: 'guide',
 			collapsed: false,
 			items: [
@@ -21,11 +21,11 @@ export default defineCollection({
 			],
 		},
 		{
-			text: '资料站',
+			text: '📚 资料站 🚧',
 			collapsed: false,
 			items: [
 			{
-				text: '种族',
+				text: '种族 🧝',
 				collapsed: false,
 				items: [
 					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/ancestry' },
@@ -33,7 +33,7 @@ export default defineCollection({
 				],
 			},
 			{
-				text: '社群',
+				text: '社群 🏘️',
 				collapsed: false,
 				items: [
 					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#社群' },
@@ -41,7 +41,7 @@ export default defineCollection({
 				],
 			},
 			{
-				text: '职业',
+				text: '职业 🗡️',
 				collapsed: false,
 				items: [
 					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#职业' },
@@ -49,7 +49,7 @@ export default defineCollection({
 				],
 			},
 			{
-				text: '领域',
+				text: '领域 📜',
 				collapsed: false,
 				items: [
 					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#领域' },
@@ -57,7 +57,7 @@ export default defineCollection({
 				],
 			},
 			{
-				text: '装备',
+				text: '装备 🎒',
 				collapsed: false,
 				items: [
 					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#装备' },
@@ -65,7 +65,7 @@ export default defineCollection({
 				],
 			},
 				{
-					text: '规则速查',
+					text: '规则速查 ⚡',
 					collapsed: false,
 					items: [
 						{ text: '简介推荐', link: '/rule/dagger_heart/guide/quick_roll' },
@@ -75,12 +75,12 @@ export default defineCollection({
 			],
 		},
 		{
-			text: '战役框架',
+			text: '🎬 战役框架 🚧',
 			collapsed: false,
 			items: [
-				{ text: '官方', link: 'https://daggerheart.huijiwiki.com/wiki/%E6%88%98%E5%BD%B9%E6%A1%86%E6%9E%B6' },
-				{ text: '社区', link: 'https://www.daggerheart.com/wp-content/uploads/2025/07/Daggerheart-Homebrew-Kit-v1.0-July-31-2025.pdf' },
-				{ text: '神官自制', link: '/rule/dagger_heart/home_brew/' },
+				{ text: '官方 📖', link: 'https://daggerheart.huijiwiki.com/wiki/%E6%88%98%E5%BD%B9%E6%A1%86%E6%9E%B6' },
+				{ text: '社区 🤝', link: 'https://www.daggerheart.com/wp-content/uploads/2025/07/Daggerheart-Homebrew-Kit-v1.0-July-31-2025.pdf' },
+				{ text: '神官自制 👤 🚧', link: '/rule/dagger_heart/home_brew/' },
 			],
 		},
 	],
