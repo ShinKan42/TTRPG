@@ -181,6 +181,16 @@ tags:
 
 ::: center
 
+## **🐻 轻松绷住**
+
+![轻松绷住](https://bed.shinkan42.art/log/dnd_5r/barovia_committee/qingsong_bengzhu.jpg)
+
+:::
+
+---
+
+::: center
+
 ## **📋 工作汇报(含剧透)**
 
 :::
@@ -1265,16 +1275,6 @@ Raj使用火球术想扩大战果，但由于鬼婆们存在邪魔火抗，收�
 革命者不是群众的"保姆"，而是群众的"火种"——我们要做的是点燃他们，而不是替他们怕黑。
 
 ::::
-
----
-
-::: center
-
-## **🐻 轻松绷住**
-
-![轻松绷住](https://bed.shinkan42.art/log/dnd_5r/barovia_committee/qingsong_bengzhu.jpg)
-
-:::
 
 ---
 
