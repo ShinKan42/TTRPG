@@ -83,6 +83,5 @@ Doomed Forgotten Realms 系列 · 备团总览
 
 > 系列本名=Doomed Forgotten Realms（DMs Guild · Academy of Adventure 工作室）：维克那四部曲+末日幽暗地域三卷+剑湾地理志，官方全线已收录齐架构位。**祖格莫伊之怒=腐化王朝直接续卷**（7-11 级无缝衔接）。
 
-:::
+::::
 
-::::::
