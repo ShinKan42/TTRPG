@@ -165,9 +165,9 @@ createTime: 2026/07/29 21:43:38
 
 18 个种族，各自携带 2 项独特特质，对应上下两个槽位
 
-混血时从双方各取 1 项特质，自由组合
+混血时==一族取第一条特质、另一族取第二条特质==，两个槽位各保一个
 
-[种族全表 · 灰机百科](https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A7%8D%E6%97%8F)
+[种族全表 · 站内资料页](/rule/dagger_heart/brief_ref/ancestry)
 
 :::
 

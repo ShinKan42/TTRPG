@@ -57,9 +57,9 @@ createTime: 2026/9/9 12:00:00
 ==18 个种族==，每族 2 项特质
 一条定身份来历，一条给看家本领
 
-混血从两族==各取 1 条==，自由组合
+混血==一族取第一条、另一族取第二条==
 
-**更多资料**：[灰机 wiki · 种族](https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A7%8D%E6%97%8F)
+**详细资料**：[种族页](/rule/dagger_heart/brief_ref/ancestry)
 
 :::
 

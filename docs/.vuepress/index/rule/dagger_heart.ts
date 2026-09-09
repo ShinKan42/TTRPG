@@ -29,7 +29,7 @@ export default defineCollection({
 				text: '种族 🧝',
 				collapsed: true,
 				items: [
-					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#种族' },
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/ancestry' },
 					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A7%8D%E6%97%8F' },
 				],
 			},
