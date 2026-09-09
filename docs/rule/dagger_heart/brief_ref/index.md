@@ -4,7 +4,7 @@ createTime: 2026/9/9 12:00:00
 ---
 
 资料区帮新手快速做选择——每块是什么、怎么选，一页看清
-更多完整资料，收在页尾==跳转更多资料==
+各大类的更多资料，在各板块页面页尾的==跳转更多资料==
 想系统学规则，去[新手指南](/rule/dagger_heart/guide/about)
 
 ::::: center
@@ -37,8 +37,6 @@ createTime: 2026/9/9 12:00:00
 
 [挑选问卷 🎯](#🎯-挑选问卷)
 
-[跳转更多资料 📖](#📖-跳转更多资料)
-
 :::
 
 ::::
@@ -59,7 +57,9 @@ createTime: 2026/9/9 12:00:00
 
 从[种族](#种族)开始。
 
-种族回答你是谁，社群回答你从哪来，职业回答你擅长什么——按这个顺序走完出身三件套，再到[领域](#领域)和[装备](#装备)收尾。
+种族回答你是谁，社群回答你从哪来
+
+先把这两个出身定下来，再定职业，然后到[领域](#领域)和[装备](#装备)收尾。
 
 ::::
 
@@ -148,12 +148,11 @@ createTime: 2026/9/9 12:00:00
 
 ::: card
 
-==9 个社群==，出身的文化那一半
-每社群 1 项特质，定你的文化技能优势
+==9 个社群==，各自携带 1 项特质
 
-种族之外的==第二出身维度==
+社群回答你==从哪里来==——在什么样的圈子里长大，就带什么样的烙印
 
-**更多资料**：[灰机 wiki · 社群](https://daggerheart.huijiwiki.com/wiki/分类:社群)
+**详细资料**：[社群页](/rule/dagger_heart/brief_ref/community)
 
 :::
 
@@ -202,19 +201,3 @@ createTime: 2026/9/9 12:00:00
 **更多资料**：[灰机 wiki · 装备](https://daggerheart.huijiwiki.com/wiki/装备)
 
 :::
-
----
-
-::: center
-
-## **📖 跳转更多资料**
-
-:::
-
-:::: card
-
-站内逐块建设中——==建成一域，换一域==，现阶段完整资料在==灰机 wiki==
-
-[规则速查 ⚡](https://daggerheart.huijiwiki.com/wiki/规则速查) · [职业 🗡️](https://daggerheart.huijiwiki.com/wiki/分类:职业) · [种族 🧝](https://daggerheart.huijiwiki.com/wiki/分类:种族) · [社群 🏘️](https://daggerheart.huijiwiki.com/wiki/分类:社群) · [领域 📜](https://daggerheart.huijiwiki.com/wiki/领域卡) · [装备 🎒](https://daggerheart.huijiwiki.com/wiki/装备)
-
-::::

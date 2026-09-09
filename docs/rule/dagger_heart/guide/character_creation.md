@@ -183,7 +183,7 @@ createTime: 2026/07/29 21:43:38
 
 贵族精灵与流浪精灵，是两个完全不同的角色
 
-[社群全表 · 灰机百科](https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A4%BE%E7%BE%A4)
+[社群全表 · 站内资料页](/rule/dagger_heart/brief_ref/community)
 
 :::
 

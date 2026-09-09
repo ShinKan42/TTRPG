@@ -24,18 +24,54 @@ export default defineCollection({
 			text: '📚 资料索引 🚧',
 			collapsed: false,
 			items: [
-				{ text: '种族 🧝', link: '/rule/dagger_heart/brief_ref/ancestry' },
-				{ text: '种族 🧝 跳转', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A7%8D%E6%97%8F' },
-				{ text: '社群 🏘️', link: '/rule/dagger_heart/brief_ref/#社群' },
-				{ text: '社群 🏘️ 跳转', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A4%BE%E7%BE%A4' },
-				{ text: '职业 🗡️', link: '/rule/dagger_heart/brief_ref/#职业' },
-				{ text: '职业 🗡️ 跳转', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E8%81%8C%E4%B8%9A' },
-				{ text: '领域 📜', link: '/rule/dagger_heart/brief_ref/#领域' },
-				{ text: '领域 📜 跳转', link: 'https://daggerheart.huijiwiki.com/wiki/%E9%A2%86%E5%9F%9F%E5%8D%A1' },
-				{ text: '装备 🎒', link: '/rule/dagger_heart/brief_ref/#装备' },
-				{ text: '装备 🎒 跳转', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A3%85%E5%A4%87' },
-				{ text: '规则速查 ⚡', link: '/rule/dagger_heart/guide/quick_roll' },
-				{ text: '规则速查 ⚡ 跳转', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A7%84%E5%88%99%E9%80%9F%E6%9F%A5' },
+			{
+				text: '种族 🧝',
+				collapsed: false,
+				items: [
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/ancestry' },
+					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A7%8D%E6%97%8F' },
+				],
+			},
+			{
+				text: '社群 🏘️',
+				collapsed: false,
+				items: [
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/community' },
+					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A4%BE%E7%BE%A4' },
+				],
+			},
+			{
+				text: '职业 🗡️',
+				collapsed: false,
+				items: [
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#职业' },
+					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E8%81%8C%E4%B8%9A' },
+				],
+			},
+			{
+				text: '领域 📜',
+				collapsed: false,
+				items: [
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#领域' },
+					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E9%A2%86%E5%9F%9F%E5%8D%A1' },
+				],
+			},
+			{
+				text: '装备 🎒',
+				collapsed: false,
+				items: [
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#装备' },
+					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A3%85%E5%A4%87' },
+				],
+			},
+			{
+				text: '规则速查 ⚡',
+				collapsed: false,
+				items: [
+					{ text: '简介推荐', link: '/rule/dagger_heart/guide/quick_roll' },
+					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A7%84%E5%88%99%E9%80%9F%E6%9F%A5' },
+				],
+			},
 			],
 		},
 		{
