@@ -108,8 +108,15 @@ export const navbar = defineNavbarConfig([
 			},
 			{
 				text: '📚 简介推荐 ⭐',
-				link: '/rule/dagger_heart/brief_ref/',
 				activeMatch: '^/rule/dagger_heart/brief_ref/',
+				items: [
+					{ text: '总览', link: '/rule/dagger_heart/brief_ref/' },
+					{ text: '种族 🧝', link: '/rule/dagger_heart/brief_ref/ancestry' },
+					{ text: '社群 🏘️', link: '/rule/dagger_heart/brief_ref/#社群' },
+					{ text: '职业 🗡️', link: '/rule/dagger_heart/brief_ref/#职业' },
+					{ text: '领域 📜', link: '/rule/dagger_heart/brief_ref/#领域' },
+					{ text: '装备 🎒', link: '/rule/dagger_heart/brief_ref/#装备' },
+				],
 			},
 			{
 				text: '🎬 战役框架 🚧',
