@@ -3376,6 +3376,20 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 第四章是==一组怪异的图画==，作为《肯尼亚启示录》的附录：==星图、以诺派图式==、描绘巫术三角与魔法圆的费解示意图、复杂的数学公式——==全部没有任何散文说明==。
 
+::: details 📖 原文留档：天使之书速览框内全文（Handout #2，English verbatim）
+
+**English (verbatim)**
+
+This is a cheap paperback printed by a vanity press, about 200 pages in length. It is comprised of four chapters. The first two are word for word reprints of the King James versions of the books of Genesis and Exodus, although a clause from Exodus 11:6, about how the outcry of woe from the death of the firstborn will not ever be repeated, is notably omitted; the text simply skips from 11:5 to 11:7.
+
+The third chapter is called the Kenyan Revelations, and is authored by the Reverend John Balfour. This too is short, and concerns his time performing a youth mission in interior Kenya. He is vague about exactly where in Kenya that he went, but it was clearly somewhere in the remote interior. He encountered a “wise prophet of the Lord” there. She posited that the Apocalypse of John was false and unreliable, and that it was far more likely that the end of the world would be visited by God upon mankind in some way that was consistent with both history and the laws of science. She then explained that the Ten Plagues of Egypt were a far more likely way that God would purge the wicked: they are all natural disasters that could follow from a volcanic cataclysm and ensuing distortion of weather patterns, and God had purged the world of wickedness in this way before. The “wise prophet” openly challenges the interpretation of Exodus 11:6 that the plagues of Egypt were a one-time event, and promises that when the time comes, the Lord, acting through his Passover Angel, will purge the wicked in the same way.
+
+Balfour even cites some scientific papers on this topic, including The Plagues of Egypt: Archaeology, History, and Science Look at the Bible, by Siro Igino Trevisanato, Georgia Press LLC, 2005; and Marr J.S., Malloy C.D., An epidemiologic analysis of the ten plagues of Egypt, Caduceus, (Springfield), Ill., 1996 Spring; 12(1):7–24.
+
+The fourth chapter is a set of bizarre drawings, set forth as an Appendix to the Kenyan Revelations. There are star charts, Enochian occult drawings, incomprehensible diagrams depicting thaumaturgic triangles, magic circles, and the like, and complicated mathematical formulae, all without any sort of prose explanation.
+
+:::
+
 ::::
 
 ---
@@ -3483,6 +3497,16 @@ KJV：
 
 ⑦ 画面剧烈晃动、奔逃、黑屏。
 录像结束。
+
+::: details 📖 原文留档：仪式录像出处段（琳赛转述，English verbatim）
+
+**English (verbatim)**
+
+This time he had gone undercover as a right-wing domestic terrorist, infiltrated the Church’s membership over the past few years, and surreptitiously videotaped a ritual—one at which the “Passover Angel” had been summoned through a hideous blood ritual and appeared in the chapel behind the Balfour’s house. The Angel issued orders to the faithful, and then looked right at the hidden camera and said, in a chilling, sepulchral voice: “There is nothing that you can do, little man. Nor you, little woman.” George bolted for the door; the cultists simply watched him leave, apparently trusting in the Angel to set things right.
+
+全段中文忠实全文与前后文见人物区「📖 原文留档：琳赛的心态」。
+
+:::
 
 ::::
 
