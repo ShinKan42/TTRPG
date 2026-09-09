@@ -1209,6 +1209,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 ---
 **STR** 55　**CON** 70　**SIZ** 60　**INT** 65　**POW** 65
+
 **DEX** 90　**APP** 65　**EDU** 70　**SAN** 45　**HP** 13
 
 ---
@@ -1341,6 +1342,7 @@ KJV：
 
 ---
 **STR** 70　**CON** 75　**SIZ** 70　**INT** 75　**POW** 90
+
 **DEX** 65　**APP** 75　**EDU** 70　**SAN** 0　**HP** 14
 
 ---
@@ -1456,6 +1458,7 @@ KJV：
 
 ---
 **STR** 55　**CON** 70　**SIZ** 60　**INT** 80　**POW** 70
+
 **DEX** 60　**APP** 55　**EDU** 70　**SAN** 62　**HP** 14
 
 ---
@@ -1615,6 +1618,7 @@ KJV：
 
 ---
 **STR** 95　**CON** 110　**SIZ** 90　**INT** 100　**POW** 110
+
 **DEX** 115　**HP** 14
 
 ---
@@ -1651,6 +1655,7 @@ KP 任意指定至 99%
 
 ---
 **STR** 70　**CON** 75　**SIZ** 70　**INT** 50　**POW** 55
+
 **DEX** 65　**APP** 50　**EDU** 50　**SAN** 0　**HP** 14
 
 ---
@@ -3200,6 +3205,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 :::
 
+
+:::: card
+
 ::: center
 
 ### **<a id="quote-jianbao"></a> 到场简报（Handout #1） 📄**
@@ -3215,7 +3223,6 @@ b 钩买通警队线人拿到同款）。
 
 :::
 
-::: card
 
 **《瓢虫，瓢虫——到场时已知情报》**
 
@@ -3249,7 +3256,7 @@ b 钩买通警队线人拿到同款）。
 教会网站公开回应这场「持续迫害」：「时机到来时，上帝与他的逾越节天使将像惩罚埃及那样惩罚华盛顿的恶人——以疮与血、蛙与蝗、虱与蝇、疫与暗；
 当对信众的迫害仍不停止，便以他们==头生子的死亡==。」
 
-:::
+::::
 
 ::: details 📖 原文留档：到场简报 Handout #1
 
@@ -3326,6 +3333,9 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 ---
 
+
+:::: card
+
 ::: center
 
 ### **<a id="quote-shu"></a>《逾越节天使之书》速览（Handout #2） 📕**
@@ -3345,7 +3355,6 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 :::
 
-::: card
 
 这是一本自费出版的廉价平装书，==约 200 页，共四章==。
 
@@ -3365,9 +3374,12 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 第四章是==一组怪异的图画==，作为《肯尼亚启示录》的附录：==星图、以诺派图式==、描绘巫术三角与魔法圆的费解示意图、复杂的数学公式——==全部没有任何散文说明==。
 
-:::
+::::
 
 ---
+
+
+:::: card
 
 ::: center
 
@@ -3391,7 +3403,6 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 :::
 
-::: card
 
 **破译后的讯息（替换密码：把数字序列替换成《耶利米书》的对应字母）**
 
@@ -3404,7 +3415,7 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 当群星就位、界墙变薄之时，逾越节的天使将从**黑风之山**降临，无信者的头生子将从地上消亡。
 故而我们祈祷：la! Narlato wagh'nag! iszkur boret'l! 天使乘风而来！
 
-:::
+::::
 
 <a id="quote-poyi"></a>
 
@@ -3431,6 +3442,9 @@ KJV：
 
 ---
 
+
+:::: card
+
 ::: center
 
 ### **<a id="quote-luxiang"></a>仪式存档录像（观看所得） 🎞️**
@@ -3450,9 +3464,9 @@ KJV：
 
 :::
 
-::: card
 
-**家用摄像机，固定藏机位。礼拜堂内。**
+**家用摄像机，固定藏机位。
+礼拜堂内。**
 
 ① 画面：郊区住宅后院的木造小礼拜堂，烛光，会众肃立。
 ② 血祭仪式进行——细节被前排人影遮挡，只能看见托盘与溅落。
@@ -3468,18 +3482,18 @@ KJV：
 ⑦ 画面剧烈晃动、奔逃、黑屏。
 录像结束。
 
-:::
+::::
 
 
 ---
+
+:::: card
 
 ::: center
 
 ### **<a id="quote-gaobie"></a> 乔治的告别信（Handout #4） ✉️**
 
 :::
-
-:::: card
 
 - 周五下午五点左右邮件到达时，女儿妮可收到这封 George 生前寄出的信
   - 与全部账单付清、猫托付邻居、电脑砸碎同属一个人的临行收拾
