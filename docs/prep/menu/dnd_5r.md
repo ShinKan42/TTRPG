@@ -45,6 +45,8 @@ search: false
 
 [死亡之屋💀](/prep/dnd_5r/deaths_house/)
 
+[救恩回响⛪](/prep/dnd_5r/echoes_of_salvation/)
+
 ::::
 
 :::: card

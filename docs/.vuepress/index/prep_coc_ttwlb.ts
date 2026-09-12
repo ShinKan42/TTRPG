@@ -18,6 +18,7 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '瓢虫，瓢虫，飞回家', link: 'ladybug_ladybug_fly_away_home' },
+				{ text: '德州地狱', link: 'hell_in_texas' },
 			],
 		},
 	],
