@@ -115,7 +115,7 @@ export const navbar = defineNavbarConfig([
 					{ text: '种族 🧝 跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A7%8D%E6%97%8F' },
 					{ text: '社群 🏘️', link: '/rule/dagger_heart/brief_ref/community' },
 					{ text: '社群 🏘️ 跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E7%A4%BE%E7%BE%A4' },
-					{ text: '职业 🗡️', link: '/rule/dagger_heart/brief_ref/#职业' },
+					{ text: '职业 🗡️', link: '/rule/dagger_heart/brief_ref/class' },
 					{ text: '职业 🗡️ 跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E8%81%8C%E4%B8%9A' },
 					{ text: '领域 📜', link: '/rule/dagger_heart/brief_ref/#领域' },
 					{ text: '领域 📜 跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E9%A2%86%E5%9F%9F%E5%8D%A1' },

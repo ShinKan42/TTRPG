@@ -44,7 +44,7 @@ export default defineCollection({
 				text: '职业 🗡️',
 				collapsed: true,
 				items: [
-					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#职业' },
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/class' },
 					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E8%81%8C%E4%B8%9A' },
 				],
 			},

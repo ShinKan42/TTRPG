@@ -220,7 +220,7 @@ createTime: 2026/07/29 21:43:38
 
 希望特性是 ==这个职业的高光时刻==，花费 3 希望点点亮
 
-[职业全表 · 灰机百科](https://daggerheart.huijiwiki.com/wiki/%E5%88%86%E7%B1%BB:%E8%81%8C%E4%B8%9A)
+[职业全表 · 站内资料页](/rule/dagger_heart/brief_ref/class)
 
 :::
 

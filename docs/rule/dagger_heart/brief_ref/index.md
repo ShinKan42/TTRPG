@@ -172,7 +172,7 @@ createTime: 2026/9/9 12:00:00
 
 起始生命、闪避和专属物品都按职业给
 
-**更多资料**：[灰机 wiki · 职业](https://daggerheart.huijiwiki.com/wiki/分类:职业)
+**详细资料**：[职业页](/rule/dagger_heart/brief_ref/class)
 
 :::
 
