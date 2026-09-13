@@ -309,6 +309,12 @@ export const navbar = defineNavbarConfig([
 				],
 			},
 			{
+				text: '📜 通用村规',
+				items: [
+					{ text: '塔罗牌 🔮', link: '/about/tarot', activeMatch: '^/about/tarot' },
+				],
+			},
+			{
 				text: '📋 主持备团',
 				items: [
 					{ text: '案卷总索引 📋', link: '/prep/menu/', activeMatch: '^/prep/menu/$' },
