@@ -10,7 +10,7 @@ config:
       dark: 0.3
     hero:
       name: 在此演役
-      tagline: 设计你的角色，役を選ぼうよ！
+      tagline: 设计你的角色，役を選ぼうよ！  
       actions:
         - theme: alt
           text: 约团方式 →
@@ -28,19 +28,19 @@ config:
       - title: 故事第一
         icon: game-icons:drama-masks
         details: >-
-          关注发生了什么，而非规则条框。
+          关注发生了什么，而非规则条框。  
           每场战斗都有故事意义，我们是共同完成故事的伙伴
         link: /module/
         linkText: 了解带团风格
       - title: 角色驱动
         icon: game-icons:quill
         details: >-
-          协助完成高光时刻，以合理阻力挑战角色。
+          协助完成高光时刻，以合理阻力挑战角色。  
           长团中挖掘情感痛点，定制个人故事线
       - title: 您的选择优先
         icon: game-icons:perspective-dice-six-faces-random
         details: >-
-          模组改造为开放世界模拟，鼓励创造自己的路径。
+          模组改造为开放世界模拟，鼓励创造自己的路径。  
           Rule of Cool——够酷、够扮演，就值得实现
   - type: features
     title: 🎲 规则系统

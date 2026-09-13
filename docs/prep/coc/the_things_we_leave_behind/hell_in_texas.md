@@ -12,7 +12,7 @@ search: false
 
 地狱屋开门周 · 双钩案卷
 
-> 「It wants to burn. Burn in hell.」
+> 「It wants to burn. Burn in hell.」  
 > （它想烧。烧进地狱。）
 
 <details class="hint-container details">
@@ -647,6 +647,8 @@ Other possible avenues include: Investigator groups actively looking for weird e
 **B——来做一条警局黑幕的报道**
 
 > 延续注：延续 GNS 记者团的桌由 DM 现场接；新桌按 GNS 三模板（狗仔/烦人精/塌房名人）建卡。案卷内容两态通吃。
+
+- 组织档案：[全球新闻社](/prep/coc/the_things_we_leave_behind/global_news_service.html)——记者三模板、行规与法律救援的完整版在那页
 
 - 编辑部指令（GNS 册原文）：
   - 一桩猎奇的自杀、一座刻意挑衅的鬼屋、加上警局腐败的指控——闻起来就是条新闻
@@ -1531,7 +1533,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::: card
 
-**玩家面实物件三张（Hell Papers #1-#3）**
+**玩家面实物件三张（Handout #1-#3）**
 
 - 玩家面就是实物本身——报纸页面、Reddit 帖、照片，打印或投屏直接用
 - 下方每张折叠内含==中文直译＋英文照录==，DM 无实物时照直译念
@@ -1541,7 +1543,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 <a id="quote-news"></a>
 
-::: details 📰 Hell Papers #1——《里兰纪事报》网站 10 月 20 日报道
+::: details 📰 Handout #1——《里兰纪事报》网站 10 月 20 日报道
 
 <details class="hint-container details">
 <summary>📷 《里兰纪事报》网站 10/20 报道（原书图版）</summary>
@@ -1586,7 +1588,7 @@ Funeral services have been arranged for October 23rd in Leland.
 
 <a id="quote-reddit"></a>
 
-::: details 💬 Hell Papers #2——Reddit r/Easttexas 帖（10 月 22 日）
+::: details 💬 Handout #2——Reddit r/Easttexas 帖（10 月 22 日）
 
 <details class="hint-container details">
 <summary>📷 Reddit r/Easttexas 讨论帖（原书图版）</summary>
@@ -1633,7 +1635,7 @@ I don't know what happened to Kelly but I volunteered as a carpenter in that hou
 
 <a id="quote-screed"></a>
 
-::: details 🖼️ Hell Papers #3——安格斯坦宅墙面涂写照片
+::: details 🖼️ Handout #3——安格斯坦宅墙面涂写照片
 
 <details class="hint-container details">
 <summary>📷 安格斯坦宅墙面涂写（墙上遗书）（原书图版）</summary>
@@ -1690,7 +1692,7 @@ THIS IS SATANS HOUSE. YOU CANNOT DRIVE OUT SATAN. YOU CAN CALL TO GOD BUT GOD WI
 
 :::
 
-==在玩家面前拿出来的实物稿件==——报纸、帖子、照片，全文各在使用位；
+==在玩家面前拿出来的实物稿件==——报纸、帖子、照片，全文各在使用位；  
 本区一张总表清点，点开即达。
 
 

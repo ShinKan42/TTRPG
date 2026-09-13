@@ -29,7 +29,9 @@ search: false
 
 ::: tip 定位
 
-退：只当瓢虫一团的组织背景；进：撑起六篇选集的完整战役；横挂：作为通用战役框架，现代美国的 COC 团都能接「记者开局」
+退：只当瓢虫一团的组织背景；  
+进：撑起六篇选集的完整战役；  
+横挂：作为通用战役框架，现代美国的 COC 团都能接「记者开局」
 
 玩家面资料（零剧透层，建卡正本）：[📰 全球新闻社 · 玩家资料](/module/pl_ref/gns.html)
 
@@ -293,7 +295,7 @@ Jules Thomas，26 岁，卡头判词「Complete Jackass Paparazzo」（彻头彻
 
 :::
 
-> 「Run toward the story, don't run away from it.」
+> 「Run toward the story, don't run away from it.」  
 > 「朝故事跑，别背对它跑。」
 
 ::: right

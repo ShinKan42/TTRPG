@@ -47,7 +47,8 @@ search: false
 
 ::: center
 
-*官方名 The Dragon Delves（2025），D&D Beyond 已核。第 2/5/9 篇官方标注可单人团改编。*
+*官方名 The Dragon Delves（2025），D&D Beyond 已核。  
+第 2/5/9 篇官方标注可单人团改编。*
 
 :::
 
