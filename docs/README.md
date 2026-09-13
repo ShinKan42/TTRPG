@@ -16,7 +16,7 @@ config:
           text: 约团方式 →
           link: /about/appointment
         - theme: alt
-          text: 团前准备 →
+          text: 带团风格 →
           link: /about/preparation
         - theme: alt
           text: 模组选择 →
@@ -27,15 +27,21 @@ config:
     features:
       - title: 故事第一
         icon: game-icons:drama-masks
-        details: 关注发生了什么，而非规则条框；每场战斗都有故事意义，我们是共同完成故事的伙伴
+        details: >-
+          关注发生了什么，而非规则条框。
+          每场战斗都有故事意义，我们是共同完成故事的伙伴
         link: /module/
         linkText: 了解带团风格
       - title: 角色驱动
         icon: game-icons:quill
-        details: 协助完成高光时刻；以合理阻力挑战角色，在长团中挖掘情感痛点，定制个人故事线
+        details: >-
+          协助完成高光时刻，以合理阻力挑战角色。
+          长团中挖掘情感痛点，定制个人故事线
       - title: 您的选择优先
         icon: game-icons:perspective-dice-six-faces-random
-        details: 模组改造为开放世界模拟，鼓励创造自己的路径；Rule of Cool——够酷、够扮演，就值得实现
+        details: >-
+          模组改造为开放世界模拟，鼓励创造自己的路径。
+          Rule of Cool——够酷、够扮演，就值得实现
   - type: features
     title: 🎲 规则系统
     features:
@@ -134,7 +140,7 @@ createTime: 2025/4/17 20:00:39
 
 [📅 约团方式](/about/appointment.md)
 
-[🧭 跑团怎么玩](/about/preparation.md)
+[🎭 我的带团风格](/about/preparation.md)
 
 ::::
 
