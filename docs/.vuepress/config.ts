@@ -132,6 +132,8 @@ export default defineUserConfig({
 					'/prep/dnd_5r/echoes_of_salvation/locations.html',
 					'/prep/dnd_5r/echoes_of_salvation/npcs.html',
 					'/prep/dnd_5r/echoes_of_salvation/items_quotes.html',
+					'/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/',
+					'/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/index.html',
 					'/prep/dnd_5r/deaths_house/',
 					'/prep/dnd_5r/deaths_house/index.html',
 					'/prep/dnd_5r/curse_of_strahd/',
