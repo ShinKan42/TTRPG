@@ -250,7 +250,7 @@ Currently, it's a full house and the crowd has poured over into the market. Ever
 ::: card
 #### <a id="loc-warehouse"></a> 7 仓库 Warehouse
 
-> **案卷注**：原文仅图例条目＋一句功能（L1378-1380）；以下含推演标注。
+> **案卷注**：原文仅图例条目＋一句功能；以下含推演标注。
 
 **是什么**
 - ==绑架案的原文指定目的地==：信徒目标=把莉奥拉带到**仓库**，供净化仪式使用
