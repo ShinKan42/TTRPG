@@ -136,12 +136,14 @@ ShinKan42
 - 真实现象，非作者杜撰
   - 极端保守教会办的万圣节「鬼屋」：恐怖布景＋演员表演「罪的代价」，目的是吓人悔改
   - 1970 年代初起源，1990 年代中期扩散，2001 年纪录片《Hell House》将其带入公众视野（原书推荐 KP 观看）
-  - 参观结束设「救赎选择」：志愿者当场带你祷告、归向基督——==天堂帐篷的原型==
+  - 参观结束设「救赎选择」：志愿者当场带你祷告、归向基督——
+    - ==天堂帐篷的原型==
 - 与游乐鬼屋的分野
   - 常规鬼屋吓完就完；地狱屋的每一吓都是布道——==恐怖是手段，悔改是目的==
 - 作者注：本模组对地狱屋的呈现没有夸张，有些地方还淡化了
 - **桌上用法**：
-  - 调查员初到屋内，把六房间的「表演性」演足——假的血、塑料魔鬼尾巴、橡皮恶魔角
+  - 调查员初到屋内，把六房间的「表演性」演足——
+    - 假的血、塑料魔鬼尾巴、橡皮恶魔角
   - 玩家以为这只是怪趣味布景时，真死亡就在同一栋屋子里发生
 - **玩家接触层**：招募帖「用恐怖布景布道」一句即可，地狱屋概念留桌上展开
 
@@ -160,7 +162,8 @@ ShinKan42
 
 - 自杀在福音派信仰里=不可赦免的罪
   - 死于罪中的人不下教会墓地礼仪：韦弗牧师拒绝在教会办凯莉的葬礼
-  - 他在墓前致悼词，称她「被认识的人爱着、聪明又体贴」——却==全文避开上帝与救赎==
+  - 他在墓前致悼词，称她「被认识的人爱着、聪明又体贴」——
+    - 却==全文避开上帝与救赎==
   - 他真心相信凯莉已下地狱，为此悲伤，但相信神的审判是终局
 - 这不是恶毒，是教义——韦弗按信仰行事，越虔诚越冷酷
 - **桌上用法**：
@@ -175,14 +178,17 @@ ShinKan42
 ::: tip 乡村教会 vs 巨型教会——韦弗的战争
 
 - 美国宗教图景的真实断层
-  - 城郊巨型教会（megachurch）：3,000 座礼堂、明星客座讲员、专业唱诗班、常驻乐队
-  - 乡村教会：木结构白房子、几百座、日常半空——==里兰自由福音教会正在输掉这场战争==
+  - 城郊巨型教会（megachurch）：3,000 座礼堂、明星客座讲员
+    - 、专业唱诗班、常驻乐队
+  - 乡村教会：木结构白房子、几百座、日常半空
+    - ==里兰自由福音教会正在输掉这场战争==
 - 输掉意味着什么
   - ==会众流向拉夫金的新生命巨型教会（New Life）==，三年入座与捐款连跌
   - 韦弗兄弟把自己的积蓄押进教会，双双接近破产
   - 地狱屋不是怪趣味，是==孤注一掷的自救==：1 万美元拍下老宅，办完万圣节卖掉还债
 - **桌上用法**：
-  - 韦弗牧师的一切行为（买凶宅、催结案、掩盖事件）都从这条钱链上长出来——调查员查账查到的不是邪恶，是绝望
+  - 韦弗牧师的一切行为（买凶宅、催结案、掩盖事件）都从这条钱链上长出来——
+    - 调查员查账查到的不是邪恶，是绝望
 - **玩家接触层**：招募帖「救自己濒临破产的教会」一句已带出
 
 :::
@@ -194,7 +200,8 @@ ShinKan42
 - Parachurch movement=教会之外的宗教组织运动（独立于地方教会的宣教/出版/活动机构）
   - 大型地狱屋多是外围事工操办：定制建筑、风管特效、假地板、精心设计的动线
 - 韦弗学人家的形，学不起人家的钱
-  - 买不起器材与专业效果——于是买了==一栋自带「特效」的凶宅==，靠志愿者和低技术凑合
+  - 买不起器材与专业效果——
+    - 于是买了==一栋自带「特效」的凶宅==，靠志愿者和低技术凑合
 - **桌上用法**：
   - 志愿者手里的「特效」越简陋，屋子的「真效果」（事故、耳语、显形）越刺眼——对比即恐怖
 - **玩家接触层**：不入帖，桌上随查随讲
@@ -231,12 +238,16 @@ ShinKan42
 
 ::: tip AA 戒酒互助会——米奇的悬崖
 
-- 米奇二十多岁起酗酒、醉酒施暴，近期靠 AA（嗜酒者互诫协会）戒断重建
-  - 凯莉年少时的漂泊、辍学、毒品与一段段施虐关系——根都扎在他的酒瓶里
-  - 他没来得及弥补，女儿死了；==他的清醒此刻摇摇欲坠==
+- 米奇二十多岁起酗酒、醉酒施暴
+  - 近期靠 AA（嗜酒者互诫协会）戒断重建
+  - 凯莉年少时的漂泊、辍学、毒品与一段段施虐关系
+    - 根都扎在他的酒瓶里
+  - 他没来得及弥补，女儿死了；
+    - ==他的清醒此刻摇摇欲坠==
 - 「戒了的人最脆」：AA 体系里「一天一天数着过」，丧女正是压垮的第一块石头
 - **桌上用法**：
-  - 米奇每一次出场都带着「下一秒就去买酒」的张力；调查员对他的态度直接扳动他的走向
+  - 米奇每一次出场都带着「下一秒就去买酒」的张力；
+    - 调查员对他的态度直接扳动他的走向
 - **玩家接触层**：不入帖，桌上用
 
 :::
@@ -246,10 +257,12 @@ ShinKan42
 ::: tip 六房间的现实原型——表演不是夸张
 
 - 真实地狱屋的标配场景即包含：同性恋死于 AIDS、堕胎悔改、派对嗑药、校园枪击、家暴
-  - 纪录片《Hell House》(2001) 有实录——志愿者排练「罪人」角色，观众被引导决志祷告
+  - 纪录片《Hell House》(2001) 有实录
+    - 志愿者排练「罪人」角色，观众被引导决志祷告
 - 换言之：==屋里演的全是美国教会真的在演的==
 - **桌上用法**：
-  - 调查员觉得某个房间「编得也太狠了」时——那是最接近纪录片的一幕
+  - 调查员觉得某个房间「编得也太狠了」时——
+    - 那是最接近纪录片的一幕
 - **玩家接触层**：六房间题材清单已在内容提示两层制内，报名前确认
 
 :::
@@ -260,7 +273,8 @@ ShinKan42
 
 - 德克萨斯基督教大学（Texas Christian University，沃思堡）人类学教授迈克尔·雷蒙德
   - 原书虚构的专家位：调查员想深挖「地狱屋」传统时的答疑出口
-  - 名字带 Christian 但属主流新教传统大学，与福音派有距离——问地狱屋神学反而合适
+  - 名字带 Christian 但属主流新教传统大学，与福音派有距离——
+    - 问地狱屋神学反而合适
 - **桌上用法**：
   - 调查员问出「这种布道正常吗」时，雷蒙德给出「比你想象的普遍」的回答
 
@@ -296,18 +310,22 @@ ShinKan42
 
 - **本篇命题**（挂招募帖·角色塑造问题，Q24-a 定案）：
   - ①（人物层）：生活刚刚好起来的时候，你最怕失去什么？
-  - ②（搁置层）：大家都觉得不对劲，但都没说——你会是开口的那个人吗？
+  - ②（搁置层）：大家都觉得不对劲，但都没说——
+    - 你会是开口的那个人吗？
 
 ---
 
 - **双钩同备（Q13 定案）**：a 传统调查员钩／b GNS 记者团钩，==共用本案卷全部内容==，差异只在双钩章
-  - 权重如实：A 钩=主书 Involving 四通道；B 钩=GNS 册整章（含「重登场卡枪击高潮」选项，供料位不预写）
+  - 权重如实：A 钩=主书 Involving 四通道；
+    - B 钩=GNS 册整章（含「重登场卡枪击高潮」选项，供料位不预写）
 
 ---
 
 - **魔改清单（Q16 定案：原样跑）**
-  - 与 S1 的轻映射（Q14 定案）：韦弗桌上《逾越节天使之书》签名本＋正写信斥约翰·贝尔福（John Balfour）异端——原书自带彩蛋，保留原样
-  - 硬边界：==可引 S1 世界态==（贝尔福其人、他的书、他的教义）；==不引 S1 桌面结局态==（那桌玩家做了什么，每桌不同）
+  - 与 S1 的轻映射（Q14 定案）：韦弗桌上《逾越节天使之书》签名本＋正写信斥约翰·贝尔福（John Balfour）异端——
+    - 原书自带彩蛋，保留原样
+  - 硬边界：==可引 S1 世界态==（贝尔福其人、他的书、他的教义）；
+    - ==不引 S1 桌面结局态==（那桌玩家做了什么，每桌不同）
   - 其余照原文——美国背景保留、地名道具照原文
 
 ---
@@ -329,20 +347,26 @@ ShinKan42
 :::
 
 - **罗伊格尔 Lloigor——屋下的进食者**
-  - 受伤、孤立、困在安格斯坦宅地基之下的古老存在；空置二十年沉睡，志愿者进屋后醒来
-  - 原书自述：即便以罗伊格尔的视角看，它也已经疯了——==本能行事，生存模式==
+  - 受伤、孤立、困在安格斯坦宅地基之下的古老存在；
+    - 空置二十年沉睡，志愿者进屋后醒来
+  - 原书自述：即便以罗伊格尔的视角看，它也已经疯了——
+    - ==本能行事，生存模式==
   - 学会了新的取食方式：==人的身心痛苦，死亡尤甚==
   - 活动范围：屋内及周边==四分之一英里==
-  - 它正在备一场==「营养丰富的暴行」==——开门夜就是餐桌
+  - 它正在备一场==「营养丰富的暴行」==——
+    - 开门夜就是餐桌
 
 ---
 
 - **凡人源头是真诚的求生**
   - 教会输给巨型教会：三年入座与捐款连跌，韦弗兄弟私钱押上，双双近破产
-  - 地狱屋不是怪趣味，是==孤注一掷的自救==——办完万圣节卖屋还债
-  - 没有恶人：牧师绝望、警长护兄、志愿者缺钱缺技术——==灾难从一群好人的自救里长出来==
+  - 地狱屋不是怪趣味，是==孤注一掷的自救==
+    - 办完万圣节卖屋还债
+  - 没有恶人：牧师绝望、警长护兄、志愿者缺钱缺技术——
+    - ==灾难从一群好人的自救里长出来==
   - 地狱屋办得越风光，屋下的东西喂得越饱：恶名修好，屋子转手，==开饭的桌搬到下一户人家==
-  - 能做的只有一件事：饿它。人一散，它退回沉睡；屋子还立在原地，==等下一批开灯的人==
+  - 能做的只有一件事：饿它。人一散，它退回沉睡；
+    - 屋子还立在原地，==等下一批开灯的人==
 
 ---
 
@@ -353,28 +377,42 @@ ShinKan42
 :::
 
 - **罗伊格尔对全屋——进食工程**
-  - 手段三层：念力事故（人人带伤）→ 心理侵蚀（耳语与阴影，每次到屋 1D3 SAN）→ 活武器
-  - 三件活武器全是「刚刚爬起来的人」：道恩·埃勒斯（重建信仰→自缢倒计时 10/23 夜）、凯文·曹（想走出壳→口袋实弹）、布拉德利·凯勒（正义抗议→他自己不知道的汽油阵）
-  - 进食偏好（行为事实）：它偏爱把刚扶正的人推回去——凯莉、米奇、道恩、曹、凯勒，全在重建点上
+  - 手段三层
+    - 念力事故（人人带伤）
+    - 心理侵蚀（耳语与阴影，每次到屋 1D3 SAN）
+    - 活武器
+  - 三件活武器全是「刚刚爬起来的人」
+    - 道恩·埃勒斯（重建信仰→自缢倒计时 10/23 夜）
+    - 凯文·曹（想走出壳→口袋实弹）
+    - 布拉德利·凯勒（正义抗议→他自己不知道的汽油阵）
+  - 进食偏好（行为事实）：它偏爱把刚扶正的人推回去——
+    - 凯莉、米奇、道恩、曹、凯勒，全在重建点上
 
 ---
 
 - **韦弗兄弟对调查员——掩盖与恐吓**
-  - 兄泰德保开门（教会生死线），弟丹尼尔保兄（警权全覆盖：催结案、锁遗书照片、栽赃外人）
-  - 盖到哪一步：恐吓、假罪名拘押都干，==止步于谋杀==
-  - 道恩若死，警长连夜移尸伪造家中自杀现场——同谋链越拉越长
+  - 兄泰德保开门（教会生死线）
+    - 弟丹尼尔保兄（警权全覆盖：催结案、锁遗书照片、栽赃外人）
+  - 盖到哪一步
+    - 恐吓、假罪名拘押都干，==止步于谋杀==
+  - 道恩若死，警长连夜移尸伪造家中自杀现场——
+    - 同谋链越拉越长
 
 ---
 
 - **米奇·兰德罗姆对韦弗——真相索求**
   - kellytruth 帖、葬礼对峙、上门闹事三连
+    - 网帖持续更新——每层新楼都是施压材料
+    - 葬礼上当众对峙牧师
+    - 酒后持枪上门（见锚点行为）
   - 每一次出场都带着「下一秒去买酒」和「回车里拿枪」两条引信
 
 ---
 
 - **误读场——教会像邪教（原书明写 KP 刻意玩弄）**
   - 账本秘密＋韦弗桌上的《逾越节天使之书》签名本＋警长掩盖死亡
-  - 老练调查员会误判「自由福音教会=克苏鲁邪教」——原书指示：把这个歧义演到最大
+  - 老练调查员会误判「自由福音教会=克苏鲁邪教」——
+    - 原书指示：把这个歧义演到最大
   - 真相：教会只是绝望；神话活动全在屋下，不在教堂
 
 ---
@@ -386,7 +424,8 @@ ShinKan42
 ---
 
 - **克劳利对怪事——否认的堤坝**
-  - 「牧师亲自祝圣过，这屋不可能有鬼」——她深处知道不对，但开门压倒一切
+  - 「牧师亲自祝圣过，这屋不可能有鬼」——
+    - 她深处知道不对，但开门压倒一切
   - 否认的代价逐日上涨：志愿者抱怨每一条都是真的
 
 ---
@@ -425,9 +464,12 @@ ShinKan42
 ---
 
 - **拉扯绳索**
-  - 救人 vs 救教会：取消地狱屋就能断粮——但教会破产、韦弗兄弟私产尽失、志愿者白干
-  - 真相 vs 生计：镇子的社区中心就是教会；掀翻它，==掀翻的是两千八百人的星期天==
-  - ==你自己也在食谱里==：调查员进屋就在==进食范围==；角色背景里若有「重建中」的一页（戒断/康复/复学/复出），它先找你
+  - 救人 vs 救教会：取消地狱屋就能断粮——
+    - 但教会破产、韦弗兄弟私产尽失、志愿者白干
+  - 真相 vs 生计：镇子的社区中心就是教会
+    - 掀翻它，==掀翻的是两千八百人的星期天==
+  - ==你自己也在食谱里==：调查员进屋就在==进食范围==；
+    - 角色背景里若有「重建中」的一页（戒断/康复/复学/复出），它先找你
 
 ---
 
@@ -446,8 +488,10 @@ ShinKan42
 - **罗伊格尔 Lloigor｜克苏鲁神话种族**：自然形态是==肉眼不可见的能量漩涡==，以智慧生物的精力为食；被它长期吸食的人，==先陷沮丧，再起自毁之念==——原书的「进食」与「连环自杀」，正是这一物种的习性；它最早出自科林·威尔逊《罗伊格尔归来》
 - **它是什么**
   - 受伤困守的罗伊格尔：==本能生存模式==，与==规则书健全个体差异极大==
-  - ==无形无相==，藏在地基之下；调查员面对的从来不是「怪物遭遇」，是==一间让所有人慢慢变糟的屋子==
-  - ==外人误认教会为邪教，信徒误认它为教义内的魔鬼==——两个误读都在护着它；它利用志愿者的恐惧自称撒旦（原书语）：教会几十年布道把魔鬼的形象、名字、解释体系都备好了，==它只需穿上==
+  - ==无形无相==，藏在地基之下；
+    - 调查员面对的从来不是「怪物遭遇」，是==一间让所有人慢慢变糟的屋子==
+  - ==外人误认教会为邪教，信徒误认它为教义内的魔鬼==——
+    - 两个误读都在护着它；它利用志愿者的恐惧自称撒旦（原书语）：教会几十年布道把魔鬼的形象、名字、解释体系都备好了，==它只需穿上==
 
 ---
 
@@ -482,7 +526,8 @@ ShinKan42
 ---
 
 - **行为纪律（进食策略，非仁慈）**
-  - 避免频繁攻击同一目标——怕吓跑食物；每名调查员一次，除非对方损害它的利益或自陷致命险境（爬屋顶之类）
+  - 避免频繁攻击同一目标——怕吓跑食物
+    - 每名调查员一次，除非对方损害它的利益或自陷致命险境（爬屋顶之类）
   - ==深夜独行者会被重点招呼==（阁楼是它最爱的显形处）
 
 ---
@@ -511,10 +556,14 @@ ShinKan42
 ---
 
 - **感知通道（玩家投入才亮）**
-  - 监控波纹：控制室十二块屏幕全有横纹失真——排障必然徒劳（电没问题，==是它在==）
-  - 照片失真：靠近屋的照片带同款波纹；其中一张拍到「校园枪击房」窗后的巨影红眼——可能只是光影
-  - 独处耳语：志愿者归因于「整天听撒旦地狱的布道词听魔怔了」——事后回看，信号全都在闪
-  - ==漩涡前兆==：空气里浮现旋线、一种半听见的搏动声穿透身体——漩涡落下前的最后警报，警觉的调查员来得及喊人逃出 20 码圈
+  - 监控波纹：控制室十二块屏幕全有横纹失真
+    - 排障必然徒劳（电没问题，==是它在==）
+  - 照片失真：靠近屋的照片带同款波纹
+    - 其中一张拍到「校园枪击房」窗后的巨影红眼——可能只是光影
+  - 独处耳语：志愿者归因于「整天听撒旦地狱的布道词听魔怔了」
+    - 事后回看，信号全都在闪
+  - ==漩涡前兆==：空气里浮现旋线、一种半听见的搏动声穿透身体——
+    - 漩涡落下前的最后警报，警觉的调查员来得及喊人逃出 20 码圈
 
 :::
 
@@ -585,7 +634,8 @@ ShinKan42
 - 葬礼即第一个调查现场：
   - 韦弗牧师致悼词，全文避开上帝（见文化注·「死于罪中」）
   - 结束时米奇当众对峙牧师，马丁内斯警官把他拉开
-  - 哀悼者群=理论交换场——==米奇与马丁内斯各持一半真相==
+  - 哀悼者群=理论交换场——
+    - ==米奇与马丁内斯各持一半真相==
 
 :::
 
@@ -618,7 +668,8 @@ Other possible avenues include: Investigator groups actively looking for weird e
 **A——替死者讨说法的人**
 
 - 你为什么在这里（任选/拼合）：
-  - 凯莉的旧友：少年时代认识她，看着她堕落又看着她重生——==你不信她会割自己的喉咙==
+  - 凯莉的旧友：少年时代认识她，看着她堕落又看着她重生
+    - ==你不信她会割自己的喉咙==
   - 受米奇所托：kellytruth 帖辗转到了你手上
   - 找离奇事件的人：Reddit 帖里的「屋里怪事」是你的日常选题
 - 开局动作位：葬礼
@@ -649,7 +700,8 @@ Other possible avenues include: Investigator groups actively looking for weird e
 
 > 延续注：延续 GNS 记者团的桌由 DM 现场接；新桌按 GNS 三模板（狗仔/烦人精/塌房名人）建卡。案卷内容两态通吃。
 
-- 组织档案：[全球新闻社](/prep/coc/the_things_we_leave_behind/global_news_service.html)——记者三模板、行规与法律救援的完整版在那页
+- 组织档案：[全球新闻社](/prep/coc/the_things_we_leave_behind/global_news_service.html)——记者三模板
+  - 、行规与法律救援的完整版在那页
 
 - 编辑部指令（GNS 册原文）：
   - 一桩猎奇的自杀、一座刻意挑衅的鬼屋、加上警局腐败的指控——闻起来就是条新闻
@@ -657,7 +709,8 @@ Other possible avenues include: Investigator groups actively looking for weird e
 - 落地打法（原书鼓励）：
   - ==混入地狱屋施工==：志愿者缺人手，报名就能进（克劳利来者不拒）
   - 拍警察粗暴执法：==保教会秘密时的每一次推搡都是素材==
-  - 采访死者亲友；纠缠警察与教会领袖==要镜头评论==
+  - 采访死者亲友
+    - 纠缠警察与教会领袖==要镜头评论==
   - 偷拍信众信仰状态的 B-roll（以让他们出丑为目的）
 - 悬赏：枪击狂欢现场的直播奖金丰厚
 - 风险与救援：你极可能被关押和/或赶出镇子——GNS 会迅速调来法律资源把你捞回现场
@@ -771,11 +824,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ### **<a id="npc-mitch"></a> 米奇·兰德罗姆 Mitch Landrom（53，凯莉之父） 🔦**
 
 - **暗流**：要女儿的真相，和一句没来得及说的弥补
-  - 靠 AA（嗜酒者互诫协会）戒断重建没几年，女儿死了——==他的清醒摇摇欲坠==
+  - 靠 AA（嗜酒者互诫协会）戒断重建没几年
+    - 女儿死了——==他的清醒摇摇欲坠==
   - kellytruth 网帖是他==唯一的渠道==：坚信韦弗兄弟在掩盖，要全世界关注凯莉的故事
 - **立场**
   - 韦弗家藏着东西
-  - 正规渠道死了——警局是他们的、教会是他们的、镇子是他们的
+  - 正规渠道死了
+    - 警局是他们的、教会是他们的、镇子是他们的
   - 全镇都想让他闭嘴，他偏不
 
 ---
@@ -784,7 +839,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - 高大体壮，蓬乱灰发与络腮胡，==法兰绒衬衫牛仔裤工装靴==
   - 脸上布满重度饮酒者的==爆裂血管==，眼神空洞
 - **人味**：
-  - 说话时手指戳人胸口，动辄吼出威胁——转身时手在抖
+  - 说话时手指戳人胸口，动辄吼出威胁
+    - 转身时手在抖
   - ==深夜刷论坛回复，一条一条读完==
 - **锚点行为**：葬礼结束当众对峙牧师（被马丁内斯拉开）；酒醉持枪闹屋事件——
   - 开车到屋，==一手波本一手霰弹枪==，点名要见牧师，满屋怒吼逼问真相
@@ -827,9 +883,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 </details>
 
 - **暗流**：教会活下去——27 年牧师，==身份与教会熔成一体==
-  - 三年入座与捐款连跌，教会资金和他个人积蓄都填了坑，双双近破产
+  - 三年入座与捐款连跌
+    - 教会资金和他个人积蓄都填了坑，双双近破产
   - 地狱屋===孤注一掷的自救==：办完万圣节卖掉安格斯坦宅还债
-  - ==他躲着那栋屋子==——觉得气氛不对但从不说出口，整天待在办公室；有急事会去，==24 号开幕也打算到场==
+  - ==他躲着那栋屋子==——觉得气氛不对但从不说出口，整天待在办公室
+    - 有急事会去，==24 号开幕也打算到场==
 - **立场**
   - 教会=家=他自己的一生
   - 凯莉的死是她自己的罪：神的审判是终局（==拒绝教会葬礼是教义，不是恶意==）
@@ -838,11 +896,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ---
 
 - **感官**（设计意图：开朗是干出来的活儿）
-  - 高瘦，锐利的蓝眼睛，波浪灰发；深色西装白衬衫浅蓝领带
+  - 高瘦，锐利的蓝眼睛，波浪灰发
+    - 深色西装白衬衫浅蓝领带
   - 外表爽朗——无人注意时脸上的皱纹、塌下去的肩膀
 - **人味**：
   - 紧张时无意识搓手
-  - 办公室一整面墙是木十字架，古董木桌绿皮桌面
+  - 办公室一整面墙是木十字架
+    - 古董木桌绿皮桌面
 - **锚点台词**（原文）：「Trust in Jesus.」（信靠耶稣。）
 - **账本线**：办公室上锁的铁档案柜（钥匙在书桌抽屉）——
   - 三年入座与捐款连跌
@@ -881,9 +941,12 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ### **<a id="npc-daniel"></a> 丹尼尔·韦弗 Daniel Weaver（53，里兰警长） 👮**
 
 - **暗流**：保哥哥，保教会——==恐惧长着一张凶相==
-  - 怕凯莉之死引来外面的调查，教会财务崩盘、哥哥完蛋
-  - 恐惧表现为好斗：甩权、施压、把「别多事」拍在桌上
-  - 事态升级他越陷越深：==止步于谋杀==，恐吓、假罪名拘押外人全干
+  - 怕凯莉之死引来外面的调查
+    - 教会财务崩盘、哥哥完蛋
+  - 恐惧表现为好斗
+    - 甩权、施压、把「别多事」拍在桌上
+  - 事态升级他越陷越深
+    - ==止步于谋杀==，恐吓、假罪名拘押外人全干
   - 道恩若死：==连夜裹尸地毯运回她家伪造自杀现场==，并亲自主持「调查」
 - **立场**
   - 这个镇归他管
@@ -893,10 +956,12 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ---
 
 - **感官**（设计意图：权力的姿态）
-  - 与哥哥同样锐利的眼睛，个子更矮更壮；惯常的神情是怀疑
+  - 与哥哥同样锐利的眼睛，个子更矮更壮
+    - 惯常的神情是怀疑
   - 嚼烟草，在室外毫不客气地吐渣
 - **人味**：
-  - 说话像下句号，每句都带着「你听清了」的尾音
+  - 说话像下句号
+    - 每句都带着「你听清了」的尾音
   - 预感有枪战时==会穿防弹背心==
 - **锚点台词**（原文）：「I run this town. Don't forget that.」（我管着这个镇。别忘了。）
 - **掩盖链**（已做）：
@@ -935,7 +1000,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 - **暗流**：找一个可信的人，帮他查清凯莉到底怎么了
   - ==体制内三重孤儿==：天主教徒（拒了警长的「入教邀请」）／新警员（融不进）／凯莉的高中前男友（看着她堕落，亲手抓过她好几次）
-  - 不信一个刚把生活拉回来的人会割开自己的喉咙——==任何人都不会==
+  - 不信一个刚把生活拉回来的人会割开自己的喉咙
+    - ==任何人都不会==
   - 顶着警长的阻挠私查，握着一手证据
 - **立场**
   - 案子有问题，警长兄弟俩的动机可疑
@@ -944,7 +1010,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ---
 
 - **感官**（设计意图：孤独的标尺）
-  - 高个宽肩，啤酒肚初现；常皱眉，眼神悲伤
+  - 高个宽肩，啤酒肚初现
+    - 常皱眉，眼神悲伤
 - **人味**：
   - 暴脾气来得快去得也快
   - ==葬礼上一直留意在场的外来面孔==——他在找帮手
@@ -962,9 +1029,12 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 - **暗流**：自缢倒计时——罗伊格尔最深的坑
   - 在阁楼见过它的蜥蜴形态，==坚信那是撒旦==
-  - 信仰崩塌中：认为没能救凯莉，上帝背过了身
-  - 勇敢的假面后面已近崩溃（心理学可看出扰动程度）
-  - 10/23 夜加班时感到冲动上阁楼，用电线打结上吊——==调查员不介入，她死==
+  - 信仰崩塌中
+    - 认为没能救凯莉，上帝背过了身
+  - 勇敢的假面后面已近崩溃
+    - 心理学可看出扰动程度）
+  - 10/23 夜加班时感到冲动上阁楼，用电线打结上吊
+    - ==调查员不介入，她死==
 - **立场**
   - 凯莉不该这么死
   - 上帝的沉默就是惩罚
@@ -973,11 +1043,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 - **感官**：漂亮害羞的黑人姑娘；把痛都咽进作业里
 - **人味**：
-  - 婉拒承认凯莉之死有任何怪异——否认，和克劳利同款
+  - 婉拒承认凯莉之死有任何怪异
+    - 否认，和克劳利同款
   - 调查员要求有人带看屋子，==克劳利会派她==（正在锐舞房喷涂鸦）
 - **引线价值**：她是调查员进屋的天然向导，也是罗伊格尔食谱的活样本
 - **死后（若发生）**：
-  - 克劳利半小时后取灯泡发现尸体，第一时间打给警长，两人裹地毯运回她家伪造现场
+  - 克劳利半小时后取灯泡发现尸体
+    - 第一时间打给警长，两人裹地毯运回她家伪造现场
   - 阁楼残留死亡时刻失禁的粪臭，电线绳套弃在梁下（侦查可获）
 
 :::::
@@ -987,17 +1059,21 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ### **<a id="npc-cho"></a> 凯文·曹 Kevin Cho（15，「校园枪手」扮演者） 🎭**
 
 - **暗流**：恐惧已经转成怒火——罗伊格尔的终局武器
-  - 好学、孤僻、不擅运动，自己经历过霸凌——==马蒂这个角色和他共鸣得可怕==
+  - 好学、孤僻、不擅运动，自己经历过霸凌
+    - ==马蒂这个角色和他共鸣得可怕==
   - ==口袋里永远装着实弹==；计划开门夜把空包弹换掉，==能杀多少杀多少==
-  - 独处时自言自语——其实是在和「它」说话，分享计划
-  - 埃利斯在带他练枪，==枪法越来越好==
+  - 独处时自言自语
+    - 其实是在和「它」说话，分享计划
+  - 埃利斯在带他练枪
+    - ==枪法越来越好==
 - **立场**
   - 没人帮过他——现在==「马蒂」给他力量==
 
 ---
 
 - **感官**（设计意图：缩起来的人形炸药）
-  - 瘦长单薄，黑色短寸头；==常驼背，像要把自己折小==
+  - 瘦长单薄，黑色短寸头
+    - ==常驼背，像要把自己折小==
   - 躲避对视；被逼对视时，瞪回来的眼神压着怒火
 - **人味**：
   - ==韦弗牧师建议他参演地狱屋帮他走出壳子==；克劳利提议马蒂这个角色（年纪合适）
@@ -1046,9 +1122,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 </details>
 
 - **暗流**：==纵火预谋是植进他脑子里的==——他自己不知道
-  - 原计划：开门夜前的和平抗议（跟同伴们也是这么说的）
+  - 原计划：开门夜前的和平抗议
+    - 跟同伴们也是这么说的）
   - 罗伊格尔喂大他的愤怒与恶心，==把侦察变成偏执==：==全天候蹲点拍照==
-  - ==树林里藏着几十个瓶子和八桶汽油==——他对这笔物资几乎无知觉
+  - ==树林里藏着几十个瓶子和八桶汽油==
+    - 他对这笔物资几乎无知觉
   - 劝他回家，几小时后他会回来——==「它」另有安排==（纵火条）
 - **立场**
   - 教会的恐同讯息必须被揭露
@@ -1057,14 +1135,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ---
 
 - **感官**（设计意图：被掏空的正义者）
-  - 沙色头发白人青年，polo 衫贵休闲裤；眼神空洞眼下乌青，语速慢含糊
+  - 沙色头发白人青年，polo 衫贵休闲裤
+    - 眼神空洞眼下乌青，语速慢含糊
   - 好几天没洗澡的味道
 - **人味**：
   - 话说一半断掉，重复刚说过的话
   - 被问起汽油时一脸茫然：「It wants to burn.」（它想烧。）——==说完立刻忘了这句话==
-- **手机线索**：数百张照片（近屋拍摄的带同款波纹失真）＋一张「校园枪击房」窗后红眼巨影（可能只是光影）
+- **手机线索**：数百张照片（近屋拍摄的带同款波纹失真）
+  - ＋一张「校园枪击房」窗后红眼巨影（可能只是光影）
 - **汽油线**：侦查可闻到树林里的汽油味；线索捅到警长处，==警长乐得把他锁起来==（一出借刀杀人）
-- **纵火执行**（无固定时刻）：绕屋泼汽油、灌木塞桶，燃烧瓶点火后持枪游猎逃生者——只要在场≥20 人，可能提前到开门前
+- **纵火执行**（无固定时刻）：绕屋泼汽油、灌木塞桶
+  - 燃烧瓶点火后持枪游猎逃生者——只要在场≥20 人，可能提前到开门前
 
 :::: details 📊 数据卡——布拉德利·凯勒
 
@@ -1103,8 +1184,10 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 - **暗流**：否认的堤坝——屋里的怪事全部挡在她这一层
   - 牧师亲祝圣过的屋子，不可能有恶魔——她深处知道不对，但==开门压倒一切==
   - ==承认屋里闹鬼，就是承认耶稣输给了魔鬼==——对信的人这不是尴尬，是神学不可能；她的否认一半是开门压力，一半是信仰把眼睛锁死了
-  - 压力与超时榨干了她：==头痛，常驻控制室==（关灯，有事才说话）
-  - 也帮教会做账——比谁都清楚这次开门押了多少
+  - 压力与超时榨干了她
+    - ==头痛，常驻控制室==（关灯，有事才说话）
+  - 也帮教会做账
+    - 比谁都清楚这次开门押了多少
   - 韦弗兄弟施压时，她会妥协配合掩盖新事件
 - **立场**
   - 身边每个人本质都是好的
@@ -1113,7 +1196,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ---
 
 - **感官**（设计意图：硬撑的乐观）
-  - 个矮体壮的黑人女性，四十出头，衣着一丝不苟
+  - 个矮体壮的黑人女性，四十出头
+    - 衣着一丝不苟
   - 永远的皱眉——头痛所致，非脾气
 - **人味**：
   - 志愿者报上来的怪事（莫名其妙的事故、影子里的动静、奇怪的耳语），她一律回「大家都累了」
@@ -1354,8 +1438,10 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 - **房史**（图书馆使用·市政记录／报纸档案可查）：
   - 水源勘探商出身的奥古斯塔斯·安格斯坦因==1894 年科西卡纳（Corsicana）油田==的发现暴富，1904 年因病退休；1905 年建宅，1912 年自杀
   - 其子博雷加德·安格斯坦（Beauregard）住一年即卖屋，迁往路易斯安那
-  - 佩奇家（至 1925）——两名少年死因不明后搬离
-  - 巴克纳家三代（至 1989）——塞缪尔·巴克纳霰弹枪杀妻与幼女后自尽；细读病历可见==对孩子的常年体罚记录==
+  - 佩奇家（至 1925）
+    - 两名少年死因不明后搬离
+  - 巴克纳家三代（至 1989）
+    - 塞缪尔·巴克纳霰弹枪杀妻与幼女后自尽；细读病历可见==对孩子的常年体罚记录==
   - 空置至今，闹鬼传闻不断，==流浪汉都不肯过夜==；本地孩子互相打赌进屋
   - ==四段死亡不是巧合清单，是同一张嘴的进食记录==——每闹一次，恶名深一层、房价低一截，搬进来的下一户更绝望
   - 今年 5 月韦弗拍卖会上 ==$10,000 拍下==；7 月高调祝圣；10/24-31 地狱屋，门票 $15
@@ -1408,8 +1494,14 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ### **<a id="scene-rooms"></a> 2 同性恋房 🏥**
 
-- 布景：医院病房——金属病床居中，四周点滴与医疗器械，头顶三盏大灯；墙面医院绿，地面胶地板
-- 表演：布鲁斯，艾滋病晚期的同性恋者；父母在床边劝他悔改、弃绝同性恋、接受耶稣——布鲁斯坚持自己生来如此，不是罪人
+- 布景：医院病房
+  - 金属病床居中
+    - 四周点滴与医疗器械，头顶三盏大灯
+  - 墙面医院绿，地面胶地板
+- 表演：布鲁斯，艾滋病晚期的同性恋者
+  - 父母在床边劝他悔改
+    - 弃绝同性恋、接受耶稣
+  - 布鲁斯坚持自己生来如此，不是罪人
 - 结局：布鲁斯==死不悔改==，父母恸哭，撒旦把儿子拖进地狱
 
 :::::
@@ -1419,8 +1511,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ### **3 堕胎房 🩺**
 
 - 布景：诊所手术室——牙科椅蒙布居中
-- 表演：南希堕胎——假血与乳胶娃娃落进金属盆的湿响；墙面投影流产胎儿影像，童声尖叫
-- 后半：天使向她显现==「本会出生的女儿」与「被剥夺的人生」==——南希悔改得救，成为反堕胎活动家
+- 表演：南希堕胎
+  - 假血与乳胶娃娃落进金属盆的湿响
+  - 墙面投影流产胎儿影像，童声尖叫
+- 后半：天使向她显现==「本会出生的女儿」与「被剥夺的人生」==
+  - 南希悔改得救，成为反堕胎活动家
 
 :::::
 
@@ -1428,9 +1523,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ### **4 锐舞文化房 💊**
 
-- 布景：两半房间无隔断——一半克劳利心中的夜店（刺目闪灯、涂鸦墙），一半少女卧室
+- 布景：两半房间无隔断
+  - 一半克劳利心中的夜店
+    - 刺目闪灯、涂鸦墙
+  - 一半少女卧室
 - 筹备期到访：==道恩·埃勒斯正在喷墙上涂鸦==
-- 表演：少女茱莉亚被朋友怂恿去锐舞派对，被下药（迷奸药物）——后确诊性病，羞耻自尽，被拖下地狱
+- 表演：少女茱莉亚被朋友怂恿去锐舞派对，被下药（迷奸药物）
+  - 后确诊性病，羞耻自尽，被拖下地狱
 
 :::::
 
@@ -1460,9 +1559,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ### **7 地狱房 👹**
 
-- 布景：墙面纸浆塑成洞穴质；墙上垂铁镣铐；树脂钟乳石钉在顶与地；暗处藏硫磺香炉（演出前点燃——测试留下的硫磺味常年不散）
-- ==罗伊格尔偶尔在此显形==：房间黑暗时，走廊上的人能瞥见巨大的蜥蜴盘卷轮廓与发亮的红眼——==有人进屋或开灯即消失==（显形 SAN 见全篇机制章）
-- 表演：各房「罪人」（另组的演员）被锁链缚墙，火焰投影与惨叫音效中==哀求观众悔改==；恶魔装演员拿塑料叉嘲弄捅刺
+- 布景：墙面纸浆塑成洞穴质；墙上垂铁镣铐；树脂钟乳石钉在顶与地
+  - 暗处藏硫磺香炉（演出前点燃——测试留下的硫磺味常年不散）
+- ==罗伊格尔偶尔在此显形==
+  - 房间黑暗时，走廊上的人能瞥见巨大的蜥蜴盘卷轮廓与发亮的红眼
+  - ==有人进屋或开灯即消失==（显形 SAN 见全篇机制章）
+- 表演：各房「罪人」（另组的演员）被锁链缚墙，火焰投影与惨叫音效中==哀求观众悔改==
+  - 恶魔装演员拿塑料叉嘲弄捅刺
 
 :::::
 
@@ -1470,8 +1573,10 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ### **8 天堂帐篷 ⛪**
 
-- 后门连体的白色帐篷，杆上挂彩色灯串；木长椅＋摆着福音册的桌子
-- 每组出屋必经：志愿者问「今晚所见可曾触动你」「愿不愿逃离诅咒、归向基督」——陪你谈、陪你祷告，寻求深层情感连结
+- 后门连体的白色帐篷，杆上挂彩色灯串
+  - 木长椅＋摆着福音册的桌子
+- 每组出屋必经：志愿者问「今晚所见可曾触动你」「愿不愿逃离诅咒、归向基督」
+  - 陪你谈、陪你祷告，寻求深层情感连结
 - 无感者从另一侧出帐回停车场
 
 :::::
@@ -1480,9 +1585,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ### **<a id="scene-control"></a> 12 控制室 📺**
 
-- 三张桌十二块平面监视器（全屋 CCTV）；三台笔记本控制声光；一架子对讲机
+- 三张桌十二块平面监视器（全屋 CCTV）
+  - 三台笔记本控制声光
+  - 一架子对讲机
 - 开门后克劳利的指挥所（也是她躲人的地方）
-- **监控波纹**：==所有画面都有横纹失真==——克劳利担心电磁干扰影响别的系统；谁去排障都徒劳：电路没有问题，==是它在==（见全篇机制章·感知通道）
+- **监控波纹**：==所有画面都有横纹失真==
+  - 克劳利担心电磁干扰影响别的系统
+  - 谁去排障都徒劳——电路没有问题，==是它在==（见全篇机制章·感知通道）
 
 :::::
 
@@ -1490,9 +1599,12 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ### **<a id="scene-attic"></a> 13 阁楼 🕯️**
 
-- 不在动线上，堆放杂物：油漆罐、梯子、工具、纸箱——照明差，行动艰难
-- 侦查：==带干涸血迹的利器==（那些「事故」的残留）；纸箱里有旧杂物与巴克纳家照片
-- 翻箱者会被招呼：跪地翻箱可能==脸朝下栽进一箱碎玻璃==（1D6 伤害，创口可怖）——罗伊格尔最爱坑翻箱的人
+- 不在动线上，堆放杂物：油漆罐、梯子、工具、纸箱
+  - 照明差，行动艰难
+- 侦查：==带干涸血迹的利器==（那些「事故」的残留）
+  - 纸箱里有旧杂物与巴克纳家照片
+- 翻箱者会被招呼：跪地翻箱可能==脸朝下栽进一箱碎玻璃==（1D6 伤害，创口可怖）
+  - 罗伊格尔最爱坑翻箱的人
 - ==罗伊格尔最爱的显形处==：深夜独行者在此被蛇形巨影逼疯（显形 SAN 见全篇机制章）
 - **10/23 夜（无干预）**：道恩在此自缢——
   - 电线绳套抛梁；克劳利半小时后取灯泡发现，警长十分钟内到场，裹尸地毯运回道恩家伪造现场
@@ -1518,8 +1630,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 - **枪击成真**：屋里满员后，==凯文·曹把空包弹换实弹==——第一枪打埃利斯；清空弹匣前无人反应（杀 2 重伤 6）；无人阻止则换弹匣屋内游猎
 - **纵火**：凯勒绕屋泼汽油、灌木塞桶，燃烧瓶点火后==持枪游猎逃生者==
   - 只要在场≥20 人，可能提前到开门前
-- **连锁数学**：一小时内在场死亡≥5→漩涡（全篇机制章）；一日≥20→实体化脱逃
-- **屋内求生**（原书）：浓烟灌满（起火 1D6+3 轮后）每轮无新鲜空气则 CON 检定，败者 −1D6 hp；进新区取==幸运最低者掷幸运==，败=火焰或塌陷封路；人群冲撞需 STR 或 SIZ 检定，败=倒地每轮 −1D6 踩踏伤直至通过
+- **连锁数学**：一小时内在场死亡≥5→漩涡（全篇机制章）
+  - 一日≥20→实体化脱逃
+    - 罗伊格尔以蛇形投影驱赶人群加压
+- **屋内求生**（原书）
+  - 浓烟灌满（起火 1D6+3 轮后）每轮无新鲜空气则 CON 检定，败者 −1D6 hp
+    - 进新区取==幸运最低者掷幸运==，败=火焰或塌陷封路
+  - 人群冲撞需 STR 或 SIZ 检定，败=倒地每轮 −1D6 踩踏伤直至通过
 - ==消防出口不达标==是警长施压消防局长放行的（见即兴卡·消防局长）——==起火必生踩踏==，罗伊格尔以蛇形投影驱赶人群加压
 
 :::::
@@ -1553,136 +1670,166 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-::: card
-
 **玩家面实物件三张（Handout #1-#3）**
 
 - 玩家面就是实物本身——报纸页面、Reddit 帖、照片，打印或投屏直接用
-- 下方每张折叠内含==中文直译＋英文照录==，DM 无实物时照直译念
-- 零 SAN、零 DM 注记上玩家面；DM 注记只在折叠尾行
+  - 零 SAN、零 DM 注记上玩家面
+    - 每张的 details 折叠是 DM 专用注记，打印时忽略
+- 三张的图版、中文直译、英文原文都在各自卡内
+  - DM 无实物时照中文直译念
+
+:::: card
+
+### **<a id="quote-news"></a> Handout #1——《里兰纪事报》报道（10/20） 📰**
+
+- 开局已知材料的官方口径第一现场
+  - 定性自杀＋牧师声明＋葬礼日期
+    - B 钩接选题的第一份材料
+      - A 钩的入场线索同源
+- 图版与全文如下
+  - ==10/16 案发日锚==（时历轴据此补此日）
+
+::: details 📷 Handout #1——报纸页面
+
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout1_news.png" alt="Handout #1——里兰纪事报网站 10/20 报道" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #1——里兰纪事报网站 10/20 报道">
 
 :::
 
-<a id="quote-news"></a>
+**正文（中文直译）**
 
-::: details 📰 Handout #1——《里兰纪事报》网站 10 月 20 日报道
+> 东德克萨斯想知道新闻的时候——里兰纪事报，10 月 20 日
 
-<details class="hint-container details">
-<summary>📷 《里兰纪事报》网站 10/20 报道（原书图版）</summary>
+> 头条滚动：最新数据显示拉斯维加斯性病感染率全国最高
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout1_news.png" alt="《里兰纪事报》网站 10/20 报道（原书图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="《里兰纪事报》网站 10/20 报道（原书图版）">
+> **鬼屋死亡定性为自杀**
 
-</details>
+> 里兰镇居民凯莉·兰德罗姆之死，被安吉林县法医定性为自杀。
 
-**中文（直译）**
+> 兰德罗姆，25 岁，10 月 16 日在里兰自由福音教会组织的万圣节鬼屋中被志愿者同伴发现，送往拉夫金纪念医院，==送医途中伤重不治==。
 
-东德克萨斯想知道新闻的时候——里兰纪事报，10 月 20 日
+> 泰德·韦弗牧师对《里兰纪事报》说：「兰德罗姆小姐的内心困扰比我们任何人知道的都要深。如果我们早看到征兆，就能在她做出这个可怕决定之前帮她。==圣经对自杀一事的态度是明确无误的==，教会众人正在为爱凯莉的人祷告。」
 
-头条滚动：最新数据显示拉斯维加斯性病感染率全国最高
+> 葬礼已定于 10 月 23 日在里兰举行。
 
-**鬼屋死亡定性为自杀**
+::: details 📖 原文留档（英文照录）
 
-里兰镇居民凯莉·兰德罗姆之死，被安吉林县法医定性为自杀。
+> The News When East Texas Wants To Know — Leland Chronicle, OCTOBER 20
 
-兰德罗姆，25 岁，10 月 16 日在里兰自由福音教会组织的万圣节鬼屋中被志愿者同伴发现，送往拉夫金纪念医院，==送医途中伤重不治==。
+> Latest Headlines: New figures show Las Vegas highest rate of STDs in nation
 
-泰德·韦弗牧师对《里兰纪事报》说：「兰德罗姆小姐的内心困扰比我们任何人知道的都要深。如果我们早看到征兆，就能在她做出这个可怕决定之前帮她。==圣经对自杀一事的态度是明确无误的==，教会众人正在为爱凯莉的人祷告。」
+> **Haunted House Death Ruled Suicide**
 
-葬礼已定于 10 月 23 日在里兰举行。
+> The death of Leland woman Kelly Landrom has been ruled a suicide by the Angelina County Coroner. Landrom, 25, was taken to Lufkin Memorial Hospital on October 16th, after being found by fellow volunteers at the Halloween haunted house organized by the Leland Free Evangelical Church. Landrom died from her injuries before reaching the hospital.
 
-**English（照录）**
+> Pastor Ted Weaver told the Leland Chronicle, "Miss Landrom was more troubled than any of us knew. If we had seen the signs we could have helped her before she made this terrible decision. While scripture is unambiguous on the subject of suicide, everyone at the church is praying for those who loved Kelly."
 
-The News When East Texas Wants To Know — Leland Chronicle, OCTOBER 20
-
-Latest Headlines: New figures show Las Vegas highest rate of STDs in nation
-
-**Haunted House Death Ruled Suicide**
-
-The death of Leland woman Kelly Landrom has been ruled a suicide by the Angelina County Coroner. Landrom, 25, was taken to Lufkin Memorial Hospital on October 16th, after being found by fellow volunteers at the Halloween haunted house organized by the Leland Free Evangelical Church. Landrom died from her injuries before reaching the hospital.
-
-Pastor Ted Weaver told the Leland Chronicle, "Miss Landrom was more troubled than any of us knew. If we had seen the signs we could have helped her before she made this terrible decision. While scripture is unambiguous on the subject of suicide, everyone at the church is praying for those who loved Kelly."
-
-Funeral services have been arranged for October 23rd in Leland.
-
-- DM 注记：==10/16 案发日锚==（时历轴补此日）；「圣经态度明确无误」=牧师悼词避上帝立场的公开版——两句对读，他的信仰自洽到发冷
+> Funeral services have been arranged for October 23rd in Leland.
 
 :::
 
-<a id="quote-reddit"></a>
+::::
 
-::: details 💬 Handout #2——Reddit r/Easttexas 帖（10 月 22 日）
+:::: card
 
-<details class="hint-container details">
-<summary>📷 Reddit r/Easttexas 讨论帖（原书图版）</summary>
+### **<a id="quote-reddit"></a> Handout #2——Reddit r/Easttexas 帖（10/22） 💬**
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout2_reddit.png" alt="Reddit r/Easttexas 讨论帖（原书图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Reddit r/Easttexas 讨论帖（原书图版）">
+- ==会生长的线索==——阴谋论发酵中的讨论帖
+  - kellytruth 主诉掩盖（10/22 凌晨）
+    - 二楼：妹妹是志愿者，拍到墙上的字
+      - 「我会试着从她 iPhone 里拿过来」——遗书照片的民间传播链
+    - 三楼 rainbowviper＝萨沙·赖因斯塔的带锯证词
+      - 与其人物卡互证
+  - 调查员每次回访都可能刷到新楼层
+    - 开门夜后若枪声真响，跟帖反转成证人笔录
 
-</details>
+::: details 📷 Handout #2——Reddit 帖页面
 
-**中文（直译）**
-
-**凯莉之死被掩盖（lelandchronicle.com）**——10 月 22 日 02:27 由 kellytruth 发布
-
-这他妈是扯淡。我比任何人都了解凯莉，她不是会自杀的人。她确实搞砸过，但她戒了毒、信了耶稣、正在把生活拼回来。==谁会割自己的喉咙自杀？==
-
-如果调查凯莉之死的不是教会牧师的亲兄弟，我们早听到真相了。他们在藏着什么。
-
-打电话或写信给韦弗警长，告诉他该从他肥屁股上起来，像个真警察那样调查。
-
-[-] jesusismycodependent · 35 赞 · 10 月 22 日 08:43
-我知道你又难过又愤怒，但你错了。凯莉确实是自杀的。我妹妹是地狱屋的志愿者，她亲眼看到她在墙上写的那些关于撒旦的疯话。==她拍了照片。我会试着从她 iPhone 里拿过来。==
-
-[-] rainbowviper · 2 赞 · 10 月 22 日 10:56
-我不知道凯莉出了什么事，但我在那栋屋里做了一周木工，那屋子闹鬼。我总觉得被什么东西盯着。虽然我什么都没看见，但有东西推了我一把，==差点用带锯切掉手指——当时周围没有别人==。我从没在哪个工地这么毛骨悚然过。
-
-**English（照录，保留原图拼写错误）**
-
-**KELLY'S DEATH COVERED UP (lelandchronicle.com)** — submitted on 22 October at 02:27 AM by kellytruth
-
-This is bullshit. I knew Kelly better than anyone and she was not suicidal. Sure she screwed up, but she had kicked the meth, found Jesus and was getting her shit together. And who kills themselves by cutting their own throat?
-
-We would have heard the truth if the brother of the pastor of the Leland Evangelical church wasn't the one investigating Kelly's death. They're hiding something.
-
-Call or email Chief Weaver and tell him that he needs to get off his fat ass and investigate this like a real police officer.
-
-[-] jesusismycodependent · 35 points · on 22 October at 08:43 AM
-I know your sad and angry, but your wrong. Kelly did kill herslef. My sister is a vluunteer at the hell house and she saw the crazy stuff she wrote on the wall about satan. She took pictures. I will try to get them off her Iphone.
-
-[-] rainbowviper · 2 points · on 22 October at 10:56 AM
-I don't know what happened to Kelly but I volunteered as a carpenter in that house for a week and it's haunted. I always felt like I was being watched. While I didn't see anything I nearly cut off my fingers with a bandsaw when something pushed me and there wasn't anyone else around. I never worked anywhere that creeped me out like that.
-
-- DM 注记：==会生长的线索==——rainbowviper 即萨沙·赖因斯塔（带锯证词与其人物卡互证）；二楼「妹妹拍了照片」=墙上遗书照片的==民间传播链==——马丁内斯私拷之外，志愿者的妹妹手里还有一脉（B 钩追照片的第二条路）
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout2_reddit.png" alt="Handout #2——Reddit r/Easttexas 讨论帖" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #2——Reddit r/Easttexas 讨论帖">
 
 :::
 
-<a id="quote-screed"></a>
+**正文（中文直译）**
 
-::: details 🖼️ Handout #3——安格斯坦宅墙面涂写照片
+> **凯莉之死被掩盖（lelandchronicle.com）**——10 月 22 日 02:27 由 kellytruth 发布
 
-<details class="hint-container details">
-<summary>📷 安格斯坦宅墙面涂写（墙上遗书）（原书图版）</summary>
+> 这他妈是扯淡。我比任何人都了解凯莉，她不是会自杀的人。她确实搞砸过，但她戒了毒、信了耶稣、正在把生活拼回来。==谁会割自己的喉咙自杀？==
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout3_screed.png" alt="安格斯坦宅墙面涂写（墙上遗书）（原书图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="安格斯坦宅墙面涂写（墙上遗书）（原书图版）">
+> 如果调查凯莉之死的不是教会牧师的亲兄弟，我们早听到真相了。他们在藏着什么。
 
-</details>
+> 打电话或写信给韦弗警长，告诉他该从他肥屁股上起来，像个真警察那样调查。
 
-**中文（直译）**
+> [-] jesusismycodependent · 35 赞 · 10 月 22 日 08:43
 
-这是撒旦的屋子。你赶不走撒旦。
-你可以呼求上帝，但上帝不会帮你——==因为撒旦杀了他==。
-撒旦拥有这栋屋子，和屋子里的每一个人。
-这是撒旦的屋子。撒旦对我们所有人都有一个计划。
-撒旦永远与我们同在，在我们之内。
-他是火焰，是蛇，是黑暗里的魔鬼，是我们全部的坏念头。
-这是撒旦的屋子——==现在离开已经太迟了==。
+> 我知道你又难过又愤怒，但你错了。凯莉确实是自杀的。我妹妹是地狱屋的志愿者，她亲眼看到她在墙上写的那些关于撒旦的疯话。==她拍了照片。我会试着从她 iPhone 里拿过来。==
 
-**English（照录）**
+> [-] rainbowviper · 2 赞 · 10 月 22 日 10:56
 
-THIS IS SATANS HOUSE. YOU CANNOT DRIVE OUT SATAN. YOU CAN CALL TO GOD BUT GOD WILL NOT HELP YOU BECAUSE SATAN KILLED HIM. SATAN OWNS THIS HOUSE AND EVERYONE IN IT. THIS IS SATANS HOUSE. SATAN HAS A PLAN FOR US ALL. SATAN IS ALWAYS WITH US AND WITHIN US. HE IS THE FIRE AND THE SERPENT AND THE DEVIL IN THE DARKNESS AND ALL OUR BAD THOUGHTS. THIS IS SATANS HOUSE AND IT IS TOO LATE TO LEAVE.
+> 我不知道凯莉出了什么事，但我在那栋屋里做了一周木工，那屋子闹鬼。我总觉得被什么东西盯着。虽然我什么都没看见，但有东西推了我一把，==差点用带锯切掉手指——当时周围没有别人==。我从没在哪个工地这么毛骨悚然过。
 
-- DM 注记：真迹已毁（胶皮地板与涂料盖墙）；存照两脉——案卷（警长抽屉）与马丁内斯私拷；「==他是火焰，是蛇==」=罗伊格尔真身的字面自供——凯莉的手替「它」写下了它自己；「撒旦杀了他」的渎神句=书写者精神崩坏的样本
+::: details 📖 原文留档（英文照录，保留原图拼写错误）
+
+> **KELLY'S DEATH COVERED UP (lelandchronicle.com)** — submitted on 22 October at 02:27 AM by kellytruth
+
+> This is bullshit. I knew Kelly better than anyone and she was not suicidal. Sure she screwed up, but she had kicked the meth, found Jesus and was getting her shit together. And who kills themselves by cutting their own throat?
+
+> We would have heard the truth if the brother of the pastor of the Leland Evangelical church wasn't the one investigating Kelly's death. They're hiding something.
+
+> Call or email Chief Weaver and tell him that he needs to get off his fat ass and investigate this like a real police officer.
+
+> [-] jesusismycodependent · 35 points · on 22 October at 08:43 AM
+
+> I know your sad and angry, but your wrong. Kelly did kill herslef. My sister is a vluunteer at the hell house and she saw the crazy stuff she wrote on the wall about satan. She took pictures. I will try to get them off her Iphone.
+
+> [-] rainbowviper · 2 points · on 22 October at 10:56 AM
+
+> I don't know what happened to Kelly but I volunteered as a carpenter in that house for a week and it's haunted. I always felt like I was being watched. While I didn't see anything I nearly cut off my fingers with a bandsaw when something pushed me and there wasn't anyone else around. I never worked anywhere that creeped me out like that.
 
 :::
+
+::::
+
+:::: card
+
+### **<a id="quote-screed"></a> Handout #3——安格斯坦宅墙面涂写照片 🖼️**
+
+- 凯莉死时留在「校园枪击」房墙上的字，被警方拍照存档后又遭涂盖
+  - 真迹已毁
+    - ==存世三脉==：警长抽屉（案卷）／马丁内斯私拷（信任门）／志愿者妹妹手机（顺帖找二楼本人）
+  - 她本人不似会写
+    - 八个月重生的教会成员，挚友道恩最清楚
+- ==「他是火焰，是蛇」==——罗伊格尔真身的字面自供
+  - 凯莉的手替「它」写下了它自己
+    - 「撒旦杀了他」的渎神句＝书写者精神崩坏的样本
+
+::: details 📷 Handout #3——墙面涂写照片
+
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout3_screed.png" alt="Handout #3——安格斯坦宅墙面涂写（墙上遗书）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #3——安格斯坦宅墙面涂写（墙上遗书）">
+
+:::
+
+**信文（中文直译）**
+
+> 这是撒旦的屋子。你赶不走撒旦。
+
+> 你可以呼求上帝，但上帝不会帮你——==因为撒旦杀了他==。
+
+> 撒旦拥有这栋屋子，和屋子里的每一个人。
+
+> 这是撒旦的屋子。撒旦对我们所有人都有一个计划。
+
+> 撒旦永远与我们同在，在我们之内。
+
+> 他是火焰，是蛇，是黑暗里的魔鬼，是我们全部的坏念头。
+
+> 这是撒旦的屋子——==现在离开已经太迟了==。
+
+::: details 📖 信文原文（英文照录）
+
+> THIS IS SATANS HOUSE. YOU CANNOT DRIVE OUT SATAN. YOU CAN CALL TO GOD BUT GOD WILL NOT HELP YOU BECAUSE SATAN KILLED HIM. SATAN OWNS THIS HOUSE AND EVERYONE IN IT. THIS IS SATANS HOUSE. SATAN HAS A PLAN FOR US ALL. SATAN IS ALWAYS WITH US AND WITHIN US. HE IS THE FIRE AND THE SERPENT AND THE DEVIL IN THE DARKNESS AND ALL OUR BAD THOUGHTS. THIS IS SATANS HOUSE AND IT IS TOO LATE TO LEAVE.
+
+:::
+
+::::
 
 ---
 
