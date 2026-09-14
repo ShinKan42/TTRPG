@@ -12,8 +12,9 @@ search: false
 
 地狱屋开门周 · 双钩案卷
 
-> 「It wants to burn. Burn in hell.」  
-> （它想烧。烧进地狱。）
+> 「It wants to burn. Burn in hell.」
+
+> （它想烧，烧进地狱。）
 
 <details class="hint-container details">
 <summary>📷 德州地狱——雾中宅影（篇章图）（原书图版）</summary>
@@ -1278,15 +1279,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 | 区域 | 要点 | 在场人物 | 威胁 |
 |---|---|---|---|
-| **加利翁墓园 · 葬礼** | 10/23 入场点：悼词避开上帝；米奇对峙 | 米奇／泰德·韦弗／马丁内斯／哀悼者 | 语言——第一现场全是话 |
-| **里兰自由福音教会** | 三百座半空；账本与《逾越节天使之书》签名本 | 泰德·韦弗 | 账本上锁；邪教误读场 |
-| **里兰警察局** | 四人编制，警长一手遮天 | 丹尼尔／马丁内斯／埃利斯／富尔曼 | 恐吓与假罪名拘押 |
-| **安格斯坦宅 · 场地** | 四英亩松林；树线后的身影与汽油味 | 凯勒（林中）／志愿者 | 汽油阵；纵火前兆 |
-| **地狱屋 · 动线** | 售票→恶魔导游→六房→天堂帐篷 | 伊娃／志愿者 | 进屋即在取食范围（每次到屋 1D3 SAN） |
-| **房间 1-6** | 六房「罪的表演」；血地板与涂盖痕迹 | 凯文·曹（房4）／道恩（房3） | 曹的实弹计划 |
-| **控制室** | 十二块监视器的波纹 | 克劳利 | 排障徒劳——信号是它 |
-| **阁楼** | 血迹利器、巴克纳照片；显形最爱处 | （夜）罗伊格尔投影 | 碎玻璃箱 1D6；道恩之夜 |
-| **开门夜 · 连环事件** | 抗议→枪击→纵火→连锁数学 | 全镇＋抗议者＋记者 | 一小时≥5 死→漩涡；一日≥20→实体化 |
+| **1 动线 · 集合区** | 售票→恶魔导游→六房→天堂帐篷；图例行集在本卡 | 伊娃／志愿者 | 进屋即在取食范围（每次到屋 1D3 SAN） |
+| **2-7 六房** | 同性恋／堕胎／锐舞／校园枪击／家暴／地狱 | 凯文·曹（校园枪击房）／道恩（锐舞文化房） | 曹的实弹计划 |
+| **8 天堂帐篷** | 出口帐篷：带你谈、陪你祷告 | 志愿者 | 无敌意——但它听得见里头的声音 |
+| **9-11 屋外与场地** | 四英亩松林；树线后身影与汽油味；房史四段死亡 | 凯勒（林中）／志愿者 | 汽油阵；纵火前兆 |
+| **12 控制室** | 十二块监视器的波纹 | 克劳利 | 排障徒劳——信号是它 |
+| **13 阁楼** | 血迹利器、巴克纳照片；显形最爱处 | （夜）罗伊格尔投影 | 碎玻璃箱 1D6；道恩之夜 |
+| **14 加利翁墓园 · 葬礼** | 10/23 入场点：悼词避开上帝；米奇对峙 | 米奇／泰德·韦弗／马丁内斯／哀悼者 | 语言——第一现场全是话 |
+| **15 里兰自由福音教会** | 三百座半空；账本与签名书 | 泰德·韦弗 | 账本上锁；邪教误读场 |
+| **16 里兰警察局** | 四人编制；验尸官=民选治安法官 | 丹尼尔／马丁内斯／埃利斯／富尔曼 | 恐吓与假罪名拘押 |
+| **17 开门夜 · 连环事件** | 抗议→枪击→纵火→连锁数学；八晚窗口 | 全镇＋抗议者＋记者 | 一小时≥5 死→漩涡；一日≥20→实体化 |
 
 :::
 
@@ -1294,7 +1296,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **<a id="scene-funeral"></a> 加利翁墓园——凯莉的葬礼 ⚰️**
+### **<a id="scene-funeral"></a> 14 加利翁墓园——凯莉的葬礼 ⚰️**
 
 - **10 月 23 日上午 10:00**——本篇入场点（双钩章已列通道）
 - 加利翁墓园：大型、维护良好，==墓碑最早可溯一百五十年==
@@ -1308,7 +1310,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **<a id="scene-church"></a> 里兰自由福音教会 ⛪**
+### **<a id="scene-church"></a> 15 里兰自由福音教会 ⛪**
 
 - 木结构白房子，小钟楼；==三百座，礼拜日常半空==——==场地维护得好，草坪却黄斑斑驳驳==
 - 正厅：现代木长椅；讲台简单木讲坛＋==折叠椅（客座讲员与乐队）==；地面与讲台铺梅红色地毯——干净鲜亮，磨痕处露出旧
@@ -1323,7 +1325,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **<a id="scene-police"></a> 里兰警察局 🚓**
+### **<a id="scene-police"></a> 16 里兰警察局 🚓**
 
 - 市政厅内：==两层白砖楼，漆面剥落==
 - ==全编制四人==：警长丹尼尔·韦弗／警官马丁内斯／警官埃利斯／调度富尔曼
@@ -1335,7 +1337,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **<a id="scene-grounds"></a> 安格斯坦宅——屋外与场地 🌲**
+### **<a id="scene-grounds"></a> 9-11 安格斯坦宅——屋外与场地 🌲**
 
 <details class="hint-container details">
 <summary>📷 安格斯坦宅——黑白宅影（原书图版）</summary>
@@ -1368,7 +1370,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **<a id="scene-tour"></a> 安格斯坦宅——地狱屋动线 🚪**
+### **<a id="scene-tour"></a> 1 安格斯坦宅——地狱屋动线（集合区） 🚪**
 
 <details class="hint-container details">
 <summary>📷 安格斯坦宅三层平面与导览线（原书图版）</summary>
@@ -1380,11 +1382,31 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 - **参观模式**（开门后）：屋外售票亭购票→==20 人一组等「恶魔导游」==→六组同时在屋内流动（演员复位即放行下一组）→全程快节奏→==出屋走天堂帐篷==
 - **志愿者混入**：==施工期随便进==——志愿者会跟你搭话（问教会、问来帮忙吗）；最稳的进屋方式==直接报名当志愿者==（克劳利来者不拒）；话术或说服视编的口径而定
 
+:::: table
+
+| 图例 | 原书名（照录） | 本页条目 |
+|---|---|---|
+| 1 | Tour Forming Area（导览集合区） | 本卡 |
+| 2 | The A.I.D.S. Room（正文 Room 1: Homosexuality） | 同性恋房 |
+| 3 | The Abortion Room（正文 Room 2） | 堕胎房 |
+| 4 | The Rave Culture Room（正文 Room 3） | 锐舞文化房 |
+| 5 | The School Shooting Room（正文 Room 4） | 校园枪击房 |
+| 6 | The Domestic Abuse Room（正文 Room 5） | 家暴房 |
+| 7 | The Hell Room（正文 Room 6） | 地狱房 |
+| 8 | Heaven & Exit | 天堂帐篷 |
+| 9 | Woods at the back of the property | 屋外与场地（屋后树林） |
+| 10 | Improvised Parking Lot | 屋外与场地（停车场） |
+| 11 | Tent Pitches | 屋外与场地（帐篷区） |
+
+::::
+
+> 场景编号：1-11＝原书地图图例原号（标题前缀）；12-17＝图例未含条目（控制室／阁楼／镇区／开门夜）的案卷续号。
+
 :::::
 
 ::::: card
 
-### **<a id="scene-rooms"></a> 房间 1：同性恋 🏥**
+### **<a id="scene-rooms"></a> 2 同性恋房 🏥**
 
 - 布景：医院病房——金属病床居中，四周点滴与医疗器械，头顶三盏大灯；墙面医院绿，地面胶地板
 - 表演：布鲁斯，艾滋病晚期的同性恋者；父母在床边劝他悔改、弃绝同性恋、接受耶稣——布鲁斯坚持自己生来如此，不是罪人
@@ -1394,7 +1416,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **房间 2：堕胎 🩺**
+### **3 堕胎房 🩺**
 
 - 布景：诊所手术室——牙科椅蒙布居中
 - 表演：南希堕胎——假血与乳胶娃娃落进金属盆的湿响；墙面投影流产胎儿影像，童声尖叫
@@ -1404,7 +1426,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **房间 3：锐舞文化 💊**
+### **4 锐舞文化房 💊**
 
 - 布景：两半房间无隔断——一半克劳利心中的夜店（刺目闪灯、涂鸦墙），一半少女卧室
 - 筹备期到访：==道恩·埃勒斯正在喷墙上涂鸦==
@@ -1414,7 +1436,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **房间 4：校园枪击 🏫**
+### **5 校园枪击房 🏫**
 
 - 布景：满屋课桌；黑板上是粉笔写的歪扭算式；==地板的疙瘩胶皮是赶工铺的——为盖住凯莉的血==
   - 侦查：墙面涂料下有涂写痕迹的凸起——她留的字被盖住了，已不可辨认
@@ -1426,7 +1448,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **房间 5：家暴 🍺**
+### **6 家暴房 🍺**
 
 - 布景：低收入家庭客厅——二手家具、剥落墙面、污渍地毯；脏碗与波本空瓶到处都是
 - 道恩知道：==凯莉拒绝进这个房间==——太像她的童年
@@ -1436,7 +1458,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **房间 6：地狱 👹**
+### **7 地狱房 👹**
 
 - 布景：墙面纸浆塑成洞穴质；墙上垂铁镣铐；树脂钟乳石钉在顶与地；暗处藏硫磺香炉（演出前点燃——测试留下的硫磺味常年不散）
 - ==罗伊格尔偶尔在此显形==：房间黑暗时，走廊上的人能瞥见巨大的蜥蜴盘卷轮廓与发亮的红眼——==有人进屋或开灯即消失==（显形 SAN 见全篇机制章）
@@ -1446,7 +1468,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **天堂帐篷 ⛪**
+### **8 天堂帐篷 ⛪**
 
 - 后门连体的白色帐篷，杆上挂彩色灯串；木长椅＋摆着福音册的桌子
 - 每组出屋必经：志愿者问「今晚所见可曾触动你」「愿不愿逃离诅咒、归向基督」——陪你谈、陪你祷告，寻求深层情感连结
@@ -1456,7 +1478,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **<a id="scene-control"></a> 控制室 📺**
+### **<a id="scene-control"></a> 12 控制室 📺**
 
 - 三张桌十二块平面监视器（全屋 CCTV）；三台笔记本控制声光；一架子对讲机
 - 开门后克劳利的指挥所（也是她躲人的地方）
@@ -1466,7 +1488,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **<a id="scene-attic"></a> 阁楼 🕯️**
+### **<a id="scene-attic"></a> 13 阁楼 🕯️**
 
 - 不在动线上，堆放杂物：油漆罐、梯子、工具、纸箱——照明差，行动艰难
 - 侦查：==带干涸血迹的利器==（那些「事故」的残留）；纸箱里有旧杂物与巴克纳家照片
@@ -1486,7 +1508,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
-### **<a id="scene-opening"></a> 开门夜——连环事件 🎆（10/24）**
+### **<a id="scene-opening"></a> 17 开门夜——连环事件 🎆（10/24）**
 
 - **首夜规模**：==18:00 开门时仅三十辆车==＋两支本地新闻队；入夜渐增至含志愿者不过百人
 - 开门连跑八晚（10/24-31）：==第一晚被摁住不等于赢==——它沉睡了二十年，不差这七晚
@@ -1692,7 +1714,8 @@ THIS IS SATANS HOUSE. YOU CANNOT DRIVE OUT SATAN. YOU CAN CALL TO GOD BUT GOD WI
 
 :::
 
-==在玩家面前拿出来的实物稿件==——报纸、帖子、照片，全文各在使用位；  
+==在玩家面前拿出来的实物稿件==——报纸、帖子、照片，全文各在使用位；
+
 本区一张总表清点，点开即达。
 
 
