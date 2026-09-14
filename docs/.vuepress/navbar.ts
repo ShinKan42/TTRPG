@@ -110,6 +110,7 @@ export const navbar = defineNavbarConfig([
 				text: '📚 简介推荐 ⭐',
 				activeMatch: '^/rule/dagger_heart/brief_ref/',
 				items: [
+					{ text: '规则速查 ⚡', link: '/rule/dagger_heart/guide/quick_roll' },
 					{ text: '种族 🧝', link: '/rule/dagger_heart/brief_ref/ancestry' },
 					{ text: '社群 🏘️', link: '/rule/dagger_heart/brief_ref/community' },
 					{ text: '职业 🗡️', link: '/rule/dagger_heart/brief_ref/class' },

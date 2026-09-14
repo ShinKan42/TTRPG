@@ -25,6 +25,14 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 			{
+				text: '规则速查 ⚡',
+				collapsed: true,
+				items: [
+					{ text: '简介推荐', link: '/rule/dagger_heart/guide/quick_roll' },
+					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A7%84%E5%88%99%E9%80%9F%E6%9F%A5' },
+				],
+			},
+			{
 				text: '种族 🧝',
 				collapsed: true,
 				items: [
@@ -62,14 +70,6 @@ export default defineCollection({
 				items: [
 					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#装备' },
 					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A3%85%E5%A4%87' },
-				],
-			},
-			{
-				text: '规则速查 ⚡',
-				collapsed: true,
-				items: [
-					{ text: '简介推荐', link: '/rule/dagger_heart/guide/quick_roll' },
-					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A7%84%E5%88%99%E9%80%9F%E6%9F%A5' },
 				],
 			},
 			],
