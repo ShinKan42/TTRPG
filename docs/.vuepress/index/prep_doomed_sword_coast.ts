@@ -7,12 +7,12 @@ export default defineCollection({
 	sidebar: ['index', 'geography',
 		{
 			text: '维克那四部曲',
-			collapsed: true,
+			collapsed: false,
 			items: ['academy_of_adventure', 'vecna_rise', 'vecna_fall', 'legacy_of_vecna'],
 		},
 		{
 			text: '末日幽暗地域',
-			collapsed: true,
+			collapsed: false,
 			items: [
 				{ text: '腐化王朝', collapsed: true, items: [{ text: '总览', link: 'reign_of_rot' }, { text: '卷一 · 序幕+蘑菇与恶意', link: 'reign_of_rot_1' }, { text: '卷二 · 曼塔德里斯', link: 'reign_of_rot_2' }] },
 				'wrath_of_zuggtmoy',

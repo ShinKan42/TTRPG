@@ -8,7 +8,7 @@ export default defineCollection({
 		{ text: '总览', link: 'index' },
 		{
 			text: '湮灭之墓',
-			collapsed: true,
+			collapsed: false,
 			items: [
 				{ text: '总览', link: 'toa' },
 				{ text: '第一章 南扎路港', link: 'toa_1' },
@@ -16,7 +16,7 @@ export default defineCollection({
 		},
 		{
 			text: '毁灭前夜',
-			collapsed: true,
+			collapsed: false,
 			items: [],
 		},
 	],
