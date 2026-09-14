@@ -184,19 +184,14 @@ export const navbar = defineNavbarConfig([
 				],
 			},
 			{
-					text: '📚 更多资料',
-					items: [
-						{
-							text: '官方资料 📖',
-							link: '/rule/dnd_5r/official/',
-							activeMatch: '^/rule/dnd_5r/official/',
-						},
-						{
-							text: '社区资料 🤝 🚧',
-							link: '/rule/dnd_5r/community/',
-							activeMatch: '^/rule/dnd_5r/community/',
-						},
-					],
+					text: '📚 官方资料',
+					link: '/rule/dnd_5r/official/',
+					activeMatch: '^/rule/dnd_5r/official/',
+				},
+				{
+					text: '🤝 社区资料',
+					link: '/rule/dnd_5r/community/',
+					activeMatch: '^/rule/dnd_5r/community/',
 				},
 				{
 					text: '👤 神官 ー 信観',

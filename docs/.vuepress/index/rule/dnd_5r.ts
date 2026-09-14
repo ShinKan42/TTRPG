@@ -33,26 +33,21 @@ export default defineCollection({
 			],
 		},
 		{
-			text: '📚 更多资料',
+			text: '📚 官方资料',
+			prefix: 'official',
 			collapsed: false,
 			items: [
-				{
-					text: '官方资料 📖',
-					prefix: 'official',
-					collapsed: true,
-					items: [
-						'index',
-						{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
-					],
-				},
-				{
-					text: '社区资料 🤝 🚧',
-					prefix: 'community',
-					collapsed: true,
-					items: [
-						'index',
-					],
-				},
+				'index',
+				{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
+			],
+		},
+		{
+			text: '🤝 社区资料',
+			prefix: 'community',
+			collapsed: false,
+			items: [
+				'index',
+				{ text: '瞄准攻击 🎯', link: 'targeted_attack' },
 			],
 		},
 		{

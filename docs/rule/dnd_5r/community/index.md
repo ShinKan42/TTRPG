@@ -9,7 +9,10 @@ createTime: 2026/08/11
 
 ---
 
-::: tip 🚧 施工中
+::: card-grid
 
-内容陆续整理中。
+- **🎯 瞄准攻击**
+- 指定部位精确打击的战斗扩展规则
+- [查看详情 →](/rule/dnd_5r/community/targeted_attack)
+
 :::
