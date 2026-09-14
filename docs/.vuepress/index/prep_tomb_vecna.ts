@@ -6,7 +6,6 @@ export default defineCollection({
 	dir: 'prep/dnd_5r/tomb_of_annihilation_eve_of_ruin',
 	sidebar: [
 		{ text: '总览', link: 'index' },
-		{ text: '湮灭之墓', collapsed: false, items: [] },
-		{ text: '毁灭前夜', collapsed: false, items: [] },
+		{ text: '湮灭之墓', link: 'toa' },
 	],
 });
