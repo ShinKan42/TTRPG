@@ -7,5 +7,6 @@ export default defineCollection({
 	sidebar: [
 		{ text: '总览', link: 'index' },
 		{ text: '湮灭之墓', link: 'toa' },
+		{ text: '第一章 南扎路港', link: 'toa_1' },
 	],
 });
