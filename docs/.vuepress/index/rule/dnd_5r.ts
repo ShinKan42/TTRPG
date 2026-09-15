@@ -47,7 +47,13 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				'index',
-				{ text: '瞄准攻击 🎯', link: 'targeted_attack' },
+				{
+					text: '通用规则 📜',
+					collapsed: true,
+					items: [
+						{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
+					],
+				},
 			],
 		},
 		{
@@ -62,17 +68,17 @@ export default defineCollection({
 					items: ['index', 'madoka_magica', '1999'],
 				},
 				{
-					text: '村规 📜',
+					text: '通用规则 📜',
 					prefix: 'shinkan_house_rule',
 					collapsed: true,
 					items: [
 						'index',
-						{ text: '塔罗牌 🔮', link: 'https://5e.kiwee.top/decks.html#%e5%a1%94%e7%bd%97%e7%89%8c_td' },
+						{ text: '塔罗牌 🔮', link: '/about/tarot' },
 						'dungeon_meshi',
 					],
 				},
 				{
-					text: 'DLC 📦',
+					text: '主题规则 📦',
 					prefix: 'shinkan_dlc',
 					collapsed: true,
 					items: ['index', 'kamen_rider'],

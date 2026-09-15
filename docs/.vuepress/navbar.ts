@@ -185,13 +185,35 @@ export const navbar = defineNavbarConfig([
 			},
 			{
 					text: '📚 官方资料',
-					link: '/rule/dnd_5r/official/',
 					activeMatch: '^/rule/dnd_5r/official/',
+					items: [
+						{
+							text: '总览索引 📑',
+							link: '/rule/dnd_5r/official/',
+							activeMatch: '^/rule/dnd_5r/official/$',
+						},
+						{
+							text: '三龙牌 🐉',
+							link: '/rule/dnd_5r/official/three_dragon_ante',
+							activeMatch: '^/rule/dnd_5r/official/three_dragon_ante',
+						},
+					],
 				},
 				{
 					text: '🤝 社区资料',
-					link: '/rule/dnd_5r/community/',
 					activeMatch: '^/rule/dnd_5r/community/',
+					items: [
+						{
+							text: '总览索引 📑',
+							link: '/rule/dnd_5r/community/',
+							activeMatch: '^/rule/dnd_5r/community/$',
+						},
+						{
+							text: '瞄准攻击 🎯',
+							link: '/rule/dnd_5r/community/targeted_attack',
+							activeMatch: '^/rule/dnd_5r/community/targeted_attack',
+						},
+					],
 				},
 				{
 					text: '👤 神官 ー 信観',
@@ -202,12 +224,12 @@ export const navbar = defineNavbarConfig([
 						activeMatch: '^/rule/dnd_5r/home_brew/acg/',
 					},
 					{
-						text: '村规 📜',
+						text: '通用规则 📜',
 						link: '/rule/dnd_5r/home_brew/shinkan_house_rule/',
 						activeMatch: '^/rule/dnd_5r/home_brew/shinkan_house_rule/',
 					},
 					{
-						text: 'DLC 📦',
+						text: '主题规则 📦',
 						link: '/rule/dnd_5r/home_brew/shinkan_dlc/',
 						activeMatch: '^/rule/dnd_5r/home_brew/shinkan_dlc/',
 					},
