@@ -12,17 +12,11 @@ sitemap: false
 
 ---
 
-
----
-
-::: center
-
 ::: center
 
 ## **🔮 龙与地下城 5 版 2024**
 
 :::
-
 
 ---
 
@@ -33,6 +27,8 @@ sitemap: false
 ::: card
 
 [==湮灭之墓==×==毁灭前夜==⚰️](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
+
+其余备团案卷已下线，==待按新格式重做==——重做计划见 [DND 备团索引](/prep/menu/dnd_5r.html)
 
 :::
 
