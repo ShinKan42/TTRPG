@@ -17,61 +17,22 @@ sitemap: false
 
 ::: center
 
+::: center
+
 ## **🔮 龙与地下城 5 版 2024**
 
 :::
 
----
-
-:::::: center
-
-::::: card-grid
-
-:::: card
-
-::: center
-
-**🎲 短团**
-
-:::
-
-[死亡之屋💀](/prep/dnd_5r/deaths_house/)
-
-::::
-
-:::: card
-
-::: center
-
-**📚 短团集**
-
-:::
-
-[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
-
-[黄金宝库之钥🔑](/prep/dnd_5r/kftgv/)
-
-::::
-
-:::::
-
-::::::
 
 ---
 
 :::: center
 
-#### **🎬 长团**
+#### **🎬 战役框架**
 
 ::: card
 
-[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
-
-[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
-
-[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/)
-
-[末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/)
+[==湮灭之墓==×==毁灭前夜==⚰️](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
 :::
 
