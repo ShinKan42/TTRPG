@@ -191,7 +191,7 @@ createTime: 2026/9/9 12:00:00
 
 每个职业==配 2 个领域==，升级挑卡始终在这两域里挑
 
-**更多资料**：[灰机 wiki · 领域卡](https://daggerheart.huijiwiki.com/wiki/领域卡)
+**详细资料**：[领域页](/rule/dagger_heart/brief_ref/domain)
 
 :::
 
