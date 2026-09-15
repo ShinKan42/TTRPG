@@ -4,19 +4,120 @@ export const navbar = defineNavbarConfig([
 	{
 		text: '🕯️ COC',
 		items: [
-			{ text: '新手指南 📖', link: '/rule/coc/guide/', activeMatch: '^/rule/coc/guide/$|^/rule/coc/guide/(about|character_creation|quick_roll|sanity|combat|faq)' },
-
-			{ text: '资料速查 📚', link: '/rule/coc/guide/tables', activeMatch: '^/rule/coc/guide/tables$|^/rule/coc/guide/(skills|jobs|weapons|madness|equipment|spells|mythos|tomes|artifacts)_table' },
-
+			{
+				text: '📖 新手指南',
+				items: [
+					{
+						text: 'COC 怎么玩 ❔',
+						link: '/rule/coc/guide/about',
+						activeMatch: '^/rule/coc/guide/about',
+					},
+					{
+						text: '车卡指南 📖',
+						link: '/rule/coc/guide/character_creation',
+						activeMatch: '^/rule/coc/guide/character_creation',
+					},
+					{
+						text: '常用骰法 🎲',
+						link: '/rule/coc/guide/quick_roll',
+						activeMatch: '^/rule/coc/guide/quick_roll',
+					},
+					{
+						text: '理智与疯狂 🧠',
+						link: '/rule/coc/guide/sanity',
+						activeMatch: '^/rule/coc/guide/sanity',
+					},
+					{
+						text: '战斗 ⚔️',
+						link: '/rule/coc/guide/combat',
+						activeMatch: '^/rule/coc/guide/combat',
+					},
+					{
+						text: '常见问题 ❓',
+						link: '/rule/coc/guide/faq',
+						activeMatch: '^/rule/coc/guide/faq',
+					},
+				],
+			},
+			{
+				text: '📚 资料速查',
+				items: [
+					{
+						text: '技能表 📋',
+						link: '/rule/coc/guide/skills_table',
+						activeMatch: '^/rule/coc/guide/skills_table',
+					},
+					{
+						text: '职业表 🎓',
+						link: '/rule/coc/guide/jobs_table',
+						activeMatch: '^/rule/coc/guide/jobs_table',
+					},
+					{
+						text: '武器表 🔫',
+						link: '/rule/coc/guide/weapons_table',
+						activeMatch: '^/rule/coc/guide/weapons_table',
+					},
+					{
+						text: '疯狂表 🤪',
+						link: '/rule/coc/guide/madness_table',
+						activeMatch: '^/rule/coc/guide/madness_table',
+					},
+					{
+						text: '装备表 🎒',
+						link: '/rule/coc/guide/equipment_table',
+						activeMatch: '^/rule/coc/guide/equipment_table',
+					},
+					{
+						text: '法术表 📜',
+						link: '/rule/coc/guide/spells_table',
+						activeMatch: '^/rule/coc/guide/spells_table',
+					},
+					{
+						text: '神话图鉴 👁️',
+						link: '/rule/coc/guide/mythos_table',
+						activeMatch: '^/rule/coc/guide/mythos_table',
+					},
+					{
+						text: '神话典籍 📚',
+						link: '/rule/coc/guide/tomes_table',
+						activeMatch: '^/rule/coc/guide/tomes_table',
+					},
+					{
+						text: '神话造物 🔮',
+						link: '/rule/coc/guide/artifacts_table',
+						activeMatch: '^/rule/coc/guide/artifacts_table',
+					},
+					],
+			},
 		],
 	},
 	{
 		text: '🗡️ 匕首之心 🚧',
 		items: [
-			{ text: '新手指南 📖 🚧', link: '/rule/dagger_heart/guide/', activeMatch: '^/rule/dagger_heart/guide/$|^/rule/dagger_heart/guide/(about|character_creation|quick_roll|general_rule|combat|roleplay|faq)' },
-
-			{ text: '简介推荐 ⭐', link: '/rule/dagger_heart/brief_ref/', activeMatch: '^/rule/dagger_heart/brief_ref/' },
-
+			{
+				text: '📖 新手指南 🚧',
+				items: [
+					{ text: '匕首之心怎么玩 ❔', link: '/rule/dagger_heart/guide/about', activeMatch: '^/rule/dagger_heart/guide/about' },
+					{ text: '车卡指南 📖', link: '/rule/dagger_heart/guide/character_creation', activeMatch: '^/rule/dagger_heart/guide/character_creation' },
+					{ text: '常用骰法 🎲', link: '/rule/dagger_heart/guide/quick_roll', activeMatch: '^/rule/dagger_heart/guide/quick_roll' },
+					{ text: '基础规则 📚', link: '/rule/dagger_heart/guide/general_rule', activeMatch: '^/rule/dagger_heart/guide/general_rule' },
+					{ text: '战斗规则 ⚔️', link: '/rule/dagger_heart/guide/combat', activeMatch: '^/rule/dagger_heart/guide/combat' },
+					{ text: '扮演 🎭', link: '/rule/dagger_heart/guide/roleplay', activeMatch: '^/rule/dagger_heart/guide/roleplay' },
+					{ text: '常见问题 ❓', link: '/rule/dagger_heart/guide/faq', activeMatch: '^/rule/dagger_heart/guide/faq' },
+				],
+			},
+			{
+				text: '📚 简介推荐 ⭐',
+				activeMatch: '^/rule/dagger_heart/brief_ref/',
+				items: [
+					{ text: '规则速查 ⚡', link: '/rule/dagger_heart/guide/quick_roll' },
+					{ text: '种族 🧝', link: '/rule/dagger_heart/brief_ref/ancestry' },
+					{ text: '社群 🏘️', link: '/rule/dagger_heart/brief_ref/community' },
+					{ text: '职业 🗡️', link: '/rule/dagger_heart/brief_ref/class' },
+					{ text: '领域 📜', link: '/rule/dagger_heart/brief_ref/domain' },
+					{ text: '装备 🎒', link: '/rule/dagger_heart/brief_ref/#装备' },
+				],
+			},
 			{
 				text: '🎬 战役框架 🚧',
 				items: [
@@ -30,8 +131,46 @@ export const navbar = defineNavbarConfig([
 	{
 		text: '🔮 DND-5R',
 		items: [
-			{ text: '新手指南 📖', link: '/rule/dnd_5r/guide/', activeMatch: '^/rule/dnd_5r/guide/$|^/rule/dnd_5r/guide/(about|character_creation|quick_roll|roleplay|combat|faq)|^/rule/dnd_5r/class/' },
-
+			{
+				text: '📖 新手指南',
+				items: [
+					{
+						text: 'DND 怎么玩 ❔',
+						link: '/rule/dnd_5r/guide/about',
+						activeMatch: '^/rule/dnd_5r/guide/about',
+					},
+					{
+						text: '职业选择 🗡️',
+						link: '/rule/dnd_5r/class/guide',
+						activeMatch: '^/rule/dnd_5r/class/',
+					},
+					{
+						text: '车卡指南 📖',
+						link: '/rule/dnd_5r/guide/character_creation',
+						activeMatch: '^/rule/dnd_5r/guide/character_creation',
+					},
+					{
+						text: '常用骰法 🎲',
+						link: '/rule/dnd_5r/guide/quick_roll',
+						activeMatch: '^/rule/dnd_5r/guide/quick_roll',
+					},
+					{
+						text: '扮演 🎭',
+						link: '/rule/dnd_5r/guide/roleplay',
+						activeMatch: '^/rule/dnd_5r/guide/roleplay',
+					},
+					{
+						text: '战斗 ⚔️',
+						link: '/rule/dnd_5r/guide/combat',
+						activeMatch: '^/rule/dnd_5r/guide/combat',
+					},
+					{
+						text: '常见问题 ❓',
+						link: '/rule/dnd_5r/guide/faq',
+						activeMatch: '^/rule/dnd_5r/guide/faq',
+					},
+				],
+			},
 			{
 				text: '🔗 资料站跳转',
 				items: [
@@ -44,10 +183,38 @@ export const navbar = defineNavbarConfig([
 					{ text: '不全书 📖', link: 'https://5echm.kagangtuya.top/' },
 				],
 			},
-			{ text: '官方资料 📚', link: '/rule/dnd_5r/official/', activeMatch: '^/rule/dnd_5r/official/' },
-
-				{ text: '社区资料 🤝', link: '/rule/dnd_5r/community/', activeMatch: '^/rule/dnd_5r/community/' },
-
+			{
+					text: '📚 官方资料',
+					activeMatch: '^/rule/dnd_5r/official/',
+					items: [
+						{
+							text: '总览索引 📑',
+							link: '/rule/dnd_5r/official/',
+							activeMatch: '^/rule/dnd_5r/official/$',
+						},
+						{
+							text: '三龙牌 🐉',
+							link: '/rule/dnd_5r/official/three_dragon_ante',
+							activeMatch: '^/rule/dnd_5r/official/three_dragon_ante',
+						},
+					],
+				},
+				{
+					text: '🤝 社区资料',
+					activeMatch: '^/rule/dnd_5r/community/',
+					items: [
+						{
+							text: '总览索引 📑',
+							link: '/rule/dnd_5r/community/',
+							activeMatch: '^/rule/dnd_5r/community/$',
+						},
+						{
+							text: '瞄准攻击 🎯',
+							link: '/rule/dnd_5r/community/targeted_attack',
+							activeMatch: '^/rule/dnd_5r/community/targeted_attack',
+						},
+					],
+				},
 				{
 					text: '👤 神官 ー 信観',
 					items: [

@@ -37,7 +37,7 @@ export default defineCollection({
 			prefix: 'official',
 			collapsed: false,
 			items: [
-				{ text: '官方资料 📚', link: 'index' },
+				{ text: '总览索引 📑', link: 'index' },
 				{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
 			],
 		},
@@ -46,7 +46,7 @@ export default defineCollection({
 			prefix: 'community',
 			collapsed: false,
 			items: [
-				{ text: '社区资料 🤝', link: 'index' },
+				{ text: '总览索引 📑', link: 'index' },
 				{
 					text: '通用规则 📜',
 					collapsed: true,

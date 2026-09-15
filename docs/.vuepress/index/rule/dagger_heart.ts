@@ -28,7 +28,7 @@ export default defineCollection({
 				text: '规则速查 ⚡',
 				collapsed: true,
 				items: [
-					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/' },
+					{ text: '简介推荐', link: '/rule/dagger_heart/guide/quick_roll' },
 					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A7%84%E5%88%99%E9%80%9F%E6%9F%A5' },
 				],
 			},
