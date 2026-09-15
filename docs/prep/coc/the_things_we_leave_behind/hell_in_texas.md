@@ -131,7 +131,10 @@ ShinKan42
 
 <a id="bg-hellhouse"></a>
 
+:::: card
+
 ::: tip 地狱屋 Hell House——用恐怖布道的万圣节鬼屋
+
 - **文化注·地狱屋==——用恐怖布道的真实现象==**
 
 
@@ -140,7 +143,7 @@ ShinKan42
       - 恐怖布景＋演员表演「罪的代价」
         - 目的是吓人悔改
     - **源流**：1970 年代初起源，1990 年代中期扩散
-      - **出圈**：2001 年纪录片《Hell House》将其带入公众视野
+      - **出圈**：2001 年纪录片==《Hell House》==将其带入公众视野
         - 原书推荐 KP 观看
     - **出口设计**：参观结束设「救赎选择」
       - 志愿者当场带你祷告、归向基督
@@ -154,9 +157,12 @@ ShinKan42
       - **道具**：假的血、塑料魔鬼尾巴、橡皮恶魔角
     - **反差**：玩家以为这只是怪趣味布景时
       - 真死亡就在同一栋屋子里发生
-  - **玩家接触层**：招募帖「用恐怖布景布道」一句即可，地狱屋概念留桌上展开
+  - **玩家接触层**：招募帖==「用恐怖布景布道」==一句即可，地狱屋概念留桌上展开
 
 :::
+
+::::
+
 
 ::: details ✍️ 作者手记（评语 · 可跳过）
 
@@ -167,11 +173,14 @@ ShinKan42
 
 <a id="bg-diedinsin"></a>
 
+:::: card
+
 ::: tip 「死于罪中」——凯莉葬礼的神学
+
 - **文化注·「死于罪中」==——葬礼戏的教义地基==**
 
 
-  - **教义**：自杀在福音派信仰里=不可赦免的罪
+  - **教义**：自杀在福音派信仰里是不可赦免的罪
     - **礼制后果**：死于罪中的人不下教会墓地礼仪
       - 韦弗牧师拒绝在教会办凯莉的葬礼
     - **悼词**：他在墓前致悼词，称她「被认识的人爱着、聪明又体贴」——
@@ -187,9 +196,15 @@ ShinKan42
 
 :::
 
+::::
+
+
 <a id="bg-churchwar"></a>
 
+:::: card
+
 ::: tip 乡村教会 vs 巨型教会——韦弗的战争
+
 - **文化注·教会之战==——韦弗全部动机的地基==**
 
 
@@ -213,13 +228,19 @@ ShinKan42
 
 :::
 
+::::
+
+
 <a id="bg-parachurch"></a>
 
+:::: card
+
 ::: tip 教会外围事工运动 Parachurch——韦弗模仿不起的对象
+
 - **文化注·Parachurch==——模仿不起的对照物==**
 
 
-  - **定义**：Parachurch movement=教会之外的宗教组织运动
+  - **定义**：Parachurch movement 即教会之外的宗教组织运动
     - **所指**：独立于地方教会的宣教/出版/活动机构
       - 大型地狱屋多是外围事工操办
         - **硬件**：定制建筑、风管特效、假地板、精心设计的动线
@@ -228,20 +249,26 @@ ShinKan42
       - 于是买了==一栋自带「特效」的凶宅==
         - 靠志愿者和低技术凑合
   - **桌上用法**
-    - **对比即恐怖**：志愿者手里的「特效」越简陋，屋子的「真效果」（事故、耳语、显形）越刺眼
+    - **对比即恐怖**：志愿者手里的==「特效」==越简陋，屋子的「真效果」（事故、耳语、显形）越刺眼
   - **玩家接触层**：不入帖，桌上随查随讲
 
 :::
 
+::::
+
+
 <a id="bg-biblebelt"></a>
 
+:::: card
+
 ::: tip 德州东部圣经带——里兰的地基
+
 - **文化注·圣经带==——信仰底色与对外的墙==**
 
 
-  - **地名**：安吉林县、拉夫金均为真实德州东部地名
+  - **地名**：==安吉林县==、拉夫金均为真实德州东部地名
     - **社区结构**：圣经带（Bible Belt）小镇
-      - 教会=社区中心，信仰=身份认同
+      - ==教会是社区中心==，信仰是身份认同
         - **底色**：2800 人的镇子以「全民深信宗教」为底色
     - **对外的墙**：深红州小镇对「外人」的本能戒备
       - 记者、天主教徒、LGBT 活动家
@@ -253,18 +280,24 @@ ShinKan42
 
 :::
 
+::::
+
+
 <a id="bg-kellytruth"></a>
 
+:::: card
+
 ::: tip kellytruth——论坛真相帖生态
+
 - **文化注·kellytruth==——会生长的网帖==**
 
 
   - **发帖人**：米奇以网名 kellytruth 在各论坛发帖，要人关注凯莉之死
     - **模式**：现代美国小镇的真相寻求
-      - **路径**：正规渠道堵死→网络发帖→阴谋论发酵
+      - **路径**：==正规渠道堵死==→网络发帖→阴谋论发酵
     - **生长**：Reddit 帖随时间生长
       - 其他志愿者陆续跟帖讲屋里的怪事
-        - **在场者**：rainbowviper=萨沙即在此
+        - **在场者**：rainbowviper 就是萨沙
   - **桌上用法**
     - **双钩接口**：B 钩的选题来源；A 钩的入场线索
     - **回访有新料**：时间推移帖会变长
@@ -272,9 +305,15 @@ ShinKan42
 
 :::
 
+::::
+
+
 <a id="bg-aa"></a>
 
+:::: card
+
 ::: tip AA 戒酒互助会——米奇的悬崖
+
 - **文化注·AA==——戒了的人最脆==**
 
 
@@ -292,9 +331,15 @@ ShinKan42
 
 :::
 
+::::
+
+
 <a id="bg-rooms"></a>
 
+:::: card
+
 ::: tip 六房间的现实原型——表演不是夸张
+
 - **文化注·六房间原型==——纪录片同框==**
 
 
@@ -310,13 +355,19 @@ ShinKan42
 
 :::
 
+::::
+
+
 <a id="bg-tcu"></a>
 
+:::: card
+
 ::: tip TCU 教授位——原书的答疑器
+
 - **文化注·TCU 教授位==——学者答疑出口==**
 
 
-  - **其人**：德克萨斯基督教大学（Texas Christian University，沃思堡）人类学教授迈克尔·雷蒙德
+  - **其人**：==德克萨斯基督教大学==（Texas Christian University，沃思堡）人类学教授迈克尔·雷蒙德
     - **功能**：原书虚构的专家位
       - **出口**：调查员想深挖「地狱屋」传统时的答疑出口
     - **定位微妙**：名字带 Christian 但属主流新教传统大学
@@ -328,6 +379,9 @@ ShinKan42
 
 :::
 
+::::
+
+
 ---
 
 ::: center
@@ -336,7 +390,7 @@ ShinKan42
 
 :::
 
-::: card
+:::: card
 
 - **==中心思想==——Q12 定案：abc 合铸**
     - **人物层主轴**：==它盯上刚刚把生活扶正的人==
@@ -387,7 +441,7 @@ ShinKan42
 
   - **魔改清单（Q16 定案：原样跑）**
     - **S1 轻映射**（Q14 定案）
-      - **物证**：韦弗桌上《逾越节天使之书》签名本＋正写信斥约翰·贝尔福（John Balfour）异端
+      - **物证**：韦弗桌上==《逾越节天使之书》==签名本＋正写信斥约翰·贝尔福（John Balfour）异端
         - 原书自带彩蛋，保留原样
     - **硬边界**
       - ==可引 S1 世界态==
@@ -399,7 +453,7 @@ ShinKan42
 
 ---
 
-:::
+::::
 
 ---
 
@@ -501,7 +555,7 @@ ShinKan42
       - 账本秘密
       - **第二件**：韦弗桌上的《逾越节天使之书》签名本
       - 警长掩盖死亡
-    - **误判路径**：老练调查员会误判「自由福音教会=克苏鲁邪教」
+    - **误判路径**：老练调查员会误判「自由福音教会是克苏鲁邪教」
       - 原书指示：把这个歧义演到最大
     - **真相**：教会只是绝望
       - 神话活动全在屋下，不在教堂
@@ -566,7 +620,7 @@ ShinKan42
     - **真相 vs 生计**：镇子的社区中心就是教会
       - **重量**：掀翻它，==掀翻的是两千八百人的星期天==
     - ==你自己也在食谱里==：调查员进屋就在==进食范围==
-      - **钩子**：角色背景里若有「重建中」的一页（戒断/康复/复学/复出）
+      - **钩子**：角色背景里若有==「重建中」==的一页（戒断/康复/复学/复出）
         - 它先找你
 
 ---
@@ -581,7 +635,7 @@ ShinKan42
 
 :::
 
-::: card
+:::: card
 
 - **==罗伊格尔==——屋下的进食者（机制全档案）**
     - **生态**：自然形态是==肉眼不可见的能量漩涡==
@@ -672,7 +726,7 @@ ShinKan42
       - 漩涡落下前的最后警报
         - **逃生窗**：警觉的调查员来得及喊人逃出 20 码圈
 
-:::
+::::
 
 ::: details 📊 实体数据卡——罗伊格尔（实体化后）
 
@@ -689,7 +743,7 @@ ShinKan42
 **——能力——**
 
 - **魔法点不逐点记账**：小能力消耗低于它从在场者的痛苦中收割的量；极端能力由特定事件供能（见能力前置表）
-- 实体化后=完全痊愈，可离屋寻同类
+- 实体化后即完全痊愈，可离屋寻同类
 
 **——护甲——**
 
@@ -724,7 +778,7 @@ ShinKan42
 
 :::
 
-::: card
+:::: card
 
 - **==调查员的介入（Involving the Investigators）==——入场点与开局已知**
 
@@ -750,13 +804,13 @@ ShinKan42
     - **体制口径**：警局==草草结案==
       - 米奇公开指控掩盖
   - **葬礼即第一个调查现场**
-    - **悼词戏**：韦弗牧师致悼词，全文避开上帝（见文化注·「死于罪中」）
+    - **悼词戏**：韦弗牧师致悼词，全文避开上帝（见文化注·==「死于罪中」==）
     - **对峙戏**：结束时米奇当众对峙牧师
       - 马丁内斯警官把他拉开
-    - **人脉场**：哀悼者群=理论交换场
+    - **人脉场**：哀悼者群就是理论交换场
       - ==米奇与马丁内斯各持一半真相==
 
-:::
+::::
 
 ::: details 📖 原文留档：调查员的介入（中英双版）
 
@@ -782,7 +836,7 @@ Other possible avenues include: Investigator groups actively looking for weird e
 
 :::
 
-::: card
+:::: card
 
 - **A 钩——替死者讨说法的人**
 
@@ -791,7 +845,7 @@ Other possible avenues include: Investigator groups actively looking for weird e
     - **凯莉的旧友**：少年时代认识她，看着她堕落又看着她重生
       - ==你不信她会割自己的喉咙==
     - **受米奇所托**：kellytruth 帖辗转到了你手上
-    - **找离奇事件的人**：Reddit 帖里的「屋里怪事」是你的日常选题
+    - **找离奇事件的人**：Reddit 帖里的==「屋里怪事」==是你的日常选题
   - 开局动作位：葬礼
     - **听悼词**
       - **看什么**：一位牧师哀悼一个他确信已下地狱的女孩
@@ -812,7 +866,7 @@ Other possible avenues include: Investigator groups actively looking for weird e
     - **镇子**
       - ==两千八百人的星期天都在那间教会里==
 
-:::
+::::
 
 ---
 
@@ -822,7 +876,7 @@ Other possible avenues include: Investigator groups actively looking for weird e
 
 :::
 
-::: card
+:::: card
 
 - **B 钩==——来做一条警局黑幕的报道==**
 
@@ -854,7 +908,7 @@ Other possible avenues include: Investigator groups actively looking for weird e
       - ==重新登场的时机可卡在本篇高潮==（枪击狂欢）
         - 供料选项，由 DM 现场接
 
-:::
+::::
 
 ::: details 📖 原文留档：GNS 钩（GNS 册，中英双版）
 
@@ -959,7 +1013,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
+::: center
+
 ### **<a id="npc-mitch"></a> 米奇·兰德罗姆 Mitch Landrom（53，凯莉之父） 🔦**
+
+:::
 - **米奇·兰德罗姆==——戒酒中的父亲，全网讨真相==**
 
 
@@ -1013,11 +1071,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 美国籍｜53 岁｜贸易学校｜易怒、威胁性肢体语言、粗口连篇
 
 ::::
+
 :::::
 
 ::::: card
 
+::: center
+
 ### **<a id="npc-ted"></a> 泰德·韦弗 Ted Weaver（56，里兰自由福音教会牧师） ✝️**
+
+:::
 - **泰德·韦弗==——教会存亡押在地狱屋上的牧师==**
 
 
@@ -1039,7 +1102,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
         - 整天待在办公室
           - **例外日**：有急事会去，24 号开幕也打算到场
   - **立场**
-    - **三位一体**：教会=家=他自己的一生
+    - **三位一体**：教会是家，也是他自己的一生
     - **教义铁律**：凯莉的死是她自己的罪
       - ==神的审判是终局==
         - 拒绝教会葬礼是教义，不是恶意
@@ -1063,7 +1126,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 卖高价他个人直接得利
   - **误读场燃料**
     - **证据三角**：账本+怪书+掩盖
-      - 老练调查员容易误判教会=邪教
+      - 老练调查员容易误判教会是邪教
         - 原书明写：==把这个歧义演到最大==
     - **第一个错**：==指控邪教本身就是这案子的第一个错==
       - 他们才是全镇最怕魔鬼的人
@@ -1090,11 +1153,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 美国籍｜56 岁｜欧拉·罗伯茨大学宗教学学士｜用魅力建立信任；紧张时搓手
 
 ::::
+
 :::::
 
 ::::: card
 
+::: center
+
 ### **<a id="npc-daniel"></a> 丹尼尔·韦弗 Daniel Weaver（53，里兰警长） 👮**
+
+:::
 - **丹尼尔·韦弗==——护兄护教会的警长==**
 
 
@@ -1112,7 +1180,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **立场**
     - **地盘**：这个镇归他管
     - **有罪推定**：人人在说谎——直到证明没说谎为止
-    - **工具观**：法律=韦弗家的工具
+    - **工具观**：法律就是韦弗家的工具
   - **感官**（设计意图：权力的姿态）
     - **体貌**：与哥哥同样锐利的眼睛，个子更矮更壮
       - 惯常的神情是怀疑
@@ -1150,11 +1218,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 美国籍｜53 岁｜斯蒂芬·奥斯汀州立大学刑事司法学士｜预感枪战时穿防弹背心（护甲+2）
 
 ::::
+
 :::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-martinez"></a> 亚伦·马丁内斯 Aaron Martinez（警官，天主教徒） ⚖️**
+
+:::
 - **亚伦·马丁内斯==——握着遗书照片的体制内盟友==**
 
 
@@ -1185,11 +1258,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 在警长抽屉找到，==偷拷进自己手机==
   - **信任门**：调查员展现可信的一面（护米奇/不泄密/真查案）
     - ==交出照片与全部所知==
-:::::
 
-::::: card
+::::
+
+:::: card
+
+::: center
 
 ### **<a id="npc-dawn"></a> 道恩·埃勒斯 Dawn Ellers（志愿者，凯莉挚友） 🕯️**
+
+:::
 - **道恩·埃勒斯==——信仰崩塌的挚友，自缢倒计时==**
 
 
@@ -1218,11 +1296,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **现场残留**：阁楼死亡时刻失禁的粪臭
       - 液体可溯至吊点下方
       - 侦查可获弃置的电线绳套
-:::::
+
+::::
 
 ::::: card
 
+::: center
+
 ### **<a id="npc-cho"></a> 凯文·曹 Kevin Cho（15，「校园枪手」扮演者） 🎭**
+
+:::
 - **凯文·曹==——口袋实弹的「枪手」==**
 
 
@@ -1281,11 +1364,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 美国籍｜15 岁｜高中生｜自言自语（对象：罗伊格尔）
 
 ::::
+
 :::::
 
 ::::: card
 
+::: center
+
 ### **<a id="npc-koehler"></a> 布拉德利·凯勒 Bradley Koehler（28，LGBT 活动家） 🔥**
+
+:::
 - **布拉德利·凯勒==——替「它」备好汽油阵而不自知==**
 
 
@@ -1359,11 +1447,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 **锚点台词**（原文）：「It wants to burn. Burn in hell.」（它想烧。烧进地狱。）
 
 ::::
+
 :::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-crawley"></a> 劳伦·克劳利 Lauren Crawley（志愿者总管） 🧱**
+
+:::
 - **劳伦·克劳利==——否认的堤坝==**
 
 
@@ -1393,7 +1486,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **进屋门票**：==志愿者缺人手，她来者不拒==
     - **排障请求**：控制室波纹由她提出
       - 必然徒劳——电没问题，==是它在==
-:::::
+
+::::
 
 ::::::
 
@@ -1405,11 +1499,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-:::::: card
-
 ::::: card
 
+:::: card
+
+::: center
+
 ### **<a id="npc-ellis"></a> 史蒂夫·埃利斯 Steve Ellis（警官） 🚔**
+
+:::
 - **史蒂夫·埃利斯==——枪击首杀位==**
 
 
@@ -1428,11 +1526,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **引爆点**：米奇酒醉闹屋时与他枪战（罗伊格尔挑起）
       - **摆位**：把他放到任何一个「忠诚与良知相撞」的位置上
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-eva"></a> 伊娃·德尔加多 Eva Delgado（青少年「鬼导游」） 👹**
+
+:::
 - **伊娃·德尔加多==——说出人心里的秘密==**
 
 
@@ -1451,11 +1553,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 她能点出调查员背景故事里的元素
         - 玩家自己都没说过的
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-sasha"></a> 萨沙·赖因斯塔 Sasha Reinstad（木工） 🪚**
+
+:::
 - **萨沙·赖因斯塔==——Reddit 名 rainbowviper==**
 
 
@@ -1468,11 +1574,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 精神分析或说服可让他讲出恐惧
       - 网上他已讲过一半
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-fuhrman"></a> 辛西娅·富尔曼 Cynthia Fuhrman（警局调度） 📞**
+
+:::
 - **辛西娅·富尔曼==——墨镜电瓶车烟嗓==**
 
 
@@ -1484,9 +1594,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **功能位**：警局问话的第一道门
     - ==什么都能问出一点，什么都问不深==
 
-:::::
+::::
 
-::::::
+:::::
 
 ---
 
@@ -1496,11 +1606,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-:::::: card
-
 ::::: card
 
+:::: card
+
+::: center
+
 ### **<a id="npc-raymond"></a> 迈克尔·雷蒙德 Michael J. Raymond（TCU 人类学教授） 🎓**
+
+:::
 - **迈克尔·雷蒙德==——地狱屋答疑器==**
 
 
@@ -1511,11 +1625,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - ==他都能答==
   - **用法**：调查员问出「这种布道正常吗」的出口
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-news"></a> 两支本地新闻队 📺**
+
+:::
 - **两支本地新闻队==——B 钩的同行竞逐位==**
 
 
@@ -1525,11 +1643,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 抢机位、抢采访、互相使绊
   - **另职**：暴力驱散抗议时镜头都在——==素材满天飞的混乱制造者==
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-protest"></a> 十二人的抗议队伍 🏳️‍🌈**
+
+:::
 - **十二人的抗议队伍==——无凯勒协调==**
 
 
@@ -1544,9 +1666,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 志愿者持临时木棒将他们==打伤驱逐==
       - 被游客与记者镜头拍下
 
-:::::
+::::
 
-::::::
+:::::
 
 ---
 
@@ -1556,11 +1678,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-:::::: card
-
 ::::: card
 
+:::: card
+
+::: center
+
 ### **<a id="npc-marshal"></a> 消防局长 🚒**
+
+:::
 - **消防局长==——纵火夜的追责位==**
 
 
@@ -1569,11 +1695,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 火起时他要在场
       - ==面对自己签的字==
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-teens"></a> 青少年志愿者组 🧒**
+
+:::
 - **青少年志愿者组==——怪事抱怨的主要来源==**
 
 
@@ -1584,22 +1714,26 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **用法**：任何需要「怪事目击者」的场景
     - 随手安一个
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="npc-townsfolk"></a> 镇民 🏘️**
+
+:::
 - **镇民==——教会即社区，对外人有墙==**
 
 
-  - **体量**：两千八百人，==教会=社区中心，信仰=身份==
+  - **体量**：两千八百人，==教会是社区中心，信仰是身份==
   - **戒备**：对外来的调查员客气之下有墙（圣经带底色）；
     - 对记者的墙最厚
   - **用法**：葬礼哀悼者、街头闲话、加油站与餐馆的只言片语——理论发酵的土壤
 
-:::::
+::::
 
-::::::
+:::::
 
 ---
 
@@ -1626,11 +1760,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-:::::: card
-
 ::::: card
 
+:::: card
+
+::: center
+
 ### **<a id="scene-funeral"></a> 14 加利翁墓园——凯莉的葬礼 ⚰️**
+
+:::
 - **加利翁墓园==——10/23 葬礼，本篇入场点==**
 
 
@@ -1650,11 +1788,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **两半真相**：米奇与马丁内斯各持一半理论
     - **反常**：教会成员的口径整齐得反常
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="scene-church"></a> 15 里兰自由福音教会 ⛪**
+
+:::
 - **里兰自由福音教会==——动机场与账本所在==**
 
 
@@ -1682,11 +1824,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **相形之下**：这里土气寒酸
       - ==韦弗在为教会的命而战==
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="scene-police"></a> 16 里兰警察局 🚓**
+
+:::
 - **里兰警察局==——体制质地与验尸官制度==**
 
 
@@ -1695,8 +1841,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **编制**：==全编制四人==
     - **名单**：警长丹尼尔·韦弗／警官马丁内斯／警官埃利斯／调度富尔曼
   - **体制质地**：==警长一手遮天==
-    - 埃利斯=教会信徒
-    - 马丁内斯=融不进的天主教徒
+    - 埃利斯是教会信徒
+    - 马丁内斯是融不进的天主教徒
     - 问话第一道门是富尔曼的柜台
   - **私查线索**：马丁内斯的私查所得见人物卡
     - 遗书照片私拷在警长抽屉被他复制
@@ -1709,11 +1855,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - **定性**：马丁内斯的「程序异常」异常在制度薄，不在犯罪
         - 制度查证见知识包·一
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="scene-grounds"></a> 9-11 安格斯坦宅——屋外与场地 🌲**
+
+:::
 - **安格斯坦宅场地==——四英亩松林与房史==**
 
 
@@ -1762,9 +1912,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 7 月高调祝圣
       - **档期**：10/24-31 地狱屋，门票 $15
 
-:::::
+::::
 
-::::::
+:::::
 
 ---
 
@@ -1772,7 +1922,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::: card
 
+::: center
+
 ### **<a id="scene-tour"></a> 1 安格斯坦宅——地狱屋动线（集合区） 🚪**
+
+:::
 - **地狱屋动线==——售票到天堂帐篷==**
 
 
@@ -1819,9 +1973,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="scene-rooms"></a> 2 同性恋房 🏥**
+
+:::
 - **同性恋房==——Room 1，布景与表演==**
 
 
@@ -1835,11 +1993,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **回应**：布鲁斯坚持自己生来如此，不是罪人
   - **结局**：布鲁斯==死不悔改==，父母恸哭，撒旦把儿子拖进地狱
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **3 堕胎房 🩺**
+
+:::
 - **堕胎房==——Room 2，表演与悔改叙事==**
 
 
@@ -1850,11 +2012,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **后半**：天使向她显现==「本会出生的女儿」与「被剥夺的人生」==
     - 南希悔改得救，成为反堕胎活动家
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **4 锐舞文化房 💊**
+
+:::
 - **锐舞文化房==——Room 3，两半房间==**
 
 
@@ -1866,25 +2032,33 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **表演**：少女茱莉亚被朋友怂恿去锐舞派对，被下药（迷奸药物）
     - **下场**：后确诊性病，羞耻自尽，被拖下地狱
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **5 校园枪击房 🏫**
+
+:::
 - **校园枪击房——Room 4，==血地板与实弹==**
 
 
   - **布景**：满屋课桌；黑板上是粉笔写的歪扭算式；==地板的疙瘩胶皮是赶工铺的——为盖住凯莉的血==
     - **侦查**：墙面涂料下有涂写痕迹的凸起——她留的字被盖住了，已不可辨认
   - **筹备期常闻枪声**：凯文·曹在埃利斯监督下用空包弹排练适应枪响（两人都戴耳塞）——志愿者习以为常，有人会缩一下
-  - **表演**：马蒂，在校被霸凌的孩子——牧师指点他不听，转而哥特打扮听「撒旦音乐」——最终崩溃，持枪返校杀同学后自尽；信主的同学升天堂，马蒂下地狱
+  - **表演**：马蒂，在校被霸凌的孩子——牧师指点他不听，转而哥特打扮听==「撒旦音乐」==——最终崩溃，持枪返校杀同学后自尽；信主的同学升天堂，马蒂下地狱
   - ==扮演马蒂的凯文·曹口袋里装着实弹==（见人物卡）
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **6 家暴房 🍺**
+
+:::
 - **家暴房==——Room 5，凯莉拒绝进的房间==**
 
 
@@ -1892,11 +2066,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **道恩知道**：==凯莉拒绝进这个房间==——太像她的童年
   - **表演**：醉酒丈夫杰克家暴，妻子爱丽丝反抗带孩子们逃走；基督徒朋友给杰克改过的机会，==他嗤之以鼻酗酒至死==，被拖下地狱
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **7 地狱房 👹**
+
+:::
 - **地狱房——Room 6，==罗伊格尔的显形处==**
 
 
@@ -1909,25 +2087,33 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **表演**：各房「罪人」（另组的演员）被锁链缚墙，火焰投影与惨叫音效中==哀求观众悔改==
     - 恶魔装演员拿塑料叉嘲弄捅刺
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **8 天堂帐篷 ⛪**
+
+:::
 - **天堂帐篷==——Heaven & Exit，出口设计==**
 
 
   - **形态**：后门连体的白色帐篷，杆上挂彩色灯串
     - 木长椅＋摆着福音册的桌子
-  - **每组出屋必经**：志愿者问「今晚所见可曾触动你」「愿不愿逃离诅咒、归向基督」
+  - **每组出屋必经**：志愿者问==「今晚所见可曾触动你」==「愿不愿逃离诅咒、归向基督」
     - **做法**：陪你谈、陪你祷告，寻求深层情感连结
   - 无感者从另一侧出帐回停车场
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="scene-control"></a> 12 控制室 📺**
+
+:::
 - **控制室==——十二块监视器的波纹==**
 
 
@@ -1942,11 +2128,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 电路没有问题，==是它在==
         - 见全篇机制章·感知通道
 
-:::::
+::::
 
-::::: card
+:::: card
+
+::: center
 
 ### **<a id="scene-attic"></a> 13 阁楼 🕯️**
+
+:::
 - **阁楼==——显形最爱处与道恩之夜==**
 
 
@@ -1972,17 +2162,21 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 液体可溯至吊点下方
       - **可获**：侦查可获弃置的电线绳套（见道恩卡）
 
-:::::
+::::
 
 ::::::
 
 ---
 
-:::::: card
-
 ::::: card
 
+:::: card
+
+::: center
+
 ### **<a id="scene-opening"></a> 17 开门夜——连环事件 🎆（10/24）**
+
+:::
 - **开门夜==——连环事件与连锁数学==**
 
 
@@ -2020,13 +2214,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 罗伊格尔以蛇形投影驱赶人群加压
   - **屋内求生**（原书）
     - **浓烟**：浓烟灌满（起火 1D6+3 轮后）每轮无新鲜空气则 CON 检定，败者 −1D6 hp
-      - **封路**：进新区取==幸运最低者掷幸运==，败=火焰或塌陷封路
-    - **踩踏**：人群冲撞需 STR 或 SIZ 检定，败=倒地每轮 −1D6 踩踏伤直至通过
+      - **封路**：进新区取==幸运最低者掷幸运==，败则火焰或塌陷封路
+    - **踩踏**：人群冲撞需 STR 或 SIZ 检定，败则倒地每轮 −1D6 踩踏伤直至通过
   - ==消防出口不达标==是警长施压消防局长放行的（见即兴卡·消防局长）——==起火必生踩踏==，罗伊格尔以蛇形投影驱赶人群加压
 
-:::::
+::::
 
-::::::
+:::::
 
 ---
 
@@ -2036,7 +2230,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-::: card
+:::: card
 
 - **结算（Rewards & Repercussions）**
   - **去向**：结局奖惩三行已并入全篇机制章 SAN 表
@@ -2044,7 +2238,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 凯文·曹未杀成任何人 +1D6
     - 实体化脱逃 −1D6
 
-:::
+::::
 
 ::: table
 
@@ -2072,7 +2266,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::: card
 
+::: center
+
 ### **<a id="quote-news"></a> Handout #1——《里兰纪事报》报道（10/20） 📰**
+
+:::
 - **Handout #1==——开局已知的官方口径==**
 
 
@@ -2125,7 +2323,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::: card
 
+::: center
+
 ### **<a id="quote-reddit"></a> Handout #2——Reddit r/Easttexas 帖（10/22） 💬**
+
+:::
 - **Handout #2==——会生长的线索==**
 
 
@@ -2133,7 +2335,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **主楼**：kellytruth 主诉掩盖（10/22 凌晨）
       - **二楼**：妹妹是志愿者，拍到墙上的字
         - **关键句**：「我会试着从她 iPhone 里拿过来」——遗书照片的民间传播链
-      - **三楼**：三楼 rainbowviper＝萨沙·赖因斯塔的带锯证词
+      - **三楼**：rainbowviper 就是萨沙·赖因斯塔的带锯证词
         - 与其人物卡互证
     - 调查员每次回访都可能刷到新楼层
       - **后效**：开门夜后若枪声真响，跟帖反转成证人笔录
@@ -2186,18 +2388,22 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::: card
 
+::: center
+
 ### **<a id="quote-screed"></a> Handout #3——安格斯坦宅墙面涂写照片 🖼️**
+
+:::
 - **Handout #3==——真迹已毁的孤本==**
 
 
-  - **来历**：凯莉死时留在「校园枪击」房墙上的字，被警方拍照存档后又遭涂盖
+  - **来历**：凯莉死时留在==「校园枪击」==房墙上的字，被警方拍照存档后又遭涂盖
     - 真迹已毁
       - ==存世三脉==：警长抽屉（案卷）／马丁内斯私拷（信任门）／志愿者妹妹手机（顺帖找二楼本人）
     - 她本人不似会写
       - **反证**：八个月重生的教会成员，挚友道恩最清楚
   - ==「他是火焰，是蛇」==——罗伊格尔真身的字面自供
     - 凯莉的手替「它」写下了它自己
-      - **样本**：「撒旦杀了他」的渎神句＝书写者精神崩坏的样本
+      - **样本**：「撒旦杀了他」的渎神句是书写者精神崩坏的样本
 
 ::: details 📷 Handout #3——墙面涂写照片
 
@@ -2231,9 +2437,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ---
 
-::: card
+:::: card
 
-- **<a id="item-book"></a>物品档案==——《逾越节天使之书》签名本==**
+<a id="item-book"></a>
+
+- **物品档案==——《逾越节天使之书》签名本==**
     - **是什么**
       - 韦弗书桌上的常客
         - ==约翰·贝尔福亲笔签名版==
@@ -2242,18 +2450,20 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
         - 两人的教义「并不完全相同」
     - **桌上用法**
       - **彩蛋位**：S1 轻映射彩蛋（未跑 S1 的桌可略）
-      - **误读燃料**：老练调查员看见「邪教典籍＋签名往来」会往邪教误读上猛冲
+      - **误读燃料**：老练调查员看见==「邪教典籍＋签名往来」==会往邪教误读上猛冲
         - ==这正是原书要的歧义==
     - **属性**
       - 书本身无神话力量
-        - **三档**：S1 已定：skim=背景／破译=文献证据／精读=法术
+        - **三档**：S1 已定：skim 是背景／破译是文献证据／精读是法术
           - S2 桌不涉
 
-:::
+::::
 
-::: card
+:::: card
 
-- **<a id="item-screed"></a>物品档案==——墙上遗书==**
+<a id="item-screed"></a>
+
+- **物品档案==——墙上遗书==**
     - **是什么**
       - **书写**：凯莉死前在「校园枪击」房墙面涂写
         - 断言宗教之无用与撒旦的主宰
@@ -2268,7 +2478,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
         - 侦查可见凸起痕迹
       - **存照**：警长抽屉＋马丁内斯私拷
 
-:::
+::::
 
 ---
 
