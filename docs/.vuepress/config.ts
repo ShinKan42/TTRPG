@@ -113,45 +113,45 @@ export default defineUserConfig({
 					'/prep/coc/the_things_we_leave_behind/global_news_service.html',
 					'/prep/coc/the_things_we_leave_behind/handouts.html',
 					'/prep/menu/dnd_5r.html',
-					'/prep/dnd_5r/kftgv/',
-					'/prep/dnd_5r/kftgv/index.html',
-					'/prep/dnd_5r/kftgv/reach_for_the_stars.html',
-					'/prep/dnd_5r/kftgv/the_murkmire_malevolence.html',
-					'/prep/dnd_5r/kftgv/prisoner_13.html',
-					'/prep/dnd_5r/kftgv/the_stygian_gambit.html',
-					'/prep/dnd_5r/kftgv/tockworths_clockworks.html',
-					'/prep/dnd_5r/kftgv/party_at_paliset_hall.html',
-					'/prep/dnd_5r/dragons_of_stormwrack_isle/',
-				'/prep/dnd_5r/dragons_of_stormwrack_isle/index.html',
-					'/prep/dnd_5r/dragon_delves/',
-					'/prep/dnd_5r/dragon_delves/index.html',
-					'/prep/dnd_5r/dragon_delves/bakers_doesnt.html',
-					'/prep/dnd_5r/echoes_of_salvation/',
-					'/prep/dnd_5r/echoes_of_salvation/index.html',
-					'/prep/dnd_5r/echoes_of_salvation/mechanics.html',
-					'/prep/dnd_5r/echoes_of_salvation/locations.html',
-					'/prep/dnd_5r/echoes_of_salvation/npcs.html',
-					'/prep/dnd_5r/echoes_of_salvation/items_quotes.html',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 					'/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/',
 					'/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/index.html',
-					'/prep/dnd_5r/deaths_house/',
-					'/prep/dnd_5r/deaths_house/index.html',
-					'/prep/dnd_5r/curse_of_strahd/',
-					'/prep/dnd_5r/curse_of_strahd/index.html',
-					'/prep/dnd_5r/curse_of_strahd/ch1_2_into_the_mists.html',
-					'/prep/dnd_5r/descent_into_avernus/',
-					'/prep/dnd_5r/descent_into_avernus/index.html',
-					'/prep/dnd_5r/doomed_sword_coast/',
-					'/prep/dnd_5r/doomed_sword_coast/index.html',
-					'/prep/dnd_5r/doomed_sword_coast/geography.html',
-					'/prep/dnd_5r/doomed_sword_coast/reign_of_rot.html',
-					'/prep/dnd_5r/doomed_sword_coast/reign_of_rot_ch5.html',
-					'/prep/dnd_5r/doomed_sword_coast/vecna_rise.html',
-					'/prep/dnd_5r/doomed_sword_coast/vecna_fall.html',
-					'/prep/dnd_5r/doomed_sword_coast/academy_of_adventure.html',
-					'/prep/dnd_5r/doomed_sword_coast/legacy_of_vecna.html',
-					'/prep/dnd_5r/doomed_sword_coast/wrath_of_zuggtmoy.html',
-					'/prep/dnd_5r/doomed_sword_coast/blood_war.html',
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 					],
 			},
 
