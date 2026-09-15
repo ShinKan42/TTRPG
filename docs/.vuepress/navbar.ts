@@ -114,7 +114,7 @@ export const navbar = defineNavbarConfig([
 					{ text: '种族 🧝', link: '/rule/dagger_heart/brief_ref/ancestry' },
 					{ text: '社群 🏘️', link: '/rule/dagger_heart/brief_ref/community' },
 					{ text: '职业 🗡️', link: '/rule/dagger_heart/brief_ref/class' },
-					{ text: '领域 📜', link: '/rule/dagger_heart/brief_ref/#领域' },
+					{ text: '领域 📜', link: '/rule/dagger_heart/brief_ref/domain' },
 					{ text: '装备 🎒', link: '/rule/dagger_heart/brief_ref/#装备' },
 				],
 			},

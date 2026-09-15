@@ -60,7 +60,7 @@ export default defineCollection({
 				text: '领域 📜',
 				collapsed: true,
 				items: [
-					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#领域' },
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/domain' },
 					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E9%A2%86%E5%9F%9F%E5%8D%A1' },
 				],
 			},
