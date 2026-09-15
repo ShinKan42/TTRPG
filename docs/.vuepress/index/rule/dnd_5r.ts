@@ -37,7 +37,7 @@ export default defineCollection({
 			prefix: 'official',
 			collapsed: false,
 			items: [
-				'index',
+				{ text: '总览索引 📑', link: 'index' },
 				{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
 			],
 		},
@@ -46,7 +46,7 @@ export default defineCollection({
 			prefix: 'community',
 			collapsed: false,
 			items: [
-				'index',
+				{ text: '总览索引 📑', link: 'index' },
 				{
 					text: '通用规则 📜',
 					collapsed: true,
@@ -65,23 +65,30 @@ export default defineCollection({
 					text: 'ACG 角色 🎭',
 					prefix: 'acg',
 					collapsed: true,
-					items: ['index', 'madoka_magica', '1999'],
+					items: [
+						{ text: 'ACG 角色 🎭', link: 'index' },
+						{ text: 'Madoka Magica ⭐', link: 'madoka_magica' },
+						{ text: '1999 🎯', link: '1999' },
+					],
 				},
 				{
 					text: '通用规则 📜',
 					prefix: 'shinkan_house_rule',
 					collapsed: true,
 					items: [
-						'index',
-						{ text: '塔罗牌 🔮', link: '/about/tarot' },
-						'dungeon_meshi',
-					],
+							{ text: '通用规则 📜', link: 'index' },
+							{ text: '塔罗牌 🔮', link: '/about/tarot' },
+							{ text: 'Dungeon Meshi 🍳', link: 'dungeon_meshi' },
+						],
 				},
 				{
 					text: '主题规则 📦',
 					prefix: 'shinkan_dlc',
 					collapsed: true,
-					items: ['index', 'kamen_rider'],
+					items: [
+						{ text: '主题规则 📦', link: 'index' },
+						{ text: 'Kamen Rider 🦊', link: 'kamen_rider' },
+					],
 				},
 			],
 		},
