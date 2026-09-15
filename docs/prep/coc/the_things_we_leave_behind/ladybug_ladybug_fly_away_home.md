@@ -2120,11 +2120,15 @@ KP 任意指定至 99%
       - 调查员到场时，店员正急着清场恢复营业
       - 那一枪打进了鱼缸区，==死鱼泡在血水里==
         - **原文要求：务必让调查员看到这一幕**（第一灾，经文见下）
----
+
+  ---
+
     - **暗流**：George 的==殿后是设计好的==
       - 制造噪音、不开杀戒（唯一枪伤是迎宾员的膝盖）、朝无人的外墙自尽
       - 每个目击者都能作证「==他本来可以走==」
----
+
+  ---
+
     - **关键实体**：
       - 瓢虫书包
         - ==静脉类固醇输液泵==在里面
@@ -2132,12 +2136,13 @@ KP 任意指定至 99%
       - 录像三段
         - 卖场拉扯／出口装车／店内游荡与自尽
         - 全文见物品区·到场简报条目
-<details class="hint-container details">
-<summary>📷 大盒子商店监控视角——货架间的争夺</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv_nat.jpg" alt="大盒子商店监控视角——货架间的争夺" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="大盒子商店监控视角——货架间的争夺">
-</details>
+  <details class="hint-container details">
+  <summary>📷 大盒子商店监控视角——货架间的争夺</summary>
+  <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_abduction_cctv_nat.jpg" alt="大盒子商店监控视角——货架间的争夺" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="大盒子商店监控视角——货架间的争夺">
+  </details>
 
----
+  ---
+
     - **到达途径**：
       - 执法调查员走简报自动到场
       - 平民调查员走贿赂泄密线人
@@ -2202,7 +2207,9 @@ The shooter committed suicide against an outside wall of the store (where no one
         - 看起来在控制怒火，但随时可能无端爆发
       - 审讯室里==围着一大群苍蝇==打转
         - **原文要求：把这个指出来**（第四灾，见十灾钟·蝇灾）
----
+
+  ---
+
     - **他们的状态与所信**：
       - 是逾越节天使彻底的奴仆，但相信自己与内圈是==被拣选的先知==
         - 侍奉的正是调查员们==很可能也敬拜的那位神==
@@ -2213,7 +2220,9 @@ The shooter committed suicide against an outside wall of the store (where no one
       - 完全不知道周二到了、==蕾吉娜却不在场==会发生什么
       - 更担心绑匪杀蕾吉娜，==一点不担心周二那一刀==
         - 再不合逻辑也是如此
----
+
+  ---
+
     - **配合的边界**：
       - 初期配合执法，直到触及「周二的真正意义」与对女儿的计划为止
       - 承认网站上的末日计算就是周二日落
@@ -2222,7 +2231,9 @@ The shooter committed suicide against an outside wall of the store (where no one
       - 回避《逾越节天使之书》密文破译的一切问题
       - 对克苏鲁神话一无所知
       - 真心相信逾越节天使是旧约天使
----
+
+  ---
+
     - **破口**：
       - 心理学判定读出他们在隐瞒
       - 得知 George 是琳赛的叔叔后，他们会乐于讲两年前琳赛「刑事性地、毫无依据地」抢孩子的故事
@@ -2291,7 +2302,9 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
       - 相反，父母带她看的一直是对症且昂贵的治疗，短短一生已花数十万美元
       - 夫妇没有医保
         - **至少从没用过**：==每一笔都是全额现金==
----
+
+  ---
+
     - **法庭线**：==密封卷宗「In re R.B.」==，只按姓名缩写索引
       - 没有贝尔福夫妇的配合起初很难找到
       - 两人没有任何刑事定罪，==记录干净得发亮==
@@ -2306,7 +2319,9 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
       - 卷宗时间线对上《逾越节天使之书》：
         - 监护申请与蕾吉娜被带走，正落在教会==上一次末日预言==前一周（原文注明：
           - ==这不是巧合==）
----
+
+  ---
+
     - **联邦线**：几乎每个联邦执法机构都有贝尔福家与教会的档案
       - **ATF**：夫妇合法购枪寥寥数支，十年间数次清查非法武器，==次次空手==
       - 但已知会众里有一批白人至上主义者、「民兵」与生存主义者，多有涉枪前科
@@ -2323,7 +2338,9 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
         - 约 15 年前他大学时代在那内陆做过一年基要派传教
       - 神话判定或对口研究可联想到==血舌崇拜==（Cult of the Bloody Tongue，崇拜奈亚拉托特普一化身）的活动区域
         - 但依然全是==有烟无火==
----
+
+  ---
+
     - **文本线**：教会网站古怪又吓人
       - 首页是可爱的==动画青蛙泼面==，配一句「趁大灾难未来先与神和好」
       - ==倒计时钟指向本周二日落==
@@ -2340,12 +2357,16 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
         - ==网购到货赶不上周二==
       - 《逾越节天使之书》到手途径：夫妇可给（伴随大量「你们怎么不去找我女儿」的抱怨）、华盛顿 ATF、各神秘学调查机构、George 寓所
         - 速读 4 小时见物品区条目
----
+
+  ---
+
     - **神话研究线**：任何神话典籍与常规神秘学资料里都查不到逾越节天使教会
       - 他们太新，也不入任何「网络」（约翰的肯尼亚之行是唯一例外）
       - **可选设定**：战役中若存在神秘学取向的政府机构或准政府阴谋集团，其档案里可能有关于 Lewiston 的卷宗
         - 他多次被咨询军事化邪教问题，但不是任何此类组织的活跃线人
----
+
+  ---
+
     - **蛋蛋盛宴！Eggstravaganza!**（全案钥匙的出处）：
       - 克利夫兰市中心一片破旧街区里的 24 小时餐馆，George 吃早餐的老地方
         - 邻居或他女儿妮可（Nicole）知道这个习惯
@@ -2365,7 +2386,9 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
           - **真相**：给了琳赛，她后来用它买了==第二张卡==
       - 若媒体开始花钱买「认识 George 的人」的访谈，餐馆的人自己就会打电话给媒体、==伸手要钱==
         - 平民与记者线的天然入口
----
+
+  ---
+
     - **这张卡付过什么**（查到卡号后顺藤展开）：
       - 周四白天、案发之前
         - 案发那家大盒子商店的一笔大单
@@ -2380,7 +2403,9 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
       - **商店周四早的监控录像**：George 换了衣服、没戴帽子，推着满满一车上述物资，用这张卡结账
       - 周四深夜
         - 阿克隆（Akron）一家租车行的==租车费==（见追踪节）
----
+
+  ---
+
     - **George 寓所**（已被执法搜查，门前拉着警戒线）：
       - 电脑和手机被==大锤砸碎==、碎片留在桌上
         - 全部账单几天前==提前付清==
@@ -2392,7 +2417,9 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
         - 真正的联络渠道是一个只有他和琳赛知道的 Gmail 账户，以==草稿箱存稿不发送==的方式留言
       - 女儿妮可有公寓钥匙和地址
       - 周五下午五点邮件到达时，她会收到 George ==生前寄出的信==（Handout #4，原书为图版信件，随图版工序嵌入物品区）
----
+
+  ---
+
     - **琳赛宅**：独居，屋内无异常
       - 笔记本电脑和手机都不见了
       - 答录机里堆着周四周五单位打来的电话
@@ -2406,7 +2433,9 @@ Likewise, if they are shown a picture of George Lewiston without his hat, sungla
       - ==邮件空白这件事本身就不正常==（法律（`Law`）判定成功或问同事可点破）
         - 两年前她推动把蕾吉娜送进寄养家庭时，按理该有大量她与上司、县检察官之间的往来邮件
           - 这与贝尔福家抱怨的「福利检查瘟疫」开始时间正好对上
----
+
+  ---
+
     - **琳赛同事线**：一听说调查员在查蕾吉娜失踪案，认识她的人全有话说，没一句好话
       - 但也没有人怀疑她涉案
       - 两年前==无薪停职一个月==的事所有人都知道个大概
@@ -2611,7 +2640,9 @@ There is nothing in any Mythos tomes or standard occult research sources implica
         - 礼拜堂后面是密林与丛生的灌木
       - 教会财报年均==数百万美元捐款==，但夫妇只领微薄薪金
         - 住宅毫不起眼，==与收入不符的朴素==
----
+
+  ---
+
     - **宅内**：
       - 想象一位非常保守的牧师那栋体面而朴素的房子，没有任何偶像崇拜
       - 蕾吉娜的房间家具精良，适龄的玩偶、玩具和书很多（大量宗教主题）
@@ -2620,7 +2651,9 @@ There is nothing in any Mythos tomes or standard occult research sources implica
       - **夫妇的解释**：为女儿在家教育的科学课做准备，想让她早早学电脑
       - 他们不信==「六千年年轻地球」创造论==
         - **可能说漏嘴**：「我们相信地球早在神认为宜于造人之前，就孕育在神的怀抱里」
----
+
+  ---
+
     - **礼拜堂**：
       - 表面上（连他们自己都会惊讶）毫不起眼，可容约五十人
       - 周日晨有礼拜，==不对外==
@@ -2629,7 +2662,9 @@ There is nothing in any Mythos tomes or standard occult research sources implica
           - 赞美诗、传递奉献盘、约翰的火爆布道，劝信众在世界终结前与神和好
       - **唯一怪处**：他确信这件事==就发生在周二晚上==
       - 会众被号召在自家门框上做记号，以避那晚逾越节天使之怒
----
+
+  ---
+
     - **避难所**（礼拜堂后林中）：
       - 查旧执法记录（多为 ATF 档案）可知林中藏着一座掩体
       - 夫妇不主动提，执法点名要看时耸耸肩放行
@@ -2638,7 +2673,9 @@ There is nothing in any Mythos tomes or standard occult research sources implica
       - **里面**：三人的生存物资与行军床、化学马桶、警频扫描器与民用波段电台、《逾越节天使之书》数册
       - 枪柜里==六支 12 号霰弹枪==带弹药
         - 全部登记在约翰名下，==完全合法==
----
+
+  ---
+
     - **舱门缘的刻痕**（==本案最重的一枚暗线索==）：
       - **怎么发现**
         - 要特意去找或极幸运才能发现
@@ -2712,7 +2749,9 @@ There is something unusual about the bomb shelter, but one has to look for it sp
       - 她那辆 2008 年==棕褐色福特金牛==，停在租车行对面的旅馆停车场里（阿克隆/坎顿机场附近）
         - **找到租车行就能找到它**：孤零零一辆、尽量贴着街边停
       - **兜底**：只要车牌号或车辆描述进了通报，最迟周日早上本地警察会发现它并上报
----
+
+  ---
+
     - **租车行**（机场旁卫星停车场，生意火爆）：
       - 职员配合执法，也配合==「数额可观且不张扬的贿赂」==
       - 周四深夜租出一辆 2011 版==黑色福特福克斯==给琳赛·皮尔
@@ -2726,7 +2765,9 @@ There is something unusual about the bomb shelter, but one has to look for it sp
         - 办完后数次往返于监控拍不到的街对面，搬运行李和杂货袋
         - 最后一趟搬的是一只安全座椅
           - 上面睡着一个小女孩
----
+
+  ---
+
     - **GPS 与收费站**：
       - 现代租车都带 GPS，租车行会为合法请求定位（执法，或与执法协同的贝尔福夫妇）
         - 但这台的 GPS 被拆了，==最后一次信号==出现在克利夫兰与宾州西部之间、俄亥俄收费高速上的一个休息区
@@ -2746,7 +2787,9 @@ There is something unusual about the bomb shelter, but one has to look for it sp
             - 被告知约 20 英里外有一家
       - **再兜底**：等蕾吉娜的照片上了每一台电视，州界收费亭的职员迟早自己对上号
         - 周日或周一
----
+
+  ---
+
     - **雹暴**（周六-一，追至出口区途中）：
       - 天气预报（务必让调查员听到一份）是晴天无降水
       - 几分钟内雷暴云压顶、狂风骤起，一个猛烈的==风暴胞==罩住调查员那一段路
@@ -2767,12 +2810,13 @@ There is something unusual about the bomb shelter, but one has to look for it sp
       - SAN 1/1D10，获得疯狂洞见的人会想起==埃及十灾及其顺序==
       - **若约翰尾随在场**：他会把他们从残骸里捡出来，指出==自摩西降雹于法老以来==没人见过这种东西
         - **他的车毫发无伤**
-<details class="hint-container details">
-<summary>📷 圣经级比例的风暴——云中带翼者</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel_nat.jpg" alt="圣经级比例的风暴——云中带翼者" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="圣经级比例的风暴——云中带翼者">
-</details>
+  <details class="hint-container details">
+  <summary>📷 圣经级比例的风暴——云中带翼者</summary>
+  <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_storm_angel_nat.jpg" alt="圣经级比例的风暴——云中带翼者" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="圣经级比例的风暴——云中带翼者">
+  </details>
 
----
+  ---
+
     - **兽医诊所与落脚圈**（向当地执法查近几日的失窃案）：
       - 周五凌晨 4 点前后（打烊后），繁忙商业区一家兽医诊所被撬
         - 门被砸开
@@ -2906,7 +2950,9 @@ There is surveillance footage available for the strip mall parking lot, and a wo
         - 两层 24 间的煤渣砖建筑，车位直对房门，办公室在尽头一端
       - 坐落在繁忙郊区商业区的外缘：
         - 二线零售店、半旧的条形商场、寻常连锁餐馆之间
----
+
+  ---
+
     - **23 号房**（离办公室倒数第二间、二楼）：
       - 窗帘拉死
       - 她费了大力气用螺丝把前窗和卫生间窗都==钉上了铁皮==
@@ -2915,7 +2961,9 @@ There is surveillance footage available for the strip mall parking lot, and a wo
       - 门锁着、挂着链锁、再用一个==五斗柜顶死==
       - 她能把五斗柜==挪开一条缝从前门偷看==外面
         - 除非知道有人正盯着，否则紧张地不时瞄一眼
----
+
+  ---
+
     - **房间里**：
       - 她用冷药让蕾吉娜大部分时间睡着
       - 醒着的时候靠吓唬和便携播放机上的儿童 DVD 让她保持安静
@@ -2925,12 +2973,13 @@ There is surveillance footage available for the strip mall parking lot, and a wo
       - 再次强调：她的==枪法致命地准==
       - 她==无意在周三之前出这间房==（除非出现极不寻常的状况，让她判断带蕾吉娜跑路更安全）
       - 周三早上，她会不经伤害蕾吉娜地投降，或逃走后打电话告知警方蕾吉娜的位置
-<details class="hint-container details">
-<summary>📷 五橡旅馆室内——床、柜与门缝里的守望</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room_nat.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡旅馆室内——床、柜与门缝里的守望">
-</details>
+  <details class="hint-container details">
+  <summary>📷 五橡旅馆室内——床、柜与门缝里的守望</summary>
+  <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_motel_room_nat.jpg" alt="五橡旅馆室内——床、柜与门缝里的守望" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="五橡旅馆室内——床、柜与门缝里的守望">
+  </details>
 
----
+  ---
+
     - **旅馆监控（值得调阅）**：
       - **周四深夜**：那个连帽衫女人开车到 23 号房前，卸下一个==裹着毯子、睡着的小孩==、几只行李箱、几袋食品杂货，以及出箱的两支霰弹枪
       - 进房约一小时后，她用==小刀和画笔==在门外忙了约十分钟
@@ -2938,7 +2987,9 @@ There is surveillance footage available for the strip mall parking lot, and a wo
       - 之后她外出一趟（就是撬兽医诊所那次）
       - 离开约一小时，拎着一个塑料袋回来
       - 此后再没出过门
----
+
+  ---
+
     - **定位链（找到这间房）**：
       - 拿着琳赛的照片==挨家排查旅馆会失败==
       - 改问「==周四深夜预付房费、要求晚入住==的客人」
@@ -2958,24 +3009,32 @@ There is surveillance footage available for the strip mall parking lot, and a wo
         - 前台的小女儿、还在学步的==埃莉·戴维森==（Ellie Davidson）会自己开口
           - ==23 号房住着一个小女孩==，门里老放小马宝莉
           - 她敲门想找她玩，没人应
----
+
+  ---
+
     - **行动分寸（KP 运行注）**：
       - 排查的==隐蔽程度要记下==
         - 琳赛不时==从门缝张望==、监听警用与消防频段、盯着新闻
       - 如果她断定自己已被围死，会开始==准备最后一战==
----
+
+  ---
+
     - **对峙三路**：
       - 谈判（见琳赛卡·信任门）
       - 强攻
         - 95% 霰弹枪、==几分钟才砸得开的门==、**谈判破裂她会先杀孩子**
       - 等
         - 周三晨她自己开门，但==周二日落先到==
----
+
+  ---
+
     - **媒体战**（双钩都适用）：
       - 琳赛听警频、看新闻
         - ==放假情报==可钓她出门或放松
         - 无线电静默只会让她扣紧扳机
----
+
+  ---
+
     - **蝗群与门框**（约翰周一晚恳求（`Entreat`）之后）：
       - 停车场里蛰伏的蝗群会突然群起，带着明确目的==撞向 23 号房的门窗==
         - SAN 0/1D3
@@ -2984,7 +3043,9 @@ There is surveillance footage available for the strip mall parking lot, and a wo
         - 变体旧印，与贝尔福家避难所==舱门缘的那圈同款==
       - 夜间有猎鬼待命
         - 若门框符文被毁且灯灭
----
+
+  ---
+
     - **对峙现场（Showdown at Room 23）**：
       - **战术入口三处**：==正门被五斗柜顶死==，不用炸药或破门锤要凿好几分钟
       - 前窗与卫生间窗==按设计只开一半==
@@ -2995,14 +3056,18 @@ There is surveillance footage available for the strip mall parking lot, and a wo
       - **热成像能定位房内两人**：琳赛不在忙别的时，==就坐在蕾吉娜床边的椅子上==
       - 蕾吉娜去卫生间，她==端着上膛的霰弹枪陪着==
         - 除非她不知道外面有人，才不带孩子离开视线
----
+
+  ---
+
     - **警方加戏（对峙升级时）**：
       - 一旦发展成 SWAT 局面，地方警察不管怎么劝都要调狙击手
       - 领头的奥特里斯·==「OG」·格雷==（Otis "OG" Grey）
         - 改邪归正的街头混混出身，自认比谁都硬、总觉得「我一枪能解决」，不断鼓噪让他打
       - 他的==枪法没他自己以为的好==：
         - 步枪 55%，雷明顿 700 型、.30-06 口径，2D6+4，基本射程 120 码
----
+
+  ---
+
     - **谈崩线细化**：
       - 她感到被谈判代表出卖或遭突袭：==先杀蕾吉娜再自尽==
         - 拼的是谁拔枪快、能否在她扣扳机前打瘫她
@@ -3010,19 +3075,25 @@ There is surveillance footage available for the strip mall parking lot, and a wo
       - **更可能**：打伤一个够得着的人立威，让调查员领教她的枪法、劝退全面强攻
       - **隔门射击的打法**：把五斗柜挪开一条缝、链锁开门、==贴着门缝开火==（视线受限）
         - ==警告射击就是这么来的==
----
+
+  ---
+
     - **两大雷区**：毁门框符文、断电
       - 触发任意一件，她隔门哀求别这么干
         - 「你们不知道自己在干什么」
       - ==绝不解释她怕什么==，只要求停手「否则……」
       - **两件事都做了**：她迟疑一下，然后==动手杀蕾吉娜和自己==
         - 她知道接下来来的是什么
----
+
+  ---
+
     - **最坏支线（符文被毁＋断电）**：
       - 猎鬼==摸黑砸穿屋顶==，除非被大量强光逼退
       - 否则顶着一片霰弹火==把琳赛叼上天带走==，从此下落不明
       - 任何此类遭遇 SAN 1D3/1D10
----
+
+  ---
+
     - **推进行动的兜底（KP 杠杆）**：
       - **玩家卡在找旅馆**：==收费亭职员自己站出来==（周日/周一）
       - **玩家卡在找蕾吉娜**：逾越节天使直接告诉约翰她在哪，约翰反过来给调查员递线索
@@ -3219,7 +3290,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
       - 两地车程 2 小时
         - 数学上「合法」赢的是父母
       - 蕾吉娜仍在调查员手上时，夫妇的全部力量转向直接抢回
----
+
+  ---
+
     - **撒拉的下午**（若蕾吉娜已无望找回）：
       - 去工艺品店买麻布，回家给自己缝一件粗麻长袍
       - 点着壁炉，把灰烬一捧捧运进礼拜堂
@@ -3227,7 +3300,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
       - 整个周二她都忙个不停
         - 后院烧烤坑烧大量的木
         - 办公室里的 3D 打印机也可能嗡嗡响个不停
----
+
+  ---
+
     - **黄昏——大停电（第九灾）**：
       - 日落前约半小时，贝尔福家所在街区大面积停电
       - 赶上多云无月的夜，整片区域陷入彻底黑暗
@@ -3236,7 +3311,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
         - 烧烤坑大概还烧着，提供一点光
       - 调查员若不另外想法子照明：
         - 远程攻击与侦查（`Spot Hidden`）判定 −20%，潜行 +20%
----
+
+  ---
+
     - **场地**（战术图见下方图版）：
       - 这==不是==任何意义上的设防堡垒
         - 约 100 名会众（男女老幼都有）绝大多数没有武装
@@ -3245,7 +3322,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
         - 除非他们专门找藏在车架内、包裹得躲开警犬与蒸汽探测的简易爆炸物
       - 至少一辆警车停在门外挡讨厌的记者（图上有标记）
       - 至少一辆新闻车停在邻居家门前等能播的画面（同样有标记）
----
+
+  ---
+
     - **十人武装核心**（「零蛋」约翰尼领队）：
       - 名下六辆汽车，全部可由手机遥控引爆
       - 十人各持手机，任何一部都能引爆全部六辆
@@ -3255,7 +3334,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
           - 他周一早还把第二辆车（贝尔福家的）停在街边
             - 藏点要拆到车骨架才查得出（C-4 密封缠裹、藏进车架与油箱内隔层），即图上的「首爆车」
       - **盯得不死**：他们就停在礼拜堂停车场、街边或贝尔福家车道上，找机会（也许直到大乱起来后）再从祭坛下取装备
----
+
+  ---
+
     - **祭坛下的暗格**：
       - 自制燃烧瓶组件（酒瓶与发电机燃料）、战斗刀、自杀背心、3D 打印的自制土枪（单发、非金属）
       - **自杀背心带死人开关**：一旦上保险，佩戴者昏迷或松开拇指扳机即爆
@@ -3263,7 +3344,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
       - 夫妇自己没有武装
       - 除了那把祭刀
         - 肯尼亚宣教岁月带回的异金合金古物，带微弱放射性，也藏在祭坛下
----
+
+  ---
+
     - **日落礼拜**：
       - 到此刻为止他们不曾做过任何违法之事
         - 礼拜照常开始，哪怕一队持枪联邦探员就站在礼拜堂里看着
@@ -3274,7 +3357,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
       - 只有让他失去行动能力、或违令把他拖走，才能阻止礼拜推进
       - 蕾吉娜（若回到他们控制下）身穿麻布坐在前排，怀里抱着一只==替代的瓢虫书包==
       - 否则坐在那个位置上的就是撒拉
----
+
+  ---
+
     - **天使降临与献祭**：
       - 祷告末尾，天使在祭坛上方显形
         - 在场全体 SAN 1/1D10
@@ -3290,12 +3375,13 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
       - 注意：不必约翰亲手执刀
         - 任何人刺下都算数，撒拉自己也可以
         - 而她会
-<details class="hint-container details">
-<summary>📷 礼拜之夜——锁链缠身的有翼之物悬于会众之上</summary>
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell_nat.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="礼拜之夜——锁链缠身的有翼之物悬于会众之上">
-</details>
+  <details class="hint-container details">
+  <summary>📷 礼拜之夜——锁链缠身的有翼之物悬于会众之上</summary>
+  <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_service_hell_nat.jpg" alt="礼拜之夜——锁链缠身的有翼之物悬于会众之上" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="礼拜之夜——锁链缠身的有翼之物悬于会众之上">
+  </details>
 
----
+  ---
+
     - **献祭完成时**：
       - 天使膨胀、变形，黑风降临人间
       - 蕾吉娜被献祭
