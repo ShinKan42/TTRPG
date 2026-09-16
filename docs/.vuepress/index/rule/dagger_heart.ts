@@ -62,6 +62,15 @@ export default defineCollection({
 				items: [
 					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/domain' },
 					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E9%A2%86%E5%9F%9F%E5%8D%A1' },
+					{ text: '奥术 🔮', link: '/rule/dagger_heart/brief_ref/domain/arcana' },
+					{ text: '利刃 🗡️', link: '/rule/dagger_heart/brief_ref/domain/blade' },
+					{ text: '骸骨 💀', link: '/rule/dagger_heart/brief_ref/domain/bone' },
+					{ text: '典籍 📚', link: '/rule/dagger_heart/brief_ref/domain/codex' },
+					{ text: '优雅 🎭', link: '/rule/dagger_heart/brief_ref/domain/grace' },
+					{ text: '午夜 🌙', link: '/rule/dagger_heart/brief_ref/domain/midnight' },
+					{ text: '贤者 🌿', link: '/rule/dagger_heart/brief_ref/domain/sage' },
+					{ text: '辉耀 ☀️', link: '/rule/dagger_heart/brief_ref/domain/splendor' },
+					{ text: '勇气 🛡️', link: '/rule/dagger_heart/brief_ref/domain/valor' },
 				],
 			},
 			{
