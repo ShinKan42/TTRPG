@@ -38,7 +38,21 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
+				{
+					text: '通用规则 📜',
+					collapsed: true,
+					items: [
+						{ text: '通用规则 📜', link: 'general_rules' },
+						{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
+					],
+				},
+				{
+					text: '主题规则 📦',
+					collapsed: true,
+					items: [
+						{ text: '主题规则 📦', link: 'theme_rules' },
+					],
+				},
 			],
 		},
 		{
@@ -51,7 +65,15 @@ export default defineCollection({
 					text: '通用规则 📜',
 					collapsed: true,
 					items: [
+						{ text: '通用规则 📜', link: 'general_rules' },
 						{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
+					],
+				},
+				{
+					text: '主题规则 📦',
+					collapsed: true,
+					items: [
+						{ text: '主题规则 📦', link: 'theme_rules' },
 					],
 				},
 			],

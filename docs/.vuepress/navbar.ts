@@ -192,11 +192,10 @@ export const navbar = defineNavbarConfig([
 							link: '/rule/dnd_5r/official/',
 							activeMatch: '^/rule/dnd_5r/official/$',
 						},
-						{
-							text: '三龙牌 🐉',
-							link: '/rule/dnd_5r/official/three_dragon_ante',
-							activeMatch: '^/rule/dnd_5r/official/three_dragon_ante',
-						},
+						{ text: '通用规则 📜', link: '/rule/dnd_5r/official/general_rules', activeMatch: '^/rule/dnd_5r/official/general_rules$|^/rule/dnd_5r/official/three_dragon_ante' },
+
+						{ text: '主题规则 📦', link: '/rule/dnd_5r/official/theme_rules', activeMatch: '^/rule/dnd_5r/official/theme_rules' },
+
 					],
 				},
 				{
@@ -208,11 +207,10 @@ export const navbar = defineNavbarConfig([
 							link: '/rule/dnd_5r/community/',
 							activeMatch: '^/rule/dnd_5r/community/$',
 						},
-						{
-							text: '瞄准攻击 🎯',
-							link: '/rule/dnd_5r/community/targeted_attack',
-							activeMatch: '^/rule/dnd_5r/community/targeted_attack',
-						},
+						{ text: '通用规则 📜', link: '/rule/dnd_5r/community/general_rules', activeMatch: '^/rule/dnd_5r/community/general_rules$|^/rule/dnd_5r/community/targeted_attack' },
+
+						{ text: '主题规则 📦', link: '/rule/dnd_5r/community/theme_rules', activeMatch: '^/rule/dnd_5r/community/theme_rules' },
+
 					],
 				},
 				{
