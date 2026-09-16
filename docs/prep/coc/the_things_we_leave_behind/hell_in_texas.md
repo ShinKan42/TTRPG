@@ -108,11 +108,11 @@ ShinKan42
 
 ---
 
-::: center
+:::: center
 
 ## **🌉 文化差异补注（DM 必读，玩家接触层各条注明）**
 
-:::
+::::
 
 :::: center
 
@@ -465,11 +465,13 @@ ShinKan42
 
 ---
 
-::: center
+:::: center
 
 ## **🌊 暗流总览（源头 · 冲突网 · 卷入）**
 
-:::
+::::
+
+:::::::: card
 
 ::: center
 
@@ -506,6 +508,8 @@ ShinKan42
         - **终句**：屋子还立在原地，==等下一批开灯的人==
 
 ---
+
+::::::: card
 
 ::: center
 
@@ -587,11 +591,14 @@ ShinKan42
 
 ---
 
-::: center
+:::::: card
+
+::::: center
 
 ### **对 PC 重力 🧲**
 
-:::
+:::::
+
 
 :::: center
 
@@ -612,11 +619,13 @@ ShinKan42
 
 ---
 
-::: center
+::::: card
+
+:::: center
 
 ### **E 体验 🎭**
 
-:::
+::::
 
 - **E 体验·撞入通道==——双钩入场==**
     - **A 钩的干净动机**
@@ -637,15 +646,24 @@ ShinKan42
 
 ---
 
+:::::
+
 - **压力问句**：屋要开门了，你拦得住吗？／所有人都觉得不对劲——你会是第一个开口的吗？
+
+::::::
 
 ---
 
-::: center
+:::::::
+
+::::::::
+
+:::: center
 
 ## **<a id="mech-lloigor"></a> 🔔 全篇机制——罗伊格尔**
 
-:::
+::::
+
 
 :::: card
 
@@ -770,16 +788,19 @@ ShinKan42
 
 格斗 30%（15/6），每轮 1 次（爬虫形态 2 次），伤害 1D6+db——需已实体化
 
+---
 **——能力——**
 
 - **魔法点不逐点记账**：小能力消耗低于它从在场者的痛苦中收割的量；极端能力由特定事件供能（见能力前置表）
 - 实体化后即完全痊愈，可离屋寻同类
 
+---
 **——护甲——**
 
 - 8 点爬虫皮
 - **无形状态**：任何武器不可伤（魔法亦然）
 
+---
 **——理智——**
 
 - 爬虫形态 0/1D8｜隐形在场无损失｜心灵接触 1/1D4
@@ -802,11 +823,11 @@ ShinKan42
 
 ---
 
-::: center
+:::: center
 
 ## **🎬 双钩章**
 
-:::
+::::
 
 :::: card
 
@@ -860,6 +881,8 @@ Other possible avenues include: Investigator groups actively looking for weird e
 
 ---
 
+:::::: card
+
 ::: center
 
 ### **传统调查员钩 🕵️**
@@ -899,6 +922,8 @@ Other possible avenues include: Investigator groups actively looking for weird e
 ::::
 
 ---
+
+::::: card
 
 ::: center
 
@@ -955,17 +980,23 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ---
 
-::: center
+:::::
+
+::::::
+
+:::: center
 
 ## **👥 人物速查**
 
-:::
+::::
+
 
 ::: center
 
 ### **人物速查表 · 核心 ⭐**
 
 :::
+
 
 :::: center
 
@@ -992,6 +1023,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+
 :::: center
 
 ::: table
@@ -1013,6 +1045,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+
 :::: center
 
 ::: table
@@ -1033,6 +1066,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+
 :::: center
 
 ::: table
@@ -1049,11 +1083,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ---
 
-::: center
+:::: center
 
 ## **⭐ <a id="npc-core"></a> 人物-核心**
 
-:::
+::::
 
 :::::: card
 
@@ -1108,10 +1142,12 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 - 温彻斯特 M50 12 号霰弹枪：
   - 格斗（霰弹枪）40%（20/8），1/轮，弹仓 5，基本射程 50 码，4D6/2D6/1D6
 
+---
 **——技能——**
 
 机械维修 60%
 
+---
 **——杂项——**
 
 美国籍｜53 岁｜贸易学校｜易怒、威胁性肢体语言、粗口连篇
@@ -1119,6 +1155,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ::::
 
 :::::
+---
+
 
 ::::: card
 
@@ -1190,10 +1228,12 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 无（基础值以上）
 
+---
 **——技能——**
 
 魅惑 50%｜信用评级 40%｜学识（宗教）60%｜说服 60%｜心理学 40%
 
+---
 **——杂项——**
 
 美国籍｜56 岁｜欧拉·罗伯茨大学宗教学学士｜用魅力建立信任；紧张时搓手
@@ -1201,6 +1241,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ::::
 
 :::::
+---
+
 
 ::::: card
 
@@ -1255,10 +1297,12 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 - 科尔特 Delta Elite 自动手枪：
   - 格斗（手枪）50%（25/10），伤害 1D10+1，7 发，基本射程 15 码，卡壳 98-00
 
+---
 **——技能——**
 
 恐吓 70%｜聆听 35%｜心理学 40%｜侦查 50%
 
+---
 **——杂项——**
 
 美国籍｜53 岁｜斯蒂芬·奥斯汀州立大学刑事司法学士｜预感枪战时穿防弹背心（护甲+2）
@@ -1266,14 +1310,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ::::
 
 :::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-martinez"></a> 亚伦·马丁内斯 Aaron Martinez（警官，天主教徒） ⚖️**
 
-:::
+::::
 - **亚伦·马丁内斯==——握着遗书照片的体制内盟友==**
 
 
@@ -1305,15 +1351,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **信任门**：调查员展现可信的一面（护米奇/不泄密/真查案）
     - ==交出照片与全部所知==
 
-::::
+:::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-dawn"></a> 道恩·埃勒斯 Dawn Ellers（志愿者，凯莉挚友） 🕯️**
 
-:::
+::::
 - **道恩·埃勒斯==——信仰崩塌的挚友，自缢倒计时==**
 
 
@@ -1343,7 +1391,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 液体可溯至吊点下方
       - 侦查可获弃置的电线绳套
 
-::::
+:::::
+---
+
 
 ::::: card
 
@@ -1397,14 +1447,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 - **9mm 自动手枪**：格斗（手枪）45%（22/9），伤害 1D10，基本射程 15 码，2/轮，6 发，卡壳 00
 
+---
 **——技能——**
 
 聆听 40%｜侦查 40%｜潜行 40%
 
+---
 **——理智——**
 
 不定性疯狂：罗伊格尔的傀儡——表现为对「校园枪击房」的幻想成真
 
+---
 **——杂项——**
 
 美国籍｜15 岁｜高中生｜自言自语（对象：罗伊格尔）
@@ -1412,6 +1465,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ::::
 
 :::::
+---
+
 
 ::::: card
 
@@ -1479,14 +1534,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 - **9mm 自动手枪**：格斗（手枪）40%（20/8），伤害 1D10，基本射程 15 码，2/轮，6 发，卡壳 00
 
+---
 **——技能——**
 
 艺术（摄影）40%｜投掷 40%
 
+---
 **——理智——**
 
 不定性疯狂：罗伊格尔的傀儡——表现为对地狱屋的狂热偏执
 
+---
 **——杂项——**
 
 美国籍｜28 岁｜德州大学奥斯汀分校社会学学士｜见到不公即刻出头（被侵蚀前的本性）
@@ -1495,14 +1553,16 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ::::
 
 :::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-crawley"></a> 劳伦·克劳利 Lauren Crawley（志愿者总管） 🧱**
 
-:::
+::::
 - **劳伦·克劳利==——否认的堤坝==**
 
 
@@ -1533,7 +1593,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **排障请求**：控制室波纹由她提出
       - 必然徒劳——电没问题，==是它在==
 
-::::
+:::::
 
 ::::::
 
@@ -1545,15 +1605,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+:::::: card
+
 ::::: card
 
-:::: card
-
-::: center
+:::: center
 
 ### **<a id="npc-ellis"></a> 史蒂夫·埃利斯 Steve Ellis（警官） 🚔**
 
-:::
+::::
 - **史蒂夫·埃利斯==——枪击首杀位==**
 
 
@@ -1572,15 +1632,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **引爆点**：米奇酒醉闹屋时与他枪战（罗伊格尔挑起）
       - **摆位**：把他放到任何一个「忠诚与良知相撞」的位置上
 
-::::
+:::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-eva"></a> 伊娃·德尔加多 Eva Delgado（青少年「鬼导游」） 👹**
 
-:::
+::::
 - **伊娃·德尔加多==——说出人心里的秘密==**
 
 
@@ -1599,15 +1661,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 她能点出调查员背景故事里的元素
         - 玩家自己都没说过的
 
-::::
+:::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-sasha"></a> 萨沙·赖因斯塔 Sasha Reinstad（木工） 🪚**
 
-:::
+::::
 - **萨沙·赖因斯塔==——Reddit 名 rainbowviper==**
 
 
@@ -1620,15 +1684,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 精神分析或说服可让他讲出恐惧
       - 网上他已讲过一半
 
-::::
+:::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-fuhrman"></a> 辛西娅·富尔曼 Cynthia Fuhrman（警局调度） 📞**
 
-:::
+::::
 - **辛西娅·富尔曼==——墨镜电瓶车烟嗓==**
 
 
@@ -1640,9 +1706,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **功能位**：警局问话的第一道门
     - ==什么都能问出一点，什么都问不深==
 
-::::
-
 :::::
+
+::::::
 
 ---
 
@@ -1652,15 +1718,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+:::::: card
+
 ::::: card
 
-:::: card
-
-::: center
+:::: center
 
 ### **<a id="npc-raymond"></a> 迈克尔·雷蒙德 Michael J. Raymond（TCU 人类学教授） 🎓**
 
-:::
+::::
 - **迈克尔·雷蒙德==——地狱屋答疑器==**
 
 
@@ -1671,15 +1737,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - ==他都能答==
   - **用法**：调查员问出「这种布道正常吗」的出口
 
-::::
+:::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-news"></a> 两支本地新闻队 📺**
 
-:::
+::::
 - **两支本地新闻队==——B 钩的同行竞逐位==**
 
 
@@ -1689,15 +1757,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 抢机位、抢采访、互相使绊
   - **另职**：暴力驱散抗议时镜头都在——==素材满天飞的混乱制造者==
 
-::::
+:::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-protest"></a> 十二人的抗议队伍 🏳️‍🌈**
 
-:::
+::::
 - **十二人的抗议队伍==——无凯勒协调==**
 
 
@@ -1712,9 +1782,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 志愿者持临时木棒将他们==打伤驱逐==
       - 被游客与记者镜头拍下
 
-::::
-
 :::::
+
+::::::
 
 ---
 
@@ -1724,15 +1794,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+:::::: card
+
 ::::: card
 
-:::: card
-
-::: center
+:::: center
 
 ### **<a id="npc-marshal"></a> 消防局长 🚒**
 
-:::
+::::
 - **消防局长==——纵火夜的追责位==**
 
 
@@ -1741,15 +1811,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 火起时他要在场
       - ==面对自己签的字==
 
-::::
+:::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-teens"></a> 青少年志愿者组 🧒**
 
-:::
+::::
 - **青少年志愿者组==——怪事抱怨的主要来源==**
 
 
@@ -1760,15 +1832,17 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **用法**：任何需要「怪事目击者」的场景
     - 随手安一个
 
-::::
+:::::
+---
 
-:::: card
 
-::: center
+::::: card
+
+:::: center
 
 ### **<a id="npc-townsfolk"></a> 镇民 🏘️**
 
-:::
+::::
 - **镇民==——教会即社区，对外人有墙==**
 
 
@@ -1777,9 +1851,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 对记者的墙最厚
   - **用法**：葬礼哀悼者、街头闲话、加油站与餐馆的只言片语——理论发酵的土壤
 
-::::
-
 :::::
+
+::::::
 
 ---
 
@@ -1788,6 +1862,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ## **🗺️ 场景**
 
 :::
+
 
 :::: center
 
@@ -1810,15 +1885,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::
 
+:::::: card
+
 ::::: card
 
-:::: card
-
-::: center
+:::: center
 
 ### **<a id="scene-funeral"></a> 14 加利翁墓园——凯莉的葬礼 ⚰️**
 
-:::
+::::
 - **加利翁墓园==——10/23 葬礼，本篇入场点==**
 
 
@@ -1838,15 +1913,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **两半真相**：米奇与马丁内斯各持一半理论
     - **反常**：教会成员的口径整齐得反常
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="scene-church"></a> 15 里兰自由福音教会 ⛪**
 
-:::
+::::
 - **里兰自由福音教会==——动机场与账本所在==**
 
 
@@ -1874,15 +1949,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **相形之下**：这里土气寒酸
       - ==韦弗在为教会的命而战==
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="scene-police"></a> 16 里兰警察局 🚓**
 
-:::
+::::
 - **里兰警察局==——体制质地与验尸官制度==**
 
 
@@ -1904,15 +1979,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **含义**：==加急报告不用贿赂，一个电话的事==
       - **定性**：马丁内斯的「程序异常」异常在制度薄，不在犯罪
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="scene-grounds"></a> 9-11 安格斯坦宅——屋外与场地 🌲**
 
-:::
+::::
 - **安格斯坦宅场地==——四英亩松林与房史==**
 
 
@@ -1961,9 +2036,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 7 月高调祝圣
       - **档期**：10/24-31 地狱屋，门票 $15
 
-::::
-
 :::::
+
+::::::
 
 ---
 
@@ -2026,13 +2101,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="scene-rooms"></a> 2 同性恋房 🏥**
 
-:::
+::::
 - **同性恋房==——Room 1，布景与表演==**
 
 
@@ -2046,15 +2121,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **回应**：布鲁斯坚持自己生来如此，不是罪人
   - **结局**：布鲁斯==死不悔改==，父母恸哭，撒旦把儿子拖进地狱
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **3 堕胎房 🩺**
 
-:::
+::::
 - **堕胎房==——Room 2，表演与悔改叙事==**
 
 
@@ -2065,15 +2140,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **后半**：天使向她显现==「本会出生的女儿」与「被剥夺的人生」==
     - 南希悔改得救，成为反堕胎活动家
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **4 锐舞文化房 💊**
 
-:::
+::::
 - **锐舞文化房==——Room 3，两半房间==**
 
 
@@ -2085,15 +2160,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **表演**：少女茱莉亚被朋友怂恿去锐舞派对，被下药（迷奸药物）
     - **下场**：后确诊性病，羞耻自尽，被拖下地狱
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **5 校园枪击房 🏫**
 
-:::
+::::
 - **校园枪击房——Room 4，==血地板与实弹==**
 
 
@@ -2103,15 +2178,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **表演**：马蒂，在校被霸凌的孩子——牧师指点他不听，转而哥特打扮听==「撒旦音乐」==——最终崩溃，持枪返校杀同学后自尽；信主的同学升天堂，马蒂下地狱
   - ==扮演马蒂的凯文·曹口袋里装着实弹==（见人物卡）
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **6 家暴房 🍺**
 
-:::
+::::
 - **家暴房==——Room 5，凯莉拒绝进的房间==**
 
 
@@ -2119,15 +2194,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **道恩知道**：==凯莉拒绝进这个房间==——太像她的童年
   - **表演**：醉酒丈夫杰克家暴，妻子爱丽丝反抗带孩子们逃走；基督徒朋友给杰克改过的机会，==他嗤之以鼻酗酒至死==，被拖下地狱
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **7 地狱房 👹**
 
-:::
+::::
 - **地狱房——Room 6，==罗伊格尔的显形处==**
 
 
@@ -2140,15 +2215,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **表演**：各房「罪人」（另组的演员）被锁链缚墙，火焰投影与惨叫音效中==哀求观众悔改==
     - 恶魔装演员拿塑料叉嘲弄捅刺
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **8 天堂帐篷 ⛪**
 
-:::
+::::
 - **天堂帐篷==——Heaven & Exit，出口设计==**
 
 
@@ -2158,15 +2233,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **做法**：陪你谈、陪你祷告，寻求深层情感连结
   - 无感者从另一侧出帐回停车场
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="scene-control"></a> 12 控制室 📺**
 
-:::
+::::
 - **控制室==——十二块监视器的波纹==**
 
 
@@ -2181,15 +2256,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 电路没有问题，==是它在==
         - 见全篇机制章·感知通道
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="scene-attic"></a> 13 阁楼 🕯️**
 
-:::
+::::
 - **阁楼==——显形最爱处与道恩之夜==**
 
 
@@ -2215,21 +2290,21 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 液体可溯至吊点下方
       - **可获**：侦查可获弃置的电线绳套（见道恩卡）
 
-::::
+:::::
 
 :::::::
 
 ---
 
+:::::: card
+
 ::::: card
 
-:::: card
-
-::: center
+:::: center
 
 ### **<a id="scene-opening"></a> 17 开门夜——连环事件 🎆（10/24）**
 
-:::
+::::
 - **开门夜==——连环事件与连锁数学==**
 
 
@@ -2271,9 +2346,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **踩踏**：人群冲撞需 STR 或 SIZ 检定，败则倒地每轮 −1D6 踩踏伤直至通过
   - ==消防出口不达标==是警长施压消防局长放行的（见即兴卡·消防局长）——==起火必生踩踏==，罗伊格尔以蛇形投影驱赶人群加压
 
-::::
-
 :::::
+
+::::::
 
 ---
 
