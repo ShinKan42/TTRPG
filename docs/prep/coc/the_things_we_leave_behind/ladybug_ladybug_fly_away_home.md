@@ -3853,13 +3853,13 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 ::::
 
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="quote-jianbao"></a> 到场简报（Handout #1） 📄**
 
-:::
+::::
 - **到场简报==——初次简报==**
 
 
@@ -3905,7 +3905,7 @@ b 钩买通警队线人拿到同款）。
 教会网站公开回应这场「持续迫害」：「时机到来时，上帝与他的逾越节天使将像惩罚埃及那样惩罚华盛顿的恶人——以疮与血、蛙与蝗、虱与蝇、疫与暗；  
 当对信众的迫害仍不停止，便以他们==头生子的死亡==。」
 
-::::
+:::::
 
 ::: details 📖 原文留档：到场简报 Handout #1
 
@@ -3983,13 +3983,13 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 ---
 
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="quote-shu"></a>《逾越节天使之书》速览（Handout #2） 📕**
 
-:::
+::::
 - **《逾越节天使之书》速览==——邪教典籍，三档读法==**
 
 
@@ -4039,18 +4039,18 @@ The fourth chapter is a set of bizarre drawings, set forth as an Appendix to the
 
 :::
 
-::::
+:::::
 
 ---
 
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="quote-poyi3"></a>破译讯息（Handout #3） 🔐**
 
-:::
+::::
 - **破译讯息==——「这样的哀号必不会再有」==**
   - **伏笔**：①「==黑风之山==」是 Black Wind 名号首次进入玩家视野
     - 案卷 S 层双神结构的伏笔
@@ -4083,7 +4083,7 @@ The fourth chapter is a set of bizarre drawings, set forth as an Appendix to the
 当群星就位、界墙变薄之时，逾越节的天使将从**黑风之山**降临，无信者的头生子将从地上消亡。  
 故而我们祈祷：la! Narlato wagh'nag! iszkur boret'l! 天使乘风而来！
 
-::::
+:::::
 
 <a id="quote-poyi"></a>
 
@@ -4111,13 +4111,13 @@ KJV：
 ---
 
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="quote-luxiang"></a>仪式存档录像（观看所得） 🎞️**
 
-:::
+::::
 - **仪式存档录像==——观看者从此被盯上==**
   - **来源**：琳赛信任门开后由她交出（儿童 DVD 盒里的空白盘）
     - 或任何看到该录像的途径
@@ -4161,18 +4161,18 @@ This time he had gone undercover as a right-wing domestic terrorist, infiltrated
 
 :::
 
-::::
+:::::
 
 
 ---
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="quote-gaobie"></a> 乔治的告别信（Handout #4） ✉️**
 
-:::
+::::
 - **乔治的告别信==——周五 17:00 邮件到妮可邮箱==**
 
 
@@ -4216,7 +4216,7 @@ This time he had gone undercover as a right-wing domestic terrorist, infiltrated
 
 :::
 
-::::
+:::::
 
 :::: details 📖 原文留档：运行指南与结算（How Things Are Likely To Go, Keeper Hints & Rewards，中英双版）
 

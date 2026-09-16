@@ -2321,13 +2321,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **三卡同构**：图版、中文直译、英文原文都在各自卡内
     - DM 无实物时照中文直译念
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="quote-news"></a> Handout #1——《里兰纪事报》报道（10/20） 📰**
 
-:::
+::::
 - **Handout #1==——开局已知的官方口径==**
 
 
@@ -2376,15 +2376,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="quote-reddit"></a> Handout #2——Reddit r/Easttexas 帖（10/22） 💬**
 
-:::
+::::
 - **Handout #2==——会生长的线索==**
 
 
@@ -2441,15 +2441,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-::::
+:::::
 
-:::: card
+::::: card
 
-::: center
+:::: center
 
 ### **<a id="quote-screed"></a> Handout #3——安格斯坦宅墙面涂写照片 🖼️**
 
-:::
+::::
 - **Handout #3==——真迹已毁的孤本==**
 
 
@@ -2490,7 +2490,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
-::::
+:::::
 
 ---
 
