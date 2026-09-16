@@ -27,6 +27,8 @@ search: false
 
 ---
 
+:::: center
+
 ::: table
 
 | 项 | 内容 |
@@ -36,6 +38,8 @@ search: false
 | 结构 | 五日：周四晚—周二日落 |
 
 :::
+
+::::
 
 ::: warning 内容提示
 
@@ -97,6 +101,8 @@ ShinKan42
 
 :::
 
+:::: center
+
 ::: table
 
 | 类别 | 条目 | 跳转链接 |
@@ -114,6 +120,8 @@ ShinKan42
 | 媒体 | 媒体生态 | [媒体生态](#bg-media) |
 
 :::
+
+::::
 
 > 深料与信源：模组集 `the_things_we_leave_behind/_资源/背景知识包_v1.md`（承重/氛围/索引三层）。
 
@@ -633,7 +641,7 @@ KJV：
 
 - **宏观魔改==——中心思想与魔改清单==**
 
-  - **中心思想（定案 a+b）**
+  - **中心思想**
     - 主轴是==善与善的相撞==
       - **全善局**：绑匪是善人、父母是善人、FBI 是善人
       - ==没有恶人，照样开向灾难==
@@ -657,11 +665,11 @@ KJV：
 
 ---
 
-- **双钩同备（定案）**：a 传统调查员钩／b GNS 记者团钩，共用本案卷全部内容，差异只在双钩章。
+- **双钩同备**：a 传统调查员钩／b GNS 记者团钩，共用本案卷全部内容，差异只在双钩章。
 
 ---
 
-- **魔改清单**（定案）
+- **魔改清单**
   - **十灾 #5 畜疫补位**：（宠物医院集体疫情新闻拍）
   - 双钩
   - 其余照原文——
@@ -669,7 +677,7 @@ KJV：
 
 ---
 
-- **卡挂法**：撒拉·贝尔福挂[信徒共通卡](#npc-cultists)+注记==「不参战，周二平行线主脑」==（定案）。
+- **卡挂法**：撒拉·贝尔福挂[信徒共通卡](#npc-cultists)+注记==「不参战，周二平行线主脑」==。
 
 
 ---
@@ -802,6 +810,8 @@ KJV：
 
 :::
 
+:::: center
+
 ::: table
 
 | NPC | 胃口 | 第一下 |
@@ -813,6 +823,8 @@ KJV：
 | 天使 | 要献祭按时 | 云中那张脸看你的那一眼 |
 
 :::
+
+::::
 
 ---
 
@@ -852,6 +864,8 @@ KJV：
 
 **时历表与十灾是同一座钟的两面**：调查推进线与灾序应验线平行走，玩家看着灾一灾灾应验，「周二是真的」不用你说。
 
+:::: center
+
 ::: table
 
 | 日 | 事件 | 灾# | 经文 | 呈现位 | SAN |
@@ -872,12 +886,14 @@ KJV：
 
 :::
 
+::::
+
 - **蝗群拍**：（Five Oaks 抵达时）：
   - SAN 0/1
   - **巨大蝗虫开始砸风挡**：越砸越密直到必须停车，还从通风口往里爬
   - **静止凝视**（复眼万对）
     - **覆盖路面车顶灯罩**：不散不咬，只看
-  - **全城仅此一区有目击报告**：（定案保留）
+  - **全城仅此一区有目击报告**
     - **异常与我们同址**：区域限定就是的公开在场证明
     - **独家就在这个街区**：对记者团来说，这就是的信号
 - 时历推进原则：表是态势不是轨道
@@ -1047,7 +1063,9 @@ KJV：
 
 ---
 
-:::: card
+::::: card
+
+:::: center
 
 ::: table
 
@@ -1064,6 +1082,8 @@ KJV：
 :::
 
 ::::
+
+:::::
 
 
 
@@ -1292,6 +1312,8 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 :::
 
+:::: center
+
 ::: table
 
 | 条目 | 一句话 | 跳转链接 |
@@ -1304,18 +1326,22 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 | **执法** | | |
 | 露西·贝茨 Lucy Bates | 程序正义，目标即灾难 | [露西·贝茨 Lucy Bates](#npc-bates) |
 | **教会与超自然** | | |
-| 逾越节天使 Passover Angel | 调度者，要那一场按时；对调查员全程沉默（DM 定案：不与蚂蚁对话） | [逾越节天使 Passover Angel](#npc-angel) |
+| 逾越节天使 Passover Angel | 调度者，要那一场按时；对调查员全程沉默（不与蚂蚁对话） | [逾越节天使 Passover Angel](#npc-angel) |
 | 「零蛋」约翰尼 Johnny Zero | 武装核心头目（挂信徒共通卡） | [自杀信徒 ×10](#npc-cultists) |
 | **绑匪** | | |
 | 琳赛·皮尔 Lindsay Peale | 藏起世界的绑匪，等一句承诺 | [琳赛·皮尔 Lindsay Peale](#npc-lindsay) |
 
 :::
 
+::::
+
 ::: center
 
 ### **闲笔速查 🌿**
 
 :::
+
+:::: center
 
 ::: table
 
@@ -1326,11 +1352,15 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 :::
 
+::::
+
 ::: center
 
 ### **备选速查 🎭**
 
 :::
+
+:::: center
 
 ::: table
 
@@ -1351,11 +1381,15 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 :::
 
+::::
+
 ::: center
 
 ### **即兴速查 🎲**
 
 :::
+
+:::: center
 
 ::: table
 
@@ -1368,6 +1402,8 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 :::
 
+::::
+
 
 ---
 
@@ -1376,9 +1412,9 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 ## **⭐ <a id="npc-core"></a> 人物-核心**
 
 :::
-:::::: card
+::::::: card
 
-::::: card
+:::::: card
 
 ::: center
 
@@ -1445,7 +1481,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
     - **原文自评**：最虚无主义的跑法、编排最费劲，但远比其他跑法好玩
     - **友好的**：夫妇乐意邀请媒体见证礼拜
       - **全世界都在看**：会众可能高喊把干涉的执法挡回去
-:::: details 数据卡：琳赛·皮尔
+::::: details 数据卡：琳赛·皮尔
 
 **琳赛·皮尔 Lindsay Peale**｜人类，29 岁，县儿童保护社工
 
@@ -1462,6 +1498,8 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 - 温彻斯特 12 号 M50 霰弹枪：95%（47/18），4D6/2D6/1D6，50 码，弹仓 5——1/轮；备弹约 100 发＋同型备用枪一把
 ---
 **——技能——**
+:::: center
+
 ::: table
 
 | 技能 | 数值 |  | 技能 | 数值 |
@@ -1474,6 +1512,8 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 | 法律 | 45% |  | 精神分析 | 25% |
 
 :::
+
+::::
 ---
 **——法术——**
 - 标记门柱（`Elder Sign` 变体）：门槛防护符文，实体退避——不挡梦魇与施压，天使对琳赛的隔门恐吓照走
@@ -1482,7 +1522,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 - 防御：无特殊
 - 学历：心理学学士（俄亥俄州立）＋社工硕士（克利夫兰州立）
 
-::::
+:::::
 ::: details 📖 原文留档：琳赛的心态——两年前的案子与一周前的录像
 
 **中文（忠实全文）**
@@ -1528,9 +1568,9 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 
 :::
 
-:::::
+::::::
 
-::::: card
+:::::: card
 
 ::: center
 
@@ -1568,7 +1608,7 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
       - **天使坐进副驾**（SAN 1/1D10）
     - 代价是一条人命
       - **杀第一个能无声杀掉的人**：他会用后备箱的刀
-    - **定案**：周日上午新闻边栏一条==无名流浪汉陈尸巷中==，不点名不展开
+    - **周日见报**：周日上午新闻边栏一条==无名流浪汉陈尸巷中==，不点名不展开
       - ==约翰的罪有回声==
     - **落子**：之后 Nyarlathotep 落子：
       - **蝗群开始撞 23 号房门窗**：（SAN 0/1D3），夜间有猎鬼待命（条件同琳赛红线）
@@ -1593,7 +1633,7 @@ KJV：
 > 25 Burning for burning, wound for wound, stripe for stripe.
 
 :::
-:::: details 数据卡：约翰·贝尔福
+::::: details 数据卡：约翰·贝尔福
 
 **约翰·贝尔福 John Balfour**｜人类，33 岁，逾越节天使教会牧师
 
@@ -1610,6 +1650,8 @@ KJV：
 - 祭刀：近战，1D4+db——肯尼亚异金合金，微弱放射性（可侦测）
 ---
 **——技能——**
+:::: center
+
 ::: table
 
 | 技能 | 数值 |  | 技能 | 数值 |
@@ -1623,6 +1665,8 @@ KJV：
 | 吟游（唱） | 50% |  |  |  |
 
 :::
+
+::::
 ---
 **——法术——**
 - 恳求逾越节天使（`Contact Nyarlathotep`，天使形态）：天使应祷显形、开价交易——周一晚车中恳求（`Entreat`）的引擎
@@ -1634,9 +1678,9 @@ KJV：
 - 长期疯狂：种族灭绝狂
 - 学历：神学院
 
-::::
-
 :::::
+
+::::::
 
 :::: card
 
@@ -1657,7 +1701,7 @@ KJV：
     - ==女儿的命可以是我的命==
     - ==神不会两个都收==
 ---
-  - **锚点台词**（DM 定案 a+b，b 为主）：
+  - **锚点台词**：
     - **主**：「这孩子当年是我求来的——==求来的，就得由我还==。」
       - 内嵌==《创世记》18 撒拉求子==典故
       - **夫妻二重唱**：与约翰「Life for life」成
@@ -1666,7 +1710,7 @@ KJV：
       - 说这话时她是平静的
         - 周二下午电话线里就是这种平静
 ---
-  - **数据卡**：挂[信徒共通卡](#npc-cultists)（定案），注记
+  - **数据卡**：挂[信徒共通卡](#npc-cultists)，注记
     - 不参战，无武装，周二平行线主脑
 
 <a id="quote-chuang18"></a>
@@ -1698,7 +1742,7 @@ KJV：
 
 ::::
 
-::::: card
+:::::: card
 
 ::: center
 
@@ -1730,7 +1774,7 @@ KJV：
     > 「The only thing that matters is getting that little girl back to her mom and dad!」
       - 第二句正是==全案的反讽==所在：
         - **完好归还**：她要的，==就是把孩子送回祭坛==
-:::: details 数据卡：露西·贝茨
+::::: details 数据卡：露西·贝茨
 
 **露西·贝茨 Lucy Bates**｜FBI 探长，失踪与受剥削儿童工作组
 
@@ -1748,6 +1792,8 @@ KJV：
 - 斗殴：65%（32/12）
 ---
 **——技能——**
+:::: center
+
 ::: table
 
 | 技能 | 数值 |  | 技能 | 数值 |
@@ -1759,6 +1805,8 @@ KJV：
 | 法律 | 55% |  |  |  |
 
 :::
+
+::::
 ---
 **——杂项——**
 - 防御：无特殊；预判有枪战时可穿防弹背心
@@ -1770,9 +1818,9 @@ KJV：
 - 「Stop interfering with my investigation!」
 - 「The only thing that matters is getting that little girl back to her mom and dad!」
 
-::::
-
 :::::
+
+::::::
 
 :::: card
 
@@ -1801,7 +1849,7 @@ KJV：
     - **醒时**：醒着的时候靠动画片和琳赛的呵斥保持安静
       - **小马宝莉**：门外能听见小声放着的（My Little Pony）
   - **人味**
-    - **睡时**：==睡着时被毯子裹着、==放在安全座椅里搬上车
+    - **睡时**：==睡着时被毯子裹着==、放在安全座椅里搬上车
     - **病发**：收费站那一程她咳嗽、喘鸣、呼吸窘迫
       - 琳赛哭着问最近的医院
     - **敲门无应**：旅馆老板家的小女儿敲门想找她玩，没有人应门
@@ -1812,15 +1860,15 @@ KJV：
       - **关键线索**：==坐实 George 卧底＋父母知情==
     - **以撒**：「我最喜欢的圣经故事是——上帝只是考验，天使会拦住刀的，爸爸每天都讲」
 ---
-  - **DM 定案（以撒故事由蕾吉娜亲口讲）**：
+  - **以撒故事（由蕾吉娜亲口讲）**：
     - **触发**：==问对「最喜欢的圣经故事」==或心理分析判定成功
     - 问不对由 DM 按原文兜底给
     - 她讲的时候心态是==讲晚安故事==
 ---
   - **获救后访谈细目**（原文五条，供 DM 直取）：
-    - **换位话**：==琳赛「上次是好人、==这次是坏人」：
+    - **换位话**：==琳赛「上次是好人==、这次是坏人」：
       - **两年前被带走过几周**：那次琳赛对她很好
-      - ==这次凶、==老喂感冒药、她害怕
+      - ==这次凶==、老喂感冒药、她害怕
     - **爸爸的避难所嘱咐**：世界末日来时要躲进后院避难所，待在里面等有人来找她
     - **家况**：爸爸是传道人、妈妈在家陪她、他们非常信神
     - **天使观**：逾越节天使是一位会来拜访他们、告诉爸爸神要什么的特别天使
@@ -1848,7 +1896,7 @@ KJV：
       > 「小人啊，你和那个小女人，什么都做不了。」
     - **唯一一句话**：这是它在本篇中对凡人说的
 ---
-  - **对调查员全程沉默**（定案）：
+  - **对调查员全程沉默**：
     - 雹暴云中的脸==只有脸，没有话==
     - 它不与蚂蚁对话，==冷漠比威胁可怕==
     - 那句留给玩家看录像时自己撞上
@@ -1946,7 +1994,7 @@ KP 任意指定至 99%
 
 ::::
 
-::::: card
+:::::: card
 
 ::: center
 
@@ -1956,7 +2004,7 @@ KP 任意指定至 99%
 
 - **「零蛋」约翰尼 Johnny Zero==——武装核心头目（挂信徒共通卡）==**
 
-:::: details 数据卡：自杀信徒 ×10（「零蛋」约翰尼领队）
+::::: details 数据卡：自杀信徒 ×10（「零蛋」约翰尼领队）
 
 **自杀信徒 ×10**｜「零蛋」约翰尼 Johnny Zero 领队
 
@@ -1977,6 +2025,8 @@ KP 任意指定至 99%
 - 遥控炸弹车 ×6：6D6——六人各持手机，任一人可引爆全部
 ---
 **——技能——**
+:::: center
+
 ::: table
 
 | 技能 | 数值 |  | 技能 | 数值 |
@@ -1985,6 +2035,8 @@ KP 任意指定至 99%
 | 侦察 | 50% |  | 驾驶 | 35% |
 
 :::
+
+::::
 ---
 **——法术——**
 - 恳求逾越节天使（`Contact Nyarlathotep`，天使形态）：天使应祷显形、开价交易
@@ -1995,9 +2047,9 @@ KP 任意指定至 99%
 - 「Glory be to the Passover Angel!」
 - 「All unbelievers shall perish!」
 
-::::
-
 :::::
+
+::::::
 
 :::: card
 
@@ -2022,7 +2074,7 @@ KP 任意指定至 99%
 
 ::::
 
-::::::
+:::::::
 
 ::: center
 
@@ -2291,6 +2343,8 @@ KP 任意指定至 99%
 ## **🗺️ 场景**
 
 :::
+:::: center
+
 ::: table
 
 | 区域 | 要点 | 在场人物 | 威胁 |
@@ -2305,7 +2359,9 @@ KP 任意指定至 99%
 
 :::
 
-:::::: card
+::::
+
+::::::: card
 
 :::: card
 
@@ -2991,7 +3047,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
 
     - **找到琳赛的车**：
       - **棕褐色福特金牛**：她那辆 2008 年，停在租车行对面的旅馆停车场里（阿克隆/坎顿机场附近）
-        - **找到租车行就能找到它**：==孤零零一辆、==尽量贴着街边停
+        - **找到租车行就能找到它**：==孤零零一辆==、尽量贴着街边停
       - **兜底**：只要车牌号或车辆描述进了通报，最迟周日早上本地警察会发现它并上报
 
   ---
@@ -3027,7 +3083,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
       - **对亭来电**：玩家灵光一闪或大张旗鼓求助媒体去查出口收费员时，对的那个收费亭会打来电话
         - 收费员认得出琳赛和蕾吉娜的照片
           - 蕾吉娜==咳嗽、喘鸣、呼吸明显窘迫==
-          - **问最近的医院**：==琳赛在哭、==非常着急，
+          - **问最近的医院**：==琳赛在哭==、非常着急，
             - 被告知约 20 英里外有一家
       - **再兜底**：等蕾吉娜的照片上了每一台电视，州界收费亭的职员迟早自己对上号
         - 周日或周一
@@ -3044,7 +3100,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
           - ==全组幸运判定==躲过雷击冰雹
           - **躲不过则车毁、翻进沟里**：驾驶判定成功才免伤，否则车内每人 2D6（未系安全带 4D6）
       - 靠边留在车里
-        - **雹击**：==车遭雷击、==风挡被垒球大的冰雹砸穿，前座每人 1D6
+        - **雹击**：==车遭雷击==、风挡被垒球大的冰雹砸穿，前座每人 1D6
       - **明显不是自然天气**：这，SAN 1/1D3
       - 下车在暴风里跑
         - **KP**：完全有权限让雷劈了他们、或让漏斗云把他们卷走
@@ -3069,7 +3125,7 @@ There is something unusual about the bomb shelter, but one has to look for it sp
       - **监控**：一个用外套蒙头的女人作的案
       - **步行接近**：另一台摄像头拍到她是步行穿过停车场接近的
       - **关键推理**（原文标注 important clue）：==琳赛就在附近==
-        - ==不在租车里、==也不在任何车里
+        - ==不在租车里==、也不在任何车里
       - 灵感（`Idea`）判定
         - **严重限制了带她移动的范围**：蕾吉娜的病情
         - **绑匪若想保她活着又不惹眼**：只能==就近落脚藏身==
@@ -3538,7 +3594,7 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 ::::
 
-::::: card
+:::::: card
 
 ::: center
 
@@ -3674,7 +3730,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/map_balfour_compound.png" alt="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="贝尔福大院战术图——房宅、礼拜堂、避难所、炸弹车与警车新闻车点位">
 </details>
 
-:::: card 终局三支线
+::::: card 终局三支线
+
+:::: center
 
 ::: table
 
@@ -3687,21 +3745,25 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 :::
 
 ::::
+
+:::::
 :::: card 头生调查员的五天
 
 梦（古埃及/黑翼）与余光里的东西，从建卡那一刻就开始（见双钩章·开场包）
 
 ::::
 
-:::::
+::::::
 
-:::: card
+::::: card
 
 ::: center
 
 ### **SAN 全表 🧠**
 
 :::
+
+:::: center
 
 ::: table
 
@@ -3727,7 +3789,9 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 ::::
 
-::::::
+:::::
+
+:::::::
 
 ::: center
 
@@ -3753,6 +3817,8 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 
 ::::
 
+:::: center
+
 ::: table
 
 | 物品 | 类型 | 位置 | 用途 | 跳转链接 |
@@ -3765,6 +3831,8 @@ If the Balfours do not have possession of Regina back by Tuesday afternoon, they
 | 羊血（周二） | 场景位 | 礼拜堂门框 | 第十灾现场位 | — |
 
 :::
+
+::::
 
 :::: card
 
@@ -3955,7 +4023,7 @@ The abductor had dyed his hair, was wearing a fake moustache, had recently obscu
 
 贝尔福甚至引用了几篇真实论文支撑此说，包括特雷维萨纳托《埃及十灾：考古、历史与科学视角下的圣经考察》（2005），与马尔、马洛伊〈对埃及十灾的流行病学分析〉（1996）。
 
-第四章是==一组怪异的图画==，作为《肯尼亚启示录》的附录：==星图、以诺派图式==、描绘巫术三角与魔法圆的费解示意图、复杂的数学公式——==全部没有任何散文说明==。
+第四章是==一组怪异的图画==，作为《肯尼亚启示录》的附录==：星图、以诺派图式==、描绘巫术三角与魔法圆的费解示意图、复杂的数学公式——==全部没有任何散文说明==。
 
 ::: details 📖 原文留档：天使之书速览框内全文（Handout #2，English verbatim）
 
@@ -4376,6 +4444,8 @@ There are two thematic elements that should be worked into the narrative as the 
 ==在玩家面前读出来的重要稿件==——经文、书信、简报，全文各在使用位；  
 本区一张总表清点，点开即达。
 
+:::: center
+
 ::: table
 
 | 文本 | 场合 | 怎么用 |
@@ -4392,6 +4462,8 @@ There are two thematic elements that should be worked into the narrative as the 
 | [乔治的告别信（Handout #4）](#quote-gaobie) | 周五 17:00 邮件到妮可邮箱 | ==递给玩家==——图版与信文转录都在 |
 
 :::
+
+::::
 
 - **底本**：主书《The Things We Leave Behind》瓢虫篇 p7-31
 - **GNS**：框架册《We Have Been, We Are, We Will Be》

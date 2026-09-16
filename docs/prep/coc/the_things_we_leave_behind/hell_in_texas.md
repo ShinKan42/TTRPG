@@ -27,6 +27,8 @@ search: false
 
 ---
 
+:::: center
+
 ::: table
 
 | 项 | 内容 |
@@ -36,6 +38,8 @@ search: false
 | 结构 | 十月一周：==10/16 案发== → 10/20 见报 → 10/22 网帖 → 10/23 葬礼（入场）→ 10/24 开门夜 → 10/31 收官 |
 
 :::
+
+::::
 
 ::: warning 内容提示
 
@@ -62,7 +66,7 @@ search: false
 
 :::
 
-<!-- 招募帖速取：角色塑造问题=Q24-a 两问（2026-09-13 定案，已写入）。复跑出帖直接复制下方代码块改「时间」一行；敏感点两层制=标题行四项+「报名前与主持人确认边界」句，六房间详情私发不进帖。写法标准见 TTRPG/创作准则/通用/招募帖模板.md。线上玩家面：module/coc 选集卡，场地/费用/时间变更两处同步 -->
+<!-- 招募帖速取：角色塑造问题两问已写入。复跑出帖直接复制下方代码块改「时间」一行；敏感点两层制=标题行四项+「报名前与主持人确认边界」句，六房间详情私发不进帖。写法标准见 TTRPG/创作准则/通用/招募帖模板.md。线上玩家面：module/coc 选集卡，场地/费用/时间变更两处同步 -->
 ::: details 📣 招募帖速取（复制代码块，改「时间」一行即可出帖）
 
 ```
@@ -110,6 +114,8 @@ ShinKan42
 
 :::
 
+:::: center
+
 ::: table
 
 | 类别 | 条目 | 跳转链接 |
@@ -126,6 +132,8 @@ ShinKan42
 | 克苏鲁神话 | 罗伊格尔——物种背景（自然形态/进食生态/出处） | [罗伊格尔机制章](#mech-lloigor) |
 
 :::
+
+::::
 
 ---
 
@@ -392,7 +400,7 @@ ShinKan42
 
 :::: card
 
-- **==中心思想==——Q12 定案：abc 合铸**
+- **==中心思想==——三层合一**
     - **人物层主轴**：==它盯上刚刚把生活扶正的人==
       - **凯莉**：戒毒重生八个月→割喉；米奇：戒酒重建→濒临破功
       - **凯文·曹**：想借角色走出壳→口袋装着实弹；凯勒：抗议者→替它备好汽油阵
@@ -419,7 +427,7 @@ ShinKan42
 
 ---
 
-  - **本篇命题**（挂招募帖·角色塑造问题，Q24-a 定案）
+  - **本篇命题**（挂招募帖·角色塑造问题）
     - **①（人物层）**
       - **问**：生活刚刚好起来的时候，你最怕失去什么？
     - **②（搁置层）**
@@ -428,7 +436,7 @@ ShinKan42
 
 ---
 
-  - **双钩同备（Q13 定案）**
+  - **双钩同备**
     - **结构**：a 传统调查员钩／b GNS 记者团钩
       - ==共用本案卷全部内容==
         - 差异只在双钩章
@@ -439,8 +447,8 @@ ShinKan42
 
 ---
 
-  - **魔改清单（Q16 定案：原样跑）**
-    - **S1 轻映射**（Q14 定案）
+  - **魔改清单（原样跑）**
+    - **S1 轻映射**
       - **物证**：韦弗桌上==《逾越节天使之书》==签名本＋正写信斥约翰·贝尔福（John Balfour）异端
         - 原书自带彩蛋，保留原样
     - **硬边界**
@@ -585,6 +593,8 @@ ShinKan42
 
 :::
 
+:::: center
+
 ::: table
 
 | NPC | 胃口 | 第一下 |
@@ -597,6 +607,8 @@ ShinKan42
 | 罗伊格尔 | 要痛苦 | 调查员到屋当晚的第一个小事故 |
 
 :::
+
+::::
 
 ---
 
@@ -657,7 +669,7 @@ ShinKan42
 <details class="hint-container details">
 <summary>📷 罗伊格尔——暗黑纹理（原书图版）</summary>
 
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_lloigor.jpeg" alt="罗伊格尔——暗黑纹理（原书图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="罗伊格尔——暗黑纹理（原书图版）">
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_lloigor_v2.jpeg" alt="罗伊格尔——暗黑纹理（原书图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="罗伊格尔——暗黑纹理（原书图版）">
 
 </details>
 
@@ -937,6 +949,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+:::: center
+
 ::: table
 
 | 条目 | 一句话 | 跳转链接 |
@@ -952,11 +966,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+::::
+
 ::: center
 
 ### **人物速查表 · 闲笔 🌿**
 
 :::
+
+:::: center
 
 ::: table
 
@@ -969,11 +987,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+::::
+
 ::: center
 
 ### **人物速查表 · 备选 🎭**
 
 :::
+
+:::: center
 
 ::: table
 
@@ -985,11 +1007,15 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+::::
+
 ::: center
 
 ### **人物速查表 · 即兴 🎲**
 
 :::
+
+:::: center
 
 ::: table
 
@@ -1000,6 +1026,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 | 镇民 | 两千八百人，教会即社区，对外人有墙 | [镇民](#npc-townsfolk) |
 
 :::
+
+::::
 
 ---
 
@@ -1743,6 +1771,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+:::: center
+
 ::: table
 
 | 区域 | 要点 | 在场人物 | 威胁 |
@@ -1759,6 +1789,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 | **17 开门夜 · 连环事件** | 抗议→枪击→纵火→连锁数学；八晚窗口 | 全镇＋抗议者＋记者 | 一小时≥5 死→漩涡；一日≥20→实体化 |
 
 :::
+
+::::
 
 ::::: card
 
@@ -1853,7 +1885,6 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
         - 与警长同一个选举小镇
     - **含义**：==加急报告不用贿赂，一个电话的事==
       - **定性**：马丁内斯的「程序异常」异常在制度薄，不在犯罪
-        - 制度查证见知识包·一
 
 ::::
 
@@ -1918,9 +1949,9 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ---
 
-:::::: card
+::::::: card
 
-::::: card
+:::::: card
 
 ::: center
 
@@ -1951,6 +1982,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 克劳利来者不拒
       - 话术或说服视编的口径而定
 
+::::: center
+
 :::: table
 
 | 图例 | 原书名（照录） | 本页条目 |
@@ -1969,9 +2002,11 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::
 
+:::::
+
 > 场景编号：1-11＝原书地图图例原号（标题前缀）；12-17＝图例未含条目（控制室／阁楼／镇区／开门夜）的案卷续号。
 
-:::::
+::::::
 
 :::: card
 
@@ -2164,7 +2199,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::
 
-::::::
+:::::::
 
 ---
 
@@ -2240,6 +2275,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::
 
+:::: center
+
 ::: table
 
 | 物品 | 类型 | 位置 | 用途 | 跳转链接 |
@@ -2252,6 +2289,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 | 汽油阵 | 检查点 | 宅周松林 | 数十个瓶＋八桶汽油——凯勒自己不知道的 | — |
 
 :::
+
+::::
 
 - **玩家面实物件三张（Handout #1-#3）==——使用总则==**
 
@@ -2454,7 +2493,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
         - ==这正是原书要的歧义==
     - **属性**
       - 书本身无神话力量
-        - **三档**：S1 已定：skim 是背景／破译是文献证据／精读是法术
+        - **三档**：skim 是背景／破译是文献证据／精读是法术
           - S2 桌不涉
 
 ::::
@@ -2493,6 +2532,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 本区一张总表清点，点开即达。
 
 
+:::: center
+
 ::: table
 
 | 文本 | 场合 | 怎么用 |
@@ -2502,6 +2543,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 | [墙上遗书照片](#quote-screed) | 马丁内斯信任门后 | 递给玩家：真迹已毁，存世照片只剩这一份 |
 
 :::
+
+::::
 
 ---
 
