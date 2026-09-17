@@ -17,7 +17,7 @@ createTime: 2026/09/18
 
 [🗡️ 职业](#zhiye)｜[🧝 种族](#zhongzu)｜[💪 专长](#zhuanchang)
 
-[✨ 法术](#fashu)｜[🎒 物品](#wupin)｜[📊 来源一览](#laiyuan-yilan)
+[✨ 法术](#fashu)｜[🎒 物品](#wupin)｜[📊 来源×分类一览](#laiyuan-yilan)
 
 :::
 
