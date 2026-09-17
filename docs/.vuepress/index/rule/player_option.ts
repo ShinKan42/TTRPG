@@ -7,10 +7,10 @@ export default defineCollection({
 	linkPrefix: '/rule/dnd_5r/player_option/',
 	sidebar: [
 		{ text: '📑 总览索引', link: 'index' },
-		{ text: '🗡️ 职业', link: 'class/' },
-		{ text: '🧝 种族', link: 'race/' },
-		{ text: '💪 专长', link: 'feat/' },
-		{ text: '✨ 法术', link: 'spell/' },
-		{ text: '🎒 物品', link: 'item/' },
+		{ text: '🗡️ 职业', prefix: 'class', collapsed: false },
+		{ text: '🧝 种族', prefix: 'race', collapsed: false },
+		{ text: '💪 专长', prefix: 'feat', collapsed: false },
+		{ text: '✨ 法术', prefix: 'spell', collapsed: false },
+		{ text: '🎒 物品', prefix: 'item', collapsed: false },
 	],
 });

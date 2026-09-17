@@ -7,76 +7,121 @@ createTime: 2026/09/18
 
 **收录边界**：官方内容已由 [kiwee](https://5e.kiwee.top/) 与[不全书](https://5echm.kagangtuya.top/)两站覆盖，本区只收==两者未收录的==社区与第三方玩家选项——不全书已有的一律不纳入。
 
-::::: center
+::: center
 
 ## **⚡ 快速跳转**
 
-::: card
-
-[🗡️ 职业](#🗡️-职业)｜[🧝 种族](#🧝-种族)｜[💪 专长](#💪-专长)
-
-[✨ 法术](#✨-法术)｜[🎒 物品](#🎒-物品)｜[📊 来源一览](#📊-来源--分类一览)
-
 :::
-
-:::::
-
-## 🗡️ 职业
 
 ::: card
 
-- **🗡️ 职业**
-- 各来源提供的可选职业与子职
-- [查看 →](/rule/dnd_5r/player_option/class/)
+[🗡️ 职业](#zhiye)｜[🧝 种族](#zhongzu)｜[💪 专长](#zhuanchang)
+
+[✨ 法术](#fashu)｜[🎒 物品](#wupin)｜[📊 来源一览](#laiyuan-yilan)
 
 :::
 
-## 🧝 种族
+<a id="zhiye"></a>
+
+::: center
+
+## **🗡️ 职业**
+
+:::
+
+各来源提供的可选职业与子职：
 
 ::: card
 
-- **🧝 种族**
-- 各来源提供的可选种族与族系
-- [查看 →](/rule/dnd_5r/player_option/race/)
+- **🗡️ [职业](/rule/dnd_5r/player_option/class/)**
+- [进入分类页 →](/rule/dnd_5r/player_option/class/)
 
 :::
 
-## 💪 专长
+<a id="zhongzu"></a>
+
+::: center
+
+## **🧝 种族**
+
+:::
+
+各来源提供的可选种族与族系：
 
 ::: card
 
-- **💪 专长**
-- 各来源提供的专长与半专长
-- [查看 →](/rule/dnd_5r/player_option/feat/)
+- **🧝 [种族](/rule/dnd_5r/player_option/race/)**
+- [进入分类页 →](/rule/dnd_5r/player_option/race/)
 
 :::
 
-## ✨ 法术
+<a id="zhuanchang"></a>
+
+::: center
+
+## **💪 专长**
+
+:::
+
+各来源提供的专长与半专长：
 
 ::: card
 
-- **✨ 法术**
-- 各来源提供的法术与扩展法表
-- [查看 →](/rule/dnd_5r/player_option/spell/)
+- **💪 [专长](/rule/dnd_5r/player_option/feat/)**
+- [进入分类页 →](/rule/dnd_5r/player_option/feat/)
 
 :::
 
-## 🎒 物品
+<a id="fashu"></a>
+
+::: center
+
+## **✨ 法术**
+
+:::
+
+各来源提供的法术与扩展法表：
 
 ::: card
 
-- **🎒 物品**
-- 各来源提供的装备、魔法物品与奇物
-- [查看 →](/rule/dnd_5r/player_option/item/)
+- **✨ [法术](/rule/dnd_5r/player_option/spell/)**
+- [进入分类页 →](/rule/dnd_5r/player_option/spell/)
 
 :::
 
-## 📊 来源 × 分类一览
+<a id="wupin"></a>
+
+::: center
+
+## **🎒 物品**
+
+:::
+
+各来源提供的装备、魔法物品与奇物：
+
+::: card
+
+- **🎒 [物品](/rule/dnd_5r/player_option/item/)**
+- [进入分类页 →](/rule/dnd_5r/player_option/item/)
+
+:::
+
+<a id="laiyuan-yilan"></a>
+
+::: center
+
+## **📊 来源 × 分类一览**
+
+:::
+
+:::: table
 
 | 来源 | 类型 | 🗡️ 职业 | 🧝 种族 | 💪 专长 | ✨ 法术 | 🎒 物品 |
 |------|------|:--:|:--:|:--:|:--:|:--:|
 | 本站模组页（如末日剑湾） | 本站模组 | 随收集登记 | — | — | — | — |
 | 社区文档 / 第三方资料站 | 站外 | 随收集登记 | — | — | — | — |
+
+::::
 
 来源随社区资料收集持续追加。
 
