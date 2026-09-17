@@ -39,7 +39,14 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
+				{
+					text: '通用规则 📜',
+					collapsed: true,
+					items: [
+						{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
+					],
+				},
+				{ text: '主题规则 📦', link: 'index#📦-主题规则' },
 			],
 		},
 		{
@@ -48,41 +55,38 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{ text: '玩家选项 🎲', link: '/rule/dnd_5r/options/' },
-				{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
+				{
+					text: '通用规则 📜',
+					collapsed: true,
+					items: [
+						{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
+					],
+				},
+				{ text: '主题规则 📦', link: 'index#📦-主题规则' },
 			],
 		},
 		{
 			text: '👤 神官 ー 信観',
-			collapsed: false,
 			prefix: 'home_brew',
+			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{
-					text: 'ACG 角色 🎭',
-					prefix: 'acg',
-					collapsed: true,
-					items: [
-						{ text: 'Madoka Magica ⭐', link: 'madoka_magica' },
-						{ text: '1999 🎯', link: '1999' },
-					],
-				},
-				{
-					text: '通用规则 📜',
-					prefix: 'shinkan_house_rule',
-					collapsed: true,
-					items: [
-							{ text: 'Dungeon Meshi 🍳', link: 'dungeon_meshi' },
-					],
-				},
-				{
-					text: '主题规则 📦',
-					prefix: 'shinkan_dlc',
-					collapsed: true,
-					items: [
-						{ text: 'Kamen Rider 🦊', link: 'kamen_rider' },
-					],
-				},
+				{ text: 'Madoka Magica ⭐', link: 'acg/madoka_magica' },
+				{ text: '1999 🎯', link: 'acg/1999' },
+				{ text: 'Dungeon Meshi 🍳', link: 'shinkan_house_rule/dungeon_meshi' },
+				{ text: 'Kamen Rider 🦊', link: 'shinkan_dlc/kamen_rider' },
+			],
+		},
+		{
+			text: '🎲 玩家选项',
+			collapsed: false,
+			items: [
+				{ text: '📑 总览索引', link: '/rule/dnd_5r/player_option/' },
+				{ text: '🗡️ 职业', link: '/rule/dnd_5r/player_option/class/' },
+				{ text: '🧝 种族', link: '/rule/dnd_5r/player_option/race/' },
+				{ text: '💪 专长', link: '/rule/dnd_5r/player_option/feat/' },
+				{ text: '✨ 法术', link: '/rule/dnd_5r/player_option/spell/' },
+				{ text: '🎒 物品', link: '/rule/dnd_5r/player_option/item/' },
 			],
 		},
 	],

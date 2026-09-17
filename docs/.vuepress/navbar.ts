@@ -183,50 +183,15 @@ export const navbar = defineNavbarConfig([
 					{ text: '不全书 📖', link: 'https://5echm.kagangtuya.top/' },
 				],
 			},
-			{
-					text: '📚 官方资料',
-					activeMatch: '^/rule/dnd_5r/official/',
-					items: [
-						{
-							text: '总览索引 📑',
-							link: '/rule/dnd_5r/official/',
-							activeMatch: '^/rule/dnd_5r/official/',
-						},
-						{ text: '三龙牌 🐉', link: '/rule/dnd_5r/official/three_dragon_ante' },
-					],
-				},
-				{
-					text: '🤝 社区资料',
-					activeMatch: '^/rule/dnd_5r/(community|options)/',
-					items: [
-						{
-							text: '总览索引 📑',
-							link: '/rule/dnd_5r/community/',
-							activeMatch: '^/rule/dnd_5r/community/',
-						},
-						{
-							text: '玩家选项 🎲',
-							link: '/rule/dnd_5r/options/',
-							activeMatch: '^/rule/dnd_5r/options/',
-						},
-						{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
-					],
-				},
-				{
-					text: '👤 神官 ー 信観',
-					activeMatch: '^/rule/dnd_5r/home_brew/',
-					items: [
-						{
-							text: '总览索引 📑',
-							link: '/rule/dnd_5r/home_brew/',
-							activeMatch: '^/rule/dnd_5r/home_brew/$',
-						},
-						{ text: 'Madoka Magica ⭐', link: '/rule/dnd_5r/home_brew/acg/madoka_magica' },
-						{ text: '1999 🎯', link: '/rule/dnd_5r/home_brew/acg/1999' },
-						{ text: 'Dungeon Meshi 🍳', link: '/rule/dnd_5r/home_brew/shinkan_house_rule/dungeon_meshi' },
-						{ text: 'Kamen Rider 🦊', link: '/rule/dnd_5r/home_brew/shinkan_dlc/kamen_rider' },
-					],
-				},
+				{ text: '📚 官方资料', link: '/rule/dnd_5r/official/', activeMatch: '^/rule/dnd_5r/official/' },
+				{ text: '🤝 社区资料', link: '/rule/dnd_5r/community/', activeMatch: '^/rule/dnd_5r/community/' },
+				{ text: '👤 神官 ー 信観', link: '/rule/dnd_5r/home_brew/', activeMatch: '^/rule/dnd_5r/home_brew/' },
+				{ text: '🎲 玩家选项总览', link: '/rule/dnd_5r/player_option/', activeMatch: '^/rule/dnd_5r/player_option/$' },
+				{ text: '🗡️ 职业', link: '/rule/dnd_5r/player_option/class/', activeMatch: '^/rule/dnd_5r/player_option/class/' },
+				{ text: '🧝 种族', link: '/rule/dnd_5r/player_option/race/', activeMatch: '^/rule/dnd_5r/player_option/race/' },
+				{ text: '💪 专长', link: '/rule/dnd_5r/player_option/feat/', activeMatch: '^/rule/dnd_5r/player_option/feat/' },
+				{ text: '✨ 法术', link: '/rule/dnd_5r/player_option/spell/', activeMatch: '^/rule/dnd_5r/player_option/spell/' },
+				{ text: '🎒 物品', link: '/rule/dnd_5r/player_option/item/', activeMatch: '^/rule/dnd_5r/player_option/item/' },
 		],
 	},
 	{
