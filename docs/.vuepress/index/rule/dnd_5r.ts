@@ -50,7 +50,7 @@ export default defineCollection({
 					text: '主题规则 📦',
 					collapsed: true,
 					items: [
-						{ text: '暂无收录', link: 'index#📦-主题规则' },
+						{ text: '暂无收录', link: 'index#zhuti-guize' },
 					],
 				},
 			],
@@ -73,7 +73,7 @@ export default defineCollection({
 					text: '主题规则 📦',
 					collapsed: true,
 					items: [
-						{ text: '暂无收录', link: 'index#📦-主题规则' },
+						{ text: '暂无收录', link: 'index#zhuti-guize' },
 					],
 				},
 			],
