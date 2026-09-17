@@ -684,12 +684,6 @@ ShinKan42
         - **话术**：它利用志愿者的恐惧自称撒旦（原书语）
           - **现成件**：教会几十年布道把魔鬼的形象、名字、解释体系都备好了
             - ==它只需穿上==
-<details class="hint-container details">
-<summary>📷 罗伊格尔——暗黑纹理（原书图版）</summary>
-
-<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_lloigor_v2.jpeg" alt="罗伊格尔——暗黑纹理（原书图版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="罗伊格尔——暗黑纹理（原书图版）">
-
-</details>
 
   - **进食阈值表（事态跟着现场的状态走，够数才变——不排日程）**
 
@@ -1004,7 +998,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 | 条目 | 一句话 | 跳转链接 |
 |---|---|---|
-| 米奇·兰德罗姆 Mitch Landrom | 戒酒中的父亲，全网讨真相 | [米奇·兰德罗姆](#npc-mitch) |
+| 米奇·兰德罗姆 Mitch Landrom | 戒酒中的父亲，发帖讨女儿真相 | [米奇·兰德罗姆](#npc-mitch) |
 | 泰德·韦弗 Ted Weaver | 教会存亡押在地狱屋上的牧师 | [泰德·韦弗](#npc-ted) |
 | 丹尼尔·韦弗 Daniel Weaver | 护兄护教会的警长，掩盖升级链 | [丹尼尔·韦弗](#npc-daniel) |
 | 亚伦·马丁内斯 Aaron Martinez | 体制内孤儿，握着遗书照片的盟友 | [亚伦·马丁内斯](#npc-martinez) |
@@ -1098,7 +1092,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 ### **<a id="npc-mitch"></a> 米奇·兰德罗姆 Mitch Landrom（53，凯莉之父） 🔦**
 
 :::
-- **米奇·兰德罗姆==——戒酒中的父亲，全网讨真相==**
+- **米奇·兰德罗姆==——戒酒中的父亲，发帖讨女儿真相==**
 
 
   - **讨说法**：要女儿的真相，和一句没来得及说的弥补
