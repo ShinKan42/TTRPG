@@ -61,7 +61,6 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{ text: '玩家选项 🎲', link: '/rule/dnd_5r/player_option/' },
 				{
 					text: '通用规则 📜',
 					collapsed: true,
@@ -74,6 +73,48 @@ export default defineCollection({
 					collapsed: true,
 					items: [
 						{ text: '暂无收录', link: 'index#zhuti-guize' },
+					],
+				},
+			],
+		},
+		{
+			text: '🎲 玩家选项',
+			collapsed: false,
+			items: [
+				{ text: '总览索引 📑', link: '/rule/dnd_5r/player_option/' },
+				{
+					text: '职业 🗡️',
+					collapsed: true,
+					items: [
+						{ text: '职业总览', link: '/rule/dnd_5r/player_option/class/' },
+					],
+				},
+				{
+					text: '种族 🧝',
+					collapsed: true,
+					items: [
+						{ text: '种族总览', link: '/rule/dnd_5r/player_option/race/' },
+					],
+				},
+				{
+					text: '专长 💪',
+					collapsed: true,
+					items: [
+						{ text: '专长总览', link: '/rule/dnd_5r/player_option/feat/' },
+					],
+				},
+				{
+					text: '法术 ✨',
+					collapsed: true,
+					items: [
+						{ text: '法术总览', link: '/rule/dnd_5r/player_option/spell/' },
+					],
+				},
+				{
+					text: '物品 🎒',
+					collapsed: true,
+					items: [
+						{ text: '物品总览', link: '/rule/dnd_5r/player_option/item/' },
 					],
 				},
 			],
