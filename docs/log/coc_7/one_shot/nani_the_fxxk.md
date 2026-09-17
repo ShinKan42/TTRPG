@@ -1,6 +1,11 @@
 ---
-title: Nani_the_Fxxk
+title: 🐞 Nani_the_Fxxk
 createTime: 2026/09/16 18:54:13
+tags:
+  - CoC 7版
+  - Brian
+  - Peter
+  - Magnus
 ---
 ::::::: card
 ::: center
@@ -57,7 +62,7 @@ createTime: 2026/09/16 18:54:13
 ---
 
 **Magnus**：==「前一天晚上我的线下丑照还满天飞，第二天你就搜不到了」==；  
-报名报的全名 Magnus Cunningham——==people call me Mad==；  
+报名报的全名 Magnus Cunningham——==people call me Mag==；  
 皮套底下的名字写进档案、锁进公司。
 :::
 ::::
@@ -200,7 +205,7 @@ Magnus 的丑照前一天晚上还在全网飞，第二天清早，搜索框里�
 **Magnus 那份没法念全。**  
 皮套底下那个名字，==写进档案，锁进公司==，两个同事只知道他红过、塌过。  
 报名时报的是全名，Magnus Cunningham；  
-==别人叫他 Mad==。  
+==别人叫他 Mag==。  
 塌房塌得彻底：皮下恋爱一谈三，同期、大粉、小网红，三线一起断，全网封杀。  
 丑照的事他自己交代：「前一天晚上我的线下丑照还满天飞，第二天你就搜不到了」。
 
