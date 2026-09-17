@@ -3,9 +3,10 @@ title: 🐞 Nani_the_Fxxk
 createTime: 2026/09/16 18:54:13
 tags:
   - CoC 7版
+  - 瓢虫瓢虫飞回家
   - Brian
   - Peter
-  - Magnus
+  - Magnus Cunningham
 ---
 ::::::: card
 ::: center
