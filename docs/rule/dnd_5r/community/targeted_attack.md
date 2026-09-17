@@ -43,6 +43,8 @@ createTime: 2026/09/15
 
 本页将规则译为中文，供玩家与 DM 查阅
 
+![瞄准攻击原文规则（XP to Level 3）](https://bed.shinkan42.art/image/dnd_5r/community/targeted_attack_source.png "瞄准攻击原文规则")
+
 :::
 
 ---
