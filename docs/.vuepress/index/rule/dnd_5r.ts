@@ -24,6 +24,7 @@ export default defineCollection({
 			text: '🔗 资料站跳转',
 			collapsed: false,
 			items: [
+				{ text: '职业 🗡️', link: 'https://5e.kiwee.top/classes.html' },
 				{ text: '种族 🧝', link: 'https://5e.kiwee.top/races.html' },
 				{ text: '专长 💪', link: 'https://5e.kiwee.top/feats.html' },
 				{ text: '法术 ✨', link: 'https://5e.kiwee.top/spells.html' },
@@ -38,21 +39,7 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{
-					text: '通用规则 📜',
-					collapsed: true,
-					items: [
-						{ text: '通用规则 📜', link: 'general_rules' },
-						{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
-					],
-				},
-				{
-					text: '主题规则 📦',
-					collapsed: true,
-					items: [
-						{ text: '主题规则 📦', link: 'theme_rules' },
-					],
-				},
+				{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
 			],
 		},
 		{
@@ -61,21 +48,8 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{
-					text: '通用规则 📜',
-					collapsed: true,
-					items: [
-						{ text: '通用规则 📜', link: 'general_rules' },
-						{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
-					],
-				},
-				{
-					text: '主题规则 📦',
-					collapsed: true,
-					items: [
-						{ text: '主题规则 📦', link: 'theme_rules' },
-					],
-				},
+				{ text: '玩家选项 🎲', link: '/rule/dnd_5r/options/' },
+				{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
 			],
 		},
 		{
@@ -83,12 +57,12 @@ export default defineCollection({
 			collapsed: false,
 			prefix: 'home_brew',
 			items: [
+				{ text: '总览索引 📑', link: 'index' },
 				{
 					text: 'ACG 角色 🎭',
 					prefix: 'acg',
 					collapsed: true,
 					items: [
-						{ text: 'ACG 角色 🎭', link: 'index' },
 						{ text: 'Madoka Magica ⭐', link: 'madoka_magica' },
 						{ text: '1999 🎯', link: '1999' },
 					],
@@ -98,17 +72,14 @@ export default defineCollection({
 					prefix: 'shinkan_house_rule',
 					collapsed: true,
 					items: [
-							{ text: '通用规则 📜', link: 'index' },
-							{ text: '塔罗牌 🔮', link: '/about/tarot' },
 							{ text: 'Dungeon Meshi 🍳', link: 'dungeon_meshi' },
-						],
+					],
 				},
 				{
 					text: '主题规则 📦',
 					prefix: 'shinkan_dlc',
 					collapsed: true,
 					items: [
-						{ text: '主题规则 📦', link: 'index' },
 						{ text: 'Kamen Rider 🦊', link: 'kamen_rider' },
 					],
 				},

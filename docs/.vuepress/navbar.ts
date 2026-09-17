@@ -190,49 +190,43 @@ export const navbar = defineNavbarConfig([
 						{
 							text: '总览索引 📑',
 							link: '/rule/dnd_5r/official/',
-							activeMatch: '^/rule/dnd_5r/official/$',
+							activeMatch: '^/rule/dnd_5r/official/',
 						},
-						{ text: '通用规则 📜', link: '/rule/dnd_5r/official/general_rules', activeMatch: '^/rule/dnd_5r/official/general_rules$|^/rule/dnd_5r/official/three_dragon_ante' },
-
-						{ text: '主题规则 📦', link: '/rule/dnd_5r/official/theme_rules', activeMatch: '^/rule/dnd_5r/official/theme_rules' },
-
+						{ text: '三龙牌 🐉', link: '/rule/dnd_5r/official/three_dragon_ante' },
 					],
 				},
 				{
 					text: '🤝 社区资料',
-					activeMatch: '^/rule/dnd_5r/community/',
+					activeMatch: '^/rule/dnd_5r/(community|options)/',
 					items: [
 						{
 							text: '总览索引 📑',
 							link: '/rule/dnd_5r/community/',
-							activeMatch: '^/rule/dnd_5r/community/$',
+							activeMatch: '^/rule/dnd_5r/community/',
 						},
-						{ text: '通用规则 📜', link: '/rule/dnd_5r/community/general_rules', activeMatch: '^/rule/dnd_5r/community/general_rules$|^/rule/dnd_5r/community/targeted_attack' },
-
-						{ text: '主题规则 📦', link: '/rule/dnd_5r/community/theme_rules', activeMatch: '^/rule/dnd_5r/community/theme_rules' },
-
+						{
+							text: '玩家选项 🎲',
+							link: '/rule/dnd_5r/options/',
+							activeMatch: '^/rule/dnd_5r/options/',
+						},
+						{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
 					],
 				},
 				{
 					text: '👤 神官 ー 信観',
+					activeMatch: '^/rule/dnd_5r/home_brew/',
 					items: [
-					{
-						text: 'ACG 角色 🎭',
-						link: '/rule/dnd_5r/home_brew/acg/',
-						activeMatch: '^/rule/dnd_5r/home_brew/acg/',
-					},
-					{
-						text: '通用规则 📜',
-						link: '/rule/dnd_5r/home_brew/shinkan_house_rule/',
-						activeMatch: '^/rule/dnd_5r/home_brew/shinkan_house_rule/',
-					},
-					{
-						text: '主题规则 📦',
-						link: '/rule/dnd_5r/home_brew/shinkan_dlc/',
-						activeMatch: '^/rule/dnd_5r/home_brew/shinkan_dlc/',
-					},
-				],
-			},
+						{
+							text: '总览索引 📑',
+							link: '/rule/dnd_5r/home_brew/',
+							activeMatch: '^/rule/dnd_5r/home_brew/$',
+						},
+						{ text: 'Madoka Magica ⭐', link: '/rule/dnd_5r/home_brew/acg/madoka_magica' },
+						{ text: '1999 🎯', link: '/rule/dnd_5r/home_brew/acg/1999' },
+						{ text: 'Dungeon Meshi 🍳', link: '/rule/dnd_5r/home_brew/shinkan_house_rule/dungeon_meshi' },
+						{ text: 'Kamen Rider 🦊', link: '/rule/dnd_5r/home_brew/shinkan_dlc/kamen_rider' },
+					],
+				},
 		],
 	},
 	{
