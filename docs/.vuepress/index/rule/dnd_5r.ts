@@ -46,7 +46,13 @@ export default defineCollection({
 						{ text: '三龙牌 🐉', link: 'three_dragon_ante' },
 					],
 				},
-				{ text: '主题规则 📦', link: 'index#📦-主题规则' },
+				{
+					text: '主题规则 📦',
+					collapsed: true,
+					items: [
+						{ text: '暂无收录', link: 'index#📦-主题规则' },
+					],
+				},
 			],
 		},
 		{
@@ -63,7 +69,13 @@ export default defineCollection({
 						{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
 					],
 				},
-				{ text: '主题规则 📦', link: 'index#📦-主题规则' },
+				{
+					text: '主题规则 📦',
+					collapsed: true,
+					items: [
+						{ text: '暂无收录', link: 'index#📦-主题规则' },
+					],
+				},
 			],
 		},
 		{
