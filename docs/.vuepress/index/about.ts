@@ -7,21 +7,18 @@ export default defineCollection({
 	dir: 'about',
 	sidebar: [
 		{
-			text: '约团相关',
-			icon: 'mingcute:pray-line',
+			text: '🤝 约团相关',
 			collapsed: false,
 			items: ['contact','appointment', 'preparation'],
 		},
 		{
-			text: '资源资料',
-			icon: 'ic:baseline-download',
+			text: '🎧 资源资料',
 			prefix: 'ref',
 			collapsed: false,
 			items: ['bgm', 'sfx'],
 		},
 		{
-			text: '通用村规',
-			icon: 'mingcute:moon-stars-line',
+			text: '📜 通用村规',
 			collapsed: false,
 			items: ['tarot'],
 		},
