@@ -9,7 +9,7 @@ search: false
 
 > 挂接于母本 §3 与 §4。LF；emoji 逐字取自 format_check BOARDS 常量。
 
-## **⚙️ 3. 全场机制**
+## **⚙️ 全场机制**
 
 ### 三时段制
 
