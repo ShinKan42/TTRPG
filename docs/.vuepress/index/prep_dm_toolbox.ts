@@ -6,7 +6,7 @@ export default defineCollection({
 	dir: 'prep/dm_toolbox',
 	linkPrefix: '/prep/dm_toolbox/',
 	sidebar: [
-		{ text: '📑 总览索引', link: 'index' },
+		{ text: '总览索引 📑', link: 'index' },
 		{
 			text: '📐 设计方法',
 			prefix: 'methods',

@@ -61,7 +61,7 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{ text: '🎲 玩家选项', link: '/rule/dnd_5r/player_option/' },
+				{ text: '玩家选项 🎲', link: '/rule/dnd_5r/player_option/' },
 				{
 					text: '通用规则 📜',
 					collapsed: true,

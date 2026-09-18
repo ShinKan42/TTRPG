@@ -6,7 +6,7 @@ export default defineCollection({
 	dir: 'rule/dnd_5r/player_option',
 	linkPrefix: '/rule/dnd_5r/player_option/',
 	sidebar: [
-		{ text: '📑 总览索引', link: 'index' },
+		{ text: '总览索引 📑', link: 'index' },
 		{
 			text: '🗡️ 职业',
 			prefix: 'class',
