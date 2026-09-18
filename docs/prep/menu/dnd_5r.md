@@ -1,5 +1,6 @@
 ---
 title: 🔮 龙与地下城 5 版 2024
+description: GM 备团案卷导航
 createTime: 2026/08/13
 sitemap: false
 search: false

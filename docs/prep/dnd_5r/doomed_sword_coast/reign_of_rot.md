@@ -26,7 +26,9 @@ search: false
 ::: warning 内容提示
 
 - **躯体恐怖**：孢子感染、身体改造与失去自我
+
 - **成瘾主题**：假解药与真解脱的双重诱惑
+
 - **末日背景**：文明已亡的世界，没有英雄拯救叙事
 
 :::
@@ -129,4 +131,5 @@ search: false
 ## **查阅入口**
 
 - [灰机 wiki·DND 中文维基](https://dnd.huijiwiki.com)——FR 设定与恶魔领主正典检索（祖格莫伊/维克那/罗丝/散塔林会）
+
 - [5etools·怪物图鉴](https://5e.tools/monsters.html)——本系列 MM 系底本线上卡
