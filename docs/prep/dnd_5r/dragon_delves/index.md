@@ -6,8 +6,6 @@ sitemap: false
 search: false
 ---
 
-<!-- bg:v2 -->
-
 ::: center
 
 ## **🐉 巨龙迷城 Dragon Delves**
