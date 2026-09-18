@@ -23,7 +23,7 @@ createTime: 2026/09/18
 
 [物品](#wupin)
 
-[📊 来源×分类一览](#laiyuan-yilan)
+[来源×分类一览](#laiyuan-yilan)
 
 :::
 
