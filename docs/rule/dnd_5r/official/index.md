@@ -5,17 +5,19 @@ createTime: 2026/08/11
 
 本页收录 D&D 官方出版物的规则扩展与辅助资料。
 
-::: center
+::::: center
 
 ## **⚡ 快速跳转**
 
-:::
-
 ::: card
 
-[📜 通用规则](#tongyong-guize)｜[📦 主题规则](#zhuti-guize)
+[📜 通用规则](#tongyong-guize)
+
+[📦 主题规则](#zhuti-guize)
 
 :::
+
+:::::
 
 <a id="tongyong-guize"></a>
 

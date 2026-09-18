@@ -5,17 +5,21 @@ createTime: 2026/09/18
 
 主持人备团与带团用的==工具与方法==：设计方法论、怪物与 NPC 素材、冒险与地图资源。玩家可选内容一律在[玩家选项](/rule/dnd_5r/player_option/)，不入本区。
 
-::: center
+::::: center
 
 ## **⚡ 快速跳转**
 
-:::
-
 ::: card
 
-[📐 设计方法](#sheji-fangfa)｜[👹 怪物与 NPC](#guaiwu-yu-npc)｜[🗺️ 冒险与地图](#maoxian-yu-ditu)
+[📐 设计方法](#sheji-fangfa)
+
+[👹 怪物与 NPC](#guaiwu-yu-npc)
+
+[🗺️ 冒险与地图](#maoxian-yu-ditu)
 
 :::
+
+:::::
 
 <a id="sheji-fangfa"></a>
 

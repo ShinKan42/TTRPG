@@ -7,19 +7,27 @@ createTime: 2026/09/18
 
 **收录边界**：官方内容已由 [kiwee](https://5e.kiwee.top/) 与[不全书](https://5echm.kagangtuya.top/)两站覆盖，本区只收==两者未收录的==社区与第三方玩家选项——不全书已有的一律不纳入。
 
-::: center
+::::: center
 
 ## **⚡ 快速跳转**
 
-:::
-
 ::: card
 
-[🗡️ 职业](#zhiye)｜[🧝 种族](#zhongzu)｜[💪 专长](#zhuanchang)
+[🗡️ 职业](#zhiye)
 
-[✨ 法术](#fashu)｜[🎒 物品](#wupin)｜[📊 来源×分类一览](#laiyuan-yilan)
+[🧝 种族](#zhongzu)
+
+[💪 专长](#zhuanchang)
+
+[✨ 法术](#fashu)
+
+[🎒 物品](#wupin)
+
+[📊 来源×分类一览](#laiyuan-yilan)
 
 :::
+
+:::::
 
 <a id="zhiye"></a>
 

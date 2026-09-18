@@ -5,17 +5,19 @@ createTime: 2026/09/18
 
 神官自制的 D&D 资料与村规，分==两类==。
 
-::: center
+::::: center
 
 ## **⚡ 快速跳转**
 
-:::
-
 ::: card
 
-[📜 通用规则](#tongyong-guize)｜[📦 主题规则](#zhuti-guize)
+[📜 通用规则](#tongyong-guize)
+
+[📦 主题规则](#zhuti-guize)
 
 :::
+
+:::::
 
 <a id="tongyong-guize"></a>
 

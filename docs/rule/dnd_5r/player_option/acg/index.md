@@ -7,17 +7,18 @@ createTime: 2026/09/18
 
 本大类为自制／二创内容，==非官方==资料。
 
-::: center
+::::: center
 
 ## **⚡ 快速跳转**
 
-:::
-
 ::: card
 
-- **⭐ [Madoka Magica](/rule/dnd_5r/home_brew/acg/madoka_magica)**
-- **🎯 [1999](/rule/dnd_5r/home_brew/acg/1999)**
+[⭐ Madoka Magica](/rule/dnd_5r/player_option/acg/madoka_magica)
+
+[🎯 1999](/rule/dnd_5r/player_option/acg/1999)
 
 :::
+
+:::::
 
 收录随同步追加，新内容一律进本大类。

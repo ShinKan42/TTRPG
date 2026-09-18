@@ -5,17 +5,21 @@ createTime: 2026/08/11
 
 本页收录社区创作的 D&D 资料与工具。
 
-::: center
+::::: center
 
 ## **⚡ 快速跳转**
 
-:::
-
 ::: card
 
-[🎲 玩家选项](#wanjia-xuanxiang)｜[📜 通用规则](#tongyong-guize)｜[📦 主题规则](#zhuti-guize)
+[🎲 玩家选项](#wanjia-xuanxiang)
+
+[📜 通用规则](#tongyong-guize)
+
+[📦 主题规则](#zhuti-guize)
 
 :::
+
+:::::
 
 <a id="wanjia-xuanxiang"></a>
 

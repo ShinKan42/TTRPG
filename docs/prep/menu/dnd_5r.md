@@ -1,7 +1,6 @@
 ---
 title: 🔮 龙与地下城 5 版 2024
 createTime: 2026/08/13
-description: GM 备团案卷导航
 sitemap: false
 search: false
 ---
@@ -44,9 +43,9 @@ search: false
 
 :::
 
-[救恩回响⛪](/prep/dnd_5r/echoes_of_salvation/)
+[死亡之屋💀](/prep/dnd_5r/deaths_house/)
 
-[死亡之屋💀](/prep/dnd_5r/deaths_house/) —— 🚧 备案中
+[救恩回响⛪](/prep/dnd_5r/echoes_of_salvation/)
 
 ::::
 
@@ -58,9 +57,9 @@ search: false
 
 :::
 
-[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/) —— 🚧 备案中
+[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
 
-[黄金宝库之钥🔑](/prep/dnd_5r/kftgv/) —— 🚧 备案中
+[黄金宝库之钥🔑](/prep/dnd_5r/kftgv/)
 
 ::::
 
@@ -76,15 +75,15 @@ search: false
 
 ::: card
 
+[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
+
+[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
+
+[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/)
+
+[末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/)
+
 [==湮灭之墓==×==毁灭前夜==⚰️](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
-
-[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/) —— 🚧 备案中
-
-[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/) —— 🚧 备案中
-
-[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/) —— 🚧 备案中
-
-[末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/) —— 🚧 备案中
 
 :::
 
@@ -112,9 +111,9 @@ search: false
 
 :::
 
-[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/) —— 🚧 备案中
+[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
 
-[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/) —— 🚧 备案中
+[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
 
 ::::
 
@@ -126,9 +125,9 @@ search: false
 
 :::
 
-[死亡之屋💀](/prep/dnd_5r/deaths_house/) —— 🚧 备案中
+[死亡之屋💀](/prep/dnd_5r/deaths_house/)
 
-[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/) —— 🚧 备案中
+[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
 
 ::::
 
@@ -140,24 +139,13 @@ search: false
 
 :::
 
-[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/) —— 🚧 备案中
+[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/)
 
 阿斯蒙蒂斯之链🔗 —— 🚧 备案中
 
 ::::
 
+
 :::::
 
 ::::::
-
----
-
-::: center
-
-## **🚧 重做计划**
-
-:::
-
-带 🚧 备案中 标记的案卷已下线（五页归档至项目侧），待按新格式重做后摘除标记。
-
-救恩回响与湮灭之墓为现役，直接可进。
