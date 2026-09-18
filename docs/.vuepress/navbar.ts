@@ -194,7 +194,7 @@ export const navbar = defineNavbarConfig([
 				activeMatch: '^/rule/dnd_5r/community/',
 			},
 			{
-				text: '🎲 玩家选项（DND 5R）',
+				text: '🎲 玩家选项',
 				link: '/rule/dnd_5r/player_option/',
 				activeMatch: '^/rule/dnd_5r/player_option/',
 			},

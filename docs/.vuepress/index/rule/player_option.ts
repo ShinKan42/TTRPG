@@ -2,7 +2,8 @@ import { defineCollection } from 'vuepress-theme-plume';
 
 export default defineCollection({
 	type: 'doc',
-	title: '🎲 玩家选项（DND 5R）',
+	// DND 5R 的玩家选项 collection（区别于其他规则集的同名 ts）
+	title: '🎲 玩家选项',
 	dir: 'rule/dnd_5r/player_option',
 	linkPrefix: '/rule/dnd_5r/player_option/',
 	sidebar: [
