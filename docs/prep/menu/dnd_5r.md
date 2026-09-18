@@ -58,7 +58,7 @@ search: false
 
 :::
 
-巨龙迷城🏛️ —— 🚧 备案中
+[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
 
 黄金宝库之钥🔑 —— 🚧 备案中
 
@@ -114,7 +114,7 @@ search: false
 
 风骸岛之龙🐉 —— 🚧 备案中
 
-巨龙迷城🏛️ —— 🚧 备案中
+[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
 
 ::::
 

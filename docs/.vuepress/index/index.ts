@@ -13,7 +13,7 @@ import Prep from './prep.ts';
 
 
 import PrepTombVecna from './prep_tomb_vecna.ts';
-import PrepWillOfOrcus from './prep_will_of_orcus.ts';
+import PrepDragonDelves from './prep_dragon_delves.ts';
 
 
 
@@ -41,6 +41,7 @@ export default defineCollections([
 
 
 	PrepTombVecna,
+	PrepDragonDelves,
 
 
 
