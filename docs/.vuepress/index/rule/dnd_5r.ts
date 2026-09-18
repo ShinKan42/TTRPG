@@ -61,6 +61,7 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
+				{ text: '🎲 玩家选项', link: '/rule/dnd_5r/player_option/' },
 				{
 					text: '通用规则 📜',
 					collapsed: true,
@@ -78,45 +79,38 @@ export default defineCollection({
 			],
 		},
 		{
-			text: '🎲 玩家选项',
+			text: '🗡️ 职业',
 			collapsed: false,
 			items: [
-				{ text: '总览索引 📑', link: '/rule/dnd_5r/player_option/' },
-				{
-					text: '职业 🗡️',
-					collapsed: true,
-					items: [
-						{ text: '职业总览', link: '/rule/dnd_5r/player_option/class/' },
-					],
-				},
-				{
-					text: '种族 🧝',
-					collapsed: true,
-					items: [
-						{ text: '种族总览', link: '/rule/dnd_5r/player_option/race/' },
-					],
-				},
-				{
-					text: '专长 💪',
-					collapsed: true,
-					items: [
-						{ text: '专长总览', link: '/rule/dnd_5r/player_option/feat/' },
-					],
-				},
-				{
-					text: '法术 ✨',
-					collapsed: true,
-					items: [
-						{ text: '法术总览', link: '/rule/dnd_5r/player_option/spell/' },
-					],
-				},
-				{
-					text: '物品 🎒',
-					collapsed: true,
-					items: [
-						{ text: '物品总览', link: '/rule/dnd_5r/player_option/item/' },
-					],
-				},
+				{ text: '职业总览 📑', link: '/rule/dnd_5r/player_option/class/' },
+			],
+		},
+		{
+			text: '🧝 种族',
+			collapsed: false,
+			items: [
+				{ text: '种族总览 📑', link: '/rule/dnd_5r/player_option/race/' },
+			],
+		},
+		{
+			text: '💪 专长',
+			collapsed: false,
+			items: [
+				{ text: '专长总览 📑', link: '/rule/dnd_5r/player_option/feat/' },
+			],
+		},
+		{
+			text: '✨ 法术',
+			collapsed: false,
+			items: [
+				{ text: '法术总览 📑', link: '/rule/dnd_5r/player_option/spell/' },
+			],
+		},
+		{
+			text: '🎒 物品',
+			collapsed: false,
+			items: [
+				{ text: '物品总览 📑', link: '/rule/dnd_5r/player_option/item/' },
 			],
 		},
 		{
@@ -125,15 +119,6 @@ export default defineCollection({
 			collapsed: false,
 			items: [
 				{ text: '总览索引 📑', link: 'index' },
-				{
-					text: 'ACG 角色 🎭',
-					prefix: 'acg',
-					collapsed: true,
-					items: [
-						{ text: 'Madoka Magica ⭐', link: 'madoka_magica' },
-						{ text: '1999 🎯', link: '1999' },
-					],
-				},
 				{
 					text: '通用规则 📜',
 					prefix: 'shinkan_house_rule',
