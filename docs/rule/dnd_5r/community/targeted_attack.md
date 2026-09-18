@@ -11,6 +11,9 @@ createTime: 2026/09/15
 
 ::: card
 
+**大类跳转**
+
+
 [这是什么](#🎯-这是什么)
 
 [基本规则](#📜-基本规则)
@@ -39,6 +42,8 @@ createTime: 2026/09/15
 
 :::::
 
+::::: center
+
 ::: card
 
 原视频来自频道 [XP to Level 3](https://www.youtube.com/@XptoLevel3)：《[Your Combat Could Be Wayyyyy More Dynamic](https://youtu.be/CODp7mA9zmg)》
@@ -48,6 +53,8 @@ createTime: 2026/09/15
 ![瞄准攻击原文规则（XP to Level 3）](https://bed.shinkan42.art/image/dnd_5r/community/targeted_attack_source.png "瞄准攻击原文规则")
 
 :::
+
+:::::
 
 ---
 

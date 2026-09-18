@@ -11,6 +11,9 @@ createTime: 2026/09/18
 
 ::: card
 
+**大类跳转**
+
+
 [设计方法](#sheji-fangfa)
 
 [怪物与 NPC](#guaiwu-yu-npc)

@@ -19,6 +19,9 @@ createTime: 2025/10/30 11:45:46
 
 ::: card
 
+**大类跳转**
+
+
 [黄金规则](#golden-rule)
 
 [命中与闪避](#hit-evade)
