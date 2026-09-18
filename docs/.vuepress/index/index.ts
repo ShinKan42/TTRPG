@@ -46,6 +46,7 @@ export default defineCollections([
 
 	PrepCoc,
 	PrepCocTtwlb,
+	PrepDmToolbox,
 	PlRef,
 	Log,
 	About,

@@ -194,34 +194,9 @@ export const navbar = defineNavbarConfig([
 				activeMatch: '^/rule/dnd_5r/community/',
 			},
 			{
-				text: '🗡️ 职业',
-				link: '/rule/dnd_5r/player_option/class/',
-				activeMatch: '^/rule/dnd_5r/player_option/class/',
-			},
-			{
-				text: '🧝 种族',
-				link: '/rule/dnd_5r/player_option/race/',
-				activeMatch: '^/rule/dnd_5r/player_option/race/',
-			},
-			{
-				text: '💪 专长',
-				link: '/rule/dnd_5r/player_option/feat/',
-				activeMatch: '^/rule/dnd_5r/player_option/feat/',
-			},
-			{
-				text: '✨ 法术',
-				link: '/rule/dnd_5r/player_option/spell/',
-				activeMatch: '^/rule/dnd_5r/player_option/spell/',
-			},
-			{
-				text: '🎒 物品',
-				link: '/rule/dnd_5r/player_option/item/',
-				activeMatch: '^/rule/dnd_5r/player_option/item/',
-			},
-			{
-				text: '🎭 ACG 角色',
-				link: '/rule/dnd_5r/player_option/acg/',
-				activeMatch: '^/rule/dnd_5r/player_option/acg/',
+				text: '🎲 玩家选项',
+				link: '/rule/dnd_5r/player_option/',
+				activeMatch: '^/rule/dnd_5r/player_option/',
 			},
 			{
 				text: '👤 神官 ー 信観',
