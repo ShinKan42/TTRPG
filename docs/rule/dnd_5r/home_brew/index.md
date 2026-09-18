@@ -22,6 +22,8 @@ createTime: 2026/09/18
 
 :::::
 
+---
+
 <a id="tongyong-guize"></a>
 
 ::: center
@@ -30,13 +32,23 @@ createTime: 2026/09/18
 
 :::
 
-神官自制==通用村规==：
+::::: card
+
+::: center
+
+#### **Dungeon Meshi 🍳**
+
+:::
+
+==以《迷宫饭》为蓝本的通用村规==方向，暂在建设。
+
+建设完成后在此开放查看。
+
+:::::
 
 ::: card
 
-- **[Dungeon Meshi 🍳](/rule/dnd_5r/home_brew/shinkan_house_rule/dungeon_meshi)**
-- [查看 →](/rule/dnd_5r/home_brew/shinkan_house_rule/dungeon_meshi)
-- 塔罗牌组已迁至[关于 · 通用村规](/about/tarot)，==万象无常牌==建页时归址待定
+塔罗牌组已迁至[关于 · 通用村规](/about/tarot)，==万象无常牌==建页时归址待定。
 
 :::
 
@@ -48,11 +60,16 @@ createTime: 2026/09/18
 
 :::
 
-围绕特定主题的==规则扩展==：
+::::: card
 
-::: card
+::: center
 
-- **[Kamen Rider 🦊](/rule/dnd_5r/home_brew/shinkan_dlc/kamen_rider)**
-- [查看 →](/rule/dnd_5r/home_brew/shinkan_dlc/kamen_rider)
+#### **Kamen Rider 🦊**
 
 :::
+
+==以《假面骑士》系列为蓝本的主题规则扩展==——把变身英雄的玩法框架移植进 DND，暂在建设。
+
+建设完成后在此开放查看。
+
+:::::
