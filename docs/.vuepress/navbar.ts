@@ -195,32 +195,32 @@ export const navbar = defineNavbarConfig([
 			},
 			{
 				text: '🗡️ 职业',
-				link: '/rule/dnd_5r/player_option/#zhiye',
+				link: '/rule/dnd_5r/player_option/index.html#zhiye',
 				activeMatch: '^/rule/dnd_5r/player_option/',
 			},
 			{
 				text: '🧝 种族',
-				link: '/rule/dnd_5r/player_option/#zhongzu',
+				link: '/rule/dnd_5r/player_option/index.html#zhongzu',
 				activeMatch: '^/rule/dnd_5r/player_option/',
 			},
 			{
 				text: '💪 专长',
-				link: '/rule/dnd_5r/player_option/#zhuanchang',
+				link: '/rule/dnd_5r/player_option/index.html#zhuanchang',
 				activeMatch: '^/rule/dnd_5r/player_option/',
 			},
 			{
 				text: '✨ 法术',
-				link: '/rule/dnd_5r/player_option/#fashu',
+				link: '/rule/dnd_5r/player_option/index.html#fashu',
 				activeMatch: '^/rule/dnd_5r/player_option/',
 			},
 			{
 				text: '🎒 物品',
-				link: '/rule/dnd_5r/player_option/#wupin',
+				link: '/rule/dnd_5r/player_option/index.html#wupin',
 				activeMatch: '^/rule/dnd_5r/player_option/',
 			},
 			{
 				text: '🎭 ACG 角色',
-				link: '/rule/dnd_5r/player_option/#acg-juese',
+				link: '/rule/dnd_5r/player_option/index.html#acg-juese',
 				activeMatch: '^/rule/dnd_5r/player_option/',
 			},
 			{
