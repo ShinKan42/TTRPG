@@ -2074,7 +2074,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-nicole"></a>Nicole（克利夫兰，乔治的女儿）**
+### **<a id="npc-nicole"></a>Nicole（克利夫兰，乔治的女儿） 👧**
 
 :::
 
@@ -2089,7 +2089,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-cat-neighbor"></a>托猫邻居**
+### **<a id="npc-cat-neighbor"></a>托猫邻居 🐈**
 
 :::
 
@@ -2115,7 +2115,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-greeter"></a>中枪迎宾员（大盒子商店门口）**
+### **<a id="npc-greeter"></a>中枪迎宾员（大盒子商店门口） 🛍️**
 
 :::
 
@@ -2132,7 +2132,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-deputy"></a>出警县警（第一批现场警员）**
+### **<a id="npc-deputy"></a>出警县警（第一批现场警员） 🚨**
 
 :::
 
@@ -2152,7 +2152,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-trooper"></a>州警（Turnpike 巡逻）**
+### **<a id="npc-trooper"></a>州警（Turnpike 巡逻） 🚔**
 
 :::
 
@@ -2166,7 +2166,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-rental"></a>租车行店员（Akron，大行门店）**
+### **<a id="npc-rental"></a>租车行店员（Akron，大行门店） 🔑**
 
 :::
 
@@ -2179,7 +2179,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-vet"></a>兽医诊所（夜间闯入现场）**
+### **<a id="npc-vet"></a>兽医诊所（夜间闯入现场） 🐕**
 
 :::
 
@@ -2195,7 +2195,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-diner"></a>蛋蛋盛宴！店员（Eggstravaganza!，克利夫兰市中心破败街区的餐馆）**
+### **<a id="npc-diner"></a>蛋蛋盛宴！店员（Eggstravaganza!，克利夫兰市中心破败街区的餐馆） 🍳**
 
 :::
 
@@ -2209,7 +2209,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-sebastian"></a>Sebastian（蛋蛋盛宴！收银）**
+### **<a id="npc-sebastian"></a>Sebastian（蛋蛋盛宴！收银） 💳**
 
 :::
 
@@ -2221,7 +2221,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-goldfarb"></a>Roxanna Goldfarb（琳赛直属上司）与 Jim Agostino（工会代表）**
+### **<a id="npc-goldfarb"></a>Roxanna Goldfarb（琳赛直属上司）与 Jim Agostino（工会代表） 🗂️**
 
 :::
 
@@ -2237,7 +2237,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-kevin"></a>Kevin Lang（19，炸鸡店男孩）**
+### **<a id="npc-kevin"></a>Kevin Lang（19，炸鸡店男孩） 🍗**
 
 :::
 
@@ -2251,7 +2251,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-ellie"></a>Ellie Davidson（五橡店主幼女，还在学步）**
+### **<a id="npc-ellie"></a>Ellie Davidson（五橡店主幼女，还在学步） 🧸**
 
 :::
 
@@ -2273,7 +2273,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-leak"></a>新闻泄密源（执法队伍内部）**
+### **<a id="npc-leak"></a>新闻泄密源（执法队伍内部） 🤫**
 
 :::
 
@@ -2286,7 +2286,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-fbi"></a>FBI 特遣组探员（贝茨的团队）**
+### **<a id="npc-fbi"></a>FBI 特遣组探员（贝茨的团队） 🔍**
 
 :::
 
@@ -2299,7 +2299,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-front-family"></a>信徒门面家庭（教会一般会众）**
+### **<a id="npc-front-family"></a>信徒门面家庭（教会一般会众） 🏘️**
 
 :::
 
@@ -2314,7 +2314,7 @@ KP 任意指定至 99%
 
 ::: center
 
-### **<a id="npc-coworker"></a>琳赛的社工同事（县儿童保护服务处）**
+### **<a id="npc-coworker"></a>琳赛的社工同事（县儿童保护服务处） 📋**
 
 :::
 
