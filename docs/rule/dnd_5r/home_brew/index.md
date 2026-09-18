@@ -3,7 +3,7 @@ title: 📑 总览索引
 createTime: 2026/09/18
 ---
 
-神官自制的 D&D 资料与村规，分==三类==。
+神官自制的 D&D 资料与村规，分==两类==。
 
 ::: center
 
@@ -13,31 +13,7 @@ createTime: 2026/09/18
 
 ::: card
 
-[🎭 ACG 角色](#acg-juese)｜[📜 通用规则](#tongyong-guize)｜[📦 主题规则](#zhuti-guize)
-
-:::
-
-<a id="acg-juese"></a>
-
-::: center
-
-## **🎭 ACG 角色**
-
-:::
-
-以 ACG 人物为蓝本的==可扮演角色==：
-
-::: card
-
-- **⭐ [Madoka Magica](/rule/dnd_5r/home_brew/acg/madoka_magica)**
-- [查看 →](/rule/dnd_5r/home_brew/acg/madoka_magica)
-
-:::
-
-::: card
-
-- **🎯 [1999](/rule/dnd_5r/home_brew/acg/1999)**
-- [查看 →](/rule/dnd_5r/home_brew/acg/1999)
+[📜 通用规则](#tongyong-guize)｜[📦 主题规则](#zhuti-guize)
 
 :::
 

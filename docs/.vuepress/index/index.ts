@@ -20,6 +20,7 @@ import PrepTombVecna from './prep_tomb_vecna.ts';
 import PrepCoc from './prep_coc.ts';
 import PlRef from './pl_ref.ts';
 import PrepCocTtwlb from './prep_coc_ttwlb.ts';
+import PrepDmToolbox from './prep_dm_toolbox.ts';
 
 import About from './about.ts';
 

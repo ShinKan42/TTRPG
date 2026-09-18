@@ -327,6 +327,7 @@ export const navbar = defineNavbarConfig([
 			{
 				text: '📋 主持备团',
 				items: [
+					{ text: '🧰 DM 工具箱', link: '/prep/dm_toolbox/', activeMatch: '^/prep/dm_toolbox/' },
 					{ text: '案卷总索引 📋', link: '/prep/menu/', activeMatch: '^/prep/menu/$' },
 					{
 						text: '🐉 奇幻类',
