@@ -1,7 +1,6 @@
 ---
 title: 约团方式
 createTime: 2024/11/03 06:27:51
-icon: "streamline:group-meeting-call-solid"
 ---
 
 ::: center

@@ -1,7 +1,6 @@
 ---
 title: 我的带团风格
 createTime: 2025/03/10 02:14:37
-icon: "hugeicons:glasses"
 badge: 🎭
 ---
 

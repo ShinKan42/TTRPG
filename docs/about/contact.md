@@ -1,7 +1,6 @@
 ---
 title: 联系方式
 createTime: 2024/11/03 05:30:36
-icon: "material-symbols:mail-outline"
 ---
 
 :::: center

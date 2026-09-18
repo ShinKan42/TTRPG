@@ -1,7 +1,6 @@
 ---
 title: 背景音乐
 createTime: 2025/04/17 20:00:39
-icon: "icon-park-solid:music-one"
 ---
 
 :::: center
