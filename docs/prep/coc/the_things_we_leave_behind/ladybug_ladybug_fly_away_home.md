@@ -4428,8 +4428,12 @@ There are two thematic elements that should be worked into the narrative as the 
 
 :::
 
+::: center
+
 ==在玩家面前读出来的重要稿件==——经文、书信、简报，全文各在使用位；  
 本区一张总表清点，点开即达。
+
+:::
 
 :::: center
 
