@@ -12,14 +12,7 @@ import Prep from './prep.ts';
 
 
 
-import PrepDragonDelves from './prep_dragon_delves.ts';
-import PrepKftgv from './prep_kftgv.ts';
-import PrepStormwrack from './prep_stormwrack.ts';
 import PrepTombVecna from './prep_tomb_vecna.ts';
-import PrepDeathsHouse from './prep_deaths_house.ts';
-import PrepCurseOfStrahd from './prep_curse_of_strahd.ts';
-import PrepDescentIntoAvernus from './prep_descent_into_avernus.ts';
-import PrepDoomedSwordCoast from './prep_doomed_sword_coast.ts';
 
 
 
@@ -46,14 +39,7 @@ export default defineCollections([
 
 
 
-	PrepDragonDelves,
-	PrepKftgv,
-	PrepStormwrack,
 	PrepTombVecna,
-	PrepDeathsHouse,
-	PrepCurseOfStrahd,
-	PrepDescentIntoAvernus,
-	PrepDoomedSwordCoast,
 
 
 

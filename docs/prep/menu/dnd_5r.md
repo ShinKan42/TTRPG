@@ -44,7 +44,7 @@ search: false
 
 :::
 
-[死亡之屋💀](/prep/dnd_5r/deaths_house/)
+死亡之屋💀 —— 🚧 备案中
 
 [救恩回响⛪](/prep/dnd_5r/echoes_of_salvation/)
 
@@ -58,9 +58,9 @@ search: false
 
 :::
 
-[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
+巨龙迷城🏛️ —— 🚧 备案中
 
-[黄金宝库之钥🔑](/prep/dnd_5r/kftgv/)
+黄金宝库之钥🔑 —— 🚧 备案中
 
 ::::
 
@@ -76,13 +76,13 @@ search: false
 
 ::: card
 
-[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
+风骸岛之龙🐉 —— 🚧 备案中
 
-[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
+斯特拉德的诅咒🧛 —— 🚧 备案中
 
-[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/)
+坠入阿弗纳斯📜 —— 🚧 备案中
 
-[末日剑湾🌊](/prep/dnd_5r/doomed_sword_coast/)
+末日剑湾🌊 —— 🚧 备案中
 
 [==湮灭之墓==×==毁灭前夜==⚰️](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
@@ -112,9 +112,9 @@ search: false
 
 :::
 
-[风骸岛之龙🐉](/prep/dnd_5r/dragons_of_stormwrack_isle/)
+风骸岛之龙🐉 —— 🚧 备案中
 
-[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
+巨龙迷城🏛️ —— 🚧 备案中
 
 ::::
 
@@ -126,9 +126,9 @@ search: false
 
 :::
 
-[死亡之屋💀](/prep/dnd_5r/deaths_house/)
+死亡之屋💀 —— 🚧 备案中
 
-[斯特拉德的诅咒🧛](/prep/dnd_5r/curse_of_strahd/)
+斯特拉德的诅咒🧛 —— 🚧 备案中
 
 ::::
 
@@ -140,7 +140,7 @@ search: false
 
 :::
 
-[坠入阿弗纳斯📜](/prep/dnd_5r/descent_into_avernus/)
+坠入阿弗纳斯📜 —— 🚧 备案中
 
 阿斯蒙蒂斯之链🔗 —— 🚧 备案中
 
