@@ -11,11 +11,11 @@ createTime: 2026/08/11
 
 ::: card
 
-[🎲 玩家选项](#wanjia-xuanxiang)
+[玩家选项](#wanjia-xuanxiang)
 
-[📜 通用规则](#tongyong-guize)
+[通用规则](#tongyong-guize)
 
-[📦 主题规则](#zhuti-guize)
+[主题规则](#zhuti-guize)
 
 :::
 
@@ -33,7 +33,7 @@ createTime: 2026/08/11
 
 ::: card
 
-- **🎲 [玩家选项总览](/rule/dnd_5r/player_option/)**
+- **[玩家选项总览 🎲](/rule/dnd_5r/player_option/)**
 - 五大区块逐来源登记，含收录边界说明
 - [进入总览 →](/rule/dnd_5r/player_option/)
 
@@ -51,7 +51,7 @@ createTime: 2026/08/11
 
 ::: card
 
-- **🎯 [瞄准攻击](/rule/dnd_5r/community/targeted_attack)**
+- **[瞄准攻击 🎯](/rule/dnd_5r/community/targeted_attack)**
 - ==指定部位==精确打击的战斗扩展规则
 - [查看详情 →](/rule/dnd_5r/community/targeted_attack)
 

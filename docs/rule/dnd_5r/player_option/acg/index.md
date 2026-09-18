@@ -13,9 +13,9 @@ createTime: 2026/09/18
 
 ::: card
 
-[⭐ Madoka Magica](/rule/dnd_5r/player_option/acg/madoka_magica)
+[Madoka Magica](/rule/dnd_5r/player_option/acg/madoka_magica)
 
-[🎯 1999](/rule/dnd_5r/player_option/acg/1999)
+[1999](/rule/dnd_5r/player_option/acg/1999)
 
 :::
 

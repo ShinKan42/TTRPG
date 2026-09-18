@@ -13,15 +13,15 @@ createTime: 2026/09/18
 
 ::: card
 
-[🗡️ 职业](#zhiye)
+[职业](#zhiye)
 
-[🧝 种族](#zhongzu)
+[种族](#zhongzu)
 
-[💪 专长](#zhuanchang)
+[专长](#zhuanchang)
 
-[✨ 法术](#fashu)
+[法术](#fashu)
 
-[🎒 物品](#wupin)
+[物品](#wupin)
 
 [📊 来源×分类一览](#laiyuan-yilan)
 
@@ -41,7 +41,7 @@ createTime: 2026/09/18
 
 ::: card
 
-- **🗡️ [职业](/rule/dnd_5r/player_option/class/)**
+- **[职业 🗡️](/rule/dnd_5r/player_option/class/)**
 - [进入分类页 →](/rule/dnd_5r/player_option/class/)
 
 :::
@@ -58,7 +58,7 @@ createTime: 2026/09/18
 
 ::: card
 
-- **🧝 [种族](/rule/dnd_5r/player_option/race/)**
+- **[种族 🧝](/rule/dnd_5r/player_option/race/)**
 - [进入分类页 →](/rule/dnd_5r/player_option/race/)
 
 :::
@@ -75,7 +75,7 @@ createTime: 2026/09/18
 
 ::: card
 
-- **💪 [专长](/rule/dnd_5r/player_option/feat/)**
+- **[专长 💪](/rule/dnd_5r/player_option/feat/)**
 - [进入分类页 →](/rule/dnd_5r/player_option/feat/)
 
 :::
@@ -92,7 +92,7 @@ createTime: 2026/09/18
 
 ::: card
 
-- **✨ [法术](/rule/dnd_5r/player_option/spell/)**
+- **[法术 ✨](/rule/dnd_5r/player_option/spell/)**
 - [进入分类页 →](/rule/dnd_5r/player_option/spell/)
 
 :::
@@ -109,7 +109,7 @@ createTime: 2026/09/18
 
 ::: card
 
-- **🎒 [物品](/rule/dnd_5r/player_option/item/)**
+- **[物品 🎒](/rule/dnd_5r/player_option/item/)**
 - [进入分类页 →](/rule/dnd_5r/player_option/item/)
 
 :::

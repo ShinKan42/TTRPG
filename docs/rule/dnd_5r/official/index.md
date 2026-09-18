@@ -11,9 +11,9 @@ createTime: 2026/08/11
 
 ::: card
 
-[📜 通用规则](#tongyong-guize)
+[通用规则](#tongyong-guize)
 
-[📦 主题规则](#zhuti-guize)
+[主题规则](#zhuti-guize)
 
 :::
 
@@ -31,7 +31,7 @@ createTime: 2026/08/11
 
 ::: card
 
-- **🐉 [三龙牌](/rule/dnd_5r/official/three_dragon_ante)**
+- **[三龙牌 🐉](/rule/dnd_5r/official/three_dragon_ante)**
 - 官方==酒馆卡牌赌博游戏==，可直接开桌
 - [查看详情 →](/rule/dnd_5r/official/three_dragon_ante)
 

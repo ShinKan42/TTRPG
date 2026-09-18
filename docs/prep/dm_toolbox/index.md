@@ -11,11 +11,11 @@ createTime: 2026/09/18
 
 ::: card
 
-[📐 设计方法](#sheji-fangfa)
+[设计方法](#sheji-fangfa)
 
-[👹 怪物与 NPC](#guaiwu-yu-npc)
+[怪物与 NPC](#guaiwu-yu-npc)
 
-[🗺️ 冒险与地图](#maoxian-yu-ditu)
+[冒险与地图](#maoxian-yu-ditu)
 
 :::
 
@@ -33,7 +33,7 @@ createTime: 2026/09/18
 
 ::: card
 
-- **📐 [设计方法](/prep/dm_toolbox/methods/)**——暂无收录，随收集追加
+- **[设计方法 📐](/prep/dm_toolbox/methods/)**——暂无收录，随收集追加
 
 :::
 
@@ -49,7 +49,7 @@ createTime: 2026/09/18
 
 ::: card
 
-- **👹 [怪物与 NPC](/prep/dm_toolbox/monsters/)**——暂无收录，随收集追加
+- **[怪物与 NPC 👹](/prep/dm_toolbox/monsters/)**——暂无收录，随收集追加
 
 :::
 
@@ -65,7 +65,7 @@ createTime: 2026/09/18
 
 ::: card
 
-- **🗺️ [冒险与地图](/prep/dm_toolbox/adventures/)**——暂无收录，随收集追加
+- **[冒险与地图 🗺️](/prep/dm_toolbox/adventures/)**——暂无收录，随收集追加
 
 :::
 
