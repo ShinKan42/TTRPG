@@ -67,6 +67,7 @@ export default defineCollection({
 					collapsed: true,
 					items: [
 						{ text: '瞄准攻击 🎯', link: '/rule/dnd_5r/community/targeted_attack' },
+						{ text: '战场动作 ⚔️', link: '/rule/dnd_5r/community/battlefield_actions' },
 					],
 				},
 				{
