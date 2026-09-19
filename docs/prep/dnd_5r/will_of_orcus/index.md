@@ -1723,6 +1723,21 @@ The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen 
 
 :::
 
+<a id="read-test"></a>
+
+::: details 📖 T12 开战·雕像的「最后考验」（原书朗读层）
+
+> 洪亮的声音从雕像中轰然回响：「这是你最后的考验，希娅。别让我失望！」
+
+:::
+
+
+::: details 📖 T12 开战·雕像的「最后考验」（原书朗读层）
+
+> 洪亮的声音从雕像中轰然回响：「这是你最后的考验，希娅。别让我失望！」
+
+:::
+
 :::::
 
 
@@ -2004,6 +2019,22 @@ Should the characters reveal that a silver dragon was behind the cult's bizarre 
     - **揭露银龙**：欧瑞安忆起偶尔见雏龙在云间翱翔，仅此而已
       - **选集引线**：飞走的奈扎鲁姆：后续各章可回归的活线索
 
+
+
+::: details 📖 银龙历史侧栏·玩家面（原书朗读层）
+
+> 多少年来龙的外形千变万化，唯有==银龙头冠==的轮廓在每一种形象里清晰可辨。
+
+:::
+
+<a id="read-silver"></a>
+
+::: details 📖 银龙历史侧栏·玩家面（原书朗读层）
+
+> 多少年来龙的外形千变万化，唯有==银龙头冠==的轮廓在每一种形象里清晰可辨。
+
+:::
+
 :::::
 
 ::: center
@@ -2169,13 +2200,13 @@ Should the characters reveal that a silver dragon was behind the cult's bizarre 
 
 ::: center
 
-## **📖 引用·桌上朗读资产**
+## **📖 引用**
 
 :::
 
 ::: center
 
-==在玩家面前读出来的重要稿件==——委托、地图、旅程、雕像宣判，全文清点一张表，点开即达。
+**——长段朗读——**开场在酒馆的三段连续稿件。
 
 :::
 
@@ -2221,31 +2252,4 @@ Should the characters reveal that a silver dragon was behind the cult's bizarre 
 > 神殿之旅短暂而平静：大地覆着薄雪，刺骨的寒风是你们唯一的对手。云层遮蔽着面前这座狂风呼啸的山峰。山脚下，古老神殿的入口敞开==十尺宽二十尺高==的黑洞。入门数步，一段粗凿石阶沉入冰冷基岩。墙面上规律镶嵌的山羊头骨里，渗出诡异的绿光。
 
 :::
-
-<a id="read-test"></a>
-
-::: details 📖 T12 开战·雕像的「最后考验」（原书朗读层）
-
-> 洪亮的声音从雕像中轰然回响：「这是你最后的考验，希娅。别让我失望！」
-
-:::
-
-<a id="read-silver"></a>
-
-::: details 📖 银龙历史侧栏·玩家面（原书朗读层）
-
-> 多少年来龙的外形千变万化，唯有==银龙头冠==的轮廓在每一种形象里清晰可辨。
-
-:::
-
-::: center
-
-## **🗃️ 文件与查阅入口**
-
-:::
-
-- **数据卡全文**：妖鬼坟语者／银龙雏龙／邪教狂信者／幽魂／平民等 17 种——[D&D Beyond](https://www.dndbeyond.com/monsters) 或 [5etools](https://5e.tools/bestiary.html) 直查
-- **原书**：《Dragon Delves》第三章 The Will of Orcus（p20-31）
-- **玩家面选集表**：[模组一览·巨龙迷城](/module/dnd_5r.md#巨龙迷城🏛️)
-
 
