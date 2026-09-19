@@ -11,7 +11,9 @@ search: false
 > **第一章 南扎路港 Port Nyanzaru** · 湮灭之墓卷的城市章。  
 > 战役两卷怎么走，见==总览==；楚尔特全境的世界材料，见卷页。
 
+::: center
 ## **🏛️ <a id="c1-what"></a> 城是什么**
+:::
 
 :::: card
 
@@ -40,7 +42,9 @@ search: false
       - 〔委托与行程见总览〕
 ::::
 
+::: center
 ## **🦴 <a id="c1-bones"></a> 城的骨头**
+:::
 
 ::::: card
 :::: card
@@ -111,7 +115,9 @@ search: false
 ::::
 :::::
 
+::: center
 ## **⚓ <a id="c1-arrive"></a> 抵达**
+:::
 
 :::: card
 
@@ -135,7 +141,9 @@ search: false
 
 ::::
 
+::: center
 ## **⚖️ <a id="c1-law"></a> 城里的法**
+:::
 
 :::: card
 
@@ -164,7 +172,9 @@ search: false
       - 贾哈卡海盗、焰拳巡逻队
 ::::
 
+::: center
 ## **🎪 <a id="c1-life"></a> 城里的事**
+:::
 
 ::::: card
 :::: card
@@ -237,7 +247,9 @@ search: false
 ::::
 :::::
 
+::: center
 ## **🗣️ <a id="c1-rumor"></a> 传闻十九声**
+:::
 
 ::::: card
 :::: card
@@ -281,7 +293,9 @@ search: false
 ::::
 :::::
 
+::: center
 ## **👥 <a id="c1-people"></a> 人物速查**
+:::
 
 > 四类：==核心⭐==主线骨架（亲王与港务长）／==闲笔🌿==氛围点缀（祭司与旅行家）／==备选🎭==可聘池（向导九名）／==即兴🎲==桌上弹药（临时面孔）。
 
@@ -355,7 +369,9 @@ search: false
 | 旅馆酒馆的常客 | ==消息与酒一起下肚== | [旅馆酒馆的常客](#npc-tavern) |
 :::
 
+::: center
 ## **⭐ <a id="npc-core"></a> 人物-核心**
+:::
 
 ::::: card
 
@@ -630,7 +646,9 @@ search: false
 
 :::::
 
+::: center
 ## **🌿 <a id="npc-xianbi"></a> 人物-闲笔**
+:::
 
 ::::: card
 
@@ -686,7 +704,9 @@ search: false
 
 :::::
 
+::: center
 ## **🎭 <a id="npc-beixuan"></a> 人物-备选**
+:::
 
 - **向导体制**：登记在乔巴尔名下，分成见他的卡；费用每天`5 gp`一般预付`30`天，或放弃薪资换均分宝藏权利——细则见备选区各向导卡与「城里的事」
 
@@ -895,7 +915,9 @@ search: false
 
 :::::
 
+::: center
 ## **🎲 <a id="npc-jixing"></a> 人物-即兴**
+:::
 
 ::::: card
 
@@ -986,7 +1008,9 @@ search: false
 ::::
 
 :::::
+::: center
 ## **🗺️ <a id="c1-scenes"></a> 场景**
+:::
 
 ::::: card
 :::: card
@@ -1239,7 +1263,9 @@ search: false
 ::::
 :::::
 
+::: center
 ## **🛏️ <a id="c1-villa"></a> 亲王别墅·屋内**
+:::
 
 :::: card
 
@@ -1277,7 +1303,9 @@ search: false
 
 ::::
 
+::: center
 ## **🧵 <a id="c1-jobs"></a> 支线任务**
+:::
 
 :::: card
 
@@ -1314,7 +1342,9 @@ search: false
 
 ::::
 
+::: center
 ## **🌑 <a id="c1-dark"></a> 暗流**
+:::
 
 ::::: card
 
@@ -1437,7 +1467,9 @@ search: false
 
 :::::
 
+::: center
 ## **📖 <a id="c1-quotes"></a> 引用**
+:::
 
 :::: card
 
