@@ -105,7 +105,7 @@ ShinKan42
         - 他不是在玩弄邪教徒取乐
         - **行为底色**：是一个善良生物用自己会的唯一办法（演技+恶作剧式命令）阻止恶事发生
     - **巢穴魔法效应（成龙版）**：随心==改变天气==；柔风托起龙与盟友缓缓飘降；云雾可凝成==如石般坚固==的构造
-      - **巢穴效应**：雏龙的巢穴效应只是成龙的萌芽（见「⚙️ 全场机制」）
+      - **巢穴效应**：雏龙的巢穴效应只是成龙的萌芽——本卷表现为弥漫全殿的寒雾氛围，决战时另有一次霜息吐息
       - **寒雾**：即其天气操纵的幼儿版
     - **桌上会被问**：
       - **找家**：「他多大？」——雏龙期，且神殿数周的落脚期远不足以筑成真巢，他还在找家
@@ -237,7 +237,7 @@ ShinKan42
 | # | 魔改 | 内容 |
 |---|---|---|
 | 1 | 神谕口子 | 玩家可在 T13 内以雕像名义对希娅传令（手段=玩家自己解决：密门后发声/模拟嗓音/说服扬迪斯传话皆可）。生效判据=命令内容不离「奥喀斯的作风与这座神殿的利害」——她盲信的是神，不是某个声音的音色。可指挥方向：撤出神殿/释放囚犯/自相残杀级内斗/献祭自己——越接近奥喀斯逻辑越可信。命令与雕像已下过的指令冲突时她起疑，退回敌对 |
-| 2 | 巢穴魔法效应（选集模组层） | 见「⚙️ 全场机制」——寒雾氛围+T13 霜息余威 |
+| 2 | 巢穴魔法效应（选集模组层） | 全殿寒雾氛围被动；决战时奈扎鲁姆每回合一次霜息吐息（详见全场机制节） |
 | 3 | 奥喀斯唤醒+消息时滞 | 本桌设定（见背景区），世界级误解层 |
 | 4 | 迷锁感受层 | 行为反常物证+雾的异象，零说出口（见背景区+场景层 T13） |
 | 5 | 选集接驳 | 灰水镇入选集地理网（与汉堡屯平原村庄/星琉璃航站沙漠方向三点连线）；巴哈马特选派线继续；结尾飞走的奈扎鲁姆=后续各章可回归 NPC |
@@ -1171,6 +1171,38 @@ ShinKan42
       - **进场画面**：三具丧尸在龙裔的吆喝里拽倒食尸鬼石像，碎块装进两辆独轮车——不远处推车的扫帚、绳索都是从你们镇上偷来的
         - **碎瓷砖**：地上碎裂的彩瓷砖混在瓦砾里，隐约看得出画的是什么东西
 
+::: details 📖 原文备考·Temple Entry
+
+**——T1: Temple Entry——**
+
+As the characters descend the staircase leading to this room, read or paraphrase the following:
+
+> > The stairs end at a wide chamber. Two gaunt creatures with sharp claws and long tongues crouch near the bottom of the stairs, licking their lips unsettlingly as you approach.In the northeast corner of the room, three disheveled figures wearing crimson robes tug on a pair of ropes fastened around a statue of a ghoul. Groaning in inhuman voices, they try to topple it as a robed dragonborn yells instructions at them.The floor is covered with broken tiles, and more shards fill two wheelbarrows in the middle of the room. Two brooms lean against the far wall near a passageway that heads west.
+
+Two **Ghoul** keep watch on the stairs while Akira Norixius (Medium, Chaotic Evil **Cultist Fanatic**)—a fanatical dragonborn devotee of Orcus—supervises the inept labor of three **Zombie**. Xia ordered the group to topple the statues in this room and sweep up the rubble for removal. Akira and the ghouls are Hostile and fight anyone not wearing the crimson robes of **Xia's Cult**. The zombies attack at Akira's command.
+
+
+**——Cultist——**
+
+Akira Norixius believes unquestioningly in the cause of Orcus' cult; she looks forward to her own death because she expects to be transformed into an Undead when it occurs. She therefore fights to the death and is entirely unwilling to share information with the characters.
+
+
+**——Broken Tiles——**
+
+Until recently, the floor had a painted tile mosaic set into it. The mosaic depicted Orcus slaying a legion of human knights and reanimating their corpses. Xia ordered her servants to destroy the mosaic, sweep up the tiles, and place them in the wheelbarrows. Any character who takes the Study|XPHB action to inspect the broken tiles and succeeds on a DC13 Intelligence (Investigation|XPHB) check determines the mosaic once depicted Orcus, the Demon Prince of Undeath.
+
+
+**——Secret Door——**
+
+Set into the wall behind the southwest pile of rubble is a secret door (see "**Temple Features**"). Behind it lies a sloped passageway (area **T3**).
+
+
+**——Stolen Goods to Recover——**
+
+The brooms, *Rope*, and wheelbarrows are all stolen goods (see "Stolen Goods").
+
+:::
+
 :::::
 
 
@@ -1186,6 +1218,19 @@ ShinKan42
 
     - **原文区块**：
       - **旧战场遗骸**：尽端两扇铁双开门（西/北），地面三具覆尘猩红袍遗骸
+
+::: details 📖 原文备考·T-Shaped Passage
+
+**——T2: T-Shaped Passage——**
+
+> > This branching passage ends in iron double doors to the west and to the north. On the floor near the intersection lie three sets of skeletal remains in dust-shrouded crimson robes.
+
+
+**——Skeletal Remains——**
+
+See "**Temple Features**" for more on the skeletal remains here.
+
+:::
 
 :::::
 
@@ -1203,6 +1248,19 @@ ShinKan42
     - **原文区块**：
       - **地形**：宽 5 尺布尘隧道，西端低 10 尺；隧道内可见通往 T1/T4 的门
       - **==寒雾==此段明显**：奈扎鲁姆往返 T13 与探索区的主道——雾梯度联动的第一处
+
+::: details 📖 原文备考·Sloped Passageway
+
+**——T3: Sloped Passageway——**
+
+This dusty, 5-foot-wide tunnel slopes steeply down toward the west; the west end of the tunnel is 10 feet lower than the east end.
+
+
+**——Doors——**
+
+From within the tunnel, the doors to areas **T1** and **T4** are plainly visible.
+
+:::
 
 :::::
 
@@ -1235,6 +1293,28 @@ ShinKan42
         - **守门设计**：雕像的爪子悬在密门前，像守财奴的手搭在钱箱上
         - **比骰可靠**：插进基座缝的那把匕首，比豁免骰可靠
 
+::: details 📖 原文备考·Hall of Swiveling Statues
+
+**——T4: Hall of Swiveling Statues——**
+
+> > Lining the west and east walls of this room, six statues depict ghoulish humanoids, their claws outstretched, their mouths agape, and their stony tongues extended. Lying on the floor are the skeletal remains of five humans in dusty crimson robes.Carved into the south wall is the skull of a giant goat, which measures ten feet across.
+
+The giant goat skull carved on the wall is a symbol of Orcus.
+
+
+**——Skeletal Remains——**
+
+This room holds five piles of skeletal remains (see "**Temple Features**"). The first time someone opens one of the secret doors to the vaults (area **T14**) in this room, one set of remains animates, ignites in unholy fire, and becomes a **Flaming Skeleton**, while the other four piles animate and each form a **Skeleton**. The skeletons are Hostile toward all creatures except Undead.
+
+
+**——Secret Doors and Statues——**
+
+This room contains three secret doors (see "**Temple Features**"), each one located behind a ghoul statue. The area between a statue and a secret door is wide enough for only a Tiny creature to fit comfortably. For a Small or Medium creature, those areas are Difficult Terrain.
+
+Whenever a non-Undead creature tries to pass through a secret door, the statue in front of that door swivels on its base and swipes a claw at the creature. The creature must succeed on a DC12 Dexterity saving throw or take 7 (2d6) Slashing damage. As a Utilize|XPHB action, a character can disable a swiveling statue by jamming a *Dagger*, an Iron Spike, or a similar object into the slight gap between the statue's base and the floor.
+
+:::
+
 :::::
 
 
@@ -1262,6 +1342,28 @@ ShinKan42
     - **联动区块**：
       - **拉杆：陷阱可被玩家主动管理**：发现拉杆的队伍可把 T5 变成对付追兵的武器——陷阱是可以翻面用的
       - **陷坑尖刺+黑大理石阶梯：旧祭仪的审美**：与 T11 献祭线呼应
+
+::: details 📖 原文备考·Sinister Stairs
+
+**——T5: Sinister Stairs——**
+
+> > Four stone pillars buttress the vaulted ceiling of this otherwise empty hall. Two wide tunnels lead north. Iron double doors stand closed on the north, west, and east walls. Inscribed in the northern double door is the vile visage of Orcus, the horned demon lord. He fixes his evil gaze on a staircase of polished black marble at the south end of the room, which descends ten feet to another double door. Stone railings flank the staircase.
+
+
+**——Hidden Lever——**
+
+A character who takes the Search|XPHB action to examine the southwest pillar automatically finds a loose panel, behind which is an iron lever (marked with an L on Map: Temple of Orcus). As a Utilize|XPHB action, a creature can pull this lever to reset the trap described below.
+
+
+**——Trap——**
+
+The stairs collapse to form a slide whenever a creature that isn't an Undead steps on them. At the same time, the stone lid concealing a hidden pit at the bottom of the stairs snaps open.
+
+The first time a non-Undead creature steps on the stairs, the creature must succeed on a DC16 Dexterity saving throw or fall down the slide into the pit, which is 20 feet deep and lined with rusty spikes. The creature takes 7 (2d6) Bludgeoning damage from the fall plus 9 (2d8) Piercing damage from the spikes.
+
+Pulling the hidden lever closes the pit's lid and resets the stairs. The lid opens only when the trap is triggered and otherwise is safe to move on. As a Utilize|XPHB action, a character can try to force the lid open (from inside or outside the pit), doing so with a successful DC20 Strength (Athletics|XPHB) check.
+
+:::
 
 :::::
 
@@ -1305,6 +1407,44 @@ ShinKan42
         - **求错对象**：幽魂在旁边恳求他们住手，恳求的对象却是你们——她把你们当成唯一能动手的人
         - **饭菜味**：书架深处那扇==没关严的密门==后，飘着一股饭菜味
 
+::: details 📖 原文备考·Occult Library
+
+**——T6: Occult Library——**
+
+Characters who listen at either entrance to this room notice heavy footfalls within and the sound of furniture being smashed.
+
+> > A putrid stench greets you here—its source is two zombified ogres that are smashing all the furniture in this room, apparently obeying the commands of a dwarf wearing a red robe. Desks and chairs made of black wood and adorned with skulls lie splintered amid the skeletal remains of four long-dead humans in dusty crimson robes. Tall stone bookshelves line deep alcoves to the north, south, and west. Floating in the alcove opposite you, a spectral human woman beseeches the ogres to halt their destructive rampage.
+
+Following the statue of Orcus's instructions, Xia commanded the cultist—a dwarf named Eleith Brittlebones (Medium, Chaotic Evil **Cultist Fanatic**)—to destroy everything in this library. Eleith commands two **Ogre Zombie** to do the heavy labor. The cultist and zombies are Hostile and fight anyone not wearing the crimson robes of Xia's cult.
+
+**Cultist** Eleith Brittlebones has been duped into following the cult of Orcus. Xia convinced the dwarf that the world is nearing its end, the gods are dead, and the demonic forces of death are close to their ultimate triumph, persuading him to join the "winning side" in this cosmic conflict. As soon as Eleith notices a character use obvious divine magic—healing an ally or turning undead, for example—the dwarf surrenders. In this case, Eleith becomes willing to share information about the cult in exchange for information about living deities and the state of the cosmos. See "**Xia's Cult**" above for information Eleith can share.
+
+
+**——Alcoves——**
+
+Each alcove contains 4d10 + 20 barely legible books and scrolls, all of them brittle and flammable. A character who takes the Study|XPHB action and succeeds on a DC15 Intelligence (Religion|XPHB) check discerns that these materials describe various rites practiced by Orcus worshipers.
+
+
+**——Ghostly Librarian——**
+
+The spectral figure in the alcove is the **Ghost** of Melindra Vox, the librarian of the earlier Orcus cult. She is Chaotic Evil and initially Indifferent toward visitors. She is furious that the zombies are ruining her collection of books and scrolls but can't stop them herself, as she has vowed never to harm cult allies. When she notices the characters, Melindra assumes they are intruders who aren't subject to such vows, and she beseeches them to destroy the **Ogre Zombie**. If the characters oblige, Melindra becomes Friendly toward them. If they refuse to help, she remains Indifferent.
+
+If the characters converse with Melindra while she is Friendly, she reveals that adventurers slew her many years ago during their raid on the temple, after she refused to abandon her library. If the characters ask about treasure or secret knowledge, Melindra advises them to search for secret doors behind every statue, claiming there are "secret vaults throughout."
+
+Melindra doesn't know how to find peace in the afterlife. A character who takes the Study|XPHB action and makes a successful DC15 Intelligence (Religion|XPHB) check discerns the way to lay her spirit to rest: either by removing all the books and scrolls from the library or by destroying them. Melindra becomes Hostile toward and fights anyone who tries to remove or destroy her collection.
+
+
+**——Secret Door——**
+
+A bookshelf in the north alcove conceals a secret door (see "**Temple Features**"), behind which lies the dining hall (area **T7**).
+
+
+**——Skeletal Remains——**
+
+See "Temple Features" for more on the skeletal remains here.
+
+:::
+
 :::::
 
 
@@ -1333,6 +1473,35 @@ ShinKan42
       - **扬迪斯是全殿唯一「对所有来客中立」的邪教徒**：玩家的第一谈资入口，也是神谕口子的潜在传话人
       - **半生不熟的肉：他在「假装亡灵」的行为证据**（人物卡人味主锚）
 
+::: details 📖 原文备考·Dining Hall
+
+**——T7: Dining Hall——**
+
+> > This chamber contains a rectangular table with clawed feet surrounded by twelve high-backed chairs. Hanging off the backs of the chairs are hideous masks made from goat skulls. A sallow-faced young human in a crimson robe sits at one end of the table, eating some meat that looks undercooked and smells unappetizing. A broom leans against the table next to him.
+
+Xia and her cultists wear the goat-skull masks when they venture out in public. The masks are terrifying but worthless.
+
+
+**——Cultist——**
+
+The young man sitting at the table (facing the secret door in the south wall) is Yondis Morgrin (Medium, Chaotic Neutral **Cultist Fanatic**), a member of **Xia's Cult** who is questioning his participation in it. He was initially attracted to the promise of being transformed into an Undead creature even more powerful than Xia, and he likes to pretend he is Undead already. He wears pasty makeup, shambles like a zombie, and eats undercooked and spoiling meat, but the disguise fools no one.
+
+Yondis is Indifferent toward the characters, whether or not they wear the crimson robes of Xia's cult. If the characters combat him, Yondis fights until he is Bloodied|XPHB, at which point he surrenders.
+
+The whisperings of Nezzarum through the Orcus statue have thrown Yondis into confusion. He can't understand why Orcus would be ordering Xia to destroy the iconography of Orcus around the temple, and when Yondis is alone in the presence of the statue, it whispers to him of the beauty of life and the pleasures of fresh air, well-cooked meals, and heroic deeds. His doubts make him susceptible to being drawn away from the cult. A character who takes the Influence|XPHB action can make a DC10 Charisma (Deception|XPHB or Intimidation|XPHB) check to try to coax information from him (see "**Xia's Cult**" above for information Yondis can share about the cult).
+
+
+**——Secret Door——**
+
+A secret door in the south wall (see "**Temple Features**") pulls open to reveal the library beyond (area **T6**).
+
+
+**——Stolen Goods to Recover——**
+
+Yondis's broom is a stolen item (see "Stolen Goods").
+
+:::
+
 :::::
 
 
@@ -1349,6 +1518,14 @@ ShinKan42
     - **原文区块**：
       - **房间名册**：六间卧室各两铺木板床（草垫+毛毯），墙挂钩挂衣
       - **仅三间近期有人用**——殿内活人只三个：阿基拉/埃莱斯/扬迪斯（房间即名册）
+
+::: details 📖 原文备考·Living Quarters
+
+**——T8: Living Quarters——**
+
+Six bedchambers open off the dining hall (area **T7**). Each contains two plain wooden cots with straw-stuffed mattresses and woolen blankets. Next to each bed are wall hooks for hanging apparel. Only three of the chambers show any sign of recent use.
+
+:::
 
 :::::
 
@@ -1367,6 +1544,19 @@ ShinKan42
       - L 形走廊：T5→餐厅（T7）
       - **密门虚掩**：北墙密门不需检定即见——被一根==旧指骨==卡住防合拢（扬迪斯干的，方便自己再找到）
         - **读人证据**：这条密道是谁在用：玩家读人的一枚小证据
+
+::: details 📖 原文备考·West Tunnel
+
+**——T9: West Tunnel——**
+
+This *L*-shaped hall leads from area **T5** to a double door into the dining hall (area **T7**).
+
+
+**——Secret Door——**
+
+A secret door in the north wall stands ajar and requires no ability check to spot. Yondis (see area **T7**) found it recently and jammed an old finger bone into the doorway to prevent the door from closing all the way and make it easy for him to find.
+
+:::
 
 :::::
 
@@ -1393,6 +1583,31 @@ ShinKan42
     - **互动区块**：
       - **浓缩标题**：紧握钥匙环的骷髅靠着门框坐了二十年——当年突袭的冒险者放过了他，或没注意到他
         - **旧主权遗产**：钥匙环和护身符是神殿旧主权的全部遗产
+
+::: details 📖 原文备考·East Tunnel
+
+**——T10: East Tunnel——**
+
+> > This tunnel is littered with the dusty bones of four dead humans wearing tattered crimson robes. One of the skeletons slumps in a corner next to a double door. It wears an amulet shaped like a goat's rotting head and clutches a ring of keys.
+
+This L-shaped hall leads from area **T5** to a double door into the ritual chamber (area **T11**).
+
+
+**——Secret Door——**
+
+Set into the north wall, a secret door (see "**Temple Features**") leads to the main temple (area **T13**).
+
+
+**——Skeletal Remains——**
+
+See "Temple Features" for more on the skeletal remains here.
+
+
+**——Treasure——**
+
+The inanimate skeleton next to the double door is all that remains of the temple's high priest. It clutches a ring holding three iron keys, which unlock the cell doors in area **T11**, and wears an amulet shaped like a goat's rotting head (the symbol of Orcus) on a chain around its neck. The silver amulet is worth 25 GP and has a hidden compartment containing a folded-up *Spell Scroll* of *Animate Dead*. A character who takes the Search|XPHB action to examine the amulet finds the hidden compartment with a successful DC15 Wisdom (Perception|XPHB) check.
+
+:::
 
 :::::
 
@@ -1424,6 +1639,35 @@ ShinKan42
       - **C 牢房叛徒：教团内斗的历史镜像**：当年有人反过大祭司，今天有扬迪斯在动摇
       - **三把钥匙：放囚犯与开 B 暗格的枢纽**；+1 鞭+探秘魔杖：本室两件实利
 
+::: details 📖 原文备考·Ritual Chamber
+
+**——T11. Ritual Chamber——**
+
+> > Rusty shackles dangle from this chamber's walls. In the middle of the room sit two stone slabs. Draped over the northern slab is a human skeleton wearing a dusty crimson robe and an eye patch. It clutches a whip in one bony hand.Along the east wall are three rusty gates with mold-covered cells beyond them.
+
+Cultists used to perform ghastly rites here. Human prisoners were confined to the cells (see below) until they were sacrificed. After death, they would be brought back to this room, where the high priest would animate them as zombies.
+
+
+**——Cells——**
+
+All three cell doors are locked; a skeleton in the east tunnel (area **T10**) holds the keys. The DC to pick one of these locks is 15. The cells' contents are as follows:
+
+- **Cell A** holds the skeletal remains of two humans.
+- **Cell B** appears empty but contains a hidden compartment behind a loose stone in the east wall. A character who takes the Search|XPHB action and succeeds on a DC13 Wisdom (Perception|XPHB) check discovers the loose stone and the treasure hidden behind it (see "Treasure" below).
+- **Cell C** contains the bones of a treacherous tiefling cultist who tried and failed to overthrow the temple's high priest. Disturbing this skeleton causes the traitor's spirit to manifest as a **Wraith** and fight the characters.
+
+
+**——Skeletal Remains——**
+
+The skeletal remains in the cells are clad in tattered rags and have no equipment or treasure. The skeleton draped over the northern slab is that of the high priest's torturer (see "Treasure" below and "**Temple Features**" for details).
+
+
+**——Treasure——**
+
+The dead torturer clutches a *+1 Whip*. Behind the loose stone in cell B lies a *Wand of Secrets*.
+
+:::
+
 :::::
 
 
@@ -1449,7 +1693,7 @@ ShinKan42
   ---
 
     - **魔改区块（巢穴效应+神谕口子）**：
-      - ==霜息余威==：若奈扎鲁姆参战，他在此厅同样每回合结束时发动结霜（机制见「⚙️ 全场机制」）——T12 与 T13 连通处寒雾随战况流动
+      - ==霜息余威==：若奈扎鲁姆参战，他在此厅同样每回合结束时以自身为中心 15 尺结霜（敌人敏捷豁免 DC13，失败受 1d6 冰霜且地面变困难地形）——T12 与 T13 连通处寒雾随战况流动
       - ==神谕口子==：玩家若在此前已识破骗局并可抵达雕像——以雕像名义喝止她（「这是新的试炼，退下」类）：她的盲信照单全收
         - **生效判据**：命令不离奥喀斯的作风与神殿利害即生效，方向详宏观魔改表
 
@@ -1459,6 +1703,25 @@ ShinKan42
       - **进场画面**：邪教首领的怒吼响彻门厅——白云要有云的形状，银龙要盘出龙的样子
         - **神的命令**：这是「神」的命令，工头是她，工人是四具丧尸
         - **误认工人**：你们进来时她甚至可能先以为你们是新来的工人
+
+::: details 📖 原文备考·Ghastly Work
+
+**——T12: Ghastly Work——**
+
+> > The stench of death fills this pillared hall. Two ten-foot ladders lean against the west wall. A rotting figure in a crimson robe clings to each ladder, clumsily painting the wall with a brush, while another animated corpse stands at the bottom of each ladder, holding it steady. It's hard to tell what the zombies are painting.A scowling woman with pallid skin stands in the middle of the hall, presiding over the work. She wears a crimson robe and a horned headdress. Surrounding her are four gaunt creatures with sharp claws, long tongues, and hungry eyes.The double door at the northern end of the hall stands open, revealing a vast chamber beyond. Swathed in shadows at the back of this large chamber towers a massive statue of a goatish fiend.
+
+The woman is Xia, a **Ghast Gravecaller**. Accompanying her are four **Ghoul**. Xia has tasked four **Zombie** in crimson Robes to paint fluffy white clouds and silver dragons on the wall, in accordance with instructions given to her by the statue of Orcus in the next room (area **T13**). One zombie steadies each *Ladder* while another zombie perches precariously near the top, paintbrush and paint pot in hand. Xia bitterly admonishes the zombies for their shabby work.
+
+At the first sign of trouble, Xia commands her ghouls to fight intruders while she withdraws to area T13 and asks the statue of Orcus for guidance. A booming voice from the statue replies, "This is your final test, Xia. Do not fail me!" Xia then rejoins her ghouls and fights to the bitter end. Roll Initiative for Nezzarum. On his turn, he emerges from the secret door in the back of the statue in area T13 and comes to join the fray, trusting that the adventurers are the heroes he's been waiting for.
+
+Meanwhile, the zombies continue painting and holding Ladders until a character engages them in combat. If either a zombie holding a Ladder or a zombie on a Ladder takes damage, the zombie on the Ladder falls. That zombie falls 10 feet and spills its pot of paint.
+
+
+**——Stolen Goods to Recover——**
+
+The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen Goods").
+
+:::
 
 :::::
 
@@ -1513,7 +1776,7 @@ ShinKan42
     - **魔改区块（迷锁异象+巢穴显形）**：
       - **行为反常物证**：雕像内壁挠出细纹／数周不睡的迹象（基座下的巢位没有睡过的痕迹）／反复擦拭的龙棋
         - **挠痕可见**：玩家获准进入雕像头部小室时这些全可见——「这条龙在躲什么」的推理源
-      - **==霜息余威==主战场**：他参战时本厅寒雾为他的每一次吐息蓄力（机制见「⚙️ 全场机制」）
+      - **==霜息余威==主战场**：他参战时本厅寒雾为他的每一次吐息蓄力——每回合结束一次 15 尺结霜，DC13 豁免，失败 1d6 冰霜加困难地形
       - **第三识破线（唤醒盲区联动）**：玩家可推理「真神的话音哪去了」——奥喀斯远在深渊从未应声，所以谁都能借雕像发声
         - **口子物理中心**：本厅是神谕口子的物理中心，玩家的反操纵从这里发出去
 
@@ -1522,6 +1785,66 @@ ShinKan42
     - **互动区块**：
       - **进场画面**：雕像的羊角头颅俯视全厅，嘴眼是三个空洞的窗
         - **棋声与寒气**：站得够近、听得够静，会听见洞里传来==极轻的、棋子敲上棋盘的声音==——还有一阵不像熏香的、干净的寒气
+
+::: details 📖 原文备考·Great Statue of Orcus
+
+**——T13: Great Statue of Orcus——**
+
+> > A great statue of Orcus scrapes the thirty-foot-high ceiling of this chamber. The rich smell of incense rises from a large stone brazier at the statue's base, overpowering the faint lingering odor of death. The demon lord's goat-skull visage glowers at you as statues of cultists gaze outward from the shadowed corners of the hall.
+
+The burning incense in the main temple mostly masks the odor of decay that permeates the hall.
+
+Nezzarum, a **Silver Dragon Wyrmling** who knows Common, lurks inside the statue of Orcus. The dragon can gaze out into the hall through the statue's hollow eyes, nostrils, and mouth. When not manipulating Xia into doing his bidding, Nezzarum passes the time by playing games of dragonchess against himself. The dragonchess set in his possession is stolen (see "Stolen Goods" below).
+
+
+**——Roleplaying Nezzarum——**
+
+Nezzarum has been waiting here in the hope that adventurers would come and defeat Xia and her cult, knowing that he isn't strong enough to defeat them on his own. If combat breaks out in **T12** and Nezzarum is aware of it (either because Xia comes and implores the statue of Orcus for aid or because he notices the battle unfolding from his hiding place in the statue), he emerges from the statue and joins the fray. If the characters defeat Xia and Nezzarum survives the encounter, the dragon is Friendly toward them. If the characters approach Nezzarum without first fighting Xia, the dragon is initially Indifferent.
+
+
+**——Indifferent Dragon——**
+
+If Nezzarum hasn't seen the characters prove themselves in battle, he errs on the side of caution and decides to test them. He issues a random command, determined by rolling on the Nezzarum's Commands table, and judges them based on their consequent actions. If they fulfill his wishes, he seems pleased; if they refuse a command, he remains Indifferent toward them.
+
+Each time the characters leave the hall and return, Nezzarum issues a new command until he has issued three of them. He never repeats a command, so if you roll the same result twice, roll again or choose a different option from the table. If the characters fulfill all three of his commands, Nezzarum's attitude toward them shifts to Friendly.
+
+*Nezzarum's Commands*
+
+```
+| 1d6 | Command |
+|---|---|
+| 1 | "Bring me a banquet of cooked meat, steamed vegetables, and fresh fruit!" (Characters can buy the food and have it prepared in town for 3 GP.) |
+| 2 | "Bring me a wheel of cheese!" (Characters can buy the cheese in town for 5 SP.) |
+| 3 | "Bring me treasure worthy of a dragon!" (Nezzarum expects at least 100 GP worth of treasure or something of historical value.) |
+| 4 | "Bring four nice rugs to cover my cold stone floor!" (Characters can buy the rugs in town for 5 GP each.) |
+| 5 | "Bring me two more pots of silver paint!" (Characters can buy the paint in town for 2 SP per pot.) |
+| 6 | "Bring me the head of something evil!" (If the characters ask for suggestions, he replies, "Zombies are evil, aren't they? Bring me the head of a zombie!") |
+```
+
+Characters struck by the bizarre nature of "Orcus's" commands can take the Search|XPHB action and make a DC15 Wisdom (Insight|XPHB) check. On a success, the character realizes a deception is afoot.
+
+
+**——Friendly Dragon——**
+
+If he becomes Friendly, Nezzarum tells the story of his coming to the temple and the cult's subsequent arrival (see "**Adventure Background**"). If the characters haven't defeated Xia yet, that's the dragon's highest priority, and he promises to help them fight the ghast and any remaining cultists.
+
+Nezzarum hasn't searched the temple thoroughly enough to locate any other secret doors (besides the one in the base of the statue). He has no objection to the characters searching the temple for treasure if they agree to give him an equal share.
+
+
+**——Secret Doors——**
+
+This hall contains seven secret doors (see "**Temple Features**"):
+
+- **Statue Access**
+- **South Wall Exits**
+- **To the Vaults**
+
+
+**——Stolen Goods to Recover——**
+
+The dragonchess Gaming Set and incense are stolen goods (see "Stolen Goods"). If Nezzarum is Friendly, he allows the characters to return the goods the cultists stole to the rightful owners.
+
+:::
 
 :::::
 
@@ -1589,6 +1912,79 @@ ShinKan42
       - **假权杖：全殿骗局主题的收官注脚**：教团的至圣圣物==是件赝品==，配上一条假神谕——贪婪开箱的玩家拿到的第一件「神物」就是假的
       - **贪婪定价**：每库推雕像：一次守护者抽签，抽签即风险；六库全开：六次
       - **「雕像后藏密门」：梅琳德拉情报的正确用法**（T6 友好后）——她的「秘密宝库遍布各处」为真
+
+::: details 📖 原文备考·Secret Vaults
+
+**——T14: Secret Vaults——**
+
+Four secret vaults are connected to the main temple (area **T13**), and two more are connected to the hall of statues (area **T4**). The vaults are basically identical, but each contains a different statue, a different treasure, and a different guardian for that treasure.
+
+> > A tunnel leads to a five-sided room. A cobweb-covered statue stands in one corner.
+
+
+**——Vault Contents——**
+
+Use the Statues table to determine each statue's form, the Creatures table to determine the guardian of each vault, and the Treasure table to determine the items stored within (see "Accessing the Vaults' Treasure" below).
+
+
+**——Accessing the Vaults' Treasure——**
+
+Under each statue lies a cylindrical compartment 3 feet across and 3 feet deep. To get at the treasure within, characters must topple or destroy the statue. Each statue is a Medium object with AC 17, HP 18, and Immunity to Poison and Psychic damage. As a Utilize|XPHB action, a character can try to topple a statue, doing so with a successful DC17 Strength (Athletics|XPHB) check.
+
+*Statues*
+
+```
+| 1d6 | Statue's Form |
+|---|---|
+| 1 | Cloaked **vampire** |
+| 2 | **Death knight** |
+| 3 | **Lich** |
+| 4 | **Mummy lord** |
+| 5 | Skeletal goat |
+| 6 | **Wraith** |
+```
+
+*Creatures*
+
+```
+| 1d6 | Guardian(s) |
+|---|---|
+| 1 | A Hostile **Swarm of Crawling Claws** nests in the statue's nooks and crannies, emerging to attack when the statue is disturbed. |
+| 2 | Disturbing the statue causes its head to split open, releasing a Hostile **Flameskull**. |
+| 3 | The statue acts as a sarcophagus. Disturbing the statue causes it to break apart, freeing the Hostile **Mummy** inside. |
+| 4 | Disturbing the statue causes four **Specter** to emerge from cavities behind the walls. They pass through the walls and engage the characters in combat. |
+| 5 | Disturbing the statue causes it to disgorge a Hostile **Black Pudding**. |
+| 6 | There is no guardian. |
+```
+
+*Treasure*
+
+```
+| 1d6 | Compartment Contents |
+|---|---|
+| 1 | Basket containing what appears to be the *Wand of Orcus* but is actually a powerless replica (worth 50 GP) that radiates a false magical aura when subjected to a *Detect Magic* spell |
+| 2 | Malachite skull (worth 250 GP) resting on a bed of 2d6 × 100 GP |
+| 3 | 3-foot-tall statue of Orcus made of crimson marble (worth 750 GP and weighing 75 pounds) |
+| 4 | Basket containing a randomly determined Common magic item (see the Dungeon Master's Guide) |
+| 5 | Casket containing a mummified human corpse in the fetal position wearing a gold necklace (worth 750 GP) |
+| 6 | Basket containing a randomly determined Uncommon magic item (see the Dungeon Master's Guide) |
+```
+
+
+**——Conclusion——**
+
+After ridding the temple of **Xia's Cult**, the characters can return to Greysmere to collect their reward. Even if they didn't remove every threat, Oriann trusts the characters accomplished their mission and pays them accordingly. The innkeeper gladly takes custody of any stolen goods the characters retrieved from the temple and ensures that they are returned to their proper owners.
+
+Should the characters reveal that a silver dragon was behind the cult's bizarre activities, Oriann recalls observing a wyrmling soaring among the clouds from time to time, but they know nothing more about it.
+
+
+**——History of Silver Dragons——**
+
+
+
+> > For all the many changes in the look of dragons over the years, the silver dragon's distinctive crest is visible in every incarnation.
+
+:::
 
 :::::
 
