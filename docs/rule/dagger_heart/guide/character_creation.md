@@ -176,7 +176,9 @@ createTime: 2026/07/29 21:43:38
 
 <a id="community"></a>
 
+::: center
 ### **社群 🏘️**
+:::
 
 ::: card
 
@@ -192,7 +194,9 @@ createTime: 2026/07/29 21:43:38
 
 <a id="experience"></a>
 
+::: center
 ### **经历 📖**
+:::
 
 ::: card
 
@@ -213,7 +217,9 @@ createTime: 2026/07/29 21:43:38
 
 <a id="class"></a>
 
+::: center
 ### **职业 🗡️**
+:::
 
 ::: card
 
@@ -239,7 +245,9 @@ createTime: 2026/07/29 21:43:38
 
 <a id="attributes"></a>
 
+::: center
 ### **属性 📈**
+:::
 
 ==`属性`==根据以下数值任意排序分配：
 
@@ -264,7 +272,9 @@ createTime: 2026/07/29 21:43:38
 
 <a id="domain"></a>
 
+::: center
 ### **领域 📜**
+:::
 
 ::: card
 
@@ -306,7 +316,9 @@ createTime: 2026/07/29 21:43:38
 
 <a id="vitals"></a>
 
+::: center
 ### **数据 🧮**
+:::
 
 起始数值均随职业卡而来：
 
@@ -332,7 +344,9 @@ createTime: 2026/07/29 21:43:38
 
 <a id="gear"></a>
 
+::: center
 ### **装备 ⚔️**
+:::
 
 ::: card
 

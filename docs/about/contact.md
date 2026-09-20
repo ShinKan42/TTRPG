@@ -46,7 +46,9 @@ createTime: 2024/11/03 05:30:36
 
 <LinkCard title="/// PLACEHOLDER ///" href="https://qm.qq.com/q/foVPamHWfK">
 
+::: center
 ### **QQ**
+:::
 
 - QQ 号：`763636202`
 - QQ ID：`ShinKan42`
@@ -61,7 +63,9 @@ QQ 是我日常、国内社交使用的软件
 
 <Card title="/// PLACEHOLDER ///">
 
+::: center
 ### **微信**
+:::
 
 微信号：`ShinKan42`
 
@@ -75,7 +79,9 @@ QQ 是我日常、国内社交使用的软件
 
 <LinkCard title="/// PLACEHOLDER ///" href="https://discord.gg/mxsEscteEX">
 
+::: center
 ### **Discord**
+:::
 
 - Discord 号：`shinkan42`
 

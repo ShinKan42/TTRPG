@@ -11,7 +11,9 @@ search: false
 > 这一卷的舞台在楚尔特：南扎路港的城、丛林、失落的神与墓。  
 > ==全战役两卷怎么走==，见总览。
 
+::: center
 ## **📅 <a id="board-cal"></a> 日历**
+:::
 
 ::: card
 
@@ -41,7 +43,9 @@ search: false
 
 ::::
 
+::: center
 ## **🏛️ <a id="board-pol"></a> 政治**
+:::
 
 :::: card
 
@@ -127,7 +131,9 @@ search: false
 
 :::
 
+::: center
 ## **🏘️ <a id="board-soc"></a> 社会**
+:::
 
 :::: card
 
@@ -189,7 +195,9 @@ search: false
 
 :::
 
+::: center
 ## **💰 <a id="board-eco"></a> 经济**
+:::
 
 > 桌上经济另由 DM 自建系统运作（装备与现金双轨）；本板块记书内世界的经济结构与力量。
 
@@ -229,7 +237,9 @@ search: false
 
 :::
 
+::: center
 ## **🎭 <a id="board-cul"></a> 文化**
+:::
 
 ::: card
 
@@ -292,7 +302,9 @@ search: false
 
 ::::
 
+::: center
 ## **⛪ <a id="board-fai"></a> 信仰**
+:::
 
 :::: card
 
@@ -344,7 +356,9 @@ search: false
 
 :::
 
+::: center
 ## **📡 <a id="board-inf"></a> 信息**
+:::
 
 > 消息靠谁走、堵在哪、谁知道什么——按这个顺序读。
 
@@ -435,7 +449,9 @@ search: false
 
 :::
 
+::: center
 ## **🧭 <a id="board-mov"></a> 动线**
+:::
 
 ::: card
 
