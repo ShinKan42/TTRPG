@@ -114,7 +114,9 @@ search: false
 
 :::
 
+::: center
 每个玩家角色要有——==三个弱点选一个==（不必全占，占一个就够 GNS 捞你）：
+:::
 
 ::: card
 
@@ -124,7 +126,9 @@ search: false
 
 :::
 
+::: center
 官方剧本：
+:::
 
 ::: card
 
@@ -135,7 +139,9 @@ search: false
 
 :::
 
+::: center
 谈话结构：
+:::
 
 ::: card
 
@@ -151,7 +157,9 @@ search: false
 
 :::
 
+::: center
 巫术生物芯片三合一：
+:::
 
 ::: card
 

@@ -2613,9 +2613,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::
 
+::: center
 ==在玩家面前拿出来的实物稿件==——报纸、帖子、照片，全文各在使用位；
+:::
 
+::: center
 本区一张总表清点，点开即达。
+:::
 
 
 :::: center
