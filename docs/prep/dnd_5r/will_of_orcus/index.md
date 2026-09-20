@@ -1462,6 +1462,35 @@ Set into the wall behind the southwest pile of rubble is a secret door (see "**T
 
 The brooms, *Rope*, and wheelbarrows are all stolen goods (see "Stolen Goods").
 
+
+---
+
+**——中文译文——**
+
+**——T1：神殿入口——**
+
+角色们沿阶梯下行进入此区域时，朗读或概述以下内容：
+
+> > 阶梯的尽头是一间宽阔的厅室。两只枯瘦的生物生着锐爪与长舌，蹲伏在阶梯底部，当你们走近时令人不安地舔着嘴唇。房间的东北角，三个身穿猩红长袍、衣衫不整的人影正拽着捆在一尊食尸鬼雕像上的绳索。他们用非人的声音呻吟着，试图推倒雕像，一名披袍的龙裔则对他们大声吆喝指挥。地板铺满碎裂的瓷砖，更多的碎片装在房间中央的两辆独轮车里。两把扫帚斜倚在远端墙边，靠近一条向西延伸的通道。
+
+两只**食尸鬼**在阶梯上把守，阿基拉·诺里克修斯（中型，混乱邪恶的**邪教狂信者**）——奥喀斯教团狂热的龙裔信徒——监督着三具**丧尸**笨拙地劳作。希娅命令这群人推倒此房间内的雕像，把瓦砾扫拢运走。阿基拉与食尸鬼持敌对态度，攻击一切未穿**希娅教团**猩红长袍的人。丧尸听阿基拉号令攻击。
+
+**——邪教徒——**
+
+阿基拉·诺里克修斯对奥喀斯教团的事业坚信不疑；她盼望着自己的死亡，因为她期待死时被转化为不死生物。因此她会战至死，且完全不愿与角色们分享情报。
+
+**——碎裂的瓷砖——**
+
+直到不久前，地板上还嵌着一幅彩绘瓷砖镶嵌画。画中描绘奥喀斯屠杀一队人类骑士，并将他们的尸体再度活化。希娅命令仆从摧毁镶嵌画，把瓷砖扫进独轮车。任何用研究动作检视碎瓷砖并通过 DC13 智力（调查）检定的角色，都能确认这幅画曾经描绘的是不死魔王奥喀斯。
+
+**——密门——**
+
+西南角瓦砾堆后的墙体里藏着一扇密门（见「**神殿通用特征**」）。门后是一条倾斜的隧道（T3）。
+
+**——待寻回的被盗物资——**
+
+扫帚、*绳索*与独轮车都是被盗物资（见「被盗物资」）。
+
 :::
 
 :::::
@@ -1490,6 +1519,19 @@ The brooms, *Rope*, and wheelbarrows are all stolen goods (see "Stolen Goods").
 **——Skeletal Remains——**
 
 See "**Temple Features**" for more on the skeletal remains here.
+
+
+---
+
+**——中文译文——**
+
+**——T2：T 形走廊——**
+
+> > 这条分岔的走廊在西端与北端各以一扇铁制双开门收尾。交汇口附近的地板上躺着三具骸骨遗骸，裹在积尘的猩红长袍里。
+
+**——骸骨遗骸——**
+
+此处的骸骨遗骸详见「**神殿通用特征**」。
 
 :::
 
@@ -1520,6 +1562,17 @@ This dusty, 5-foot-wide tunnel slopes steeply down toward the west; the west end
 **——Doors——**
 
 From within the tunnel, the doors to areas **T1** and **T4** are plainly visible.
+
+
+---
+
+**——中文译文——**
+
+**——T3：倾斜隧道——**
+
+> > 这条隧道向东延伸约 30 尺，向西延伸 10 尺，地面倾斜。隧道中段，一扇铁门开向南面，通往 T1。隧道内可以看见这扇门。
+
+原文注：隧道西段积尘更厚，行走留痕清晰——回溯追踪可用。
 
 :::
 
@@ -1574,6 +1627,27 @@ This room contains three secret doors (see "**Temple Features**"), each one loca
 
 Whenever a non-Undead creature tries to pass through a secret door, the statue in front of that door swivels on its base and swipes a claw at the creature. The creature must succeed on a DC12 Dexterity saving throw or take 7 (2d6) Slashing damage. As a Utilize|XPHB action, a character can disable a swiveling statue by jamming a *Dagger*, an Iron Spike, or a similar object into the slight gap between the statue's base and the floor.
 
+
+---
+
+**——中文译文——**
+
+**——T4：旋转雕像厅——**
+
+> > 沿着此房间的西墙与东墙，六尊雕像刻着食尸鬼般的人形生物——利爪前伸，大口张开，石舌外吐。地板上躺着五具骸骨遗骸，裹在积尘的猩红长袍里。南墙的墙体上雕着一颗巨型山羊头骨，直径足有十尺。
+
+墙上雕凿的巨型山羊头骨是奥喀斯的圣符。
+
+**——骸骨遗骸——**
+
+此房间有五堆骸骨遗骸（见「**神殿通用特征**」）。第一次有人打开本房间通往宝库（T14）的某扇密门时，其中一堆遗骸活化，在不洁之火中点燃，成为一只**燃焰骷髅**；其余四堆各自活化，组成一只**骷髅**。这些骷髅对除不死生物外的所有生物持敌对态度。
+
+**——密门与雕像——**
+
+此房间有三扇密门（见「**神殿通用特征**」），每一扇都藏在一尊食尸鬼雕像后面。雕像与密门之间的空间仅够微型生物从容通行；对小型或中型生物而言，这些区域是困难地形。
+
+每当非不死生物试图穿过密门，门前的雕像便会在基座上旋转，向该生物挥出一爪。该生物必须通过 DC12 的敏捷豁免，否则受 7（2d6）挥砍伤害。角色可以用一个利用动作，把一把*匕首*、一根铁钉或类似物件插进雕像基座与地板之间的细缝，使旋转的雕像失效。
+
 :::
 
 :::::
@@ -1623,6 +1697,25 @@ The stairs collapse to form a slide whenever a creature that isn't an Undead ste
 The first time a non-Undead creature steps on the stairs, the creature must succeed on a DC16 Dexterity saving throw or fall down the slide into the pit, which is 20 feet deep and lined with rusty spikes. The creature takes 7 (2d6) Bludgeoning damage from the fall plus 9 (2d8) Piercing damage from the spikes.
 
 Pulling the hidden lever closes the pit's lid and resets the stairs. The lid opens only when the trap is triggered and otherwise is safe to move on. As a Utilize|XPHB action, a character can try to force the lid open (from inside or outside the pit), doing so with a successful DC20 Strength (Athletics|XPHB) check.
+
+
+---
+
+**——中文译文——**
+
+**——T5：阴森阶梯——**
+
+> > 四根石柱撑起这座空旷大厅的穹顶。两条宽阔的隧道通向北面。铁制双开门关着北、西、东三面墙。北侧双开门上刻着奥喀斯的邪恶化身——那位长角的魔王。他邪恶的凝视锁定房间南端一座磨光黑大理石阶梯，阶梯下行十尺，通往另一道双开门。石质栏杆分列阶梯两侧。
+
+**——暗藏拉杆——**
+
+用搜索动作检查西南角的石柱，会自动发现一块松动的石板，后面藏着一根铁拉杆（在神殿地图上标为 L）。生物可以用一个利用动作拉动拉杆，复位下述陷阱。
+
+**——陷阱——**
+
+只要非不死生物踏上阶梯，阶梯便坍塌成一道滑梯；同时，阶梯底部隐藏竖坑的石盖猛然弹开。
+
+第一个踏上阶梯的非不死生物必须通过 DC16 的敏捷豁免，否则沿滑梯坠入坑底。竖坑深 20 尺，坑底插满锈刺，生物受 7（2d6）钝击伤害外加 14（4d6）穿刺伤害，并倒在坑底。
 
 :::
 
@@ -1704,6 +1797,41 @@ A bookshelf in the north alcove conceals a secret door (see "**Temple Features**
 
 See "Temple Features" for more on the skeletal remains here.
 
+
+---
+
+**——中文译文——**
+
+**——T6：奥术图书馆——**
+
+在这房间的任一入口侧耳倾听的角色，都会听到里面沉重的脚步声与家具被砸毁的声响。
+
+> > 一股腐臭迎面而来——臭源是两只丧尸化的食人魔，它们正砸毁这间房里所有的家具，显然在听命于一个穿红袍的矮人。黑木制成、饰以骷髅的书桌与椅子碎裂一地，混杂在四具久远骸骨的遗骸间，遗骸裹着积尘的猩红长袍。高大的石质书架沿北、南、西三面的深凹室排列。正对着你的凹室里，飘着一位半幽灵状态的女子，正恳求食人魔住手，别再继续这场破坏性的狂潮。
+
+奉奥喀斯雕像之命，希娅命令教徒——一个名叫埃莱斯·脆骨的矮人（中型，混乱邪恶的**邪教狂信者**）——毁掉这座图书馆里的一切。埃莱斯指挥两只**食人魔丧尸**干重活。这名教徒与丧尸持敌对态度，攻击一切未穿希娅教团猩红长袍的人。
+
+**教徒**埃莱斯·脆骨被骗入了奥喀斯邪教。希娅让矮人相信：世界将终、诸神已死、死亡的恶魔势力即将赢得最终胜利，劝他加入这场宇宙冲突中的「赢家一方」。埃莱斯一旦注意到角色使用明显的神圣魔法——例如治疗盟友或驱散不死生物——矮人立刻投降。此时埃莱斯愿意分享教团情报，交换「现存神祇与宇宙现状」的信息。埃莱斯可分享的信息见前文「**希娅的教团**」。
+
+**——凹室——**
+
+每间凹室藏有 4d10 + 20 册勉强可辨认的书卷，全部脆化易燃。角色用研究动作并通过 DC15 的智力（宗教）检定，可辨认出这些材料记载着奥喀斯信众修行的各类仪式。
+
+**——幽魂图书管理员——**
+
+凹室里的半幽灵身影是梅琳德拉·沃克斯的**幽魂**，从前奥喀斯教团的图书管理员。她混乱邪恶，对访客初始持冷漠态度。丧尸糟蹋她的藏书让她怒不可遏，但她无法亲手阻止——她发过誓永不伤害教团盟友。当她注意到角色们，梅琳德拉认定他们是「不受誓言约束的闯入者」，恳求他们摧毁两只**食人魔丧尸**。角色若答应，梅琳德拉转为友好。拒绝帮忙则维持冷漠。
+
+角色与友好的梅琳德拉交谈时，她会透露：许多年前冒险者突袭神殿时，她因为拒绝抛下图书馆而被杀。角色若问起宝藏或秘密知识，梅琳德拉建议他们「每一尊雕像后面都去看看密门」，声称「秘密宝库遍布各处」。
+
+梅琳德拉不知道死后如何安息。角色用研究动作并通过 DC15 的智力（宗教）检定，可以辨明让她安息的方法：把图书馆里的书卷全部移走，或者全部摧毁。任何试图移走或摧毁她收藏的人，梅琳德拉都会转为敌对并开战。
+
+**——密门——**
+
+北凹室的一座书架后藏着一扇密门（见「**神殿通用特征**」），门后是餐厅（T7）。
+
+**——骸骨遗骸——**
+
+此处的骸骨遗骸详见「神殿通用特征」。
+
 :::
 
 :::::
@@ -1761,6 +1889,33 @@ A secret door in the south wall (see "**Temple Features**") pulls open to reveal
 
 Yondis's broom is a stolen item (see "Stolen Goods").
 
+
+---
+
+**——中文译文——**
+
+**——T7：餐厅——**
+
+> > 这间厅室中央摆着一张长方形长桌，桌脚雕成爪形，四周环绕十二把高背椅。椅背上挂着几张山羊头骨制成的狰狞面具。一张病黄脸孔的年轻人类身穿猩红长袍，坐在桌子一端，吃着看起来半生不熟、闻起来倒胃口的肉。一把扫帚斜靠在他身旁的桌边。
+
+希娅与她的教徒外出时戴山羊头骨面具。面具吓人，但不值钱。
+
+**——教徒——**
+
+坐在桌边的年轻人（面朝南墙的密门）是扬迪斯·莫格林（中型，混乱中立的**邪教狂信者**），**希娅教团**的成员，正在怀疑自己是否该继续参与其中。最初吸引他的是那个许诺——死后转化为比希娅更强大的不死生物——他还喜欢假装自己已经是亡灵。他涂着苍白的妆容，像丧尸一样拖着脚走路，吃半生不熟、正在腐坏的肉，但这副伪装骗不了任何人。
+
+扬迪斯对角色持冷漠态度，无论他们是否穿希娅教团的猩红长袍。若角色与他交战，扬迪斯会一直打到**浴血**，届时投降。
+
+奈扎鲁姆透过奥喀斯雕像的低语让扬迪斯陷入混乱。他不明白奥喀斯为什么命令希娅摧毁神殿里奥喀斯自己的圣像。当扬迪斯独自面对雕像时，雕像会向他低语生命的美好、新鲜空气的愉悦、做熟的饭菜与英雄的壮举。他的动摇使他容易被拉离教团。角色可以用影响动作，通过 DC10 的魅力（欺瞒或威吓）检定，尝试从他口中套出情报（扬迪斯可分享的教团信息见前文「**希娅的教团**」）。
+
+**——密门——**
+
+南墙的一扇密门（见「**神殿通用特征**」）拉开后，露出后面的图书馆（T6）。
+
+**——待寻回的被盗物资——**
+
+扬迪斯的扫帚是被盗物资（见「被盗物资」）。
+
 :::
 
 :::::
@@ -1785,6 +1940,15 @@ Yondis's broom is a stolen item (see "Stolen Goods").
 **——T8: Living Quarters——**
 
 Six bedchambers open off the dining hall (area **T7**). Each contains two plain wooden cots with straw-stuffed mattresses and woolen blankets. Next to each bed are wall hooks for hanging apparel. Only three of the chambers show any sign of recent use.
+
+
+---
+
+**——中文译文——**
+
+**——T8：生活区——**
+
+六间卧室从餐厅（T7）开门进入。每间放着两张简陋的木板床，铺着稻草填充的床垫和羊毛毯。每张床旁的墙上有挂钩，用来挂衣物。只有三间房有近期使用过的痕迹。
 
 :::
 
@@ -1816,6 +1980,19 @@ This *L*-shaped hall leads from area **T5** to a double door into the dining hal
 **——Secret Door——**
 
 A secret door in the north wall stands ajar and requires no ability check to spot. Yondis (see area **T7**) found it recently and jammed an old finger bone into the doorway to prevent the door from closing all the way and make it easy for him to find.
+
+
+---
+
+**——中文译文——**
+
+**——T9：西隧道——**
+
+这座 *L* 形厅室从 T5 通往一扇进入餐厅（T7）的双开门。
+
+**——密门——**
+
+北墙的一扇密门虚掩着，无需任何检定即可发现。扬迪斯（见 T7）最近发现了它，把一根旧指骨卡在门缝里，防止门完全关上，方便自己找到。
 
 :::
 
@@ -1867,6 +2044,29 @@ See "Temple Features" for more on the skeletal remains here.
 **——Treasure——**
 
 The inanimate skeleton next to the double door is all that remains of the temple's high priest. It clutches a ring holding three iron keys, which unlock the cell doors in area **T11**, and wears an amulet shaped like a goat's rotting head (the symbol of Orcus) on a chain around its neck. The silver amulet is worth 25 GP and has a hidden compartment containing a folded-up *Spell Scroll* of *Animate Dead*. A character who takes the Search|XPHB action to examine the amulet finds the hidden compartment with a successful DC15 Wisdom (Perception|XPHB) check.
+
+
+---
+
+**——中文译文——**
+
+**——T10：东隧道——**
+
+> > 这条隧道散落着四个死人的积尘骸骨，都穿着破烂的猩红长袍。其中一具骸骨瘫坐在一道双开门旁的角落里，戴着一个形如腐烂山羊头的护身符，手里攥着一串钥匙。
+
+这座 *L* 形厅室从 T5 通往一扇进入祭仪密室（T11）的双开门。
+
+**——密门——**
+
+北墙嵌着一扇密门（见「**神殿通用特征**」），通往主殿（T13）。
+
+**——骸骨遗骸——**
+
+此处的骸骨遗骸详见「神殿通用特征」。
+
+**——财宝——**
+
+双开门旁那具僵直的骸骨，是神殿大祭司仅存的遗骸。它手里攥着一串三把铁钥匙——能开 T11 牢房的门锁——脖子上挂着一条链子，坠着形如腐烂山羊头的护身符（奥喀斯的圣符）。这枚银质护身符值 25 GP，藏有一个暗格，里面是折叠起来的*活化死尸法术卷轴*。角色用搜索动作检视护身符，通过 DC15 的感知（察觉）检定即可发现暗格。
 
 :::
 
@@ -1927,6 +2127,33 @@ The skeletal remains in the cells are clad in tattered rags and have no equipmen
 
 The dead torturer clutches a *+1 Whip*. Behind the loose stone in cell B lies a *Wand of Secrets*.
 
+
+---
+
+**——中文译文——**
+
+**——T11：祭仪密室——**
+
+> > 这个密室的墙上挂着生锈的镣铐。房间中央摆着两张石板台。北侧石板上趴着一具人类骸骨，裹着积尘的猩红长袍，戴着眼罩，一只骨手里攥着一条鞭子。沿东墙是三扇生锈的铁栅门，门后是发霉的牢房。
+
+教徒们曾在此举行可怕的仪式。人类囚犯被关进牢房（见下文），直到被献祭。死后他们会被带回这个房间，由大祭司将他们活化为丧尸。
+
+**——牢房——**
+
+三扇牢门全部上锁；钥匙在东隧道（T10）的一具骸骨手里。撬锁 DC 为 15。牢房内情况如下：
+
+- **牢房 A** 关着两具人类骸骨。
+- **牢房 B** 看似空无一物，但东墙一块松动的石头后面藏着暗格。角色用搜索动作并通过 DC13 的感知（察觉）检定，即可发现松石与其后的宝藏（见下文「财宝」）。
+- **牢房 C** 关着一个叛逆提夫林教徒的骸骨——他曾试图推翻神殿大祭司，失败而死。扰动这具骸骨会令背叛者的怨灵显现为一只**幽影**，与角色开战。
+
+**——骸骨遗骸——**
+
+牢房里的骸骨裹着破布，没有装备或财宝。北侧石板上那具骸骨，是大祭司的拷问官（详见下文「财宝」与「**神殿通用特征**」）。
+
+**——财宝——**
+
+死去的拷问官手里攥着一条 *+1 鞭子*。牢房 B 松动的石头后面藏着一把*探秘魔杖*。
+
 :::
 
 :::::
@@ -1981,6 +2208,25 @@ Meanwhile, the zombies continue painting and holding Ladders until a character e
 **——Stolen Goods to Recover——**
 
 The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen Goods").
+
+
+---
+
+**——中文译文——**
+
+**——T12：恐怖的工作——**
+
+> > 死亡的恶臭弥漫这座立柱大厅。两架十尺长的梯子靠在西墙上。每个梯子上都扒着一个穿猩红长袍的腐烂身影，笨拙地往墙上刷漆，每架梯子脚下还站着一具扶梯的行尸。很难看清丧尸们到底在画什么。大厅中央站着一个面色苍白的女人，板着脸监督这桩活计。她穿猩红长袍，头戴角状头饰。她身边环绕着四只枯瘦的生物——利爪、长舌、饥饿的眼睛。大厅北端的双开门敞开着，露出后面一间巨大的厅室。在那大厅深处的阴影里，矗立着一尊庞大的山羊恶魔雕像。
+
+这个女人是希娅，一只**妖鬼坟语者**。随行的是四只**食尸鬼**。希娅派了四具穿猩红长袍的**丧尸**，按照隔壁房间（T13）奥喀斯雕像给她的指示，在墙上画蓬松的白云和银色的龙。每架*梯子*由一具丧尸扶稳，另一具丧尸摇摇晃晃地趴在接近梯顶的位置，一手漆刷一手漆罐。希娅嘴上不断训斥丧尸们活计粗劣。
+
+一有风吹草动，希娅便命令食尸鬼阻挡闯入者，自己退到 T13，向奥喀斯雕像请求指引。雕像里传出洪亮的回应：「这是你最后的考验，希娅。别让我失望！」希娅随即回到食尸鬼身边，死战到底。为奈扎鲁姆掷先攻。轮到他时，他从 T13 雕像背后的密门现身，加入战局——他相信冒险者就是他一直在等的英雄。
+
+与此同时，丧尸们继续画云扶梯，直到有角色向它们动手。无论扶梯的还是梯上的丧尸受伤，梯上的丧尸都会坠落——坠落 10 尺，泼掉整罐漆。
+
+**——待寻回的被盗物资——**
+
+*梯子*、漆罐与漆刷都是被盗物资（见「被盗物资」）。
 
 :::
 
@@ -2086,17 +2332,15 @@ Each time the characters leave the hall and return, Nezzarum issues a new comman
 
 *Nezzarum's Commands*
 
-```
-| 1d6 | Command |
-|---|---|
-| 1 | "Bring me a banquet of cooked meat, steamed vegetables, and fresh fruit!" (Characters can buy the food and have it prepared in town for 3 GP.) |
-| 2 | "Bring me a wheel of cheese!" (Characters can buy the cheese in town for 5 SP.) |
-| 3 | "Bring me treasure worthy of a dragon!" (Nezzarum expects at least 100 GP worth of treasure or something of historical value.) |
-| 4 | "Bring four nice rugs to cover my cold stone floor!" (Characters can buy the rugs in town for 5 GP each.) |
-| 5 | "Bring me two more pots of silver paint!" (Characters can buy the paint in town for 2 SP per pot.) |
-| 6 | "Bring me the head of something evil!" (If the characters ask for suggestions, he replies, "Zombies are evil, aren't they? Bring me the head of a zombie!") |
-```
-
+> | 1d6 | Command |
+> |---|---|
+> | 1 | "Bring me a banquet of cooked meat, steamed vegetables, and fresh fruit!" (Characters can buy the food and have it prepared in town for 3 GP.) |
+> | 2 | "Bring me a wheel of cheese!" (Characters can buy the cheese in town for 5 SP.) |
+> | 3 | "Bring me treasure worthy of a dragon!" (Nezzarum expects at least 100 GP worth of treasure or something of historical value.) |
+> | 4 | "Bring four nice rugs to cover my cold stone floor!" (Characters can buy the rugs in town for 5 GP each.) |
+> | 5 | "Bring me two more pots of silver paint!" (Characters can buy the paint in town for 2 SP per pot.) |
+> | 6 | "Bring me the head of something evil!" (If the characters ask for suggestions, he replies, "Zombies are evil, aren't they? Bring me the head of a zombie!") |
+> 
 Characters struck by the bizarre nature of "Orcus's" commands can take the Search|XPHB action and make a DC15 Wisdom (Insight|XPHB) check. On a success, the character realizes a deception is afoot.
 
 
@@ -2119,6 +2363,60 @@ This hall contains seven secret doors (see "**Temple Features**"):
 **——Stolen Goods to Recover——**
 
 The dragonchess Gaming Set and incense are stolen goods (see "Stolen Goods"). If Nezzarum is Friendly, he allows the characters to return the goods the cultists stole to the rightful owners.
+
+
+---
+
+**——中文译文——**
+
+**——T13：奥喀斯大雕像——**
+
+> > 一尊三十尺高的奥喀斯雕像顶着大厅的天花板。基座上的石火盆燃着熏香，浓香大体盖住了腐臭。角落里立着一群教徒的雕像。
+
+蜡烛熏香基本盖住了这间主殿里死物的臭气。
+
+奈扎鲁姆——一条**银龙雏龙**，通晓通用语——就潜伏在奥喀斯雕像里。龙能透过雕像空洞的眼、鼻、嘴窥视大厅。不操控希娅为自己做事的时候，奈扎鲁姆就以自己跟自己下龙棋消磨时光。他手里那副龙棋是被盗物资（见下文「被盗物资」）。
+
+**——扮演奈扎鲁姆——**
+
+奈扎鲁姆一直在等待冒险者前来打倒希娅和她的教团——他清楚凭自己的实力单干打不过他们。如果 T12 爆发战斗且奈扎鲁姆有所察觉（无论是因为希娅跑来向奥喀斯雕像求援，还是因为他从雕像藏身处注意到战局展开），他就会从雕像里现身参战。如果角色们击败了希娅且奈扎鲁姆在遭遇中存活，龙对他们转为友好。如果角色没有先与希娅交战就直接接近奈扎鲁姆，龙初始对他们冷漠。
+
+**——冷漠的龙——**
+
+如果奈扎鲁姆没见过角色们在战斗中证明自己，他会谨慎行事，决定考验他们。他掷「奈扎鲁姆的命令」表随机发出一道命令，然后根据他们的后续行动评判。角色若遂了他的愿，他显得高兴；拒绝命令，则维持冷漠。
+
+角色每次离开大厅再回来，奈扎鲁姆就会发一道新命令，直到发满三道。他从不重复命令——同一结果掷出两次就重掷，或直接从表里选另一项。三道命令全部完成，奈扎鲁姆对角色的态度转为友好。
+
+**奈扎鲁姆的命令**
+
+> | 1d6 | 命令 |
+> |---|---|
+> | 1 | 「给我办一桌宴席：熟肉、蒸蔬、鲜果！」（角色可在镇上采买备好，3 GP。） |
+> | 2 | 「给我带一轮奶酪来！」（镇上 5 SP 可买。） |
+> | 3 | 「给我带一份配得上龙的宝藏！」（奈扎鲁姆期望至少值 100 GP 的财宝，或有历史价值的物件。） |
+> | 4 | 「拿四块体面的地毯来，铺在我冰冷的石地上！」（镇上每块 5 GP。） |
+> | 5 | 「再给我来两罐银漆！」（镇上每罐 2 SP。） |
+> | 6 | 「给我带一颗邪恶之物的头颅！」（角色若讨主意，他答：「丧尸是邪恶的，不是吗？带一颗丧尸头颅来！」） |
+> 
+角色若被「奥喀斯」命令的古怪之处触动，可以用搜索动作做 DC15 的感知（洞悉）检定。成功即意识到这里有诈。
+
+**——友好的龙——**
+
+转为友好后，奈扎鲁姆会讲述自己来到神殿、教团随后到来的经过（见「**冒险背景**」）。如果角色尚未打倒希娅，这是龙的头等大事，他承诺助战，一起对付那只妖鬼与残存教徒。
+
+奈扎鲁姆没把神殿搜遍，不知道其他密门的位置（雕像基座里那扇除外）。角色若同意分他相等的一份，他不反对他们搜刮神殿的财宝。
+
+**——密门——**
+
+这座大厅有七扇密门（见「**神殿通用特征**」）：
+
+- **雕像通道**——基座内的螺旋楼梯，通往雕像头部直径约 10 尺的小室
+- **南墙双门**——西扇虚掩，直通 T9
+- **雕像后四密门**——通往 T14 宝库
+
+**——待寻回的被盗物资——**
+
+龙棋游戏套装与熏香都是被盗物资（见「被盗物资」）。奈扎鲁姆若为友好，允许角色把教徒偷来的东西归还原主。
 
 :::
 
@@ -2209,43 +2507,37 @@ Under each statue lies a cylindrical compartment 3 feet across and 3 feet deep. 
 
 *Statues*
 
-```
-| 1d6 | Statue's Form |
-|---|---|
-| 1 | Cloaked **vampire** |
-| 2 | **Death knight** |
-| 3 | **Lich** |
-| 4 | **Mummy lord** |
-| 5 | Skeletal goat |
-| 6 | **Wraith** |
-```
-
+> | 1d6 | Statue's Form |
+> |---|---|
+> | 1 | Cloaked **vampire** |
+> | 2 | **Death knight** |
+> | 3 | **Lich** |
+> | 4 | **Mummy lord** |
+> | 5 | Skeletal goat |
+> | 6 | **Wraith** |
+> 
 *Creatures*
 
-```
-| 1d6 | Guardian(s) |
-|---|---|
-| 1 | A Hostile **Swarm of Crawling Claws** nests in the statue's nooks and crannies, emerging to attack when the statue is disturbed. |
-| 2 | Disturbing the statue causes its head to split open, releasing a Hostile **Flameskull**. |
-| 3 | The statue acts as a sarcophagus. Disturbing the statue causes it to break apart, freeing the Hostile **Mummy** inside. |
-| 4 | Disturbing the statue causes four **Specter** to emerge from cavities behind the walls. They pass through the walls and engage the characters in combat. |
-| 5 | Disturbing the statue causes it to disgorge a Hostile **Black Pudding**. |
-| 6 | There is no guardian. |
-```
-
+> | 1d6 | Guardian(s) |
+> |---|---|
+> | 1 | A Hostile **Swarm of Crawling Claws** nests in the statue's nooks and crannies, emerging to attack when the statue is disturbed. |
+> | 2 | Disturbing the statue causes its head to split open, releasing a Hostile **Flameskull**. |
+> | 3 | The statue acts as a sarcophagus. Disturbing the statue causes it to break apart, freeing the Hostile **Mummy** inside. |
+> | 4 | Disturbing the statue causes four **Specter** to emerge from cavities behind the walls. They pass through the walls and engage the characters in combat. |
+> | 5 | Disturbing the statue causes it to disgorge a Hostile **Black Pudding**. |
+> | 6 | There is no guardian. |
+> 
 *Treasure*
 
-```
-| 1d6 | Compartment Contents |
-|---|---|
-| 1 | Basket containing what appears to be the *Wand of Orcus* but is actually a powerless replica (worth 50 GP) that radiates a false magical aura when subjected to a *Detect Magic* spell |
-| 2 | Malachite skull (worth 250 GP) resting on a bed of 2d6 × 100 GP |
-| 3 | 3-foot-tall statue of Orcus made of crimson marble (worth 750 GP and weighing 75 pounds) |
-| 4 | Basket containing a randomly determined Common magic item (see the Dungeon Master's Guide) |
-| 5 | Casket containing a mummified human corpse in the fetal position wearing a gold necklace (worth 750 GP) |
-| 6 | Basket containing a randomly determined Uncommon magic item (see the Dungeon Master's Guide) |
-```
-
+> | 1d6 | Compartment Contents |
+> |---|---|
+> | 1 | Basket containing what appears to be the *Wand of Orcus* but is actually a powerless replica (worth 50 GP) that radiates a false magical aura when subjected to a *Detect Magic* spell |
+> | 2 | Malachite skull (worth 250 GP) resting on a bed of 2d6 × 100 GP |
+> | 3 | 3-foot-tall statue of Orcus made of crimson marble (worth 750 GP and weighing 75 pounds) |
+> | 4 | Basket containing a randomly determined Common magic item (see the Dungeon Master's Guide) |
+> | 5 | Casket containing a mummified human corpse in the fetal position wearing a gold necklace (worth 750 GP) |
+> | 6 | Basket containing a randomly determined Uncommon magic item (see the Dungeon Master's Guide) |
+> 
 
 **——Conclusion——**
 
@@ -2259,6 +2551,68 @@ Should the characters reveal that a silver dragon was behind the cult's bizarre 
 
 
 > > For all the many changes in the look of dragons over the years, the silver dragon's distinctive crest is visible in every incarnation.
+
+
+---
+
+**——中文译文——**
+
+**——T14：秘密宝库——**
+
+四座秘密宝库与主殿（T13）相连，另两座与雕像厅（T4）相连。宝库构造基本相同，但每座里的雕像、宝藏与守护者各不相同。
+
+> > 隧道的尽头是一间五边形小室。角落里立着一尊结满蛛网的雕像。
+
+**——宝库内容——**
+
+用「雕像」表决定每尊雕像的形态，「生物」表决定每座宝库的守护者，「宝藏」表决定其中存放的物件（见下文「取宝」）。
+
+**——取宝——**
+
+每尊雕像底下都有一个圆柱形暗格，直径 3 尺，深 3 尺。要拿到里面的宝藏，角色必须推倒或摧毁雕像。每尊雕像都是中型物件：AC 17，HP 18，免疫毒素与心灵伤害。角色可以用一个利用动作尝试推倒雕像，DC17 的力量（运动）检定成功即推倒。
+
+**——雕像——**
+
+> | 1d6 | 雕像形态 |
+> |---|---|
+> | 1 | 披斗篷的**吸血鬼** |
+> | 2 | **死亡骑士** |
+> | 3 | **巫妖** |
+> | 4 | **木乃伊领主** |
+> | 5 | 骸骨山羊 |
+> | 6 | **妖影** |
+> 
+**——生物——**
+
+> | 1d6 | 守护者 |
+> |---|---|
+> | 1 | 一群敌对的**爬爪 Swarm** 在雕像的沟缝里筑巢，雕像被扰动时倾巢而出。 |
+> | 2 | 扰动雕像令其头颅迸裂，放出一只敌对的**焰髅**。 |
+> | 3 | 雕像是一具石棺。扰动雕像使其崩解，放出里面的敌对**木乃伊**。 |
+> | 4 | 扰动雕像令四只**幽魂 Specter** 从墙体后的空腔里钻出，穿墙而出与角色开战。 |
+> | 5 | 扰动雕像使其吐出一只敌对的**黑布丁**。 |
+> | 6 | 没有守护者。 |
+> 
+**——宝藏——**
+
+> | 1d6 | 暗格内容 |
+> |---|---|
+> | 1 | 一只提篮，里面装着看似*奥喀斯魔杖*的东西，实为毫无神力的复制品（值 50 GP），受*侦测魔法*检验时会散发虚假的魔法灵光。 |
+> | 2 | 一颗孔雀石头骨（值 250 GP），垫在 2d6 × 100 GP 的钱币上。 |
+> | 3 | 一尊 3 尺高的奥喀斯雕像，绯红大理石雕成（值 750 GP，重 75 磅）。 |
+> | 4 | 一只提篮，装着随机决定的普通魔法物品（见《地下城主指南》）。 |
+> | 5 | 一口小棺，里面是一具蜷成胎儿姿势的木乃伊化人类尸体，戴金项链（值 750 GP）。 |
+> | 6 | 一只提篮，装着随机决定的非普通魔法物品（见《地下城主指南》）。 |
+> 
+**——结语——**
+
+铲除神殿里的**希娅教团**之后，角色们可以回灰水镇领取报酬。就算没有清除每一处威胁，欧瑞安也信任角色们完成了任务，照付报酬。旅店老板乐于接管角色们从神殿寻回的被盗物资，确保它们物归原主。
+
+如果角色们透露教团的古怪行径背后是一条银龙，欧瑞安回忆起偶尔见过一条雏龙在云间翱翔，此外便一无所知。
+
+**——银龙史话——**
+
+> > 无论这些年来龙的外形如何千变万化，银龙头冠的独特轮廓在每一种形象里都清晰可辨。
 
 :::
 
