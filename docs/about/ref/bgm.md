@@ -31,6 +31,13 @@ createTime: 2025/04/17 20:00:39
 
 [**Misc - 其他分类**](#misc-其他分类)
 
+[**BGM - 扮演音乐**](#sec-bgm)
+
+[**Combat - 战斗场景**](#sec-combat)
+
+[**Misc - 其他分类**](#sec-misc)
+
+[气馁歌单直达](#mood-1f)
 :::
 
 
@@ -135,6 +142,7 @@ createTime: 2025/04/17 20:00:39
 
 ::: center
 
+<a id="sec-bgm"></a>
 ### **BGM - 扮演音乐**
 
 :::
@@ -154,6 +162,7 @@ markmap:
   colorFreezeLevel: 2
 ---
 
+<a id="mood-1f"></a>
 # 1-Frustrated - 气馁
 
 ## 无力、消沉
@@ -262,6 +271,7 @@ markmap:
 
 ::: center
 
+<a id="sec-combat"></a>
 ### **Combat - 战斗场景**
 
 :::
@@ -317,6 +327,7 @@ markmap:
 
 ::: center
 
+<a id="sec-misc"></a>
 ### **Misc - 其他分类**
 
 :::
