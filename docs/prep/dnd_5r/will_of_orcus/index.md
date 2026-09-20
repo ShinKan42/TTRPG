@@ -1388,6 +1388,8 @@ ShinKan42
 
 **——中文译文——**
 
+---
+
 **——T1：神殿入口——**
 
 角色们沿阶梯下行进入此区域时，朗读或概述以下内容：
@@ -1396,17 +1398,25 @@ ShinKan42
 
 两只**食尸鬼**在阶梯上把守，阿基拉·诺里克修斯（中型，混乱邪恶的**邪教狂信者**）——奥喀斯教团狂热的龙裔信徒——监督着三具**丧尸**笨拙地劳作。希娅命令这群人推倒此房间内的雕像，把瓦砾扫拢运走。阿基拉与食尸鬼持敌对态度，攻击一切未穿**希娅教团**猩红长袍的人。丧尸听阿基拉号令攻击。
 
+---
+
 **——邪教徒——**
 
 阿基拉·诺里克修斯对奥喀斯教团的事业坚信不疑；她盼望着自己的死亡，因为她期待死时被转化为不死生物。因此她会战至死，且完全不愿与角色们分享情报。
+
+---
 
 **——碎裂的瓷砖——**
 
 直到不久前，地板上还嵌着一幅彩绘瓷砖镶嵌画。画中描绘奥喀斯屠杀一队人类骑士，并将他们的尸体再度活化。希娅命令仆从摧毁镶嵌画，把瓷砖扫进独轮车。任何用研究动作检视碎瓷砖并通过 DC13 智力（调查）检定的角色，都能确认这幅画曾经描绘的是不死魔王奥喀斯。
 
+---
+
 **——密门——**
 
 西南角瓦砾堆后的墙体里藏着一扇密门（见「**神殿通用特征**」）。门后是一条倾斜的隧道（T3）。
+
+---
 
 **——待寻回的被盗物资——**
 
@@ -1419,7 +1429,9 @@ ShinKan42
 **——English Original——**
 
 
-**——T1: Temple Entry——**
+---
+
+**——T1: Temple Entry——**
 
 As the characters descend the staircase leading to this room, read or paraphrase the following:
 
@@ -1428,22 +1440,30 @@ As the characters descend the staircase leading to this room, read or paraphrase
 Two **Ghoul** keep watch on the stairs while Akira Norixius (Medium, Chaotic Evil **Cultist Fanatic**)—a fanatical dragonborn devotee of Orcus—supervises the inept labor of three **Zombie**. Xia ordered the group to topple the statues in this room and sweep up the rubble for removal. Akira and the ghouls are Hostile and fight anyone not wearing the crimson robes of **Xia's Cult**. The zombies attack at Akira's command.
 
 
-**——Cultist——**
+---
+
+**——Cultist——**
 
 Akira Norixius believes unquestioningly in the cause of Orcus' cult; she looks forward to her own death because she expects to be transformed into an Undead when it occurs. She therefore fights to the death and is entirely unwilling to share information with the characters.
 
 
-**——Broken Tiles——**
+---
+
+**——Broken Tiles——**
 
 Until recently, the floor had a painted tile mosaic set into it. The mosaic depicted Orcus slaying a legion of human knights and reanimating their corpses. Xia ordered her servants to destroy the mosaic, sweep up the tiles, and place them in the wheelbarrows. Any character who takes the Study|XPHB action to inspect the broken tiles and succeeds on a DC13 Intelligence (Investigation|XPHB) check determines the mosaic once depicted Orcus, the Demon Prince of Undeath.
 
 
-**——Secret Door——**
+---
+
+**——Secret Door——**
 
 Set into the wall behind the southwest pile of rubble is a secret door (see "**Temple Features**"). Behind it lies a sloped passageway (area **T3**).
 
 
-**——Stolen Goods to Recover——**
+---
+
+**——Stolen Goods to Recover——**
 
 The brooms, *Rope*, and wheelbarrows are all stolen goods (see "Stolen Goods").
 
@@ -1469,9 +1489,13 @@ The brooms, *Rope*, and wheelbarrows are all stolen goods (see "Stolen Goods").
 
 **——中文译文——**
 
+---
+
 **——T2：T 形走廊——**
 
 > > 这条分岔的走廊在西端与北端各以一扇铁制双开门收尾。交汇口附近的地板上躺着三具骸骨遗骸，裹在积尘的猩红长袍里。
+
+---
 
 **——骸骨遗骸——**
 
@@ -1484,12 +1508,16 @@ The brooms, *Rope*, and wheelbarrows are all stolen goods (see "Stolen Goods").
 **——English Original——**
 
 
-**——T2: T-Shaped Passage——**
+---
+
+**——T2: T-Shaped Passage——**
 
 > > This branching passage ends in iron double doors to the west and to the north. On the floor near the intersection lie three sets of skeletal remains in dust-shrouded crimson robes.
 
 
-**——Skeletal Remains——**
+---
+
+**——Skeletal Remains——**
 
 See "**Temple Features**" for more on the skeletal remains here.
 
@@ -1516,6 +1544,8 @@ See "**Temple Features**" for more on the skeletal remains here.
 
 **——中文译文——**
 
+---
+
 **——T3：倾斜隧道——**
 
 > > 这条隧道向东延伸约 30 尺，向西延伸 10 尺，地面倾斜。隧道中段，一扇铁门开向南面，通往 T1。隧道内可以看见这扇门。
@@ -1529,12 +1559,16 @@ See "**Temple Features**" for more on the skeletal remains here.
 **——English Original——**
 
 
-**——T3: Sloped Passageway——**
+---
+
+**——T3: Sloped Passageway——**
 
 This dusty, 5-foot-wide tunnel slopes steeply down toward the west; the west end of the tunnel is 10 feet lower than the east end.
 
 
-**——Doors——**
+---
+
+**——Doors——**
 
 From within the tunnel, the doors to areas **T1** and **T4** are plainly visible.
 
@@ -1575,15 +1609,21 @@ From within the tunnel, the doors to areas **T1** and **T4** are plainly visible
 
 **——中文译文——**
 
+---
+
 **——T4：旋转雕像厅——**
 
 > > 沿着此房间的西墙与东墙，六尊雕像刻着食尸鬼般的人形生物——利爪前伸，大口张开，石舌外吐。地板上躺着五具骸骨遗骸，裹在积尘的猩红长袍里。南墙的墙体上雕着一颗巨型山羊头骨，直径足有十尺。
 
 墙上雕凿的巨型山羊头骨是奥喀斯的圣符。
 
+---
+
 **——骸骨遗骸——**
 
 此房间有五堆骸骨遗骸（见「**神殿通用特征**」）。第一次有人打开本房间通往宝库（T14）的某扇密门时，其中一堆遗骸活化，在不洁之火中点燃，成为一只**燃焰骷髅**；其余四堆各自活化，组成一只**骷髅**。这些骷髅对除不死生物外的所有生物持敌对态度。
+
+---
 
 **——密门与雕像——**
 
@@ -1598,19 +1638,25 @@ From within the tunnel, the doors to areas **T1** and **T4** are plainly visible
 **——English Original——**
 
 
-**——T4: Hall of Swiveling Statues——**
+---
+
+**——T4: Hall of Swiveling Statues——**
 
 > > Lining the west and east walls of this room, six statues depict ghoulish humanoids, their claws outstretched, their mouths agape, and their stony tongues extended. Lying on the floor are the skeletal remains of five humans in dusty crimson robes.Carved into the south wall is the skull of a giant goat, which measures ten feet across.
 
 The giant goat skull carved on the wall is a symbol of Orcus.
 
 
-**——Skeletal Remains——**
+---
+
+**——Skeletal Remains——**
 
 This room holds five piles of skeletal remains (see "**Temple Features**"). The first time someone opens one of the secret doors to the vaults (area **T14**) in this room, one set of remains animates, ignites in unholy fire, and becomes a **Flaming Skeleton**, while the other four piles animate and each form a **Skeleton**. The skeletons are Hostile toward all creatures except Undead.
 
 
-**——Secret Doors and Statues——**
+---
+
+**——Secret Doors and Statues——**
 
 This room contains three secret doors (see "**Temple Features**"), each one located behind a ghoul statue. The area between a statue and a secret door is wide enough for only a Tiny creature to fit comfortably. For a Small or Medium creature, those areas are Difficult Terrain.
 
@@ -1650,13 +1696,19 @@ Whenever a non-Undead creature tries to pass through a secret door, the statue i
 
 **——中文译文——**
 
+---
+
 **——T5：阴森阶梯——**
 
 > > 四根石柱撑起这座空旷大厅的穹顶。两条宽阔的隧道通向北面。铁制双开门关着北、西、东三面墙。北侧双开门上刻着奥喀斯的邪恶化身——那位长角的魔王。他邪恶的凝视锁定房间南端一座磨光黑大理石阶梯，阶梯下行十尺，通往另一道双开门。石质栏杆分列阶梯两侧。
 
+---
+
 **——暗藏拉杆——**
 
 用搜索动作检查西南角的石柱，会自动发现一块松动的石板，后面藏着一根铁拉杆（在神殿地图上标为 L）。生物可以用一个利用动作拉动拉杆，复位下述陷阱。
+
+---
 
 **——陷阱——**
 
@@ -1671,17 +1723,23 @@ Whenever a non-Undead creature tries to pass through a secret door, the statue i
 **——English Original——**
 
 
-**——T5: Sinister Stairs——**
+---
+
+**——T5: Sinister Stairs——**
 
 > > Four stone pillars buttress the vaulted ceiling of this otherwise empty hall. Two wide tunnels lead north. Iron double doors stand closed on the north, west, and east walls. Inscribed in the northern double door is the vile visage of Orcus, the horned demon lord. He fixes his evil gaze on a staircase of polished black marble at the south end of the room, which descends ten feet to another double door. Stone railings flank the staircase.
 
 
-**——Hidden Lever——**
+---
+
+**——Hidden Lever——**
 
 A character who takes the Search|XPHB action to examine the southwest pillar automatically finds a loose panel, behind which is an iron lever (marked with an L on Map: Temple of Orcus). As a Utilize|XPHB action, a creature can pull this lever to reset the trap described below.
 
 
-**——Trap——**
+---
+
+**——Trap——**
 
 The stairs collapse to form a slide whenever a creature that isn't an Undead steps on them. At the same time, the stone lid concealing a hidden pit at the bottom of the stairs snaps open.
 
@@ -1737,6 +1795,8 @@ Pulling the hidden lever closes the pit's lid and resets the stairs. The lid ope
 
 **——中文译文——**
 
+---
+
 **——T6：奥术图书馆——**
 
 在这房间的任一入口侧耳倾听的角色，都会听到里面沉重的脚步声与家具被砸毁的声响。
@@ -1747,9 +1807,13 @@ Pulling the hidden lever closes the pit's lid and resets the stairs. The lid ope
 
 **教徒**埃莱斯·脆骨被骗入了奥喀斯邪教。希娅让矮人相信：世界将终、诸神已死、死亡的恶魔势力即将赢得最终胜利，劝他加入这场宇宙冲突中的「赢家一方」。埃莱斯一旦注意到角色使用明显的神圣魔法——例如治疗盟友或驱散不死生物——矮人立刻投降。此时埃莱斯愿意分享教团情报，交换「现存神祇与宇宙现状」的信息。埃莱斯可分享的信息见前文「**希娅的教团**」。
 
+---
+
 **——凹室——**
 
 每间凹室藏有 4d10 + 20 册勉强可辨认的书卷，全部脆化易燃。角色用研究动作并通过 DC15 的智力（宗教）检定，可辨认出这些材料记载着奥喀斯信众修行的各类仪式。
+
+---
 
 **——幽魂图书管理员——**
 
@@ -1759,9 +1823,13 @@ Pulling the hidden lever closes the pit's lid and resets the stairs. The lid ope
 
 梅琳德拉不知道死后如何安息。角色用研究动作并通过 DC15 的智力（宗教）检定，可以辨明让她安息的方法：把图书馆里的书卷全部移走，或者全部摧毁。任何试图移走或摧毁她收藏的人，梅琳德拉都会转为敌对并开战。
 
+---
+
 **——密门——**
 
 北凹室的一座书架后藏着一扇密门（见「**神殿通用特征**」），门后是餐厅（T7）。
+
+---
 
 **——骸骨遗骸——**
 
@@ -1774,7 +1842,9 @@ Pulling the hidden lever closes the pit's lid and resets the stairs. The lid ope
 **——English Original——**
 
 
-**——T6: Occult Library——**
+---
+
+**——T6: Occult Library——**
 
 Characters who listen at either entrance to this room notice heavy footfalls within and the sound of furniture being smashed.
 
@@ -1785,12 +1855,16 @@ Following the statue of Orcus's instructions, Xia commanded the cultist—a dwar
 **Cultist** Eleith Brittlebones has been duped into following the cult of Orcus. Xia convinced the dwarf that the world is nearing its end, the gods are dead, and the demonic forces of death are close to their ultimate triumph, persuading him to join the "winning side" in this cosmic conflict. As soon as Eleith notices a character use obvious divine magic—healing an ally or turning undead, for example—the dwarf surrenders. In this case, Eleith becomes willing to share information about the cult in exchange for information about living deities and the state of the cosmos. See "**Xia's Cult**" above for information Eleith can share.
 
 
-**——Alcoves——**
+---
+
+**——Alcoves——**
 
 Each alcove contains 4d10 + 20 barely legible books and scrolls, all of them brittle and flammable. A character who takes the Study|XPHB action and succeeds on a DC15 Intelligence (Religion|XPHB) check discerns that these materials describe various rites practiced by Orcus worshipers.
 
 
-**——Ghostly Librarian——**
+---
+
+**——Ghostly Librarian——**
 
 The spectral figure in the alcove is the **Ghost** of Melindra Vox, the librarian of the earlier Orcus cult. She is Chaotic Evil and initially Indifferent toward visitors. She is furious that the zombies are ruining her collection of books and scrolls but can't stop them herself, as she has vowed never to harm cult allies. When she notices the characters, Melindra assumes they are intruders who aren't subject to such vows, and she beseeches them to destroy the **Ogre Zombie**. If the characters oblige, Melindra becomes Friendly toward them. If they refuse to help, she remains Indifferent.
 
@@ -1799,12 +1873,16 @@ If the characters converse with Melindra while she is Friendly, she reveals that
 Melindra doesn't know how to find peace in the afterlife. A character who takes the Study|XPHB action and makes a successful DC15 Intelligence (Religion|XPHB) check discerns the way to lay her spirit to rest: either by removing all the books and scrolls from the library or by destroying them. Melindra becomes Hostile toward and fights anyone who tries to remove or destroy her collection.
 
 
-**——Secret Door——**
+---
+
+**——Secret Door——**
 
 A bookshelf in the north alcove conceals a secret door (see "**Temple Features**"), behind which lies the dining hall (area **T7**).
 
 
-**——Skeletal Remains——**
+---
+
+**——Skeletal Remains——**
 
 See "Temple Features" for more on the skeletal remains here.
 
@@ -1842,11 +1920,15 @@ See "Temple Features" for more on the skeletal remains here.
 
 **——中文译文——**
 
+---
+
 **——T7：餐厅——**
 
 > > 这间厅室中央摆着一张长方形长桌，桌脚雕成爪形，四周环绕十二把高背椅。椅背上挂着几张山羊头骨制成的狰狞面具。一张病黄脸孔的年轻人类身穿猩红长袍，坐在桌子一端，吃着看起来半生不熟、闻起来倒胃口的肉。一把扫帚斜靠在他身旁的桌边。
 
 希娅与她的教徒外出时戴山羊头骨面具。面具吓人，但不值钱。
+
+---
 
 **——教徒——**
 
@@ -1856,9 +1938,13 @@ See "Temple Features" for more on the skeletal remains here.
 
 奈扎鲁姆透过奥喀斯雕像的低语让扬迪斯陷入混乱。他不明白奥喀斯为什么命令希娅摧毁神殿里奥喀斯自己的圣像。当扬迪斯独自面对雕像时，雕像会向他低语生命的美好、新鲜空气的愉悦、做熟的饭菜与英雄的壮举。他的动摇使他容易被拉离教团。角色可以用影响动作，通过 DC10 的魅力（欺瞒或威吓）检定，尝试从他口中套出情报（扬迪斯可分享的教团信息见前文「**希娅的教团**」）。
 
+---
+
 **——密门——**
 
 南墙的一扇密门（见「**神殿通用特征**」）拉开后，露出后面的图书馆（T6）。
+
+---
 
 **——待寻回的被盗物资——**
 
@@ -1871,14 +1957,18 @@ See "Temple Features" for more on the skeletal remains here.
 **——English Original——**
 
 
-**——T7: Dining Hall——**
+---
+
+**——T7: Dining Hall——**
 
 > > This chamber contains a rectangular table with clawed feet surrounded by twelve high-backed chairs. Hanging off the backs of the chairs are hideous masks made from goat skulls. A sallow-faced young human in a crimson robe sits at one end of the table, eating some meat that looks undercooked and smells unappetizing. A broom leans against the table next to him.
 
 Xia and her cultists wear the goat-skull masks when they venture out in public. The masks are terrifying but worthless.
 
 
-**——Cultist——**
+---
+
+**——Cultist——**
 
 The young man sitting at the table (facing the secret door in the south wall) is Yondis Morgrin (Medium, Chaotic Neutral **Cultist Fanatic**), a member of **Xia's Cult** who is questioning his participation in it. He was initially attracted to the promise of being transformed into an Undead creature even more powerful than Xia, and he likes to pretend he is Undead already. He wears pasty makeup, shambles like a zombie, and eats undercooked and spoiling meat, but the disguise fools no one.
 
@@ -1887,12 +1977,16 @@ Yondis is Indifferent toward the characters, whether or not they wear the crimso
 The whisperings of Nezzarum through the Orcus statue have thrown Yondis into confusion. He can't understand why Orcus would be ordering Xia to destroy the iconography of Orcus around the temple, and when Yondis is alone in the presence of the statue, it whispers to him of the beauty of life and the pleasures of fresh air, well-cooked meals, and heroic deeds. His doubts make him susceptible to being drawn away from the cult. A character who takes the Influence|XPHB action can make a DC10 Charisma (Deception|XPHB or Intimidation|XPHB) check to try to coax information from him (see "**Xia's Cult**" above for information Yondis can share about the cult).
 
 
-**——Secret Door——**
+---
+
+**——Secret Door——**
 
 A secret door in the south wall (see "**Temple Features**") pulls open to reveal the library beyond (area **T6**).
 
 
-**——Stolen Goods to Recover——**
+---
+
+**——Stolen Goods to Recover——**
 
 Yondis's broom is a stolen item (see "Stolen Goods").
 
@@ -1919,6 +2013,8 @@ Yondis's broom is a stolen item (see "Stolen Goods").
 
 **——中文译文——**
 
+---
+
 **——T8：生活区——**
 
 六间卧室从餐厅（T7）开门进入。每间放着两张简陋的木板床，铺着稻草填充的床垫和羊毛毯。每张床旁的墙上有挂钩，用来挂衣物。只有三间房有近期使用过的痕迹。
@@ -1930,7 +2026,9 @@ Yondis's broom is a stolen item (see "Stolen Goods").
 **——English Original——**
 
 
-**——T8: Living Quarters——**
+---
+
+**——T8: Living Quarters——**
 
 Six bedchambers open off the dining hall (area **T7**). Each contains two plain wooden cots with straw-stuffed mattresses and woolen blankets. Next to each bed are wall hooks for hanging apparel. Only three of the chambers show any sign of recent use.
 
@@ -1958,9 +2056,13 @@ Six bedchambers open off the dining hall (area **T7**). Each contains two plain 
 
 **——中文译文——**
 
+---
+
 **——T9：西隧道——**
 
 这座 *L* 形厅室从 T5 通往一扇进入餐厅（T7）的双开门。
+
+---
 
 **——密门——**
 
@@ -1973,12 +2075,16 @@ Six bedchambers open off the dining hall (area **T7**). Each contains two plain 
 **——English Original——**
 
 
-**——T9: West Tunnel——**
+---
+
+**——T9: West Tunnel——**
 
 This *L*-shaped hall leads from area **T5** to a double door into the dining hall (area **T7**).
 
 
-**——Secret Door——**
+---
+
+**——Secret Door——**
 
 A secret door in the north wall stands ajar and requires no ability check to spot. Yondis (see area **T7**) found it recently and jammed an old finger bone into the doorway to prevent the door from closing all the way and make it easy for him to find.
 
@@ -2014,19 +2120,27 @@ A secret door in the north wall stands ajar and requires no ability check to spo
 
 **——中文译文——**
 
+---
+
 **——T10：东隧道——**
 
 > > 这条隧道散落着四个死人的积尘骸骨，都穿着破烂的猩红长袍。其中一具骸骨瘫坐在一道双开门旁的角落里，戴着一个形如腐烂山羊头的护身符，手里攥着一串钥匙。
 
 这座 *L* 形厅室从 T5 通往一扇进入祭仪密室（T11）的双开门。
 
+---
+
 **——密门——**
 
 北墙嵌着一扇密门（见「**神殿通用特征**」），通往主殿（T13）。
 
+---
+
 **——骸骨遗骸——**
 
 此处的骸骨遗骸详见「神殿通用特征」。
+
+---
 
 **——财宝——**
 
@@ -2039,24 +2153,32 @@ A secret door in the north wall stands ajar and requires no ability check to spo
 **——English Original——**
 
 
-**——T10: East Tunnel——**
+---
+
+**——T10: East Tunnel——**
 
 > > This tunnel is littered with the dusty bones of four dead humans wearing tattered crimson robes. One of the skeletons slumps in a corner next to a double door. It wears an amulet shaped like a goat's rotting head and clutches a ring of keys.
 
 This L-shaped hall leads from area **T5** to a double door into the ritual chamber (area **T11**).
 
 
-**——Secret Door——**
+---
+
+**——Secret Door——**
 
 Set into the north wall, a secret door (see "**Temple Features**") leads to the main temple (area **T13**).
 
 
-**——Skeletal Remains——**
+---
+
+**——Skeletal Remains——**
 
 See "Temple Features" for more on the skeletal remains here.
 
 
-**——Treasure——**
+---
+
+**——Treasure——**
 
 The inanimate skeleton next to the double door is all that remains of the temple's high priest. It clutches a ring holding three iron keys, which unlock the cell doors in area **T11**, and wears an amulet shaped like a goat's rotting head (the symbol of Orcus) on a chain around its neck. The silver amulet is worth 25 GP and has a hidden compartment containing a folded-up *Spell Scroll* of *Animate Dead*. A character who takes the Search|XPHB action to examine the amulet finds the hidden compartment with a successful DC15 Wisdom (Perception|XPHB) check.
 
@@ -2096,11 +2218,15 @@ The inanimate skeleton next to the double door is all that remains of the temple
 
 **——中文译文——**
 
+---
+
 **——T11：祭仪密室——**
 
 > > 这个密室的墙上挂着生锈的镣铐。房间中央摆着两张石板台。北侧石板上趴着一具人类骸骨，裹着积尘的猩红长袍，戴着眼罩，一只骨手里攥着一条鞭子。沿东墙是三扇生锈的铁栅门，门后是发霉的牢房。
 
 教徒们曾在此举行可怕的仪式。人类囚犯被关进牢房（见下文），直到被献祭。死后他们会被带回这个房间，由大祭司将他们活化为丧尸。
+
+---
 
 **——牢房——**
 
@@ -2110,9 +2236,13 @@ The inanimate skeleton next to the double door is all that remains of the temple
 - **牢房 B** 看似空无一物，但东墙一块松动的石头后面藏着暗格。角色用搜索动作并通过 DC13 的感知（察觉）检定，即可发现松石与其后的宝藏（见下文「财宝」）。
 - **牢房 C** 关着一个叛逆提夫林教徒的骸骨——他曾试图推翻神殿大祭司，失败而死。扰动这具骸骨会令背叛者的怨灵显现为一只**幽影**，与角色开战。
 
+---
+
 **——骸骨遗骸——**
 
 牢房里的骸骨裹着破布，没有装备或财宝。北侧石板上那具骸骨，是大祭司的拷问官（详见下文「财宝」与「**神殿通用特征**」）。
+
+---
 
 **——财宝——**
 
@@ -2125,14 +2255,18 @@ The inanimate skeleton next to the double door is all that remains of the temple
 **——English Original——**
 
 
-**——T11. Ritual Chamber——**
+---
+
+**——T11. Ritual Chamber——**
 
 > > Rusty shackles dangle from this chamber's walls. In the middle of the room sit two stone slabs. Draped over the northern slab is a human skeleton wearing a dusty crimson robe and an eye patch. It clutches a whip in one bony hand.Along the east wall are three rusty gates with mold-covered cells beyond them.
 
 Cultists used to perform ghastly rites here. Human prisoners were confined to the cells (see below) until they were sacrificed. After death, they would be brought back to this room, where the high priest would animate them as zombies.
 
 
-**——Cells——**
+---
+
+**——Cells——**
 
 All three cell doors are locked; a skeleton in the east tunnel (area **T10**) holds the keys. The DC to pick one of these locks is 15. The cells' contents are as follows:
 
@@ -2141,12 +2275,16 @@ All three cell doors are locked; a skeleton in the east tunnel (area **T10**) ho
 - **Cell C** contains the bones of a treacherous tiefling cultist who tried and failed to overthrow the temple's high priest. Disturbing this skeleton causes the traitor's spirit to manifest as a **Wraith** and fight the characters.
 
 
-**——Skeletal Remains——**
+---
+
+**——Skeletal Remains——**
 
 The skeletal remains in the cells are clad in tattered rags and have no equipment or treasure. The skeleton draped over the northern slab is that of the high priest's torturer (see "Treasure" below and "**Temple Features**" for details).
 
 
-**——Treasure——**
+---
+
+**——Treasure——**
 
 The dead torturer clutches a *+1 Whip*. Behind the loose stone in cell B lies a *Wand of Secrets*.
 
@@ -2192,6 +2330,8 @@ The dead torturer clutches a *+1 Whip*. Behind the loose stone in cell B lies a 
 
 **——中文译文——**
 
+---
+
 **——T12：恐怖的工作——**
 
 > > 死亡的恶臭弥漫这座立柱大厅。两架十尺长的梯子靠在西墙上。每个梯子上都扒着一个穿猩红长袍的腐烂身影，笨拙地往墙上刷漆，每架梯子脚下还站着一具扶梯的行尸。很难看清丧尸们到底在画什么。大厅中央站着一个面色苍白的女人，板着脸监督这桩活计。她穿猩红长袍，头戴角状头饰。她身边环绕着四只枯瘦的生物——利爪、长舌、饥饿的眼睛。大厅北端的双开门敞开着，露出后面一间巨大的厅室。在那大厅深处的阴影里，矗立着一尊庞大的山羊恶魔雕像。
@@ -2201,6 +2341,8 @@ The dead torturer clutches a *+1 Whip*. Behind the loose stone in cell B lies a 
 一有风吹草动，希娅便命令食尸鬼阻挡闯入者，自己退到 T13，向奥喀斯雕像请求指引。雕像里传出洪亮的回应：「这是你最后的考验，希娅。别让我失望！」希娅随即回到食尸鬼身边，死战到底。为奈扎鲁姆掷先攻。轮到他时，他从 T13 雕像背后的密门现身，加入战局——他相信冒险者就是他一直在等的英雄。
 
 与此同时，丧尸们继续画云扶梯，直到有角色向它们动手。无论扶梯的还是梯上的丧尸受伤，梯上的丧尸都会坠落——坠落 10 尺，泼掉整罐漆。
+
+---
 
 **——待寻回的被盗物资——**
 
@@ -2213,7 +2355,9 @@ The dead torturer clutches a *+1 Whip*. Behind the loose stone in cell B lies a 
 **——English Original——**
 
 
-**——T12: Ghastly Work——**
+---
+
+**——T12: Ghastly Work——**
 
 > > The stench of death fills this pillared hall. Two ten-foot ladders lean against the west wall. A rotting figure in a crimson robe clings to each ladder, clumsily painting the wall with a brush, while another animated corpse stands at the bottom of each ladder, holding it steady. It's hard to tell what the zombies are painting.A scowling woman with pallid skin stands in the middle of the hall, presiding over the work. She wears a crimson robe and a horned headdress. Surrounding her are four gaunt creatures with sharp claws, long tongues, and hungry eyes.The double door at the northern end of the hall stands open, revealing a vast chamber beyond. Swathed in shadows at the back of this large chamber towers a massive statue of a goatish fiend.
 
@@ -2224,7 +2368,9 @@ At the first sign of trouble, Xia commands her ghouls to fight intruders while s
 Meanwhile, the zombies continue painting and holding Ladders until a character engages them in combat. If either a zombie holding a Ladder or a zombie on a Ladder takes damage, the zombie on the Ladder falls. That zombie falls 10 feet and spills its pot of paint.
 
 
-**——Stolen Goods to Recover——**
+---
+
+**——Stolen Goods to Recover——**
 
 The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen Goods").
 
@@ -2312,6 +2458,8 @@ The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen 
 
 **——中文译文——**
 
+---
+
 **——T13：奥喀斯大雕像——**
 
 > > 一尊三十尺高的奥喀斯雕像顶着大厅的天花板。基座上的石火盆燃着熏香，浓香大体盖住了腐臭。角落里立着一群教徒的雕像。
@@ -2320,9 +2468,13 @@ The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen 
 
 奈扎鲁姆——一条**银龙雏龙**，通晓通用语——就潜伏在奥喀斯雕像里。龙能透过雕像空洞的眼、鼻、嘴窥视大厅。不操控希娅为自己做事的时候，奈扎鲁姆就以自己跟自己下龙棋消磨时光。他手里那副龙棋是被盗物资（见下文「被盗物资」）。
 
+---
+
 **——扮演奈扎鲁姆——**
 
 奈扎鲁姆一直在等待冒险者前来打倒希娅和她的教团——他清楚凭自己的实力单干打不过他们。如果 T12 爆发战斗且奈扎鲁姆有所察觉（无论是因为希娅跑来向奥喀斯雕像求援，还是因为他从雕像藏身处注意到战局展开），他就会从雕像里现身参战。如果角色们击败了希娅且奈扎鲁姆在遭遇中存活，龙对他们转为友好。如果角色没有先与希娅交战就直接接近奈扎鲁姆，龙初始对他们冷漠。
+
+---
 
 **——冷漠的龙——**
 
@@ -2343,11 +2495,15 @@ The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen 
 > 
 角色若被「奥喀斯」命令的古怪之处触动，可以用搜索动作做 DC15 的感知（洞悉）检定。成功即意识到这里有诈。
 
+---
+
 **——友好的龙——**
 
 转为友好后，奈扎鲁姆会讲述自己来到神殿、教团随后到来的经过（见「**冒险背景**」）。如果角色尚未打倒希娅，这是龙的头等大事，他承诺助战，一起对付那只妖鬼与残存教徒。
 
 奈扎鲁姆没把神殿搜遍，不知道其他密门的位置（雕像基座里那扇除外）。角色若同意分他相等的一份，他不反对他们搜刮神殿的财宝。
+
+---
 
 **——密门——**
 
@@ -2356,6 +2512,8 @@ The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen 
 - **雕像通道**——基座内的螺旋楼梯，通往雕像头部直径约 10 尺的小室
 - **南墙双门**——西扇虚掩，直通 T9
 - **雕像后四密门**——通往 T14 宝库
+
+---
 
 **——待寻回的被盗物资——**
 
@@ -2368,7 +2526,9 @@ The *Ladder*, pots of paint, and paintbrushes are all stolen goods (see "Stolen 
 **——English Original——**
 
 
-**——T13: Great Statue of Orcus——**
+---
+
+**——T13: Great Statue of Orcus——**
 
 > > A great statue of Orcus scrapes the thirty-foot-high ceiling of this chamber. The rich smell of incense rises from a large stone brazier at the statue's base, overpowering the faint lingering odor of death. The demon lord's goat-skull visage glowers at you as statues of cultists gaze outward from the shadowed corners of the hall.
 
@@ -2377,12 +2537,16 @@ The burning incense in the main temple mostly masks the odor of decay that perme
 Nezzarum, a **Silver Dragon Wyrmling** who knows Common, lurks inside the statue of Orcus. The dragon can gaze out into the hall through the statue's hollow eyes, nostrils, and mouth. When not manipulating Xia into doing his bidding, Nezzarum passes the time by playing games of dragonchess against himself. The dragonchess set in his possession is stolen (see "Stolen Goods" below).
 
 
-**——Roleplaying Nezzarum——**
+---
+
+**——Roleplaying Nezzarum——**
 
 Nezzarum has been waiting here in the hope that adventurers would come and defeat Xia and her cult, knowing that he isn't strong enough to defeat them on his own. If combat breaks out in **T12** and Nezzarum is aware of it (either because Xia comes and implores the statue of Orcus for aid or because he notices the battle unfolding from his hiding place in the statue), he emerges from the statue and joins the fray. If the characters defeat Xia and Nezzarum survives the encounter, the dragon is Friendly toward them. If the characters approach Nezzarum without first fighting Xia, the dragon is initially Indifferent.
 
 
-**——Indifferent Dragon——**
+---
+
+**——Indifferent Dragon——**
 
 If Nezzarum hasn't seen the characters prove themselves in battle, he errs on the side of caution and decides to test them. He issues a random command, determined by rolling on the Nezzarum's Commands table, and judges them based on their consequent actions. If they fulfill his wishes, he seems pleased; if they refuse a command, he remains Indifferent toward them.
 
@@ -2402,14 +2566,18 @@ Each time the characters leave the hall and return, Nezzarum issues a new comman
 Characters struck by the bizarre nature of "Orcus's" commands can take the Search|XPHB action and make a DC15 Wisdom (Insight|XPHB) check. On a success, the character realizes a deception is afoot.
 
 
-**——Friendly Dragon——**
+---
+
+**——Friendly Dragon——**
 
 If he becomes Friendly, Nezzarum tells the story of his coming to the temple and the cult's subsequent arrival (see "**Adventure Background**"). If the characters haven't defeated Xia yet, that's the dragon's highest priority, and he promises to help them fight the ghast and any remaining cultists.
 
 Nezzarum hasn't searched the temple thoroughly enough to locate any other secret doors (besides the one in the base of the statue). He has no objection to the characters searching the temple for treasure if they agree to give him an equal share.
 
 
-**——Secret Doors——**
+---
+
+**——Secret Doors——**
 
 This hall contains seven secret doors (see "**Temple Features**"):
 
@@ -2418,7 +2586,9 @@ This hall contains seven secret doors (see "**Temple Features**"):
 - **To the Vaults**
 
 
-**——Stolen Goods to Recover——**
+---
+
+**——Stolen Goods to Recover——**
 
 The dragonchess Gaming Set and incense are stolen goods (see "Stolen Goods"). If Nezzarum is Friendly, he allows the characters to return the goods the cultists stole to the rightful owners.
 
@@ -2495,19 +2665,27 @@ The dragonchess Gaming Set and incense are stolen goods (see "Stolen Goods"). If
 
 **——中文译文——**
 
+---
+
 **——T14：秘密宝库——**
 
 四座秘密宝库与主殿（T13）相连，另两座与雕像厅（T4）相连。宝库构造基本相同，但每座里的雕像、宝藏与守护者各不相同。
 
 > > 隧道的尽头是一间五边形小室。角落里立着一尊结满蛛网的雕像。
 
+---
+
 **——宝库内容——**
 
 用「雕像」表决定每尊雕像的形态，「生物」表决定每座宝库的守护者，「宝藏」表决定其中存放的物件（见下文「取宝」）。
 
+---
+
 **——取宝——**
 
 每尊雕像底下都有一个圆柱形暗格，直径 3 尺，深 3 尺。要拿到里面的宝藏，角色必须推倒或摧毁雕像。每尊雕像都是中型物件：AC 17，HP 18，免疫毒素与心灵伤害。角色可以用一个利用动作尝试推倒雕像，DC17 的力量（运动）检定成功即推倒。
+
+---
 
 **——雕像——**
 
@@ -2520,6 +2698,8 @@ The dragonchess Gaming Set and incense are stolen goods (see "Stolen Goods"). If
 > | 5 | 骸骨山羊 |
 > | 6 | **妖影** |
 > 
+---
+
 **——生物——**
 
 > | 1d6 | 守护者 |
@@ -2531,6 +2711,8 @@ The dragonchess Gaming Set and incense are stolen goods (see "Stolen Goods"). If
 > | 5 | 扰动雕像使其吐出一只敌对的**黑布丁**。 |
 > | 6 | 没有守护者。 |
 > 
+---
+
 **——宝藏——**
 
 > | 1d6 | 暗格内容 |
@@ -2542,11 +2724,15 @@ The dragonchess Gaming Set and incense are stolen goods (see "Stolen Goods"). If
 > | 5 | 一口小棺，里面是一具蜷成胎儿姿势的木乃伊化人类尸体，戴金项链（值 750 GP）。 |
 > | 6 | 一只提篮，装着随机决定的非普通魔法物品（见《地下城主指南》）。 |
 > 
+---
+
 **——结语——**
 
 铲除神殿里的**希娅教团**之后，角色们可以回灰水镇领取报酬。就算没有清除每一处威胁，欧瑞安也信任角色们完成了任务，照付报酬。旅店老板乐于接管角色们从神殿寻回的被盗物资，确保它们物归原主。
 
 如果角色们透露教团的古怪行径背后是一条银龙，欧瑞安回忆起偶尔见过一条雏龙在云间翱翔，此外便一无所知。
+
+---
 
 **——银龙史话——**
 
@@ -2559,19 +2745,25 @@ The dragonchess Gaming Set and incense are stolen goods (see "Stolen Goods"). If
 **——English Original——**
 
 
-**——T14: Secret Vaults——**
+---
+
+**——T14: Secret Vaults——**
 
 Four secret vaults are connected to the main temple (area **T13**), and two more are connected to the hall of statues (area **T4**). The vaults are basically identical, but each contains a different statue, a different treasure, and a different guardian for that treasure.
 
 > > A tunnel leads to a five-sided room. A cobweb-covered statue stands in one corner.
 
 
-**——Vault Contents——**
+---
+
+**——Vault Contents——**
 
 Use the Statues table to determine each statue's form, the Creatures table to determine the guardian of each vault, and the Treasure table to determine the items stored within (see "Accessing the Vaults' Treasure" below).
 
 
-**——Accessing the Vaults' Treasure——**
+---
+
+**——Accessing the Vaults' Treasure——**
 
 Under each statue lies a cylindrical compartment 3 feet across and 3 feet deep. To get at the treasure within, characters must topple or destroy the statue. Each statue is a Medium object with AC 17, HP 18, and Immunity to Poison and Psychic damage. As a Utilize|XPHB action, a character can try to topple a statue, doing so with a successful DC17 Strength (Athletics|XPHB) check.
 
@@ -2609,12 +2801,16 @@ Under each statue lies a cylindrical compartment 3 feet across and 3 feet deep. 
 > | 6 | Basket containing a randomly determined Uncommon magic item (see the Dungeon Master's Guide) |
 > 
 
+---
+
 **——Conclusion——**
 
 After ridding the temple of **Xia's Cult**, the characters can return to Greysmere to collect their reward. Even if they didn't remove every threat, Oriann trusts the characters accomplished their mission and pays them accordingly. The innkeeper gladly takes custody of any stolen goods the characters retrieved from the temple and ensures that they are returned to their proper owners.
 
 Should the characters reveal that a silver dragon was behind the cult's bizarre activities, Oriann recalls observing a wyrmling soaring among the clouds from time to time, but they know nothing more about it.
 
+
+---
 
 **——History of Silver Dragons——**
 
