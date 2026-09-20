@@ -3,8 +3,10 @@ title: 🧰 DM 工具箱
 createTime: 2026/09/18
 ---
 
+::: center
 主持人备团与带团用的==工具与方法==：设计方法论、怪物与 NPC 素材、冒险与地图资源。  
 玩家可选内容一律在[玩家选项](/rule/dnd_5r/player_option/)，不入本区。
+:::
 
 ::::: center
 
