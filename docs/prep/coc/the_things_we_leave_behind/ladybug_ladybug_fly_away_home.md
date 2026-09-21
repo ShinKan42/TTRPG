@@ -169,7 +169,7 @@ ShinKan42
 
 ::: tip 逾越节 Passover——名字即剧透
 
-- **逾越节 Passover==——名字即剧透==**
+- **逾越节 Passover ==——名字即剧透==**
 
     - 词面是「越过」
       - 出处《出埃及记》第十灾：
@@ -516,7 +516,7 @@ KJV：
 
 ::: tip 儿童保护服务 CPS——琳赛每天开的机器
 
-- **儿童保护服务 CPS==——琳赛每天开的机器==**
+- **儿童保护服务 CPS ==——琳赛每天开的机器==**
 
     - **县级体制**——==每县一个公共儿童服务局==（俄亥俄法律明文），社工是县雇员
       - **流水线**：接报 → 调查家访 → 社工签宣誓书 → 县律师向少年法庭立案 → 法官签紧急监护令 → 儿童进县立庇护所 → 庭前聆讯
@@ -1430,7 +1430,7 @@ Regina's kidnapping is all over the regional news within an hour of its occurren
 
 :::
 
-- **琳赛·皮尔 Lindsay Peale==——藏起世界的绑匪，等一句承诺==**
+- **琳赛·皮尔 Lindsay Peale ==——藏起世界的绑匪，等一句承诺==**
 
   <details class="hint-container details">
   <summary>📷 琳赛·皮尔</summary>
@@ -1586,7 +1586,7 @@ Lindsay initially still wanted to have nothing to do with the whole matter, but 
 
 :::
 
-- **约翰·贝尔福 John Balfour==——真诚的疯牧师，合法地走向献祭==**
+- **约翰·贝尔福 John Balfour ==——真诚的疯牧师，合法地走向献祭==**
 
   <details class="hint-container details">
   <summary>📷 约翰·贝尔福牧师</summary>
@@ -1758,7 +1758,7 @@ KJV：
 
 :::
 
-- **露西·贝茨 Lucy Bates==——程序正义，目标即灾难==**
+- **露西·贝茨 Lucy Bates ==——程序正义，目标即灾难==**
 
 <details class="hint-container details">
 <summary>📷 露西·贝茨探员——FBI 失踪与受剥削儿童特遣组</summary>
@@ -1838,7 +1838,7 @@ KJV：
 
 :::
 
-- **蕾吉娜·贝尔福 Regina Balfour==——五岁，爱父母，每天听以撒故事==**
+- **蕾吉娜·贝尔福 Regina Balfour ==——五岁，爱父母，每天听以撒故事==**
 
   <details class="hint-container details">
   <summary>📷 蕾吉娜·贝尔福——被留下的瓢虫书包的主人</summary>
@@ -2010,7 +2010,7 @@ KP 任意指定至 99%
 
 :::
 
-- **「零蛋」约翰尼 Johnny Zero==——武装核心头目（挂信徒共通卡）==**
+- **「零蛋」约翰尼 Johnny Zero ==——武装核心头目（挂信徒共通卡）==**
 
 ::::: details 数据卡：自杀信徒 ×10（「零蛋」约翰尼领队）
 
@@ -2067,7 +2067,7 @@ KP 任意指定至 99%
 
 :::
 
-- **乔治·刘易斯顿 George Lewiston==——殁==**
+- **乔治·刘易斯顿 George Lewiston ==——殁==**
 
   **遗物即人设**：
     - 付清全部账单
