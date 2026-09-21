@@ -18,6 +18,7 @@ export default defineCollection({
 				{ text: '扮演 🎭', link: 'roleplay' },
 				{ text: '战斗 ⚔️', link: 'combat' },
 				{ text: '常见问题 ❓', link: 'faq' },
+				{ text: '常用村规 📜', link: 'house_rules' },
 			],
 		},
 		{

@@ -169,6 +169,11 @@ export const navbar = defineNavbarConfig([
 						link: '/rule/dnd_5r/guide/faq',
 						activeMatch: '^/rule/dnd_5r/guide/faq',
 					},
+					{
+						text: '常用村规 📜',
+						link: '/rule/dnd_5r/guide/house_rules',
+						activeMatch: '^/rule/dnd_5r/guide/house_rules',
+					},
 				],
 			},
 			{
