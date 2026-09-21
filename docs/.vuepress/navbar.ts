@@ -296,6 +296,7 @@ export const navbar = defineNavbarConfig([
 			{
 				text: '📜 通用村规',
 				items: [
+					{ text: '通用村规 📜', link: '/about/house_rules', activeMatch: '^/about/house_rules' },
 					{ text: '塔罗牌 🔮', link: '/about/tarot', activeMatch: '^/about/tarot' },
 				],
 			},

@@ -27,7 +27,10 @@ export default defineCollection({
 		{
 			text: '📜 通用村规',
 			collapsed: false,
-			items: [{ text: '塔罗牌 🔮', link: 'tarot' }],
+			items: [
+				{ text: '通用村规 📜', link: 'house_rules' },
+				{ text: '塔罗牌 🔮', link: 'tarot' }
+			],
 		},
 	],
 });
