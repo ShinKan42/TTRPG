@@ -42,5 +42,10 @@ export default defineCollection({
 				{ text: '🎯 1999', link: '1999' },
 			],
 		},
+		{
+			text: '🎯 特化规则',
+			collapsed: true,
+			items: [{ text: '暂无收录', link: 'index#tehua-guize' }],
+		},
 	],
 });
