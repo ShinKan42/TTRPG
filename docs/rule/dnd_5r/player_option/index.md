@@ -106,7 +106,7 @@ createTime: 2026/09/18
 
 不成传统车卡五大类的玩家向玩法系统：角色减益、伙伴系统、灵能修行、诅咒变身等——不是职业种族，是给角色加一层特殊玩法的可选规则。
 
-::: card
+:::: card
 
 ::: center
 
@@ -118,5 +118,5 @@ createTime: 2026/09/18
 
 [查看详情 →](/rule/dnd_5r/player_option/tehua/character_maluses)
 
-:::
+::::
 
