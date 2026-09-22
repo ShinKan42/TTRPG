@@ -150,6 +150,11 @@ export const navbar = defineNavbarConfig([
 						activeMatch: '^/rule/dnd_5r/guide/character_creation',
 					},
 					{
+						text: '常用村规 📜',
+						link: '/rule/dnd_5r/guide/house_rules',
+						activeMatch: '^/rule/dnd_5r/guide/house_rules',
+					},
+					{
 						text: '常用骰法 🎲',
 						link: '/rule/dnd_5r/guide/quick_roll',
 						activeMatch: '^/rule/dnd_5r/guide/quick_roll',
@@ -168,11 +173,6 @@ export const navbar = defineNavbarConfig([
 						text: '常见问题 ❓',
 						link: '/rule/dnd_5r/guide/faq',
 						activeMatch: '^/rule/dnd_5r/guide/faq',
-					},
-					{
-						text: '常用村规 📜',
-						link: '/rule/dnd_5r/guide/house_rules',
-						activeMatch: '^/rule/dnd_5r/guide/house_rules',
 					},
 				],
 			},

@@ -14,11 +14,11 @@ export default defineCollection({
 				{ text: 'DND 怎么玩 ❔', link: 'about' },
 				{ text: '职业选择 🗡️', link: '/rule/dnd_5r/class/guide' },
 				{ text: '车卡指南 📖', link: 'character_creation' },
+				{ text: '常用村规 📜', link: 'house_rules' },
 				{ text: '常用骰法 🎲', link: 'quick_roll' },
 				{ text: '扮演 🎭', link: 'roleplay' },
 				{ text: '战斗 ⚔️', link: 'combat' },
 				{ text: '常见问题 ❓', link: 'faq' },
-				{ text: '常用村规 📜', link: 'house_rules' },
 			],
 		},
 		{

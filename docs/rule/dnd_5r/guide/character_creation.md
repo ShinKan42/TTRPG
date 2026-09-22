@@ -87,7 +87,7 @@ tags:
 
 ::: card
 
-[常用骰法](./quick_roll)
+[常用村规](./house_rules)
 
 :::
 
