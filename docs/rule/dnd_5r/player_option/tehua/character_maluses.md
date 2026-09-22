@@ -140,10 +140,10 @@ createTime: 2026/09/19
 
 **📖 出处**
 
-机制与数值来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区创作：《[Character Maluses](https://docs.google.com/document/d/e/2PACX-1vQ63tMeoHpMRjWoGHh1UP12Ryp0K9lOTnDbQSXul1xobBwhtIgSHDYTnSby5t4MFUil7dTUGdmHA6oy/pub)》。
+机制与数值来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区创作：==《Character Maluses》==。
 
-本页为==中文机制重述==，非官方译本；
-原文为 PLAYTEST 内容，规则可能随版本变动。
+本页为==中文机制重述==，非官方译本；原文为 ==PLAYTEST== 内容，规则可能随版本变动。
+
 收到权利人要求即下架。
 
 :::
