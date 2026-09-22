@@ -11,7 +11,7 @@ createTime: 2025/03/10 02:17:48
 
 ::: card
 
-[车卡指南](./character_creation)
+[常用村规](./house_rules)
 
 :::
 
