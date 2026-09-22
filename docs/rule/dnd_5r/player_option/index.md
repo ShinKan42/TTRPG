@@ -106,4 +106,17 @@ createTime: 2026/09/18
 
 不成传统车卡五大类的玩家向玩法系统：角色减益、伙伴系统、灵能修行、诅咒变身等——不是职业种族，是给角色加一层特殊玩法的可选规则。
 
-暂无收录，随收集追加。
+::: card
+
+::: center
+
+#### **[角色减益 📉](/rule/dnd_5r/player_option/tehua/character_maluses)**
+
+:::
+
+把背景弱点变成真实机制的车卡可选规则：文盲、恐高、谎撒不利索，加上十二种职业专属减益——==DM 同意制==，每条都是一段可以设计的成长线。
+
+[查看详情 →](/rule/dnd_5r/player_option/tehua/character_maluses)
+
+:::
+

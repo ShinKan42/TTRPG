@@ -44,8 +44,9 @@ export default defineCollection({
 		},
 		{
 			text: '🎯 特化规则',
-			collapsed: true,
-			items: [{ text: '暂无收录', link: 'index#tehua-guize' }],
+			prefix: 'tehua',
+			collapsed: false,
+			items: [{ text: '角色减益 📉', link: 'character_maluses' }],
 		},
 	],
 });
