@@ -2415,6 +2415,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::
 
+:::: card
+
 - **玩家面实物件三张（Handout #1-#3）==——使用总则==**
 
 
@@ -2425,6 +2427,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - **打印**：每张的 details 折叠是 DM 专用注记，打印时忽略
   - **三卡同构**：图版、中文直译、英文原文都在各自卡内
     - DM 无实物时照中文直译念
+
+::::
 
 ::::: card
 
