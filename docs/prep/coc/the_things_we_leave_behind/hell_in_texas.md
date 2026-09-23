@@ -1121,7 +1121,6 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 点名要见牧师，满屋怒吼逼问真相
         - **下场**：罗伊格尔钻进他的脑子，挑起与埃利斯的枪战
           - ==无人干预，埃利斯将他击毙==
-  ---
 
 :::: details 📊 数据卡——米奇·兰德罗姆
 
@@ -1212,7 +1211,6 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
         - 原书明写：==把这个歧义演到最大==
     - **第一个错**：==指控邪教本身就是这案子的第一个错==
       - 他们才是全镇最怕魔鬼的人
-  ---
 
 :::: details 📊 数据卡——泰德·韦弗
 
@@ -1283,7 +1281,6 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **清现场**：案发现场当日清理（墙上遗书涂掉）
     - **锁照片**：==遗书照片锁进自己办公桌抽屉==
       - 被马丁内斯偷拷
-  ---
 
 :::: details 📊 数据卡——丹尼尔·韦弗
 
