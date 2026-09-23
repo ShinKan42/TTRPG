@@ -97,7 +97,7 @@ B 记者——落魄记者团（狗仔/烦人精/塌房名人任选），你来�
 地狱屋照样开门。
 ---
 角色塑造问题：
-1、生活刚刚好起来的时候，你最怕失去什么？
+1、重生、重新开始，对角色意味着什么？他的生活里，有没有刚刚拼好、刚刚愈合、刚刚戒掉的东西？
 2、大家都觉得不对劲但都没说——你会是开口的那个人吗？
 
 联系人：
@@ -428,8 +428,8 @@ ShinKan42
 ---
 
   - **本篇命题**（挂招募帖·角色塑造问题）
-    - **①（人物层）**
-      - **问**：生活刚刚好起来的时候，你最怕失去什么？
+    - **①（人物层·重建）**
+      - **问**：重生、重新开始，对角色意味着什么？他的生活里，有没有刚刚拼好、刚刚愈合、刚刚戒掉的东西？
     - **②（搁置层）**
       - 大家都觉得不对劲，但都没说
         - 你会是开口的那个人吗？
@@ -874,8 +874,6 @@ Other possible avenues include: Investigator groups actively looking for weird e
 
 ---
 
-:::::: card
-
 ::: center
 
 ### **传统调查员钩 🕵️**
@@ -915,8 +913,6 @@ Other possible avenues include: Investigator groups actively looking for weird e
 ::::
 
 ---
-
-::::: card
 
 ::: center
 
@@ -972,10 +968,6 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 
 ---
-
-:::::
-
-::::::
 
 :::: center
 
