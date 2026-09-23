@@ -288,7 +288,7 @@ export const navbar = defineNavbarConfig([
 				items: [
 					{ text: '联系方式 📮', link: '/about/contact', activeMatch: '^/about/contact' },
 					{ text: '约团方式 📅', link: '/about/appointment', activeMatch: '^/about/appointment' },
-					{ text: '跑团怎么玩 ❔', link: '/about/preparation', activeMatch: '^/about/preparation' },
+					{ text: '我的带团风格 🎭', link: '/about/preparation', activeMatch: '^/about/preparation' },
 				],
 			},
 			{

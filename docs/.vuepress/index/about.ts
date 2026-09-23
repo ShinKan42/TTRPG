@@ -12,7 +12,7 @@ export default defineCollection({
 			items: [
 			{ text: '联系方式 📮', link: 'contact' },
 			{ text: '约团方式 📅', link: 'appointment' },
-			{ text: '跑团怎么玩 ❔', link: 'preparation' },
+			{ text: '我的带团风格 🎭', link: 'preparation' },
 		],
 		},
 		{
