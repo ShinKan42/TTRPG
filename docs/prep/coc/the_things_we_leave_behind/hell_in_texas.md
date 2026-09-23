@@ -1878,6 +1878,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::
 
+---
+
 :::::: card
 
 ::::: card
@@ -1907,6 +1909,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - **反常**：教会成员的口径整齐得反常
 
 :::::
+
+---
 
 ::::: card
 
@@ -1944,6 +1948,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::::
 
+---
+
 ::::: card
 
 :::: center
@@ -1973,6 +1979,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - **定性**：马丁内斯的「程序异常」异常在制度薄，不在犯罪
 
 :::::
+
+---
 
 ::::: card
 
@@ -2094,6 +2102,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 ::::::
 
+---
+
 ::::: card
 
 :::: center
@@ -2116,6 +2126,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::::
 
+---
+
 ::::: card
 
 :::: center
@@ -2134,6 +2146,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 南希悔改得救，成为反堕胎活动家
 
 :::::
+
+---
 
 ::::: card
 
@@ -2155,6 +2169,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::::
 
+---
+
 ::::: card
 
 :::: center
@@ -2173,6 +2189,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::::
 
+---
+
 ::::: card
 
 :::: center
@@ -2188,6 +2206,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - **表演**：醉酒丈夫杰克家暴，妻子爱丽丝反抗带孩子们逃走；基督徒朋友给杰克改过的机会，==他嗤之以鼻酗酒至死==，被拖下地狱
 
 :::::
+
+---
 
 ::::: card
 
@@ -2210,6 +2230,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
 
 :::::
 
+---
+
 ::::: card
 
 :::: center
@@ -2227,6 +2249,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - 无感者从另一侧出帐回停车场
 
 :::::
+
+---
 
 ::::: card
 
@@ -2250,6 +2274,8 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
         - 见全篇机制章·感知通道
 
 :::::
+
+---
 
 ::::: card
 
