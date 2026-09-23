@@ -2425,7 +2425,7 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
       - 打印或投屏直接用
     - **洁净律**：零 SAN、零 DM 注记上玩家面
       - **打印**：每张的 details 折叠是 DM 专用注记，打印时忽略
-  - **三卡同构**：图版、中文直译、英文原文都在各自卡内
+  - **三卡同构**：中文版图版、英文原版图版、中文直译、英文原文都在各自卡内（打印用中文版）
     - DM 无实物时照中文直译念
 
 ::::
@@ -2447,7 +2447,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
   - 图版与全文如下
     - ==10/16 案发日锚==（时历轴据此补此日）
 
-::: details 📷 Handout #1——报纸页面
+::: details 📷 Handout #1——报纸页面（中文版）
+
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout1_news_zh.png" alt="Handout #1——里兰纪事报 10/20 报道（中文版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #1——里兰纪事报 10/20 报道（中文版）">
+
+:::
+
+::: details 📷 Handout #1——报纸页面（英文原版）
 
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout1_news.png" alt="Handout #1——里兰纪事报网站 10/20 报道" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #1——里兰纪事报网站 10/20 报道">
 
@@ -2506,7 +2512,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 调查员每次回访都可能刷到新楼层
       - **后效**：开门夜后若枪声真响，跟帖反转成证人笔录
 
-::: details 📷 Handout #2——Reddit 帖页面
+::: details 📷 Handout #2——Reddit 帖页面（中文版）
+
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout2_reddit_zh.png" alt="Handout #2——Reddit r/Easttexas 讨论帖（中文版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #2——Reddit r/Easttexas 讨论帖（中文版）">
+
+:::
+
+::: details 📷 Handout #2——Reddit 帖页面（英文原版）
 
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout2_reddit.png" alt="Handout #2——Reddit r/Easttexas 讨论帖" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #2——Reddit r/Easttexas 讨论帖">
 
@@ -2571,7 +2583,13 @@ A lurid suicide, a deliberately provocative haunted house, and allegations of co
     - 凯莉的手替「它」写下了它自己
       - **样本**：「撒旦杀了他」的渎神句是书写者精神崩坏的样本
 
-::: details 📷 Handout #3——墙面涂写照片
+::: details 📷 Handout #3——墙面涂写照片（中文版）
+
+<img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout3_screed_zh.png" alt="Handout #3——安格斯坦宅墙面涂写照片（中文版）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #3——安格斯坦宅墙面涂写照片（中文版）">
+
+:::
+
+::: details 📷 Handout #3——墙面涂写照片（英文原版）
 
 <img src="https://bed.shinkan42.art/prep/coc/ttwlb/art_texas_handout3_screed.png" alt="Handout #3——安格斯坦宅墙面涂写（墙上遗书）" style="max-width:512px;max-height:512px;display:block;margin:0 auto" title="Handout #3——安格斯坦宅墙面涂写（墙上遗书）">
 
