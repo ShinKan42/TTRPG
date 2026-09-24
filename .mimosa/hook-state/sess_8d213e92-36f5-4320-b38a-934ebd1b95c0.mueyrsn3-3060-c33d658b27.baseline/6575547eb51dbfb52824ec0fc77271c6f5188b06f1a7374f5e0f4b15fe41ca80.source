@@ -1,0 +1,2 @@
+import './iconify.css'
+export const icons = {"co":["akar-icons","tabler","mdi","simple-icons","game-icons","arcticons"],"bg":{},"mask":{"0":["air"],"1":["arrow-guide"],"2":["scale-balance"],"3":["dungeonsanddragons"],"4":["drama-masks","quill","perspective-dice-six-faces-random","candle-skull","daggers"],"5":["cyberpunk-red-companion"]}}

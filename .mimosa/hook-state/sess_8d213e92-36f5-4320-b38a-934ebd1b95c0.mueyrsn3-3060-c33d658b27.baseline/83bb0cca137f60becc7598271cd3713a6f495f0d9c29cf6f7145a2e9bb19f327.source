@@ -1,0 +1,14 @@
+import { defineClientConfig } from "vuepress/client";
+import ChartJS from "F:/BaiduSyncdisk/AI/LLM/Site/node_modules/.pnpm/@vuepress+plugin-markdown-c_b6d7add970e9d7f5782fa2847cf8ded6/node_modules/@vuepress/plugin-markdown-chart/dist/client/components/ChartJS.js";
+import FlowChart from "F:/BaiduSyncdisk/AI/LLM/Site/node_modules/.pnpm/@vuepress+plugin-markdown-c_b6d7add970e9d7f5782fa2847cf8ded6/node_modules/@vuepress/plugin-markdown-chart/dist/client/components/FlowChart.js";
+import MarkMap from "F:/BaiduSyncdisk/AI/LLM/Site/node_modules/.pnpm/@vuepress+plugin-markdown-c_b6d7add970e9d7f5782fa2847cf8ded6/node_modules/@vuepress/plugin-markdown-chart/dist/client/components/MarkMap.js";
+import Mermaid from "F:/BaiduSyncdisk/AI/LLM/Site/node_modules/.pnpm/@vuepress+plugin-markdown-c_b6d7add970e9d7f5782fa2847cf8ded6/node_modules/@vuepress/plugin-markdown-chart/dist/client/components/Mermaid.js";
+
+export default defineClientConfig({
+  enhance: ({ app }) => {
+    app.component("ChartJS", ChartJS)
+    app.component("FlowChart", FlowChart);
+    app.component("MarkMap", MarkMap);
+    app.component("Mermaid", Mermaid);
+  },
+});
