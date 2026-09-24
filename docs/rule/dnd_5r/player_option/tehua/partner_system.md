@@ -180,7 +180,7 @@ createTime: 2026/09/25
 
 ::: center
 
-### **🪄 施法者招式（12）**
+### **施法者招式（12）🪄**
 
 :::
 
@@ -312,7 +312,7 @@ createTime: 2026/09/25
 
 ::: center
 
-### **🗡️ 打手招式（9）**
+### **打手招式（9）🗡️**
 
 :::
 
@@ -414,7 +414,7 @@ createTime: 2026/09/25
 
 ::: center
 
-### **🛡️ 坦克招式（7）**
+### **坦克招式（7）🛡️**
 
 :::
 
@@ -504,7 +504,7 @@ createTime: 2026/09/25
 
 本页机制包含取自 [SRD 5.1](https://dnd.wizards.com/resources/systems-reference-document)（CC BY 4.0）的材料。
 
-原文为 ==PLAYTEST== 内容，作者自己标注这是「比任何一篇都更是半成品」的规则，会持续改动——以[作者文档最新版](https://docs.google.com/document/d/e/2PACX-1vRDzA1yjYmg8WbZGEtAt3VqV3xwnEiuDWZQErmgs1Zrng_imXiPubrKCMmjjBXNlByMymgCoXNUIPZZ/pub)为准。
+原文为 ==PLAYTEST== 内容，规则可能随版本变动，以[作者文档最新版](https://docs.google.com/document/d/e/2PACX-1vRDzA1yjYmg8WbZGEtAt3VqV3xwnEiuDWZQErmgs1Zrng_imXiPubrKCMmjjBXNlByMymgCoXNUIPZZ/pub)为准。
 
 版权归原作者所有，收到权利人要求即下架或更正。
 
