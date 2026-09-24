@@ -181,23 +181,30 @@ def convert_body(body, title):
             out.append(':::::'); out.append(''); big = False
 
     def open_unit(t):
+        """h3 单元：真标题（居中＋emoji 尾置）＋专属小卡"""
         nonlocal big, small
         flush()
         if not big:
             out.append('::::: card'); out.append(''); big = True
         if small:
             out.append('::::'); out.append(''); small = False
+        em = H3_EMOJI.get(t) or H2_EMOJI.get(section[0], '✨')
+        out.append('::: center')
+        out.append(f'### **{t} {em}**')
+        out.append(':::'); out.append('')
         out.append(':::: card'); out.append('')
-        out.append(f'**{H3_EMOJI.get(t, H2_EMOJI.get(section[0], "✨"))} {t}**'); out.append('')
         small = True
 
-    def subhead(t):
+    def ensure_big():
         nonlocal big
-        flush()
         if not big:
             out.append('::::: card'); out.append(''); big = True
-        em = H3_EMOJI.get(t.strip(), '')
-        out.append(f'**{em} {t}**' if em else f'**{t}**'); out.append('')
+
+    def subhead(t):
+        """h4 子标题（无 emoji），留在当前卡内"""
+        flush()
+        ensure_big()
+        out.append(f'#### {t}'); out.append('')
 
     tmpl_skip = re.compile(r'^\{\{(?:规则文本开始\|[^}]*|规则翻页\|[^}]*|核心规则书\|[^}]*|CR/[A-Z0-9]+)\}\}\s*[　\s]*$')
     lines = body.split('\n')
@@ -231,17 +238,20 @@ def convert_body(body, title):
         m = re.match(r'^\*(?!\*)(.*)$', ln)
         if m:
             flush()
+            ensure_big()
             for f in sent_split(inline(m.group(1).strip(), title + '/li'), title + '/li'):
                 out.append('* ' + f); out.append('')
             i += 1; continue
         m = re.match(r'^:(.*)$', ln)
         if m:
             flush()
+            ensure_big()
             for f in sent_split(inline(':' + m.group(1).strip(), title + '/def'), title + '/def'):
                 out.append(f); out.append('')
             i += 1; continue
         if ln.startswith('<table'):
             flush()
+            ensure_big()
             j = i
             while '</table>' not in lines[j]: j += 1
             out.append(table_to_md('\n'.join(lines[i:j+1]), title)); out.append('')
@@ -318,13 +328,14 @@ def convert_body(body, title):
             i += 1; continue
         if '{{' in ln or '}}' in ln:
             LOG.append(f'{title} 未消费模板行: {ln[:80]}')
+        ensure_big()
         para.append(inline(ln, title))
         i += 1
     close_cards()
     return '\n'.join(out)
 
 def insert_colossus(text):
-    marker = '**🗿 范例巨像**'
+    marker = '#### 范例巨像'
     idx = text.find(marker)
     if idx < 0:
         LOG.append('旱土巨像：未找到范例巨像锚')

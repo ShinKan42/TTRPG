@@ -194,7 +194,11 @@ def output_chunks(md, title=''):
                 in_qj = True
                 continue
             in_qj = False
-            chunks.append(('h', len(m.group(1)), txt)); continue
+            if len(m.group(1)) == 2:
+                chunks.append(('h', 2, txt))
+            else:
+                chunks.append(('head', txt))
+            continue
         if in_qj:
             continue
         if s.startswith('|'):
