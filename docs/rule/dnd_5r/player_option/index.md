@@ -122,3 +122,17 @@ createTime: 2026/09/18
 
 ::::
 
+:::: card
+
+::: center
+
+#### **[伙伴系统 🤝](/rule/dnd_5r/player_option/tehua/partner_system)**
+
+:::
+
+给角色配一名战斗伙伴的变体规则：三职业、随角色同步升级、每轮一动作一反应——==帮助但不抢戏==，施法者/打手/坦克共 28 个招式全量收录。
+
+[查看详情 →](/rule/dnd_5r/player_option/tehua/partner_system)
+
+::::
+

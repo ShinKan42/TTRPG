@@ -46,7 +46,10 @@ export default defineCollection({
 			text: '🎯 特化规则',
 			prefix: 'tehua',
 			collapsed: false,
-			items: [{ text: '角色减益 📉', link: 'character_maluses' }],
+			items: [
+				{ text: '角色减益 📉', link: 'character_maluses' },
+				{ text: '伙伴系统 🤝', link: 'partner_system' },
+			],
 		},
 	],
 });
