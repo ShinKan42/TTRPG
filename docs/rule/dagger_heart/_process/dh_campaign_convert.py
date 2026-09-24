@@ -385,16 +385,68 @@ def convert(title, slug):
     return ok
 
 def build_index():
-    """简介索引页：章首引言＋开团六步＋六框架进入卡（源=战役框架.txt/战役框架拆解.txt）"""
+    """简介索引页：框架简介（容器化切割）＋开团六步＋六框架进入卡"""
     hub = io.open(f'{LIB}/战役框架.txt', encoding='utf-8').read()
     cha = io.open(f'{LIB}/战役框架拆解.txt', encoding='utf-8').read()
-    strip = re.compile(r'^(?:\{\{(?:规则文本开始|规则翻页|核心规则书|CR/[A-Z0-9]+)[^}]*\}\}|=.+?=)\s*[　\s]*$')
+    strip = re.compile(r'^(?:\{\{(?:规则文本开始|规则翻页|核心规则书|CR/[A-Z0-9]+)[^}]*\}\}|=[^=\n]+?=)\s*[　\s]*$')
     hub_body = '\n'.join(l for l in hub.split('\n') if not strip.match(l.strip()))
     cha_body, cha_close = re.split(r'\n(?=后文展示的战役框架)', '\n'.join(
         l for l in cha.split('\n') if not strip.match(l.strip())), maxsplit=1)
-    intro_md = convert_body(hub_body, '战役框架索引')
     steps_md = convert_body(cha_body.strip(), '战役框架拆解')
     close_md = '\n\n'.join(f.strip() for f in sent_split(inline(cha_close.strip(), '拆解/尾注'), '拆解/尾注'))
+
+    # 章首按信息块分类 → 各归容器
+    lead, note_f, info_f, list_head, bullets, tip_f = [], [], [], '', [], []
+    for b in re.split(r'\n\s*\n', hub_body):
+        s = b.strip()
+        if not s: continue
+        if s.startswith('<big>'):
+            lead.append('_' + inline(re.sub(r'</?big>', '', s)[2:-2].strip(), 'idx/lead') + '_')
+        elif s.startswith('{{提示|'):
+            inner = re.sub(r'^\{\{提示\|', '', s); inner = re.sub(r'\}\}\s*$', '', inner)
+            parts = [p for p in inner.split('|') if not re.match(r'^\w+=', p)]
+            tip_f.append(inline('|'.join(parts).strip(), 'idx/tip'))
+        elif s.startswith('*'):
+            for ln in s.split('\n'):
+                ln = ln.strip().lstrip('*').strip()
+                if ln:
+                    bullets.append(inline(ln, 'idx/li'))
+        elif s.startswith('这些框架提供了') or s.startswith('你可以从后续'):
+            note_f.append(inline(s, 'idx/note'))
+        elif s.startswith('每个战役框架都包含以下部分'):
+            list_head = s.strip().rstrip('。')
+        else:
+            info_f.append(inline(s, 'idx/info'))
+
+    def emit(lines):
+        for f in lines:
+            for seg in sent_split(f.strip(), '索引'):
+                out_parts.append(seg.strip()); out_parts.append('')
+
+    out_parts = ['::::: card', '', '**🎬 战役框架简介**', ''] + lead + ['']
+    out_parts += [':::: note', '']
+    emit(note_f)
+    out_parts += ['::::', '', ':::: info **⭐ 复杂度评级**', '']
+    emit(info_f)
+    out_parts += ['::::', '', ':::::']
+
+    out_parts += ['---', '', '<a id="框架构成"></a>', '', '::: center',
+                  '## **🧩 框架构成**', ':::', '',
+                  ':::: details ' + list_head + '（点击展开）', '']
+    for b in bullets:
+        out_parts.append('* ' + b); out_parts.append('')
+    out_parts += ['::::', '',
+                  '---', '', '<a id="框架地图"></a>', '', '::: center',
+                  '## **🗺️ 框架地图**', ':::', '',
+                  '::: tip']
+    for f in tip_f:
+        for seg in sent_split(f, '索引/地图'):
+            out_parts.append(seg); out_parts.append('')
+    out_parts += [':::', '',
+                  '---', '', '<a id="开团六步"></a>', '', '::: center',
+                  '## **🧭 开团六步**', ':::', '']
+    page_head = '\n'.join(out_parts)
+
     grid = [':::: card-grid', '']
     for t, s in FRAMES:
         f, _ = parse_infobox(io.open(f'{LIB}/{t}.txt', encoding='utf-8').read())
@@ -405,11 +457,10 @@ def build_index():
         grid += [f'[进入框架 →](/rule/dagger_heart/campaign/{s})', '',
                  ':::', '']
     grid += ['::::', '']
+
     now = datetime.datetime.now().strftime('%Y/%m/%d %H:%M:%S')
     page = (f'---\ntitle: 战役框架\ncreateTime: {now}\n---\n\n'
-            + '::::: card\n\n' + intro_md.strip() + '\n\n:::::\n\n'
-            + '---\n\n<a id="开团六步"></a>\n\n::: center\n## **🧭 开团六步**\n:::\n\n'
-            + steps_md.strip() + '\n\n' + close_md + '\n\n'
+            + page_head + '\n' + steps_md.strip() + '\n\n' + close_md + '\n\n'
             + '---\n\n<a id="六大框架"></a>\n\n::: center\n## **🎬 六大框架**\n:::\n\n'
             + '\n'.join(grid))
     while '\n\n\n' in page: page = page.replace('\n\n\n', '\n\n')

@@ -92,10 +92,10 @@ export const navbar = defineNavbarConfig([
 		],
 	},
 	{
-		text: '🗡️ 匕首之心 🚧',
+		text: '🗡️ 匕首之心',
 		items: [
 			{
-				text: '📖 新手指南 🚧',
+				text: '📖 新手指南',
 				items: [
 					{ text: '匕首之心怎么玩 ❔', link: '/rule/dagger_heart/guide/about', activeMatch: '^/rule/dagger_heart/guide/about' },
 					{ text: '车卡指南 📖', link: '/rule/dagger_heart/guide/character_creation', activeMatch: '^/rule/dagger_heart/guide/character_creation' },
@@ -119,11 +119,9 @@ export const navbar = defineNavbarConfig([
 				],
 			},
 			{
-				text: '🎬 战役框架 🚧',
+				text: '🎬 战役框架',
 				items: [
 					{ text: '简介推荐 📖', link: '/rule/dagger_heart/campaign/', activeMatch: '^/rule/dagger_heart/campaign/' },
-					{ text: '社区 🤝', link: 'https://www.daggerheart.com/wp-content/uploads/2025/07/Daggerheart-Homebrew-Kit-v1.0-July-31-2025.pdf' },
-					{ text: '神官自制 👤 🚧', link: '/rule/dagger_heart/home_brew/', activeMatch: '^/rule/dagger_heart/home_brew/' },
 				],
 			},
 		],

@@ -2,7 +2,7 @@ import { defineCollection } from 'vuepress-theme-plume';
 
 export default defineCollection({
 	type: 'doc',
-	title: '匕首之心 🚧',
+	title: '匕首之心',
 	linkPrefix: '/rule/dagger_heart/',
 	dir: 'rule/dagger_heart',
 	sidebar: [
@@ -21,7 +21,7 @@ export default defineCollection({
 			],
 		},
 		{
-			text: '📚 资料索引 🚧',
+			text: '📚 简介推荐',
 			collapsed: false,
 			items: [
 			{
@@ -84,14 +84,14 @@ export default defineCollection({
 			],
 		},
 		{
-			text: '🎬 战役框架 🚧',
+			text: '🎬 战役框架',
 			collapsed: false,
 			items: [
+				{ text: '简介推荐 📖', link: '/rule/dagger_heart/campaign/' },
 				{
-					text: '官方 📖',
+					text: '📖 官方',
 					collapsed: true,
 					items: [
-						{ text: '简介推荐 📖', link: '/rule/dagger_heart/campaign/' },
 						{ text: '秽野之息 🌿 ★', link: '/rule/dagger_heart/campaign/witherwilds' },
 						{ text: '五旗成焰 🚩 ★★', link: '/rule/dagger_heart/campaign/five-banners-burning' },
 						{ text: '野兽饭 🍖 ★★', link: '/rule/dagger_heart/campaign/beast-feast' },
@@ -100,8 +100,16 @@ export default defineCollection({
 						{ text: '旱土巨像 🗿 ★★★★', link: '/rule/dagger_heart/campaign/colossus-of-the-drylands' },
 					],
 				},
-				{ text: '社区 🤝', link: 'https://www.daggerheart.com/wp-content/uploads/2025/07/Daggerheart-Homebrew-Kit-v1.0-July-31-2025.pdf' },
-				{ text: '神官自制 👤 🚧', link: '/rule/dagger_heart/home_brew/' },
+				{
+					text: '🤝 社区',
+					collapsed: true,
+					items: [],
+				},
+				{
+					text: '神官 ー 信観',
+					collapsed: true,
+					items: [],
+				},
 			],
 		},
 	],
