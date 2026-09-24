@@ -87,7 +87,18 @@ export default defineCollection({
 			text: '🎬 战役框架 🚧',
 			collapsed: false,
 			items: [
-				{ text: '官方 📖', link: 'https://daggerheart.huijiwiki.com/wiki/%E6%88%98%E5%BD%B9%E6%A1%86%E6%9E%B6' },
+				{
+					text: '官方 📖',
+					collapsed: true,
+					items: [
+						{ text: '秽野之息 ★', link: '/rule/dagger_heart/campaign/witherwilds' },
+						{ text: '五旗成焰 ★★', link: '/rule/dagger_heart/campaign/five-banners-burning' },
+						{ text: '野兽饭 ★★', link: '/rule/dagger_heart/campaign/beast-feast' },
+						{ text: '暗影纪元 ★★★', link: '/rule/dagger_heart/campaign/age-of-umbra' },
+						{ text: '主板 ★★★', link: '/rule/dagger_heart/campaign/motherboard' },
+						{ text: '旱土巨像 ★★★★', link: '/rule/dagger_heart/campaign/colossus-of-the-drylands' },
+					],
+				},
 				{ text: '社区 🤝', link: 'https://www.daggerheart.com/wp-content/uploads/2025/07/Daggerheart-Homebrew-Kit-v1.0-July-31-2025.pdf' },
 				{ text: '神官自制 👤 🚧', link: '/rule/dagger_heart/home_brew/' },
 			],
