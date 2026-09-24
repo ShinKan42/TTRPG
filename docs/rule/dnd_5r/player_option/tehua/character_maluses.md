@@ -35,7 +35,7 @@ createTime: 2026/09/19
 
 ::: card
 
-**角色减益**（Maluses）是一套车卡可选规则，来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区设计（[原视频](https://www.youtube.com/watch?v=HMR5zL5oTLw)）。
+**角色减益**（Maluses）是一套车卡可选规则，来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区设计（[原文档](https://docs.google.com/document/d/e/2PACX-1vQ63tMeoHpMRjWoGHh1UP12Ryp0K9lOTnDbQSXul1xobBhtIgSHDYTnSby5t4MFUil7dTUGdmHA6oy/pub)｜[原视频](https://www.youtube.com/watch?v=HMR5zL5oTLw)）。
 
 它把角色背景里的弱点变成==真实机制==：==文盲==读不了字、==恐高==下不了崖、==谎撒不利索==——不是为了变强，是为了让角色的缺陷在桌上真实发生，让同行的人看见他背负着什么。
 
@@ -177,12 +177,14 @@ createTime: 2026/09/19
 
 **📖 出处**
 
-机制与数值来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区创作：==《Character Maluses》==。
+机制与数值来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区创作：==《[Character Maluses](https://docs.google.com/document/d/e/2PACX-1vQ63tMeoHpMRjWoGHh1UP12Ryp0K9lOTnDbQSXul1xobBhtIgSHDYTnSby5t4MFUil7dTUGdmHA6oy/pub)》==（[原视频](https://www.youtube.com/watch?v=HMR5zL5oTLw)）。
 
-本页为==中文机制重述==，非官方译本。
+本页为==中文机制重述==，非官方译本；非官方内容，与 Wizards of the Coast 无关。
 
-原文为 ==PLAYTEST== 内容，规则可能随版本变动。
+本页机制包含取自 [SRD 5.1](https://dnd.wizards.com/resources/systems-reference-document)（CC BY 4.0）的材料。
 
-收到权利人要求即下架。
+原文为 ==PLAYTEST== 内容，规则可能随版本变动，以[作者文档最新版](https://docs.google.com/document/d/e/2PACX-1vQ63tMeoHpMRjWoGHh1UP12Ryp0K9lOTnDbQSXul1xobBhtIgSHDYTnSby5t4MFUil7dTUGdmHA6oy/pub)为准。
+
+版权归原作者所有，收到权利人要求即下架或更正。
 
 :::

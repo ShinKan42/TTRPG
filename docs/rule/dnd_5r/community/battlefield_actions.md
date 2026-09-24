@@ -81,7 +81,7 @@ createTime: 2026/09/19
 
 ::::: card
 
-**战场动作**（Battlefield Actions）是给首领怪用的附加战斗机制，来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区设计（[原视频](https://www.youtube.com/watch?v=Hg9BWF7KYqE)）。
+**战场动作**（Battlefield Actions）是给首领怪用的附加战斗机制，来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区设计（[原文档](https://docs.google.com/document/d/e/2PACX-1vTjTP_2coEPSTQXcUX4AMlZGYRE2j0-5u9rV5nyjJUzYEMbRtTIGi46SrvNfBiPxgNWwH0Pig4Z2QuE/pub)｜[原视频](https://www.youtube.com/watch?v=Hg9BWF7KYqE)）。
 
 它解决==四个==常见问题：战斗退化成站桩对轰伤害、首领怪和普通怪机制上没差别、老手桌觉得打架又慢又重复、数值堆不动时没法给高手玩家压力。
 
@@ -342,8 +342,12 @@ createTime: 2026/09/19
 
 机制与数值来自 [Pointy Hat](https://www.youtube.com/@ThePointyHat) 的社区创作：《[Battlefield Actions](https://docs.google.com/document/d/e/2PACX-1vTjTP_2coEPSTQXcUX4AMlZGYRE2j0-5u9rV5nyjJUzYEMbRtTIGi46SrvNfBiPxgNWwH0Pig4Z2QuE/pub)》（[讲解视频](https://www.youtube.com/watch?v=Hg9BWF7KYqE)）。
 
-本页为==中文机制重述==，非官方译本；
-原文为 PLAYTEST 内容，规则可能随版本变动。
-收到权利人要求即下架。
+本页为==中文机制重述==，非官方译本；非官方内容，与 Wizards of the Coast 无关。
+
+本页机制包含取自 [SRD 5.1](https://dnd.wizards.com/resources/systems-reference-document)（CC BY 4.0）的材料。
+
+原文为 PLAYTEST 内容，规则可能随版本变动，以[作者文档最新版](https://docs.google.com/document/d/e/2PACX-1vTjTP_2coEPSTQXcUX4AMlZGYRE2j0-5u9rV5nyjJUzYEMbRtTIGi46SrvNfBiPxgNWwH0Pig4Z2QuE/pub)为准。
+
+版权归原作者所有，收到权利人要求即下架或更正。
 
 :::::
