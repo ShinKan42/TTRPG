@@ -14,6 +14,8 @@ FRAMES = [
     ('旱土巨像', 'colossus-of-the-drylands'),
 ]
 FIELDS = ['复杂度', '作者', '简介', '描述', '氛围', '主题', '灵感']
+SECTIONS_SET = {'背景概述', '社群', '种族', '职业', '玩家守则', '游戏主持人守则',
+                '特色设定', '楔子', '战役机制', '第零场问题'}
 COLOSSUS = ['“尘海掠空”，波伊', '“巨戕”，埃克力', '“怨煞与她的万千子嗣”，基里尔', '“铡刀”，达克塔戴']
 SCAFFOLD = re.compile(r'^\{\{(?:规则文本开始|规则翻页|核心规则书|CR/[A-Z0-9]+)\b[^}]*\}\}\s*[　\s]*$')
 
@@ -56,6 +58,7 @@ def source_chunks(src):
             cur = fm.group(1); kv[cur] = fm.group(2)
         elif cur:
             kv[cur] += '\n' + ln
+    chunks.append(('head', norm(kv['标题'].strip())))
     for f in FIELDS:
         chunks.append(('field', f, norm(strip_fmt(kv[f]))))
     lines = src[body_start:].split('\n')
@@ -66,7 +69,17 @@ def source_chunks(src):
             i += 1; continue
         m = re.match(r'^(={2,4})(.+?)\1\s*$', ln)
         if m:
-            chunks.append(('h', len(m.group(1)), norm(strip_fmt(m.group(2))))); i += 1; continue
+            if len(m.group(1)) == 2 and m.group(2).strip() in SECTIONS_SET:
+                chunks.append(('h', 2, norm(strip_fmt(m.group(2)))))
+            else:
+                chunks.append(('head', norm(strip_fmt(m.group(2)))))
+            i += 1; continue
+        m = re.match(r'^<b>(.+)</b>$', ln)
+        if m:
+            chunks.append(('head', norm(strip_fmt(m.group(1))))); i += 1; continue
+        m = re.match(r"^(?:<big>)?'''(.+)'''(?:</big>)$", ln)
+        if m:
+            chunks.append(('head', norm(strip_fmt(m.group(1))))); i += 1; continue
         m = re.match(r"^''(.+)''\s*$", ln)
         if m and not ln.startswith("'''''"):
             # 整行斜体=节引言（转换器按板块统一转 tip）
@@ -107,7 +120,7 @@ def source_chunks(src):
             parts = inner.split('|')
             inner = '|'.join(p for p in parts if not re.match(r'^\w+=', p))
             if m[1] == '五级标题':
-                chunks.append(('h', 4, norm(strip_fmt(inner))))
+                chunks.append(('head', norm(strip_fmt(inner))))
             else:
                 chunks.append(('tip', norm(strip_fmt(inner))))
             i += 1; continue
@@ -132,55 +145,58 @@ def source_chunks(src):
         if txt:
             chunks.append(('t', txt))
         i += 1
-    # 板块统一降级预期（与转换器同一规则：十个基准 h2 之外的游离 h2→h3，子树整体+1）
-    SECTIONS = {'背景概述', '社群', '种族', '职业', '玩家守则', '游戏主持人守则',
-                '特色设定', '楔子', '战役机制', '第零场问题'}
-    res, cascade = [], False
-    for c in chunks:
-        if c[0] == 'h' and c[1] == 2:
-            if c[2] in SECTIONS:
-                cascade = False; res.append(c)
-            else:
-                cascade = True; res.append(('h', 3, c[2]))
-            continue
-        if c[0] == 'h' and cascade:
-            res.append(('h', c[1] + 1, c[2])); continue
-        res.append(c)
-    return res
+    return chunks
 
-def output_chunks(md):
-    """产出页 → 同构文本块流（frontmatter/容器壳剔除；tip 内容成块）"""
+def output_chunks(md, title=''):
+    """产出页 → 同构文本块流（frontmatter/容器壳/分隔线/导航块剔除；tip 内容成块）"""
     md = re.sub(r'\A---\n.*?\n---\n', '', md, flags=re.S)
     lines = md.split('\n')
     chunks = []
     fieldset = {'复杂度', '作者', '氛围', '主题', '灵感'}
     in_tip = False
     tip_buf = []
+    in_qj = False
 
     def close_tip():
         nonlocal in_tip, tip_buf
         chunks.append(('tip', norm(strip_md(''.join(tip_buf)))))
         in_tip, tip_buf = False, []
 
+    def no_emoji(s):
+        return re.sub(r'[\U0001F000-\U0001FAFF\u2300-\u27BF\u2B00-\u2BFF\uFE0F\u200D]', '', s).strip()
+
     for ln in lines:
         s = ln.strip()
-        if s.startswith(':::'):
-            if in_tip:
-                close_tip()
-            else:
-                in_tip, tip_buf = True, []
+        if re.match(r'^::: tip', s):
+            in_tip, tip_buf = True, []
+            continue
+        if s == ':::' and in_tip:
+            close_tip()
+            continue
+        if re.match(r'^:{3,}', s):
             continue
         if in_tip:
             tip_buf.append(s)
             continue
         if not s:
             continue
+        if re.fullmatch(r'-{3,}', s):
+            continue
+        if s.startswith('<a '):
+            continue
         m = re.match(r'^\*\*(.+?)\*\*：(.+)$', s)
         if m and m.group(1) in fieldset:
             chunks.append(('field', m.group(1), norm(strip_md(m.group(2))))); continue
         m = re.match(r'^(#{2,6}) (.+)$', s)
         if m:
-            chunks.append(('h', len(m.group(1)), norm(strip_md(m.group(2))))); continue
+            txt = no_emoji(strip_md(m.group(2)))
+            if '快速跳转' in txt:
+                in_qj = True
+                continue
+            in_qj = False
+            chunks.append(('h', len(m.group(1)), txt)); continue
+        if in_qj:
+            continue
         if s.startswith('|'):
             cells = [strip_md(c.strip().replace('\\', '')) for c in s.strip('|').split('|')]
             if all(re.match(r'^-+$', c) for c in cells if c):
@@ -188,9 +204,15 @@ def output_chunks(md):
             chunks.append(('table', [norm(c) for c in cells])); continue
         if s.startswith('* '):
             chunks.append(('t', norm(strip_md(s[2:])))); continue
+        m = re.fullmatch(r'\*\*([^*]+)\*\*', s)
+        if m:
+            txt = no_emoji(strip_md(m.group(1)))
+            if txt == '档案':
+                continue
+            chunks.append(('head', norm(txt))); continue
         if s.startswith('以下范例巨像收录于'):
             continue
-        if s.startswith('（注：') and s.endswith(')'):
+        if s.startswith('（注：') and s.endswith('）'):
             s = s[3:-1]
         chunks.append(('t', norm(strip_md(s)))); continue
     return chunks

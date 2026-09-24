@@ -110,7 +110,7 @@ export const navbar = defineNavbarConfig([
 				text: '📚 简介推荐 ⭐',
 				activeMatch: '^/rule/dagger_heart/brief_ref/',
 				items: [
-					{ text: '规则速查 ⚡', link: '/rule/dagger_heart/guide/quick_roll' },
+					{ text: '规则速查 ⚡', link: '/rule/dagger_heart/brief_ref/rules' },
 					{ text: '种族 🧝', link: '/rule/dagger_heart/brief_ref/ancestry' },
 					{ text: '社群 🏘️', link: '/rule/dagger_heart/brief_ref/community' },
 					{ text: '职业 🗡️', link: '/rule/dagger_heart/brief_ref/class' },
@@ -121,7 +121,7 @@ export const navbar = defineNavbarConfig([
 			{
 				text: '🎬 战役框架 🚧',
 				items: [
-					{ text: '官方 📖', link: 'https://daggerheart.huijiwiki.com/wiki/%E6%88%98%E5%BD%B9%E6%A1%86%E6%9E%B6' },
+					{ text: '简介推荐 📖', link: '/rule/dagger_heart/campaign/', activeMatch: '^/rule/dagger_heart/campaign/' },
 					{ text: '社区 🤝', link: 'https://www.daggerheart.com/wp-content/uploads/2025/07/Daggerheart-Homebrew-Kit-v1.0-July-31-2025.pdf' },
 					{ text: '神官自制 👤 🚧', link: '/rule/dagger_heart/home_brew/', activeMatch: '^/rule/dagger_heart/home_brew/' },
 				],
