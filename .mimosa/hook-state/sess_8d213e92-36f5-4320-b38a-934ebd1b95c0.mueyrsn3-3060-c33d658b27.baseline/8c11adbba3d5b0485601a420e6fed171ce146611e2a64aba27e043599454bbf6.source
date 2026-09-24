@@ -1,9 +1,0 @@
-import { GitContributors } from "F:/BaiduSyncdisk/AI/LLM/Site/node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_570781b2895a7d8bdef246f60b5b93f4/node_modules/@vuepress/plugin-git/dist/client/components/GitContributors.js";
-import { GitChangelog } from "F:/BaiduSyncdisk/AI/LLM/Site/node_modules/.pnpm/@vuepress+plugin-git@2.0.0-_570781b2895a7d8bdef246f60b5b93f4/node_modules/@vuepress/plugin-git/dist/client/components/GitChangelog.js";
-
-export default {
-  enhance: ({ app }) => {
-    app.component("GitContributors", GitContributors);
-    app.component("GitChangelog", GitChangelog);
-  },
-};
