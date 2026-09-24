@@ -227,6 +227,6 @@ createTime: 2026/9/9 12:00:00
 
 装备按 ==Tier 1-4== 四档进阶
 
-**更多资料**：[灰机 wiki · 装备](https://daggerheart.huijiwiki.com/wiki/装备)
+**详细资料**：[装备页](/rule/dagger_heart/brief_ref/item)
 
 :::

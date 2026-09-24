@@ -77,7 +77,7 @@ export default defineCollection({
 				text: '装备 🎒',
 				collapsed: true,
 				items: [
-					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/#装备' },
+					{ text: '简介推荐', link: '/rule/dagger_heart/brief_ref/item' },
 					{ text: '跳转更多资料', link: 'https://daggerheart.huijiwiki.com/wiki/%E8%A3%85%E5%A4%87' },
 				],
 			},
