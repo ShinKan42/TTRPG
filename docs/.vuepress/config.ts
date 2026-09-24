@@ -14,6 +14,9 @@ export default defineUserConfig({
 
 	bundler: viteBundler(),
 
+	// 工作底稿目录不进构建（_process=页面草稿与旧参考，2026-09-24 DM 授权排除）
+	pagePatterns: ['**/*.md', '!.vuepress', '!', '**/README.md', '!**/_process/**'],
+
 	head: [
    		   // Google验证（直接粘贴从GSC复制的完整标签）
   		    ['meta', { 
