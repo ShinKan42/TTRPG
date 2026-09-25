@@ -41,7 +41,7 @@ docs/rule/lancer/
 | 轮 | 轮型 | 交付物 | 验收标准 | 状态 |
 |---|---|---|---|---|
 | 轮1 | 设计草案 | 本文件（栏目树＋轮次表＋范围分期） | DM 圈定后才进轮2 | ✅ 已圈定（DM「继续」2026-09-25） |
-| 轮2 | 执行·骨架 | lancer.ts＋index.md 首页＋guide/about.md（已入库）；navbar 子类＋index.ts 注册＋部署（并行清空后补） | 八门电池全绿＋构建绿＋入库；nav/侧栏镜像对齐在接线轮补验 | ▶ 进行中（2026-09-25） |
+| 轮2 | 执行·骨架 | lancer.ts＋index.md 首页＋guide/about.md＋轮次表＋素材 | 八门电池全绿＋构建绿＋入库；nav/侧栏镜像对齐在接线轮补验 | ✅ 骨架件入库 ad0ee488（两页门检全绿，build success 28s）；挂起件：navbar 子类＋index/index.ts 注册＋dist 渲染层五步验证＋部署（并行清空后接线轮一并补） |
 | 轮3 | 执行·新手指南 | guide/character_creation.md＋mission_downtime.md＋combat.md＋faq.md | 同上＋DM 样板对读（page-authoring 三条款） | - 未开始 |
 | 轮4 | 执行·速查·驾驶员侧 | brief_ref/rules.md＋talents.md＋pilot_gear.md | 同上 | - 未开始 |
 | 轮5 | 执行·牌照库 I | license/ips_n.md＋ssc.md（机体/武器/系统全量） | 同上＋数据卡形态过 bare_table_scan | - 未开始 |
@@ -55,5 +55,7 @@ docs/rule/lancer/
 
 ## 断点
 
-- 2026-09-25 07:57 事故：并行 DH 窗在共享仓做 git 清理，扫走全部未跟踪文件——本任务首轮写就的 index.md/guide/about.md/lancer.ts/轮次表/素材全灭（仅 gitignore 挡住的 .bak 幸存）。处置：全部从会话重写＋当场原子提交入库（入库后不再怕未跟踪清扫）；接线（navbar.ts/index.ts）与部署继续挂起等 DH 窗清空。
-- 2026-09-25：轮2 骨架件重写中。轮3 前置：等轮2 汇报获验收答复。
+- **挂起件清单（轮2 尾巴，等 DH 窗清空后一并补）**：①navbar.ts 加子类「更多规则」（排 IP 主题后，叶子「枪骑兵 Lancer ⚙️」→ /rule/lancer/）②index/index.ts 注册 lancer collection ③重新构建＋dist 渲染层五步验证（锚点/vp-card/SSR 正文）④部署链。四件有依赖顺序，一次跑完。
+- 2026-09-25 07:57 事故：并行 DH 窗在共享仓做 git 清理，扫走全部未跟踪文件——本任务首轮写就的 index.md/guide/about.md/lancer.ts/轮次表/素材全灭（仅 gitignore 挡住的 .bak 幸存）。处置：全部从会话重写＋当场原子提交入库（ad0ee488），入库后不再怕未跟踪清扫。
+- 2026-09-25 08:05：本窗构建（28s success）与并行窗 dev/构建进程争用 dist，dist 被清空且并行窗仍活跃——按部署互斥让路，dist 验证并入挂起件清单，不再单独重试构建。
+- 轮3 开工前置：轮2 汇报获 DM 验收答复。
