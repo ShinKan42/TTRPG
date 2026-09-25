@@ -261,6 +261,16 @@ export const navbar = defineNavbarConfig([
 					{ text: '沙丘🚧', link: '/dnd_5r/', activeMatch: '^/dnd_5r/' },
 				],
 			},
+			{
+				text: '更多规则',
+				items: [
+					{
+						text: '枪骑兵 Lancer ⚙️',
+						link: '/rule/lancer/',
+						activeMatch: '^/rule/lancer/',
+					},
+				],
+			},
 		],
 	},
 	{

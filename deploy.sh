@@ -1,12 +1,5 @@
 #!/bin/bash
-# Site 一键部署（build + Vercel CLI 生产部署）
-# 用法：在 Site/ 根目录执行 bash deploy.sh
-set -e
-echo "=== 构建 ==="
-pnpm docs:build
-echo "=== Vercel 生产部署 ==="
-cd docs/.vuepress/dist
-npx vercel link --yes --project ttrpg 2>/dev/null
-npx vercel deploy . --prod --yes
-echo "=== 完成 ==="
-echo "线上: https://ttrpg.shinkan42.art"
+# Site 部署入口（薄壳）——一切上线走正本一键脚本，四道门+门族+验证全在正本内
+# 法源=vuepress-site-workflow/references/vercel-deploy-pipeline.md「命令禁令·一切上线全走正确 vercel 部署」（2026-09-25 立）
+# 用法：bash deploy.sh --msg "<常规前缀: 摘要>" [变更页相对路径…]
+exec bash "F:/BaiduSyncdisk/AI/LLM/.zcode/skills/vuepress-site-workflow/scripts/deploy_ttrpg_site.sh" "$@"
