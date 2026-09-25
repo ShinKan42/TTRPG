@@ -50,6 +50,9 @@ export default defineUserConfig({
 
 		hostname: 'http://ttrpg.shinkan42.art/',
 
+		// 阅读辅助：光标所在段落由半透明遮罩聚焦（rc.206 新功能，2026-09-25 开）
+		readAid: 'mask',
+
 		// 默认 不启用，仅当 plugins.git 为 true 时生效
 		// 此配置在 plume.config.ts 中无效
 		changelog: {
@@ -220,6 +223,17 @@ export default defineUserConfig({
 				field: true,
 				timeline: true,
 				artPlayer: true,
+				// 0925 DM 令开：::: chat 对话容器，Log 对话密集段直接还原（没有描述价值的对话用它）
+				chat: true,
+				// 0925 DM 令配：悬停释义全站预设（用顶层 abbr 选项；env 路线上游 bug=renderInline 包装丢 this 全站崩，禁用）
+				abbr: {
+					AC: '护甲等级（Armor Class）',
+					HP: '生命值（Hit Points）',
+					DC: '难度等级（Difficulty Class）',
+					DM: '地下城主（Dungeon Master）',
+					PC: '玩家角色（Player Character）',
+					NPC: '非玩家角色（Non-Player Character）',
+				},
 			},
 
 			/**
