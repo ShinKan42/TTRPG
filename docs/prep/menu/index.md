@@ -39,6 +39,8 @@ search: false
 
 死亡之屋💀 —— 🚧 备案中
 
+[救恩回响⛪](/prep/dnd_5r/echoes_of_salvation/)
+
 ::::
 
 :::: card
@@ -49,7 +51,7 @@ search: false
 
 :::
 
-巨龙迷城🏛️ —— 🚧 备案中
+[巨龙迷城🏛️](/prep/dnd_5r/dragon_delves/)
 
 黄金宝库之钥🔑 —— 🚧 备案中
 
@@ -74,6 +76,8 @@ search: false
 坠入阿弗纳斯📜 —— 🚧 备案中
 
 末日剑湾🌊 —— 🚧 备案中
+
+[==湮灭之墓==×==毁灭前夜==⚰️](/prep/dnd_5r/tomb_of_annihilation_eve_of_ruin/)
 
 :::
 
