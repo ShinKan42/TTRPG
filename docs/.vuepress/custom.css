@@ -256,3 +256,11 @@
   background: rgba(200, 184, 216, 0.15) !important;
   color: rgba(200, 184, 216, 1) !important;
 }
+
+/* --- 阅读辅助光带（readAid left）：日间紫 / 夜间粉 --- */
+:root:not([data-theme="dark"]) {
+  --vp-read-aid-line-color: rgba(150, 100, 220, 1);
+}
+[data-theme="dark"] {
+  --vp-read-aid-line-color: rgba(244, 114, 142, 1);
+}

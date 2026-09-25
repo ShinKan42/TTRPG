@@ -50,8 +50,8 @@ export default defineUserConfig({
 
 		hostname: 'http://ttrpg.shinkan42.art/',
 
-		// 阅读辅助：光标所在段落由半透明遮罩聚焦（rc.206 新功能，2026-09-25 开）
-		readAid: 'mask',
+		// 阅读辅助：左侧光带跟随光标所在段落（rc.206 新功能；配色日间紫/夜间粉见 custom.css，2026-09-25）
+		readAid: 'left',
 
 		// 默认 不启用，仅当 plugins.git 为 true 时生效
 		// 此配置在 plume.config.ts 中无效
