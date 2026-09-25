@@ -22,6 +22,20 @@ export default defineCollection({
 			],
 		},
 		{
+			text: '📚 资料索引',
+			collapsed: false,
+			items: [
+				{
+					text: '职业 🗡️',
+					collapsed: true,
+					items: [
+						{ text: '基础数据', link: '/rule/dnd_5r/brief_ref/class' },
+						{ text: '跳转更多资料', link: 'https://5echm.kagangtuya.top/' },
+					],
+				},
+			],
+		},
+		{
 			text: '🔗 资料站跳转',
 			collapsed: false,
 			items: [
