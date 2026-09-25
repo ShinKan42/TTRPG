@@ -241,6 +241,16 @@ export const navbar = defineNavbarConfig([
 				],
 			},
 			{
+				text: '战锤',
+				items: [
+					{
+						text: '魂缚 AOS ⚒️',
+						link: '/rule/aos/',
+						activeMatch: '^/rule/aos/',
+					},
+				],
+			},
+			{
 				text: 'IP 主题',
 				items: [
 					{

@@ -6,6 +6,7 @@ import DND_5R_PlayerOption from './rule/dnd_5r_player_option.ts';
 import DND_5R from './rule/dnd_5r.ts';
 import Cyberpunk_Red from './rule/cyberpunk_red.ts';
 import Avatar_Legend from './rule/avatar_legend.ts';
+import AOS_Soulbound from './rule/aos.ts';
 
 import Modules from './modules.ts';
 import Prep from './prep.ts';
@@ -34,6 +35,7 @@ export default defineCollections([
 	DND_5R,
 	Cyberpunk_Red,
 	Avatar_Legend,
+	AOS_Soulbound,
 	//
 	Modules,
 	Prep,
