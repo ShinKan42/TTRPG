@@ -58,6 +58,26 @@ SITE_LINK['伤痕'] = '/rule/dagger_heart/guide/general_rule'
 SITE_LINK['恐惧点'] = '/rule/dagger_heart/guide/combat'
 WIKI_LINK = {'“巨戕”埃克力', '勘误20250909'}
 PLAIN_OK = {'严重伤害', '恐惧骰', '轻度伤害', '重伤'}
+CDN = 'https://bed.shinkan42.art/image/dagger_heart/campaign'
+FRAME_IMG = {t: f'{CDN}/{t}.webp' for t, _ in FRAMES}
+# 背景概述编辑性分章（导读层标题；prefix=源文段落起始锚）
+BG_SPLIT = {
+    '秽野之息': [('泛威克与弱等神祇', "'''泛威克'''曾是"), ('安乡与弑神之墙', "'''安乡'''曾是"),
+              ('复仇与蛇疫', '但顺’奥什亦有'), ('面纱花与入侵', '安乡的高阶法师'),
+              ('秽野爆发', '此后一年'), ('危机当前', '在蛇疫爆发、秽野蔓延之前')],
+    '五旗成焰': [('五国并立', '<b>舰帆联盟</b>'), ('同源与分裂', '这五大势力曾站在'),
+              ('分歧加深与新版图', '此后数百年'), ('框架基调', '五旗成焰是一个致力于')],
+    '野兽饭': [('森巫师的传说', '很久很久以前'), ('鸻鸟洞穴', '找到鸻鸟洞穴最简单'),
+             ('洞窟中的众人', '爱莫村出身的人')],
+    '暗影纪元': [('绝罚与暗影纪元', "'''暗影纪元'''是被称为"), ('煞刻深渊与琥珀港', '近期山谷中突发'),
+              ('星火不灭', '大地虽暗')],
+    '主板': [('回声谷与城市', '<b>回声谷</b>'), ('遗赠机', '<b>遗赠机</b>——'),
+           ('荒原与通路', '<b>荒原</b>是'), ('主板与械术师', '回声谷中最耸立'),
+           ('遗赠机之怒', '近期发生了一场')],
+    '旱土巨像': [('旱土神谕', '<b>旱土神谕</b>'), ('诸神旧史', '<b>诸神旧史</b>'),
+              ('陨神山与库达玛特', '<b>陨神山</b>'), ('九骑手与灵魂碎片', '但如此重任岂可托付凡夫'),
+              ('危凌谷', '<b>传道者拉尤斯</b>'), ('源晶前哨', '不同 <b>源晶前哨</b>')],
+}
 
 LOG = []
 
@@ -84,6 +104,9 @@ def inline(s, ctx=''):
                lambda m: '（注：' + m.group(1).strip().rstrip('。') + '）', s, flags=re.S)
     s = re.sub(r'<references\s*/>', '', s)
     s = re.sub(r'\{\{#ask:\[\[分类:巨像\]\]\|sep=<br>\}\}', '', s)
+    if '巨像地图' in s:
+        s = re.sub(r'\[\[文件:[^|\]]*(?:\|[^\]]*)?\]\]',
+                   f'![巨像地图]({CDN}/colossus_map.png)', s)
     s = re.sub(r'\[\[文件:([^|\]]+)(?:\|[^\]]*)?\]\]',
                lambda m: f'[图：{m.group(1).strip()}（灰机）]({wikipath("文件:" + m.group(1).strip())})', s)
     s = re.sub(r'\[(https?://[^\s\]]+)\s+([^\]]+)\]', r'[\2](\1)', s)
@@ -125,6 +148,23 @@ def md_escape_cell(c):
     if c.startswith('-'): c = '\\' + c
     return c
 
+def trait_split(cell):
+    """表格名效格立法：短名＋冒号＋效果 → **名：**<br>效果（装备页 L1.95 同族）"""
+    if cell.count('：') + cell.count(':') != 1:
+        return cell
+    if '位阶' in cell:
+        return cell
+    m = re.match(r'^\*([^*\n]+?[:：])\*\s*(.+)$', cell)
+    if m:
+        return f'**{m.group(1)}**<br>{m.group(2).strip()}'
+    m = re.match(r'^\*\*([^*\n]+?[:：])\*\*\s*(.+)$', cell)
+    if m:
+        return f'**{m.group(1)}**<br>{m.group(2).strip()}'
+    m = re.match(r'^([^*<>：:\n]{1,16}?[:：])\s*(\S.*)$', cell)
+    if m and len(m.group(2)) >= 6:
+        return f'**{m.group(1)}**<br>{m.group(2).strip()}'
+    return cell
+
 def table_to_md(tbl, ctx):
     rows = re.findall(r'<tr[^>]*>(.*?)</tr>', tbl, re.S)
     assert rows, f'{ctx} 空表格'
@@ -138,6 +178,8 @@ def table_to_md(tbl, ctx):
             c = c.replace('\n', '<br>')
             c = re.sub(r'\s*<br>\s*', '<br>', c).strip()
             c = re.sub(r'\s{2,}', ' ', c)
+            if kind == 'td':
+                c = trait_split(c)
             line.append(md_escape_cell(c))
         grid.append(line)
     width = max(len(r) for r in grid)
@@ -155,6 +197,8 @@ def convert_body(body, title):
     big = False      # 节大卡（5 冒）
     small = False    # 单元小卡（4 冒）
     section = ['']
+    pending_bl = []   # 连续 bullet 缓冲（条目网格判定用）
+    pending_ep = []   # 连续粗体名条目段缓冲（逐条卡判定用）
 
     def flush():
         if para:
@@ -172,9 +216,49 @@ def convert_body(body, title):
                     for seg in sent_split(text, title):
                         out.append(seg); out.append('')
 
+    def flush_bl():
+        """连续条目 bullet（≥2 且全部粗体名条）→ card-grid；否则普通列表"""
+        nonlocal pending_bl, small
+        if not pending_bl: return
+        entries = pending_bl
+        pending_bl = []
+        flush()
+        if small:
+            out.append('::::'); out.append(''); small = False
+        ensure_big()
+        if len(entries) >= 2 and all(re.match(r'^\*\*[^*]{1,40}?[:：]\*\*', l) for l in entries):
+            out.append(':::: card-grid'); out.append('')
+            for l in entries:
+                out.append('::: card'); out.append('')
+                for seg in sent_split(l, title + '/grid'):
+                    out.append(seg.strip()); out.append('')
+                out.append(':::'); out.append('')
+            out.append('::::'); out.append('')
+        else:
+            for l in entries:
+                for f in sent_split(l, title + '/li'):
+                    out.append('* ' + f); out.append('')
+
+    def flush_ep():
+        """粗体名条目段（≥2 连续）→ 逐条卡"""
+        nonlocal pending_ep, small
+        if not pending_ep: return
+        entries = pending_ep
+        pending_ep = []
+        if small:
+            out.append('::::'); out.append(''); small = False
+        for l in entries:
+            out.append(':::: card'); out.append('')
+            for seg in sent_split(l, title + '/entry'):
+                out.append(seg.strip()); out.append('')
+            out.append('::::'); out.append('')
+
+    def flush_pending():
+        flush(); flush_bl(); flush_ep()
+
     def close_cards():
         nonlocal big, small
-        flush()
+        flush_pending()
         if small:
             out.append('::::'); out.append(''); small = False
         if big:
@@ -183,7 +267,7 @@ def convert_body(body, title):
     def open_unit(t):
         """h3 单元：真标题（居中＋emoji 尾置）＋专属小卡"""
         nonlocal big, small
-        flush()
+        flush_pending()
         if not big:
             out.append('::::: card'); out.append(''); big = True
         if small:
@@ -202,10 +286,11 @@ def convert_body(body, title):
 
     def subhead(t):
         """h4 子标题（无 emoji），留在当前卡内"""
-        flush()
+        flush_pending()
         ensure_big()
         out.append(f'#### {t}'); out.append('')
 
+    ENTRY_PARA = re.compile(r'^\*\*[^*]{1,40}?[:：]\*\*\s*\S')
     tmpl_skip = re.compile(r'^\{\{(?:规则文本开始\|[^}]*|规则翻页\|[^}]*|核心规则书\|[^}]*|CR/[A-Z0-9]+)\}\}\s*[　\s]*$')
     lines = body.split('\n')
     while i < len(lines):
@@ -213,7 +298,7 @@ def convert_body(body, title):
         if tmpl_skip.match(ln):
             i += 1; continue
         if not ln:
-            flush(); i += 1; continue
+            flush_pending(); i += 1; continue
         m = re.match(r'^(={2,4})(.+?)\1\s*$', ln)
         if m:
             t = inline(m.group(2).strip(), title + '/h')
@@ -237,20 +322,19 @@ def convert_body(body, title):
             i += 1; continue
         m = re.match(r'^\*(?!\*)(.*)$', ln)
         if m:
-            flush()
+            flush_pending()
             ensure_big()
-            for f in sent_split(inline(m.group(1).strip(), title + '/li'), title + '/li'):
-                out.append('* ' + f); out.append('')
+            pending_bl.append(inline(m.group(1).strip(), title + '/li'))
             i += 1; continue
         m = re.match(r'^:(.*)$', ln)
         if m:
-            flush()
+            flush_pending()
             ensure_big()
             for f in sent_split(inline(':' + m.group(1).strip(), title + '/def'), title + '/def'):
                 out.append(f); out.append('')
             i += 1; continue
         if ln.startswith('<table'):
-            flush()
+            flush_pending()
             ensure_big()
             j = i
             while '</table>' not in lines[j]: j += 1
@@ -258,7 +342,7 @@ def convert_body(body, title):
             i = j + 1; continue
         m = re.match(r'^\{\{段落描述\|(.*?)\}\}\s*$', ln, re.S)
         if m:
-            flush()
+            flush_pending()
             out.append('::: tip')
             for seg in sent_split(inline(m.group(1).strip(), title + '/tip'), title + '/tip'):
                 out.append(seg); out.append('')
@@ -270,14 +354,14 @@ def convert_body(body, title):
             i += 1; continue
         m = re.match(r'^\{\{勘误\|(.*?)\}\}\s*$', ln, re.S)
         if m:
-            flush()
+            flush_pending()
             out.append('::: tip 勘误')
             for seg in sent_split(inline(m.group(1).strip(), title + '/errata'), title + '/errata'):
                 out.append(seg); out.append('')
             out.append(':::'); out.append('')
             i += 1; continue
         if ln.startswith('{{提示|'):
-            flush()
+            flush_pending()
             j = i; buf = [ln]
             while not buf[-1].rstrip().endswith('}}') or buf[-1].rstrip() == '{{提示|':
                 j += 1
@@ -294,7 +378,7 @@ def convert_body(body, title):
             out.append(':::'); out.append('')
             i = j + 1; continue
         if ln.startswith('{{引用|'):
-            flush()
+            flush_pending()
             j = i; buf = [ln]
             while not buf[-1].rstrip().endswith('}}'):
                 j += 1; buf.append(lines[j].strip())
@@ -320,7 +404,7 @@ def convert_body(body, title):
         m = re.match(r"^''(.+)''\s*$", ln)
         if m and not ln.startswith("'''''"):
             # 整行斜体=该页的节引言（他页的段落描述同角色）→ tip 容器，板块统一
-            flush()
+            flush_pending()
             out.append('::: tip')
             for seg in sent_split(inline(m.group(1).strip(), title + '/lead'), title + '/lead'):
                 out.append(seg); out.append('')
@@ -328,8 +412,33 @@ def convert_body(body, title):
             i += 1; continue
         if '{{' in ln or '}}' in ln:
             LOG.append(f'{title} 未消费模板行: {ln[:80]}')
-        ensure_big()
-        para.append(inline(ln, title))
+        emit = inline(ln, title)
+        # 背景概述编辑性分章（导读层标题：分段＋分章节标题）
+        if section[0] == '背景概述' and raw:
+            for bt, prefix in BG_SPLIT.get(title, []):
+                if raw.startswith(prefix):
+                    flush_pending()
+                    if small:
+                        out.append('::::'); out.append(''); small = False
+                    ensure_big()
+                    em = H2_EMOJI.get('背景概述', '📜')
+                    out.append('::: center')
+                    out.append(f'### **{bt} {em}**')
+                    out.append(':::'); out.append('')
+                    out.append(':::: card'); out.append('')
+                    small = True
+                    break
+        if ENTRY_PARA.match(emit):
+            flush_pending()
+            flush_bl()
+            if small:
+                out.append('::::'); out.append(''); small = False
+            ensure_big()
+            pending_ep.append(emit)
+        else:
+            flush_pending()
+            ensure_big()
+            para.append(emit)
         i += 1
     close_cards()
     return '\n'.join(out)
@@ -371,6 +480,7 @@ def convert(title, slug):
     head = [
         '::::: card', '',
         f'**{fe} {title}**', '',
+        f'![{title} 框架横幅]({FRAME_IMG[title]})', '',
         f'**复杂度**：{fields["复杂度"].strip()}', '',
         f'**作者**：{fields["作者"].strip()}', '',
     ]
@@ -443,7 +553,7 @@ def build_index():
 
     out_parts += ['---', '', '<a id="框架构成"></a>', '', '::: center',
                   '## **🧩 框架构成**', ':::', '',
-                  ':::: details ' + list_head + '（点击展开）', '']
+                  ':::: card', '', f'**{list_head}**', '']
     for b in bullets:
         out_parts.append('* ' + b); out_parts.append('')
     out_parts += ['::::', '',
@@ -462,6 +572,7 @@ def build_index():
     for t, s in FRAMES:
         f, _ = parse_infobox(io.open(f'{LIB}/{t}.txt', encoding='utf-8').read())
         grid += ['::: card', '',
+                 f'![{t} 框架图]({FRAME_IMG[t]})', '',
                  f'**{FRAME_EMOJI[t]} {t} {f["复杂度"].strip()}**', '']
         for seg in sent_split(f['简介'].strip(), t + '/简介'):
             grid.append(seg.strip()); grid.append('')

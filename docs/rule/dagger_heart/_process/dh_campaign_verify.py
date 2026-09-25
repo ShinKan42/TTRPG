@@ -20,12 +20,13 @@ COLOSSUS = ['“尘海掠空”，波伊', '“巨戕”，埃克力', '“怨�
 SCAFFOLD = re.compile(r'^\{\{(?:规则文本开始|规则翻页|核心规则书|CR/[A-Z0-9]+)\b[^}]*\}\}\s*[　\s]*$')
 
 def norm(s):
-    s = re.sub(r'\s*<br>\s*', '<br>', s)
+    s = re.sub(r'\s*<br>\s*', '', s)
     s = re.sub(r'\s+', '', s)
     return s
 
 def strip_fmt(s):
     s = re.sub(r'<br\s*/?>', ' <br> ', s)
+    s = re.sub(r'\[\[文件:巨像地图\.png[^\]]*\]\]', '', s)
     s = re.sub(r'\[\[文件:([^|\]]+)(?:\|[^\]]*)?\]\]', r'图：\1（灰机）', s)
     s = re.sub(r'\[\[([^]|]+)(?:\|[^]]+)?\]\]', r'\1', s)
     s = re.sub(r'<ref[^>]*>(.*?)</ref>', lambda m: '（注：' + m.group(1).strip().rstrip('。') + '）', s, flags=re.S)
@@ -38,6 +39,7 @@ def strip_fmt(s):
     return s
 
 def strip_md(s):
+    s = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', s)              # 图片（纯呈现）
     s = re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', s)          # 链接→文字
     s = re.sub(r'\*\*\*(.+?)\*\*\*', r'\1', s)
     s = re.sub(r'\*\*(.+?)\*\*', r'\1', s)
@@ -149,6 +151,14 @@ def source_chunks(src):
 
 def output_chunks(md, title=''):
     """产出页 → 同构文本块流（frontmatter/容器壳/分隔线/导航块剔除；tip 内容成块）"""
+    EDITORIAL_HEADS = {
+        '泛威克与弱等神祇', '安乡与弑神之墙', '复仇与蛇疫', '面纱花与入侵', '秽野爆发', '危机当前',
+        '五国并立', '同源与分裂', '分歧加深与新版图', '框架基调',
+        '森巫师的传说', '鸻鸟洞穴', '洞窟中的众人',
+        '绝罚与暗影纪元', '煞刻深渊与琥珀港', '星火不灭',
+        '回声谷与城市', '遗赠机', '荒原与通路', '主板与械术师', '遗赠机之怒',
+        '旱土神谕', '诸神旧史', '陨神山与库达玛特', '九骑手与灵魂碎片', '危凌谷', '源晶前哨',
+    }
     md = re.sub(r'\A---\n.*?\n---\n', '', md, flags=re.S)
     lines = md.split('\n')
     chunks = []
@@ -194,6 +204,8 @@ def output_chunks(md, title=''):
                 in_qj = True
                 continue
             in_qj = False
+            if len(m.group(1)) >= 3 and txt in EDITORIAL_HEADS:
+                continue
             if len(m.group(1)) == 2:
                 chunks.append(('h', 2, txt))
             else:
@@ -218,7 +230,10 @@ def output_chunks(md, title=''):
             continue
         if s.startswith('（注：') and s.endswith('）'):
             s = s[3:-1]
-        chunks.append(('t', norm(strip_md(s)))); continue
+        txt = norm(strip_md(s))
+        if txt:
+            chunks.append(('t', txt))
+        continue
     return chunks
 
 def group_runs(stream):
