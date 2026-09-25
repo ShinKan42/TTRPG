@@ -11,7 +11,10 @@ export default defineCollection({
 			text: '📐 设计方法',
 			prefix: 'methods',
 			collapsed: false,
-			items: [{ text: '设计方法总览 📑', link: 'index' }],
+			items: [
+				{ text: '设计方法总览 📑', link: 'index' },
+				{ text: '旅行事件系统 🧭', link: 'traveling_events' },
+			],
 		},
 		{
 			text: '👹 怪物与 NPC',
