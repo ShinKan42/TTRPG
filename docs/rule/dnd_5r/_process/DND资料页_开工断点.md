@@ -69,3 +69,12 @@
 - **域内硬族存量债（术语门 DRY 2026-09-25，各页交付门会拦，随改随修）**：battlefield_actions 15／heres_to_crime 22／partner_system 31／guide 域 41／class 旧 guide.md 29／official 域 4，共 142 行。前两件属并行窗在建流程；guide/official/旧 guide.md 不属本任务域，是否专项清扫列 P 待 DM 圈。
 - **DM 批复 A+B 后的执行与事故（2026-09-25 07:4x，术语会话）**：A（专项清扫）开跑——9 件冷文件 89 行补裹完成、逐行过目裁出 7 处误包并已把守卫修进脚本 v2（SUFFIX_DENY 多字化[感应/员/雇]＋心灵前缀[动摇/与]、回合降软族、`| `表格首列守卫）。**事故：清扫成果未及提交，被并行窗 git 操作整体冲掉**（九件全回裸写态，maluses 首修同难）——并行活跃期的修复必须**当场原子提交**，不能留在工作区。已恢复：maluses 重建 31 对＋原子提交 `f34a87c0`（术语门/断句 PASS）；community/index 修复此前的修复已被并行窗卷入其提交（HEAD 内含，无损）。guide 域/about/combat/roleplay/旧 class guide：**并行窗已接管在跑**（其提交 2dfc13ae 明写「术语门22行反引号(新挂第九门)」，M 列表正是这批文件）——本窗让路不插手；heres_to_crime/partner_system 两件热区债归其交付门拦。B（随改随修）=现行法已立，无需动作。
 - **加强轮回执（2026-09-25 08:1x，DM 令「继续，加强」）**：①教训已立法＝**修复即提交律**入根 AGENTS.md §七多窗并行协作款（并行期修复当场原子提交＋show --stat 核对）。②守卫回归 11 例全过（5 误包点放行＋真术语照裹＋软族/表格首列不拦）。③全域债 142→114：heres_to_crime/about/combat 已被并行窗清讫；余下 faq 22／旧 class guide 27／battlefield 15／partner_system 31／character_creation 4／house_rules 6／roleplay 5／official 4——guide 域仍在并行窗活动区（08:08 同秒批量改动实证），本窗继续让路，债由术语门随交付拦。④**提交哈希更正**：上轮汇报的 f34a87c0 被 `reset HEAD~1` 波及撤销，修复内容由并行窗以原信息重提交为 **b7960dd4**（已验 merge-base 祖先在链，单文件 34+/32- 全等）——查本页修复历史认 b7960dd4，不认 f34a87c0。
+
+
+## 上线态（2026-09-25 08:12 终，职业页首件收官）
+
+- **职业数据页已上线**：https://ttrpg.shinkan42.art/rule/dnd_5r/brief_ref/class.html——12 职业全量：基础面板／资源表（5 级）／特性全录（粗体小节包小卡）／子职 tab（画风+3 级首条特性）／职业资料 details（八职业法术列表+术士超魔法+魔契师魔能祈唤）。侧栏「📚 资料索引→职业 🗡️」组已接线并线上 chunk 验证在位。
+- **质量账**：不全书 PHB24 逐字独立对账 12/12 PASS；严格档审计 0 FAIL；密度真补标 553 mark（未用逃生）；构建 dist 验证 Tabs/details/锚点全通（181 锚 0 断）。
+- **工具链固化**（后续批次复用）：生成器/组装/对账三件在 `F:/Cache/_llm_tmp/`（dnd_class_gen.py／assemble_page.py／dnd_class_verify.py）；源库=`TTRPG/资源库/DND5e/bsq_phb24/`（70 页全+manifest）。
+- **遗留三件**：①邪术师→魔契师全量改：character_maluses 在术语窗热改中挂起（其反引号修复已在 HEAD，译名另换）；团记 Log 直引按照录法不动；②并行 stash `wip-parallel-0805-h3fix-redo` 卷有我的侧栏块——对方 pop 时与在盘重打块撞车，剔除即可；③奇械（Artificer）不在 PHB24 十二职业未录，不全书有页再议。
+- **并行教训（全程 3 次目录被清+3 次部署隔离舞+侧栏被 stash 卷走一次）**：未跟踪新页每个关键步骤前先仓外备份（`F:/Cache/_llm_tmp/dnd_page_backup/`＋concurrent_wip_0800/0806）；部署一律走正本一键脚本+隔离舞（备份→检出→部署→恢复→md5 对账，本页 8/8 全 OK）。
